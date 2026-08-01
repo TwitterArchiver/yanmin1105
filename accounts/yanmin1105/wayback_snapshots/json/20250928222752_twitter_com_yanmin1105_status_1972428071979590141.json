@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1972424521681707193",
+    "created_at": "2025-09-28T22:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T23:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972428071979590141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879338554511495168",
+          "start": 0,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972428071979590141",
+    "in_reply_to_user_id": "1879338554511495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972424521681707193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAshirasu_1226 建议家里请个哈基高（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1972424521681707193",
+        "created_at": "2025-09-28T22:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T23:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972428071979590141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972428071979590141",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972424521681707193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 建议家里请个哈基高（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879338554511495168",
+        "conversation_id": "1972424521681707193",
+        "created_at": "2025-09-28T22:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T23:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972424521681707193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972424521681707193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（哈基米佛南南北豆豆～）（阿吉噶哈椰龙龙奶龙～）\n（哈基基米佛南南北豆豆～）（阿西噶喝椰龙龙奶龙～）\n（曼波）曼波欧麻吉利曼波～打不打不也打也打曼波～哈基米佛南北绿豆～\n阿西噶喝椰果奶龙～曼波曼波欧麻吉利曼波～\n打不打不也打也打曼波～哈基米佛南北绿豆～\n阿西噶喝椰果奶龙～曼波！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨亲爱的笨蛋宝宝 @Cherry_BombY458 丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 331,
+          "like_count": 2512,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1131
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年 Mtf or MtX |翻车顺男|家长党|175cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游入（底力恢复ing）|HRT2024.4.22|自切时间2025.6.10|BA厨小梓，舟厨特蕾西娅|闲散人员一只|永远爱@Takina_Jimato|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/wlKM5cp85J"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️🇹🇼🇯🇵 1989.6.4",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12245,
+          "following_count": 341,
+          "like_count": 1171,
+          "listed_count": 14,
+          "media_count": 193,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/wlKM5cp85J",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}
