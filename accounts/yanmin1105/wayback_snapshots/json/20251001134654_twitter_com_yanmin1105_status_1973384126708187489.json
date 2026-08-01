@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1973384126708187489",
+    "created_at": "2025-10-01T13:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T14:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973384126708187489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904539885769457665",
+          "start": 3,
+          "username": "yanmin1105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/yjfVJ",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/yjfVJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973384126708187489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971853074307436867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanmin1105: 【置顶简介哦】\n墙内好友位🚪28   小号（搞黄）开放🚪68\n更多超级福利内容（有什么我也不知道的那种）🚪188\n当然，老板要是愿意多给也是可以的（嘿嘿）\n支持微信赞赏码或口令红包（）\n付款后记得私信我一下哦 https://t.co/yjfVJ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971853059790938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11t6RobIAAFUnl.jpg",
+        "width": 947
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1971853059488911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11t6QgakAApciD.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1973384126708187489",
+        "created_at": "2025-10-01T13:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973384126708187489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904539885769457665",
+              "start": 3,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/yjfVJ",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/yjfVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973384126708187489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971853074307436867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanmin1105: 【置顶简介哦】\n墙内好友位🚪28   小号（搞黄）开放🚪68\n更多超级福利内容（有什么我也不知道的那种）🚪188\n当然，老板要是愿意多给也是可以的（嘿嘿）\n支持微信赞赏码或口令红包（）\n付款后记得私信我一下哦 https://t.co/yjfVJ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971853059790938112",
+            "3_1971853059488911360"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1971853074307436867",
+        "created_at": "2025-09-27T08:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971853074307436867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjfVJmUokS",
+              "end": 128,
+              "expanded_url": "https://x.com/yanmin1105/status/1971853074307436867/photo/1",
+              "media_key": "3_1971853059790938112",
+              "start": 105,
+              "url": "https://t.co/yjfVJmUokS"
+            },
+            {
+              "display_url": "pic.x.com/yjfVJmUokS",
+              "end": 128,
+              "expanded_url": "https://x.com/yanmin1105/status/1971853074307436867/photo/1",
+              "media_key": "3_1971853059488911360",
+              "start": 105,
+              "url": "https://t.co/yjfVJmUokS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971853074307436867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1870,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【置顶简介哦】\n墙内好友位🚪28   小号（搞黄）开放🚪68\n更多超级福利内容（有什么我也不知道的那种）🚪188\n当然，老板要是愿意多给也是可以的（嘿嘿）\n支持微信赞赏码或口令红包（）\n付款后记得私信我一下哦 https://t.co/yjfVJmUokS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨亲爱的笨蛋宝宝 @Cherry_BombY458 丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 328,
+          "like_count": 2546,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1144
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

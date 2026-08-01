@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1941436835508650124",
+    "created_at": "2025-07-06T06:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T07:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941745844828635195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804154448215969795",
+          "start": 0,
+          "username": "bushi_8964"
+        },
+        {
+          "end": 28,
+          "id": "1647170304844914689",
+          "start": 12,
+          "username": "DustSwallo15805"
+        },
+        {
+          "end": 38,
+          "id": "1286152429965160448",
+          "start": 29,
+          "username": "ckyf1134"
+        },
+        {
+          "end": 45,
+          "id": "1545277694325116928",
+          "start": 39,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941745844828635195",
+    "in_reply_to_user_id": "1804154448215969795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941740514824552623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi_8964 @DustSwallo15805 @ckyf1134 @yqua_ 正确的，除了万事网联，都不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1941436835508650124",
+        "created_at": "2025-07-06T06:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T07:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941745844828635195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804154448215969795",
+              "start": 0,
+              "username": "bushi_8964"
+            },
+            {
+              "end": 28,
+              "id": "1647170304844914689",
+              "start": 12,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 38,
+              "id": "1286152429965160448",
+              "start": 29,
+              "username": "ckyf1134"
+            },
+            {
+              "end": 45,
+              "id": "1545277694325116928",
+              "start": 39,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941745844828635195",
+        "in_reply_to_user_id": "1804154448215969795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941740514824552623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi_8964 @DustSwallo15805 @ckyf1134 @yqua_ 正确的，除了万事网联，都不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804154448215969795",
+        "conversation_id": "1941436835508650124",
+        "created_at": "2025-07-06T06:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941740514824552623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 26,
+              "id": "1286152429965160448",
+              "start": 17,
+              "username": "ckyf1134"
+            },
+            {
+              "end": 38,
+              "id": "1904539885769457665",
+              "start": 27,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 45,
+              "id": "1545277694325116928",
+              "start": 39,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941740514824552623",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941740209156260252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @ckyf1134 @yanmin1105 @yqua_ 国内银行的外币卡好像不能在国内用外币账户结算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 239,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 629
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "可能是健全b｜坐标天津｜出生于2008年｜喜欢推油们😘｜淡推ing｜成分复杂｜mtf/x｜姐姐:@Moningmeng｜好朋友:@mizuki_bot ｜配偶¿: @DustSwallo15805｜树洞/逃生舱:@aaazbushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "DustSwallo15805"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "aaazbushi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵⛩️ (贴贴bot)",
+        "pinned_tweet_id": "1940454674320207967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941509901546635264/I4rsObRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 933,
+          "like_count": 5114,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 229,
+          "like_count": 16672,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 1230
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T04:13:40.000Z",
+        "description": "我叫涟帆祈雨 印象派人类 或者是沃尔玛购物袋 勿忘我\n//24.12已dets//\n小账&逃生舱 随缘放:@lianfanqiyu\n//语言攻击性致歉 拒绝互骂谢谢配合互骂秒b//无线电小账@BI3BCD//小中子星 @yqua_//生命中有三个对我很重要的人 所以我还活着。如果再也见不到你祝你早午晚安。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "lianfanqiyu"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "BI3BCD"
+              },
+              {
+                "end": 115,
+                "start": 109,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.icu",
+                "end": 23,
+                "expanded_url": "https://yufan.icu",
+                "start": 0,
+                "url": "https://t.co/BVmHUKCRH8"
+              }
+            ]
+          }
+        },
+        "id": "1286152429965160448",
+        "location": "白日梦中",
+        "name": "涟帆祈雨",
+        "pinned_tweet_id": "1823046780977823908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923908126295605248/_zMyPGWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 365,
+          "like_count": 67474,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/BVmHUKCRH8",
+        "username": "ckyf1134",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Analyst｜MTX🏳️‍⚧️｜前世17kfo @ryq59｜笨蛋@cy79p｜主人 @ckyf1134｜好妹妹 @mhtqwq｜唯一指定协议客户@yanmin1105｜互fo寻回中｜#MSI2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 101,
+                "tag": "MSI2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "username": "cy79p"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "ckyf1134"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "yanmin1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是想气死铨酱么🍥（推油寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1748,
+          "like_count": 14149,
+          "listed_count": 5,
+          "media_count": 289,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

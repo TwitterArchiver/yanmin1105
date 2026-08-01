@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2083261560877932962",
+    "created_at": "2026-07-31T19:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083271058262741460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817217302762594304",
+          "start": 0,
+          "username": "chickenwinz33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083271058262741460",
+    "in_reply_to_user_id": "1817217302762594304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083269701610983647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenwinz33 我是好小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2083261560877932962",
+        "created_at": "2026-07-31T19:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083271058262741460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817217302762594304",
+              "start": 0,
+              "username": "chickenwinz33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083271058262741460",
+        "in_reply_to_user_id": "1817217302762594304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083269701610983647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenwinz33 我是好小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817217302762594304",
+        "conversation_id": "2083261560877932962",
+        "created_at": "2026-07-31T19:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083269701610983647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083269701610983647",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083261560877932962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 熬夜坏小孩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 461,
+          "like_count": 4105,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-27T15:16:04.000Z",
+        "description": "MTF",
+        "id": "1817217302762594304",
+        "name": "Good，Chicken wings🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795123817033728/-0DoQ5D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1167,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "chickenwinz33",
+        "verified": false
+      }
+    ]
+  }
+}

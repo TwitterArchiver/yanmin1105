@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2078893885825462629",
+    "created_at": "2026-07-20T16:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079237139800498249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004422466467479552",
+          "start": 0,
+          "username": "Tomf4jr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079237139800498249",
+    "in_reply_to_user_id": "2004422466467479552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079233884730847411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tomf4jr 私聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2078893885825462629",
+        "created_at": "2026-07-20T16:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079237139800498249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004422466467479552",
+              "start": 0,
+              "username": "Tomf4jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079237139800498249",
+        "in_reply_to_user_id": "2004422466467479552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079233884730847411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tomf4jr 私聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004422466467479552",
+        "conversation_id": "2078893885825462629",
+        "created_at": "2026-07-20T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079233884730847411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079233884730847411",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078893885825462629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 怎么买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 459,
+          "like_count": 4071,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 1616
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T05:23:23.000Z",
+        "description": "",
+        "id": "2004422466467479552",
+        "name": "Tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004422924988788736/aOOPLpuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 120,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "Tomf4jr",
+        "verified": false
+      }
+    ]
+  }
+}

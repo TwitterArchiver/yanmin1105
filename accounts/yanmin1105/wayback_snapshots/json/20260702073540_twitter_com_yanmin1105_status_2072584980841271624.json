@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072575468495110627",
+    "created_at": "2026-07-02T07:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072584980841271624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817217302762594304",
+          "start": 0,
+          "username": "chickenwinz33"
+        },
+        {
+          "end": 24,
+          "id": "1545277694325116928",
+          "start": 15,
+          "username": "YongQuan"
+        },
+        {
+          "end": 36,
+          "id": "2058440429100806144",
+          "start": 25,
+          "username": "XUEQIUSuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072584980841271624",
+    "in_reply_to_user_id": "1817217302762594304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072580749065437555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenwinz33 @YongQuan @XUEQIUSuki 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072575468495110627",
+        "created_at": "2026-07-02T07:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072584980841271624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817217302762594304",
+              "start": 0,
+              "username": "chickenwinz33"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 15,
+              "username": "YongQuan"
+            },
+            {
+              "end": 36,
+              "id": "2058440429100806144",
+              "start": 25,
+              "username": "XUEQIUSuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072584980841271624",
+        "in_reply_to_user_id": "1817217302762594304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072580749065437555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenwinz33 @YongQuan @XUEQIUSuki 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817217302762594304",
+        "conversation_id": "2072575468495110627",
+        "created_at": "2026-07-02T07:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072580749065437555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 21,
+              "id": "2058440429100806144",
+              "start": 10,
+              "username": "XUEQIUSuki"
+            },
+            {
+              "end": 33,
+              "id": "1904539885769457665",
+              "start": 22,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072580749065437555",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072575468495110627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @XUEQIUSuki @yanmin1105 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 433,
+          "like_count": 3853,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-27T15:16:04.000Z",
+        "description": "MTF",
+        "id": "1817217302762594304",
+        "name": "Good，Chicken wings🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795123817033728/-0DoQ5D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1151,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "chickenwinz33",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10990,
+          "following_count": 4678,
+          "like_count": 51587,
+          "listed_count": 36,
+          "media_count": 4746,
+          "tweet_count": 15309
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T06:52:10.000Z",
+        "description": "没错，我就是那个棉花娃娃喵\n日常 @Xyliaxka\n大号 @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 0,
+                "url": "https://t.co/iSZPyJBABv"
+              }
+            ]
+          }
+        },
+        "id": "2058440429100806144",
+        "location": "雪球",
+        "name": "球球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065448943845261312/MJ29TuQb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/iSZPyJBABv",
+        "username": "XUEQIUSuki",
+        "verified": false
+      }
+    ]
+  }
+}

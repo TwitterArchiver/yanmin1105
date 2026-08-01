@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2065759356659093904",
+    "created_at": "2026-06-13T11:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065759356659093904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904539885769457665",
+          "start": 3,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065759356659093904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064913843646812645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanmin1105: 销售境外电话卡\n\nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:70CNY\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:140CNY……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064913813514915840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgMLEpakAAhALQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064913813493944320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgMLEkakAAXRAm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064913813498118144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgMLElaQAA2nCE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2065759356659093904",
+        "created_at": "2026-06-13T11:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065759356659093904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904539885769457665",
+              "start": 3,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065759356659093904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913843646812645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanmin1105: 销售境外电话卡\n\nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:70CNY\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:140CNY……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064913813514915840",
+            "3_2064913813493944320",
+            "3_2064913813498118144"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T03:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064913843646812645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbXBcnRqqw",
+              "end": 146,
+              "expanded_url": "https://x.com/yanmin1105/status/2064913843646812645/photo/1",
+              "media_key": "3_2064913813514915840",
+              "start": 123,
+              "url": "https://t.co/bbXBcnRqqw"
+            },
+            {
+              "display_url": "pic.x.com/bbXBcnRqqw",
+              "end": 146,
+              "expanded_url": "https://x.com/yanmin1105/status/2064913843646812645/photo/1",
+              "media_key": "3_2064913813493944320",
+              "start": 123,
+              "url": "https://t.co/bbXBcnRqqw"
+            },
+            {
+              "display_url": "pic.x.com/bbXBcnRqqw",
+              "end": 146,
+              "expanded_url": "https://x.com/yanmin1105/status/2064913843646812645/photo/1",
+              "media_key": "3_2064913813498118144",
+              "start": 123,
+              "url": "https://t.co/bbXBcnRqqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064913843646812645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "销售境外电话卡\n\nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:70CNY\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:140CNY\n特点:内含100HKD储值额，上网套餐较多，流量购买后不过期，上网体验较好，适用于既需要保号也需要部分漫游服务的用户\n\nCTHK上台卡（香港）\n运营商:中国电信香港\n此卡为月租卡，合约期24个月起，需要开卡时缴付1000HKD按金，每月最便宜的套餐98HKD，含有300分钟三地通话时长，13GB高速上网流量，超出后上网限速不限量\n另外可以申请内地副号，每日1HKD\n适用于资金较为充足，上网需求较大的用户，日常使用非常不错\n办理方式:这个我卖不了，有想要的自己去香港告士打道108号18楼门市办理\n\nCTM（澳门）\n运营商:澳门电信\n面额价:100MOP\n售价:103CNY\n特点:没啥特点，就是个澳门号码，带有自选流量\n\n中国电信澳门 港澳5日任用数据卡\n运营商:中国电信澳门\n面额价:50MOP\n售价:44CNY\n特点:仅可在澳门激活，送一个大三巴形状的卡针（还是挺好看的，但是要小心别扎到手）\n五日内用完，不可延长有效期，有10GB高速流量和不限量的低速流量，仅可在港澳使用\n\n以上所有卡除CTHK上台卡和电信五日任用卡外，均为储值卡，充值可以延长号码有效期，自选套餐用量进行使用\nCSL和大湾区蓝卡有大量现货，下单后快速发出\n\n另有giffgaff空卡板销售，50/张，发货速度视库存情况决定，可能需要等待\n\n所有商品挂信包邮，选好想要的商品后以口令红包形式支付，然后把收货方式发给我"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 27683,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "销售境外电话卡\n\nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:70CNY\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:140CNY https://t.co/bbXBcnRqqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 423,
+          "like_count": 3643,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1465
+        },
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

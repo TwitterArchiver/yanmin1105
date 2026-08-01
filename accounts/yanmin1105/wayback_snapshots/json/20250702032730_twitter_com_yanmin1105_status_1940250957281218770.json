@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1940060763441279076",
+    "created_at": "2025-07-02T03:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T04:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940250957281218770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730530795977404416",
+          "start": 0,
+          "username": "0712_luotianyi"
+        },
+        {
+          "end": 28,
+          "id": "1693935285577670656",
+          "start": 16,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940250957281218770",
+    "in_reply_to_user_id": "1730530795977404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940109552260923540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0712_luotianyi @MinaseAyano 小蝴蝶也想翻车吗，快翻，翻完给你送补子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1940109552260923540].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1940109552260923540",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1940109552260923540"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1940060763441279076",
+        "created_at": "2025-07-02T03:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T04:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940250957281218770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730530795977404416",
+              "start": 0,
+              "username": "0712_luotianyi"
+            },
+            {
+              "end": 28,
+              "id": "1693935285577670656",
+              "start": 16,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940250957281218770",
+        "in_reply_to_user_id": "1730530795977404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940109552260923540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0712_luotianyi @MinaseAyano 小蝴蝶也想翻车吗，快翻，翻完给你送补子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 236,
+          "like_count": 1385,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 600
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T10:14:40.000Z",
+        "description": "华风夏韵，洛水天依/INFP-A/临床在读/是一只淡青色小蝴蝶/想成为可爱的男孩子/不含药物/跨性别友善🏳️‍⚧️\n\n最爱的姐姐&老婆：@nabyuuta\n好朋友：\n星星@PoorstarRMB\n海鸥姐姐@liki24003\n秋秋@QiuTtang\n绫乃@MinaseAyano\n嫣敏@yanmin1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "nabyuuta"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "PoorstarRMB"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "liki24003"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "QiuTtang"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1730530795977404416",
+        "name": "蝶依（超级无敌小蝴蝶版）",
+        "pinned_tweet_id": "1850438053170725059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911791364083257344/cF7quUTr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1057,
+          "like_count": 16191,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1575
+        },
+        "username": "0712_luotianyi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推负能 & 可爱老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 老婆大人@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "Longyearbyen",
+        "name": "綾乃 🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 1753,
+          "like_count": 6493,
+          "listed_count": 6,
+          "media_count": 552,
+          "tweet_count": 6705
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

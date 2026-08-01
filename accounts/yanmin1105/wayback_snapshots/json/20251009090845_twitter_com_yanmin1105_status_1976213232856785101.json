@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1976193767662288914",
+    "created_at": "2025-10-09T09:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T10:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976213232856785101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744616499657003008",
+          "start": 0,
+          "username": "c17709381285196"
+        },
+        {
+          "end": 30,
+          "id": "1964119102123016192",
+          "start": 17,
+          "username": "yanmin071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976213232856785101",
+    "in_reply_to_user_id": "1744616499657003008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976203486678135082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c17709381285196 @yanmin071105 喜欢可以过门哦(◍•ᴗ•◍)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1976193767662288914",
+        "created_at": "2025-10-09T09:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976213232856785101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744616499657003008",
+              "start": 0,
+              "username": "c17709381285196"
+            },
+            {
+              "end": 30,
+              "id": "1964119102123016192",
+              "start": 17,
+              "username": "yanmin071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976213232856785101",
+        "in_reply_to_user_id": "1744616499657003008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976203486678135082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c17709381285196 @yanmin071105 喜欢可以过门哦(◍•ᴗ•◍)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744616499657003008",
+        "conversation_id": "1976193767662288914",
+        "created_at": "2025-10-09T08:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976203486678135082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 25,
+              "id": "1964119102123016192",
+              "start": 12,
+              "username": "yanmin071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976203486678135082",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976193767662288914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @yanmin071105 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 332,
+          "like_count": 2762,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1187
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T07:06:36.000Z",
+        "description": "大概是友跨顺男也可能大概是mtx 平时会发点暴论，如果你太逆天我会攻击你，随时可以b我",
+        "id": "1744616499657003008",
+        "location": "你的身边",
+        "name": "绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973605273555312643/EVQ5pokW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 902,
+          "like_count": 2754,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1029
+        },
+        "username": "c17709381285196",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T00:11:38.000Z",
+        "description": "您好，喜欢您来！这里是@yanmin1105 的搞黄里推，只放行熟人和已过门槛的老板，过门请见主号置顶推文｜不约线下！暂时未开通其他平台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1964119102123016192",
+        "name": "Yanmin",
+        "pinned_tweet_id": "1964542524581883940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964119403865526272/oiMeVyvX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 2,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 25
+        },
+        "username": "yanmin071105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1928704467899396542",
+    "created_at": "2025-06-02T03:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T04:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929382246579941465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "3.手机",
+          "end": 101,
+          "expanded_url": "http://3.xn--kput3i",
+          "start": 78,
+          "unwound_url": "http://3.xn--kput3i",
+          "url": "https://t.co/jT9PRWQrhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929382246579941465",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928779981728911716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "@kukudejiaxibei 恭喜获得明信片一张喵~\n在6.6日24点私信我以下内容喵\n1.地址信息\n2.收件人(需要是中文或英文,不能有空格或连字符)\nhttps://t.co/jT9PRWQrhZ号(可选,最好要有)\n4.邮政编码(如果有)\n说明:明信片以平信寄出,不保证必然妥投,国内丢失率&lt;1%,平信条查不了~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-06-02T03:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T04:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929382246579941465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "3.手机",
+              "end": 101,
+              "expanded_url": "http://3.xn--kput3i",
+              "start": 78,
+              "unwound_url": "http://3.xn--kput3i",
+              "url": "https://t.co/jT9PRWQrhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929382246579941465",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928779981728911716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@kukudejiaxibei 恭喜获得明信片一张喵~\n在6.6日24点私信我以下内容喵\n1.地址信息\n2.收件人(需要是中文或英文,不能有空格或连字符)\nhttps://t.co/jT9PRWQrhZ号(可选,最好要有)\n4.邮政编码(如果有)\n说明:明信片以平信寄出,不保证必然妥投,国内丢失率&lt;1%,平信条查不了~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-05-31T11:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928779981728911716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928779981728911716",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928704467899396542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@yanmin1105 Meow~🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 187,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 391
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年INFJ+♍️\n是个在军队基地待过的傻逼\n擅长文学艺术类\nsteamID:1151422332\n粥批/米游/supercell\n烹饪/烘焙/调酒\nEN🇺🇸/ESP🇪🇸/CN🇨🇳\n朋友@NataliaIcey2006\n@lyb1007\n涩猫猫@jiang_chua28655\n笨老公@xiyimeng04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "lyb1007"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "jiang_chua28655"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "xiyimeng04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux0J3v"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "山西省晋中市太谷区",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913754050249846784/oWJ2G5vF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 2181,
+          "like_count": 20899,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 5394
+        },
+        "url": "https://t.co/lGi3Ux0J3v",
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

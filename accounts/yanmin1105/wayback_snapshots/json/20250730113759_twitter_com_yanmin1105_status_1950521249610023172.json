@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1950521249610023172",
+    "created_at": "2025-07-30T11:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T12:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950521249610023172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mhtqwq/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/mhtqwq/status/1950377053326369247",
+          "start": 23,
+          "url": "https://t.co/AlSNkZpO2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950521249610023172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950377053326369247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我超，又有新史了，还是一样的逆天，有史一起吃 https://t.co/AlSNkZpO2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76022,
+        "height": 1280,
+        "media_key": "13_1950357148682035200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950357148682035200/img/CoTdap8xF4x-oRSb.jpg",
+        "public_metrics": {
+          "view_count": 151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950357148682035200/vid/avc1/320x568/7CHEBi5FAdIMfUzp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950357148682035200/vid/avc1/480x852/yvJOi-c1i0D4dt5c.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950357148682035200/vid/avc1/720x1280/-ZSJ4N4Yaw4yY3uj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950357148682035200/pl/A_ykiXuSLVsPPs9X.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1950521249610023172",
+        "created_at": "2025-07-30T11:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950521249610023172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/mhtqwq/status/1950377053326369247",
+              "start": 23,
+              "url": "https://t.co/AlSNkZpO2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950521249610023172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950377053326369247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超，又有新史了，还是一样的逆天，有史一起吃 https://t.co/AlSNkZpO2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950357148682035200"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1950377053326369247",
+        "created_at": "2025-07-30T02:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T03:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950377053326369247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6L3Azu2XD",
+              "end": 38,
+              "expanded_url": "https://x.com/mhtqwq/status/1950377053326369247/video/1",
+              "media_key": "13_1950357148682035200",
+              "start": 15,
+              "url": "https://t.co/O6L3Azu2XD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950377053326369247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你jb的到底跟AI说了什么？ https://t.co/O6L3Azu2XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 291,
+          "like_count": 1842,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 766
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜处理破事｜不建政｜Minecraft｜格雷科寄｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet @Andy1782010 @yqua_ @dancingsnow0517",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "Alxiaz_"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Black_Millet"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Andy1782010"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "yqua_"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "dancingsnow0517"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1948322620249719068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 424,
+          "like_count": 7714,
+          "listed_count": 5,
+          "media_count": 978,
+          "tweet_count": 6220
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

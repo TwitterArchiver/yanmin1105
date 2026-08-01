@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1927273983600144815",
+    "created_at": "2025-05-27T11:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T12:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927319730613809204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1914838257491443712",
+          "start": 0,
+          "username": "idaoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927319730613809204",
+    "in_reply_to_user_id": "1914838257491443712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927318395277484528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idaoge 你咋知道我真有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1927273983600144815",
+        "created_at": "2025-05-27T11:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927319730613809204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1914838257491443712",
+              "start": 0,
+              "username": "idaoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927319730613809204",
+        "in_reply_to_user_id": "1914838257491443712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927318395277484528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idaoge 你咋知道我真有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914838257491443712",
+        "conversation_id": "1927273983600144815",
+        "created_at": "2025-05-27T10:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T11:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927318395277484528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927318395277484528",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927273983600144815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 可以让支付宝免费寄个碰一碰贴纸过来，白嫖马云的红包qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 186,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 297
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T00:26:42.000Z",
+        "description": "17 y.o. forever | channel https://t.co/tx5KSAh5yb | ngl https://t.co/Rk6yArHyws",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/daoge_channel",
+                "end": 49,
+                "expanded_url": "https://t.me/daoge_channel",
+                "start": 26,
+                "url": "https://t.co/tx5KSAh5yb"
+              },
+              {
+                "display_url": "ngl.link/daoge",
+                "end": 79,
+                "expanded_url": "https://ngl.link/daoge",
+                "start": 56,
+                "url": "https://t.co/Rk6yArHyws"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daoge.me",
+                "end": 23,
+                "expanded_url": "http://daoge.me",
+                "start": 0,
+                "url": "https://t.co/dKT51CFXAv"
+              }
+            ]
+          }
+        },
+        "id": "1914838257491443712",
+        "location": "Shanghai, China",
+        "name": "daoge",
+        "pinned_tweet_id": "1916135796920258787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914838411476881408/zKVukstU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 106,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/dKT51CFXAv",
+        "username": "idaoge",
+        "verified": false
+      }
+    ]
+  }
+}

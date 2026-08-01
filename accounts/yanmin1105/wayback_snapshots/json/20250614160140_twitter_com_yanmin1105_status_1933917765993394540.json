@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933850626112540764",
+    "created_at": "2025-06-14T16:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933917765993394540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676634704878129152",
+          "start": 0,
+          "username": "zhishengplus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933917765993394540",
+    "in_reply_to_user_id": "1676634704878129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933908577858838571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishengplus 每天持续几分钟（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T16:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933917765993394540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676634704878129152",
+              "start": 0,
+              "username": "zhishengplus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933917765993394540",
+        "in_reply_to_user_id": "1676634704878129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933908577858838571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishengplus 每天持续几分钟（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T15:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933908577858838571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933908577858838571",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933850626112540764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 你这种情况持续多久了🥰（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 216,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 486
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "08 May | 友跨🏳️‍⚧️ | 東莞中學 1902 | 物化政 |\n头像：迎恩门 / 背景：虎门港 |\n校心灵之羽心理社 秘书部部长 |\nLCNA总管理员 | DPS服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lcna.cn",
+                "end": 23,
+                "expanded_url": "https://lcna.cn",
+                "start": 0,
+                "url": "https://t.co/UG2zt9dlsh"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "ZhishengPlus",
+        "pinned_tweet_id": "1859264462358024423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 736,
+          "like_count": 9368,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/UG2zt9dlsh",
+        "username": "zhishengplus",
+        "verified": false
+      }
+    ]
+  }
+}

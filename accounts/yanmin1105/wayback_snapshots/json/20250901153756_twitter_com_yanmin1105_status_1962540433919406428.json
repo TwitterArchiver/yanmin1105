@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962540421395128321"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1962539562514972816",
+    "created_at": "2025-09-01T15:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962540433919406428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vef9QugLcO",
+          "end": 119,
+          "expanded_url": "https://x.com/yanmin1105/status/1962540433919406428/photo/1",
+          "media_key": "3_1962540421395128321",
+          "start": 96,
+          "url": "https://t.co/vef9QugLcO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962540433919406428",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962539562514972816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【B站上海联名借记卡】\n产品名:哔哩哔哩上海联名借记卡\n申请方法:上海分行的有卡网点可以现场在选卡机上开卡，其他网点使用非预制卡（8103102）业务，产品代码102910029\n无需工本费 https://t.co/vef9QugLcO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962540421395128321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYHYKaIAEyzxv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962540421395128321"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1962539562514972816",
+        "created_at": "2025-09-01T15:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962540433919406428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vef9QugLcO",
+              "end": 119,
+              "expanded_url": "https://x.com/yanmin1105/status/1962540433919406428/photo/1",
+              "media_key": "3_1962540421395128321",
+              "start": 96,
+              "url": "https://t.co/vef9QugLcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962540433919406428",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962539562514972816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【B站上海联名借记卡】\n产品名:哔哩哔哩上海联名借记卡\n申请方法:上海分行的有卡网点可以现场在选卡机上开卡，其他网点使用非预制卡（8103102）业务，产品代码102910029\n无需工本费 https://t.co/vef9QugLcO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1962539562514972816",
+        "created_at": "2025-09-01T15:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962539562514972816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962539562514972816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家嚎！\n今天是穷玩卡系列玩卡教程的第一期\n我来讲一下BOC（中国银行）内地开卡建议和教程\n关键词:16+，无需监护人，可开网银，非柜，不一定卡手机号（看地区和网点），可以给一类卡\n产品:\nB站上海联名借记卡\n中铁银通社保联名卡\nMC标准世界/白金卡（世界卡就是所谓的莫奈）\nVISA标准（白）金卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 313,
+          "like_count": 2136,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 943
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

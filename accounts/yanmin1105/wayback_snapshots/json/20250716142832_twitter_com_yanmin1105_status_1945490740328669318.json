@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1945487236318847205",
+    "created_at": "2025-07-16T14:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T15:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945490740328669318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945490740328669318",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945487236318847205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 我干～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1945487236318847205",
+        "created_at": "2025-07-16T14:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945490740328669318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945490740328669318",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945487236318847205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 我干～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "1945487236318847205",
+        "created_at": "2025-07-16T14:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T15:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945487236318847205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cherry_bomby45…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cherry_bomby458/status/1945382651319488593",
+              "start": 21,
+              "url": "https://t.co/kDfK4Y4yiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945487236318847205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945382651319488593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有孩子干活啊 老板出门了 文爱缺钱了 https://t.co/kDfK4Y4yiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 261,
+          "like_count": 1580,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 683
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🔪🩸",
+        "id": "1693935285577670656",
+        "location": "愛してる。",
+        "name": "愛詩 綾乃",
+        "pinned_tweet_id": "1945145758010785814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945145587252248576/DMhH1pg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1824,
+          "like_count": 6873,
+          "listed_count": 6,
+          "media_count": 587,
+          "tweet_count": 6911
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

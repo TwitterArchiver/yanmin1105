@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072673818162897019",
+    "created_at": "2026-07-02T15:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072700331960705230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1769241043067678720",
+          "start": 0,
+          "username": "Redcola11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072700331960705230",
+    "in_reply_to_user_id": "1769241043067678720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072698162914210155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Redcola11 CSL保号便宜啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072673818162897019",
+        "created_at": "2026-07-02T15:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072700331960705230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1769241043067678720",
+              "start": 0,
+              "username": "Redcola11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072700331960705230",
+        "in_reply_to_user_id": "1769241043067678720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072698162914210155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Redcola11 CSL保号便宜啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769241043067678720",
+        "conversation_id": "2072673818162897019",
+        "created_at": "2026-07-02T15:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072698162914210155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072698162914210155",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072673818162897019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 哎，你太冲动啦，除了大湾区蓝有点性价比，其他的都比较操蛋，大湾区蓝卡内地打电话0.35港币，对于有电话需求，这是最值的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 434,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1545
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T05:55:36.000Z",
+        "description": "AI · eSIM · Networks · Linux\nBuilding a digital life without borders.",
+        "id": "1769241043067678720",
+        "location": "Central Region, Singapore",
+        "name": "Vanta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070626798292074496/6cfbaYrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 45,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Redcola11",
+        "verified": false
+      }
+    ]
+  }
+}

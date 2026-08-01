@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069788905755299840"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069788915905843619",
+    "created_at": "2026-06-24T14:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069788915905843619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5JFTuYByCy",
+          "end": 98,
+          "expanded_url": "https://x.com/yanmin1105/status/2069788915905843619/photo/1",
+          "media_key": "3_2069788905755299840",
+          "start": 75,
+          "url": "https://t.co/5JFTuYByCy"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2069788915905843619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小红书上的消息\n新的大湾区蓝卡出现了请在香港启动的贴纸了，不知道是仅供参考的提示还是锁区的规定\n\n总之目前老卡是不受影响的，大量现货，详情见主页置顶 https://t.co/5JFTuYByCy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c999e6a453e9ef72].",
+      "parameter": "geo.place_id",
+      "resource_id": "c999e6a453e9ef72",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c999e6a453e9ef72"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069788905755299840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLleCyeW0AA6Z_K.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069788905755299840"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069788915905843619",
+        "created_at": "2026-06-24T14:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069788915905843619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JFTuYByCy",
+              "end": 98,
+              "expanded_url": "https://x.com/yanmin1105/status/2069788915905843619/photo/1",
+              "media_key": "3_2069788905755299840",
+              "start": 75,
+              "url": "https://t.co/5JFTuYByCy"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2069788915905843619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书上的消息\n新的大湾区蓝卡出现了请在香港启动的贴纸了，不知道是仅供参考的提示还是锁区的规定\n\n总之目前老卡是不受影响的，大量现货，详情见主页置顶 https://t.co/5JFTuYByCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 432,
+          "like_count": 3737,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

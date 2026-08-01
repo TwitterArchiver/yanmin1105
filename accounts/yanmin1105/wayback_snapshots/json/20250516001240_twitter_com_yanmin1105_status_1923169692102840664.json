@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1922961665919787040",
+    "created_at": "2025-05-16T00:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T01:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923169692102840664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768309380108406784",
+          "start": 0,
+          "username": "abaablon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923169692102840664",
+    "in_reply_to_user_id": "1768309380108406784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922961665919787040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abaablon 我去找邸奶奶开小证的时候，我可能也就是六十出头或者更少一点，也开出来了，邸奶奶觉得量表就是个流程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1922961665919787040",
+        "created_at": "2025-05-16T00:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T01:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923169692102840664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768309380108406784",
+              "start": 0,
+              "username": "abaablon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923169692102840664",
+        "in_reply_to_user_id": "1768309380108406784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922961665919787040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abaablon 我去找邸奶奶开小证的时候，我可能也就是六十出头或者更少一点，也开出来了，邸奶奶觉得量表就是个流程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768309380108406784",
+        "conversation_id": "1922961665919787040",
+        "created_at": "2025-05-15T10:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T11:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922961665919787040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922961665919787040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 300,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通常国内开病历或证明需要 Mf 的T分达 65 分或更高，我做了相关题目后(得分67)认为这并不完全科学。许多题目包含不合适的刻板印象(如“我想成为护士”等体现女性化，“喜欢自然科学”“不怎么怕蛇”等体现男性化)。\n我认为不应该以这种传统落后的男性女性气质作为判断标准。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 180,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 238
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "🇨🇳CN，EN/JP/FR学习中🌏语言学Linguistics\n🏳️‍⚧️糕中生MtF🍥泛性恋pansexual\n☔二次元老公『笠っち』❤️\n☮️热爱和平，反对任何极端主义",
+        "id": "1768309380108406784",
+        "location": "kuishuu",
+        "name": "𝑨𝒃𝒂𝒂𝒃𝒍𝒐𝒏🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920043543877619712/eTUDraN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 230,
+          "like_count": 8818,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 727
+        },
+        "username": "abaablon",
+        "verified": false
+      }
+    ]
+  }
+}

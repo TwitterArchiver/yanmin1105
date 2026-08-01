@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2083505675733459003",
+    "created_at": "2026-08-01T12:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083529648328360353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        },
+        {
+          "end": 27,
+          "id": "1693935285577670656",
+          "start": 16,
+          "username": "Ayano_Nya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083529648328360353",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083505675733459003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe @Ayano_Nya_ 做饭这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2083505675733459003",
+        "created_at": "2026-08-01T12:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083529648328360353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            },
+            {
+              "end": 27,
+              "id": "1693935285577670656",
+              "start": 16,
+              "username": "Ayano_Nya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083529648328360353",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083505675733459003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe @Ayano_Nya_ 做饭这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782063289675255808",
+        "conversation_id": "2083505675733459003",
+        "created_at": "2026-08-01T10:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083505675733459003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1693935285577670656",
+              "start": 23,
+              "username": "Ayano_Nya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083505675733459003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你真是个好女孩 你烤口蘑都能反过来把水浪费了 @Ayano_Nya_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 465,
+          "like_count": 4108,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "爱哭鬼。",
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "川蝉🍥",
+        "pinned_tweet_id": "2072158795758027041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1686,
+          "like_count": 43367,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 4902
+        },
+        "url": "",
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 跨圈老资历😇 | 欢迎互fo! | 粘人 | xp是如月桃枝😋 | 全世界最可爱之人&唯一最爱最喜欢的姐姐老婆大人♥️@Kisaragi_Momoe | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5Yz769"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "姐姐腿上",
+        "name": "𝙰𝚢𝚊𝚗𝚘♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081412850858512384/dpIY04ig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 2427,
+          "like_count": 8842,
+          "listed_count": 6,
+          "media_count": 792,
+          "tweet_count": 8994
+        },
+        "url": "https://t.co/1HZl5Yz769",
+        "username": "Ayano_Nya_",
+        "verified": false
+      }
+    ]
+  }
+}

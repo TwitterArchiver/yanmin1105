@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2007468787189072242",
+    "created_at": "2026-01-03T15:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T16:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007468787189072242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sprlumi/status…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/sprlumi/status/2007381786385604702",
+          "start": 104,
+          "url": "https://t.co/5Pbc8METdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007468787189072242",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007381786385604702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/5Pbc8METdd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2007468787189072242",
+        "created_at": "2026-01-03T15:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007468787189072242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sprlumi/status…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/sprlumi/status/2007381786385604702",
+              "start": 104,
+              "url": "https://t.co/5Pbc8METdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007468787189072242",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007381786385604702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/5Pbc8METdd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2007381786385604702",
+        "created_at": "2026-01-03T09:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007381786385604702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720665183188922368",
+              "start": 2,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dontbesadforit…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/dontbesadforit/status/2007380765139710239",
+              "start": 106,
+              "url": "https://t.co/WJzukTrTyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007381786385604702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2458,
+          "like_count": 5,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007380765139710239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ". @grok 参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/WJzukTrTyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 369,
+          "like_count": 3216,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1298
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7089451,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5633,
+          "media_count": 4787546,
+          "tweet_count": 82281370
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "💌 @hobartr6 🐱 @_furryfur_ 🕊️ @JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "hobartr6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "ʟᴜᴍɪ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006701127807676419/e4y_PPIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3293,
+          "following_count": 915,
+          "like_count": 1470,
+          "listed_count": 6,
+          "media_count": 17,
+          "tweet_count": 166
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

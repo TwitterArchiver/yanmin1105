@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973589614079492096",
+        "3_1973589614276517894"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971871295546786113",
+    "created_at": "2025-10-02T03:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T04:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973589638947516759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1673364955171782657",
+          "start": 4,
+          "username": "kxk1388574"
+        },
+        {
+          "end": 36,
+          "id": "1647170304844914689",
+          "start": 20,
+          "username": "DustSwallo15805"
+        },
+        {
+          "end": 51,
+          "id": "1817611520290992128",
+          "start": 37,
+          "username": "youyou5533469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gHy9Th8pzs",
+          "end": 116,
+          "expanded_url": "https://x.com/yanmin1105/status/1973589638947516759/photo/1",
+          "media_key": "3_1973589614079492096",
+          "start": 93,
+          "url": "https://t.co/gHy9Th8pzs"
+        },
+        {
+          "display_url": "pic.x.com/gHy9Th8pzs",
+          "end": 116,
+          "expanded_url": "https://x.com/yanmin1105/status/1973589638947516759/photo/1",
+          "media_key": "3_1973589614276517894",
+          "start": 93,
+          "url": "https://t.co/gHy9Th8pzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973589638947516759",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971871295546786113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "一等奖 @kxk1388574 \n二等奖@DustSwallo15805 @youyou5533469 \n所有参与了互动的，想要手写信封的都可以私信我地址哦，截止到10.7 10:00 https://t.co/gHy9Th8pzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973589614079492096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OZTCebwAAnbtT.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973589614276517894",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OZTDNaIAYPDf1.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973589614079492096",
+            "3_1973589614276517894"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971871295546786113",
+        "created_at": "2025-10-02T03:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T04:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973589638947516759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1673364955171782657",
+              "start": 4,
+              "username": "kxk1388574"
+            },
+            {
+              "end": 36,
+              "id": "1647170304844914689",
+              "start": 20,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 51,
+              "id": "1817611520290992128",
+              "start": 37,
+              "username": "youyou5533469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHy9Th8pzs",
+              "end": 116,
+              "expanded_url": "https://x.com/yanmin1105/status/1973589638947516759/photo/1",
+              "media_key": "3_1973589614079492096",
+              "start": 93,
+              "url": "https://t.co/gHy9Th8pzs"
+            },
+            {
+              "display_url": "pic.x.com/gHy9Th8pzs",
+              "end": 116,
+              "expanded_url": "https://x.com/yanmin1105/status/1973589638947516759/photo/1",
+              "media_key": "3_1973589614276517894",
+              "start": 93,
+              "url": "https://t.co/gHy9Th8pzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973589638947516759",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971871295546786113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "一等奖 @kxk1388574 \n二等奖@DustSwallo15805 @youyou5533469 \n所有参与了互动的，想要手写信封的都可以私信我地址哦，截止到10.7 10:00 https://t.co/gHy9Th8pzs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1971871295546786113",
+        "created_at": "2025-09-27T09:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971871295546786113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971871295546786113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8382,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 45
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【迟来的千fo抽奖】\n\n虽然窝已经1.1kfo了\n但我1000fo还没抽奖呢\n所以\n唔\n开抽！\n\n一等奖\n肯德基（10.9给你点餐或折现35CNY）\n1份\n二等奖\nchiikawa上海旗舰店的小玩意一件\n2份（可折现19.9CNY）\n三等奖\n手写信封一个\n50份\n一二等奖中奖者均可享受五折过门哦\n\n参与方式:关注转发评论点赞\n截止至10.2 10点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨亲爱的笨蛋宝宝 @Cherry_BombY458 丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 327,
+          "like_count": 2554,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1148
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（吃唧唧）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 5360,
+          "like_count": 42967,
+          "listed_count": 14,
+          "media_count": 667,
+          "tweet_count": 5866
+        },
+        "username": "kxk1388574",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜男的｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 479,
+          "like_count": 41698,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 2507
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T17:22:17.000Z",
+        "description": "",
+        "id": "1817611520290992128",
+        "name": "沙克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949829718129401856/fj-xtSo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 1581,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4732
+        },
+        "username": "youyou5533469",
+        "verified": false
+      }
+    ]
+  }
+}

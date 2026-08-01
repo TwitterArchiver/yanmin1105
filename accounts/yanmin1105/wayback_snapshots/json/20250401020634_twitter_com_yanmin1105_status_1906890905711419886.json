@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1906890905711419886",
+    "created_at": "2025-04-01T02:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T03:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906890905711419886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1675133488524328961",
+          "start": 3,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906890905711419886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906743085792731592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kietter387803: 抽奖，关注点赞转发\n特等奖，500元现金口令红包\n一等奖：范思哲同名30毫升×3\n二等奖：50元口令红包×10\n三等奖：一杯茶百道×20"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1906890905711419886",
+        "created_at": "2025-04-01T02:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906890905711419886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1675133488524328961",
+              "start": 3,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906890905711419886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906743085792731592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kietter387803: 抽奖，关注点赞转发\n特等奖，500元现金口令红包\n一等奖：范思哲同名30毫升×3\n二等奖：50元口令红包×10\n三等奖：一杯茶百道×20"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675133488524328961",
+        "conversation_id": "1906743085792731592",
+        "created_at": "2025-03-31T16:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T17:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906743085792731592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906743085792731592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖，关注点赞转发\n特等奖，500元现金口令红包\n一等奖：范思哲同名30毫升×3\n二等奖：50元口令红包×10\n三等奖：一杯茶百道×20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "願夢時無有悲傷姐姐，我永远把你铭记于心@fuyumonya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "fuyumonya"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "1842553734909636687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892928085554827264/9Q1HEcUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6713,
+          "following_count": 1485,
+          "like_count": 24772,
+          "listed_count": 16,
+          "media_count": 2738,
+          "tweet_count": 18782
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

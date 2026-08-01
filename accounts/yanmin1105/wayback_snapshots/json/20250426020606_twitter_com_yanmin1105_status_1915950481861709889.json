@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915776762153472398",
+    "created_at": "2025-04-26T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915950481861709889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678655311006273536",
+          "start": 0,
+          "username": "EimeiLait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915950481861709889",
+    "in_reply_to_user_id": "1678655311006273536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915931207319359536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EimeiLait 目前来说，不管是支局还是所，对于邮票，认为都可以照印刷品处理，我回去翻一下2021版国内邮件处理规则"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_1915931198674898944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpbBRi8bEAATgZS.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915776762153472398",
+        "created_at": "2025-04-26T02:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915950481861709889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915950481861709889",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915931207319359536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait 目前来说，不管是支局还是所，对于邮票，认为都可以照印刷品处理，我回去翻一下2021版国内邮件处理规则"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915931198674898944"
+          ]
+        },
+        "author_id": "1678655311006273536",
+        "conversation_id": "1915776762153472398",
+        "created_at": "2025-04-26T00:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915931207319359536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRMPk5hrMB",
+              "end": 49,
+              "expanded_url": "https://x.com/EimeiLait/status/1915931207319359536/photo/1",
+              "media_key": "3_1915931198674898944",
+              "start": 26,
+              "url": "https://t.co/sRMPk5hrMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915931207319359536",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915776762153472398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 印刷品不能寄邮票啊啊啊啊啊 https://t.co/sRMPk5hrMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 144,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 139
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "Ei. Si. Laitus｜萊・ライ｜BA4RRA｜Lat, Eo, Angl, LingZomina崇明说话 & Sin｜Postcrossing, Photographia, Arknights(Arcn)｜LVNARIA †Iul MMXXIV ｜Ea: @jnmo327284｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "jnmo327284"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EimeiLait",
+                "end": 23,
+                "expanded_url": "http://github.com/EimeiLait",
+                "start": 0,
+                "url": "https://t.co/XrhaULs8l0"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "location": "Terra",
+        "name": "墨落莱 Laitus",
+        "pinned_tweet_id": "1774840045582901374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754530612181078016/-hANndZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 172,
+          "like_count": 16167,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/XrhaULs8l0",
+        "username": "EimeiLait",
+        "verified": false
+      }
+    ]
+  }
+}

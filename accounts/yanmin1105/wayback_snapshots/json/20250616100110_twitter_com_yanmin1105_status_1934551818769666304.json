@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1934516053931171864",
+    "created_at": "2025-06-16T10:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T11:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934551818769666304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730530795977404416",
+          "start": 0,
+          "username": "0712_luotianyi"
+        },
+        {
+          "end": 22,
+          "id": "1545277694325116928",
+          "start": 16,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934551818769666304",
+    "in_reply_to_user_id": "1730530795977404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934551315847487578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0712_luotianyi @yqua_ 正确的，只有中国银行发行的可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934551315847487578].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934551315847487578",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934551315847487578"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1934516053931171864",
+        "created_at": "2025-06-16T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934551818769666304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730530795977404416",
+              "start": 0,
+              "username": "0712_luotianyi"
+            },
+            {
+              "end": 22,
+              "id": "1545277694325116928",
+              "start": 16,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934551818769666304",
+        "in_reply_to_user_id": "1730530795977404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934551315847487578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0712_luotianyi @yqua_ 正确的，只有中国银行发行的可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 220,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 503
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T10:14:40.000Z",
+        "description": "华风夏韵，洛水天依/INFP-A/临床在读/是一只淡青色小蝴蝶/想成为可爱的男孩子/不含药物/跨性别友善🏳️‍⚧️\n\n最爱的姐姐&老婆：@nabyuuta\n好朋友：\n星星@PoorstarRMB\n海鸥姐姐@liki24003\n秋秋@QiuTtang\n绫乃@MinaseAyano\n嫣敏@yanmin1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "nabyuuta"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "PoorstarRMB"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "liki24003"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "QiuTtang"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1730530795977404416",
+        "name": "蝶依（超级无敌小蝴蝶版）",
+        "pinned_tweet_id": "1850438053170725059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911791364083257344/cF7quUTr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 983,
+          "like_count": 14633,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1470
+        },
+        "username": "0712_luotianyi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Free Agent｜Mid & Sup｜MTX🏳️‍⚧️｜前世17kfo @ryq59｜笨蛋@cy79p｜主人 @ckyf1134｜好妹妹@mhtqwq｜唯一指定协议客户@yanmin1105｜互fo寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 38,
+                "username": "ryq59"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "username": "cy79p"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "ckyf1134"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "yanmin1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "name": "你是想气死铨酱么🍥（推油寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1629,
+          "like_count": 12563,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 1545
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

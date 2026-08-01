@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1974842633844584789",
+    "created_at": "2025-10-05T14:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T15:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974852015990927799"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "DBBDA",
+          "probability": 0.879,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841098665001435141",
+          "start": 0,
+          "username": "yinsuecci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974852015990927799",
+    "in_reply_to_user_id": "1841098665001435141",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974842633844584789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinsuecci DBBDA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1974842633844584789",
+        "created_at": "2025-10-05T14:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974852015990927799"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "DBBDA",
+              "probability": 0.879,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841098665001435141",
+              "start": 0,
+              "username": "yinsuecci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974852015990927799",
+        "in_reply_to_user_id": "1841098665001435141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974842633844584789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinsuecci DBBDA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "1974842633844584789",
+        "created_at": "2025-10-05T14:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974842633844584789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974842633844584789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想统计一下\n这几个tag的独立性（χ²）究竟有多高\n依次为ABCD选项，按顺序回复\nLGBTQ：不了解  了解但反对  了解且支持  本人是\n翻墙年龄：12前   12~15  15~18  &gt;18\n学科竞赛：没参加  省奖  国奖  集训队\n心理疾病：没有  未确诊但疑似  确诊未服药  服药\n音游痴迷：没玩过 1~3h/周 3~7h/周 &gt;7h/周"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 326,
+          "like_count": 2640,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1170
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "思念無言，柔情滿庭院\n只想做个蠢蠢的萝莉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mathblog.udclass.top",
+                "end": 23,
+                "expanded_url": "http://www.mathblog.udclass.top/",
+                "start": 0,
+                "url": "https://t.co/2IdjFbFe0b"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "1962081693487264131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841098965305212928/s3dIlbtB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 168,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/2IdjFbFe0b",
+        "username": "yinsuecci",
+        "verified": false
+      }
+    ]
+  }
+}

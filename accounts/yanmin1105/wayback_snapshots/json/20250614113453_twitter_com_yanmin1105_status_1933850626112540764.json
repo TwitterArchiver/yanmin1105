@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933850626112540764",
+    "created_at": "2025-06-14T11:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T12:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933850626112540764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuyouyoumu7106…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/yuyouyoumu71065/status/1933470495216971984",
+          "start": 32,
+          "url": "https://t.co/nZgOk3iaZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933850626112540764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933470495216971984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身体没啥事，不小心吃了4mg补佳乐和12.5mg色谱龙会怎样？ https://t.co/nZgOk3iaZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_1933470492683632640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtURK0wbgAAob0U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933850626112540764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuyouyoumu7106…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yuyouyoumu71065/status/1933470495216971984",
+              "start": 32,
+              "url": "https://t.co/nZgOk3iaZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933850626112540764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933470495216971984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身体没啥事，不小心吃了4mg补佳乐和12.5mg色谱龙会怎样？ https://t.co/nZgOk3iaZJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933470492683632640"
+          ]
+        },
+        "author_id": "1717137809419431936",
+        "conversation_id": "1933470495216971984",
+        "created_at": "2025-06-13T10:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933470495216971984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOcvaUgpyv",
+              "end": 23,
+              "expanded_url": "https://x.com/yuyouyoumu71065/status/1933470495216971984/photo/1",
+              "media_key": "3_1933470492683632640",
+              "start": 0,
+              "url": "https://t.co/eOcvaUgpyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933470495216971984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 536076,
+          "like_count": 4393,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eOcvaUgpyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 214,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 480
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T11:15:38.000Z",
+        "description": "搞抽象的 / 反社会型人格/ 照片锐评大师，什么照片都能评/",
+        "id": "1717137809419431936",
+        "location": "距离＜100m",
+        "name": "无敌麦旋风",
+        "pinned_tweet_id": "1886575288370290861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933457514261360640/p_gBWaZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 8,
+          "like_count": 135,
+          "listed_count": 4,
+          "media_count": 598,
+          "tweet_count": 928
+        },
+        "username": "yuyouyoumu71065",
+        "verified": false
+      }
+    ]
+  }
+}

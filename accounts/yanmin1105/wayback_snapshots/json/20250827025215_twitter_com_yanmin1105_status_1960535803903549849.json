@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1960523534851346457",
+    "created_at": "2025-08-27T02:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T03:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960535803903549849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646848221879365632",
+          "start": 0,
+          "username": "Michisa37677141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960535803903549849",
+    "in_reply_to_user_id": "1646848221879365632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960523534851346457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michisa37677141 快来，我好几个号（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1960523534851346457",
+        "created_at": "2025-08-27T02:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960535803903549849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646848221879365632",
+              "start": 0,
+              "username": "Michisa37677141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960535803903549849",
+        "in_reply_to_user_id": "1646848221879365632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960523534851346457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michisa37677141 快来，我好几个号（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646848221879365632",
+        "conversation_id": "1960523534851346457",
+        "created_at": "2025-08-27T02:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960523534851346457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960523534851346457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要抽象一下 我要设置一个“反向门槛🚪50元”（你必须接受我给你打的50块钱才能加我的好友）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 305,
+          "like_count": 2073,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 887
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T12:10:02.000Z",
+        "description": "-ˋˏ对象ˎˊ- @xingleizhitong ❤️ , MTF🍥，INTP-A🤔，程序媛💻 ，星愿工坊の甩手掌柜⭐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "xingleizhitong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starwish.cat",
+                "end": 23,
+                "expanded_url": "https://starwish.cat",
+                "start": 0,
+                "url": "https://t.co/bXtyOVsGhk"
+              }
+            ]
+          }
+        },
+        "id": "1646848221879365632",
+        "name": "Michisan🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955834378124451842/0yCKvKiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 362,
+          "like_count": 2143,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/bXtyOVsGhk",
+        "username": "Michisa37677141",
+        "verified": false
+      }
+    ]
+  }
+}

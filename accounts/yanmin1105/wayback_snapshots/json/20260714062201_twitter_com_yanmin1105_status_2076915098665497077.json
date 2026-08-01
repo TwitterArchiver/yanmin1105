@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076701452752527361"
+      ],
+      "media_source_tweet_id": [
+        "2076834563544777172"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2076915098665497077",
+    "created_at": "2026-07-14T06:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076915098665497077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sAkV6GCtCU",
+          "end": 69,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2076834563544777172/photo/1",
+          "media_key": "3_2076701452752527361",
+          "start": 46,
+          "url": "https://t.co/sAkV6GCtCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076915098665497077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076834563544777172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 消防员：你*中国文明用语*怎么把自己卡成鲁班锁的？ https://t.co/sAkV6GCtCU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2076701452752527361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHs9-vaIAEMJ5y.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076701452752527361"
+          ],
+          "media_source_tweet_id": [
+            "2076834563544777172"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2076915098665497077",
+        "created_at": "2026-07-14T06:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076915098665497077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAkV6GCtCU",
+              "end": 69,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2076834563544777172/photo/1",
+              "media_key": "3_2076701452752527361",
+              "start": 46,
+              "url": "https://t.co/sAkV6GCtCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076915098665497077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076834563544777172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 消防员：你*中国文明用语*怎么把自己卡成鲁班锁的？ https://t.co/sAkV6GCtCU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076701452752527361"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2076834563544777172",
+        "created_at": "2026-07-14T01:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076834563544777172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAkV6GCtCU",
+              "end": 49,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2076834563544777172/photo/1",
+              "media_key": "3_2076701452752527361",
+              "start": 26,
+              "url": "https://t.co/sAkV6GCtCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076834563544777172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 21864,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "消防员：你*中国文明用语*怎么把自己卡成鲁班锁的？ https://t.co/sAkV6GCtCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 448,
+          "like_count": 4009,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10344,
+          "following_count": 881,
+          "like_count": 30641,
+          "listed_count": 13,
+          "media_count": 2052,
+          "tweet_count": 10324
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

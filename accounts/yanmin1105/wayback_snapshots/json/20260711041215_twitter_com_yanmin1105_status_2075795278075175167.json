@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2075600663870939459",
+    "created_at": "2026-07-11T04:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075795278075175167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490744102979260418",
+          "start": 0,
+          "username": "fenyoulei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075795278075175167",
+    "in_reply_to_user_id": "1490744102979260418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075782968014942626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenyoulei 就挠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2075600663870939459",
+        "created_at": "2026-07-11T04:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075795278075175167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490744102979260418",
+              "start": 0,
+              "username": "fenyoulei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075795278075175167",
+        "in_reply_to_user_id": "1490744102979260418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075782968014942626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenyoulei 就挠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490744102979260418",
+        "conversation_id": "2075600663870939459",
+        "created_at": "2026-07-11T03:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075782968014942626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075782968014942626",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075780101162348797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 不许挠w(ﾟДﾟ)w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 449,
+          "like_count": 3949,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 1576
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T17:47:51.000Z",
+        "description": "性别：ftx酷儿/假性双性🐾布尔玛认证已过❤️\n门槛150好友位＋试看区🍑\n388完整资源区＋好友位\n暂不线下 | 千粉互推💎 |接寄拍推广\n小号@y4QWQ1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "y4QWQ1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baddogy4_bot",
+                "end": 23,
+                "expanded_url": "https://t.me/baddogy4_bot",
+                "start": 0,
+                "url": "https://t.co/h7vzGhUXfq"
+              }
+            ]
+          }
+        },
+        "id": "1490744102979260418",
+        "location": "自助个人视频资源tg群/原味购买链接↓\n",
+        "name": "🔞坏狗y4（唯一主号禁防号）",
+        "pinned_tweet_id": "2066801900050076099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417629548077056/WAUyJyE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71932,
+          "following_count": 964,
+          "like_count": 12482,
+          "listed_count": 176,
+          "media_count": 1450,
+          "tweet_count": 5204
+        },
+        "url": "https://t.co/h7vzGhUXfq",
+        "username": "fenyoulei",
+        "verified": false
+      }
+    ]
+  }
+}

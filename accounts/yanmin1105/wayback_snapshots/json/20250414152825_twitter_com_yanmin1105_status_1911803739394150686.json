@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911803722276986880"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1911803739394150686",
+    "created_at": "2025-04-14T15:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T16:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911803739394150686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ttX36Yp3GF",
+          "end": 56,
+          "expanded_url": "https://x.com/yanmin1105/status/1911803739394150686/photo/1",
+          "media_key": "3_1911803722276986880",
+          "start": 33,
+          "url": "https://t.co/ttX36Yp3GF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911803739394150686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "校服上别跨旗，大概率没有人认识，估计只能诱捕一下同类了（如果有） https://t.co/ttX36Yp3GF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1911803722276986880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GogXWzKW4AA4gLQ.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911803722276986880"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1911803739394150686",
+        "created_at": "2025-04-14T15:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T16:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911803739394150686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttX36Yp3GF",
+              "end": 56,
+              "expanded_url": "https://x.com/yanmin1105/status/1911803739394150686/photo/1",
+              "media_key": "3_1911803722276986880",
+              "start": 33,
+              "url": "https://t.co/ttX36Yp3GF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911803739394150686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "校服上别跨旗，大概率没有人认识，估计只能诱捕一下同类了（如果有） https://t.co/ttX36Yp3GF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 88,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

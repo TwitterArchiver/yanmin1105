@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1921136105078091779"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1920463388527743058",
+    "created_at": "2025-05-10T09:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T10:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921136264591384802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1605554180953104385",
+          "start": 2,
+          "username": "xynmuxi"
+        },
+        {
+          "end": 37,
+          "id": "1693935285577670656",
+          "start": 25,
+          "username": "MinaseAyano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u5W7w1mdWw",
+          "end": 80,
+          "expanded_url": "https://x.com/yanmin1105/status/1921136264591384802/video/1",
+          "media_key": "13_1921136105078091779",
+          "start": 57,
+          "url": "https://t.co/u5W7w1mdWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921136264591384802",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920463388527743058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜@xynmuxi 获得数学之美首日封一套四枚\n@MinaseAyano 获得核工业首日封一套一枚\n注意私信喵 https://t.co/u5W7w1mdWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52286,
+        "height": 1280,
+        "media_key": "13_1921136105078091779",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921136105078091779/img/TI6hxX39Y5PUslFH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921136105078091779/vid/avc1/320x690/kSpwIrJxhElHvUeB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921136105078091779/vid/avc1/480x1036/zk03FRd5wmJccr0Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921136105078091779/vid/avc1/592x1280/UI_A3QGoJiWpZqiD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921136105078091779/pl/XFeuPKKgIQGTn7Hb.m3u8"
+          }
+        ],
+        "width": 592
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920463374145445889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbbQ4QWYAEBCl9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 636,
+        "media_key": "3_1920463374086782976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbbQ4CXQAAGUmZ.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921136105078091779"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1920463388527743058",
+        "created_at": "2025-05-10T09:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921136264591384802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1605554180953104385",
+              "start": 2,
+              "username": "xynmuxi"
+            },
+            {
+              "end": 37,
+              "id": "1693935285577670656",
+              "start": 25,
+              "username": "MinaseAyano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5W7w1mdWw",
+              "end": 80,
+              "expanded_url": "https://x.com/yanmin1105/status/1921136264591384802/video/1",
+              "media_key": "13_1921136105078091779",
+              "start": 57,
+              "url": "https://t.co/u5W7w1mdWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921136264591384802",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920463388527743058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜@xynmuxi 获得数学之美首日封一套四枚\n@MinaseAyano 获得核工业首日封一套一枚\n注意私信喵 https://t.co/u5W7w1mdWw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920463374145445889",
+            "3_1920463374086782976"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1920463388527743058",
+        "created_at": "2025-05-08T12:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920463388527743058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fSSfHs32t",
+              "end": 151,
+              "expanded_url": "https://x.com/yanmin1105/status/1920463388527743058/photo/1",
+              "media_key": "3_1920463374145445889",
+              "start": 128,
+              "url": "https://t.co/4fSSfHs32t"
+            },
+            {
+              "display_url": "pic.x.com/4fSSfHs32t",
+              "end": 151,
+              "expanded_url": "https://x.com/yanmin1105/status/1920463388527743058/photo/1",
+              "media_key": "3_1920463374086782976",
+              "start": 128,
+              "url": "https://t.co/4fSSfHs32t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920463388527743058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6121,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "【这是一条抽奖推文喵】\n开到小证了喵，今天刚好是吃糖五十天诶，庆祝一下，抽个奖吧，周六下午开奖喵\n关注，点赞，评论 抽两只xyn哦\n分别送出\n数学之美首日封一套四枚\n中国核工业创建70周年首日封一套一枚\n（过两天可能会出个今天开小证的详细经过和经验的哦） https://t.co/4fSSfHs32t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1917509770686390688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 170,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 213
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T13:22:11.000Z",
+        "description": "Molly二代目 |🚪39.39 | 常驻沪国 | 沐汐是一只可爱猫娘 | 喜欢@thesnowwinter | 大猫@baize27824770 | 【声乐八级】伪音3人以上免费教学 | 一对一只需66CNY保证教会  | 淘宝小店→https://t.co/xzZiX2Pyq8支持海外购买，拼多多：陌漓小卖部 l 个人介绍↘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "thesnowwinter"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "baize27824770"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "trans.taobao.com",
+                "end": 141,
+                "expanded_url": "http://trans.taobao.com",
+                "start": 118,
+                "url": "https://t.co/xzZiX2Pyq8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cwcu.cn/status",
+                "end": 23,
+                "expanded_url": "http://cwcu.cn/status",
+                "start": 0,
+                "url": "https://t.co/kCY1E91Gny"
+              }
+            ]
+          }
+        },
+        "id": "1605554180953104385",
+        "location": "zh-sh",
+        "name": "沐汐Moox",
+        "pinned_tweet_id": "1888817864834187529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906897633354174464/iYWCSpXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 1621,
+          "like_count": 11846,
+          "listed_count": 3,
+          "media_count": 553,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/kCY1E91Gny",
+        "username": "xynmuxi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推（负能）& 老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 老婆大人@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "猫窝",
+        "name": "綾乃🍋‍🟩",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1538,
+          "like_count": 4745,
+          "listed_count": 6,
+          "media_count": 448,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1913456531393372376",
+    "created_at": "2025-04-19T04:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T05:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913456531393372376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904539885769457665",
+          "start": 3,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913456531393372376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909586091247624275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanmin1105: HRT马上一个月了，在这条推文下抽三只xyn，送出礼品\n一等奖 数学之美首日封一套四枚（可折现16.66）\n二等奖 第九届亚洲冬季运动会首日封一套一枚（可折现8.88）\n三等奖 中国核工业创建七十周年首日封一套一枚（可折现6.66）\n另外还有随机…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1913456531393372376",
+        "created_at": "2025-04-19T04:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T05:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913456531393372376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904539885769457665",
+              "start": 3,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913456531393372376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909586091247624275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanmin1105: HRT马上一个月了，在这条推文下抽三只xyn，送出礼品\n一等奖 数学之美首日封一套四枚（可折现16.66）\n二等奖 第九届亚洲冬季运动会首日封一套一枚（可折现8.88）\n三等奖 中国核工业创建七十周年首日封一套一枚（可折现6.66）\n另外还有随机…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909586091247624275",
+        "created_at": "2025-04-08T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909586091247624275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909586091247624275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3295,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "HRT马上一个月了，在这条推文下抽三只xyn，送出礼品\n一等奖 数学之美首日封一套四枚（可折现16.66）\n二等奖 第九届亚洲冬季运动会首日封一套一枚（可折现8.88）\n三等奖 中国核工业创建七十周年首日封一套一枚（可折现6.66）\n另外还有随机惊喜哦\n有想要明信片的宝宝也可以私信我给我留地址和邮编啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 109,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 88
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

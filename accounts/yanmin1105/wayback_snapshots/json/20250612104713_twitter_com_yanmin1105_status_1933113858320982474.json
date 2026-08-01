@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933043922961641831",
+    "created_at": "2025-06-12T10:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T11:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933113858320982474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 27,
+          "id": "1904873292366036992",
+          "start": 16,
+          "username": "Chiyuyu520"
+        },
+        {
+          "end": 37,
+          "id": "1610822912684003329",
+          "start": 28,
+          "username": "muzijOvO"
+        },
+        {
+          "end": 54,
+          "id": "1838370893187395584",
+          "start": 38,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 65,
+          "id": "1834624042009341952",
+          "start": 55,
+          "username": "szx748591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933113858320982474",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933110206210380252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @Chiyuyu520 @muzijOvO @Cherry_BombY458 @szx748591 杂鱼RA姐姐，运气分我一点喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933043922961641831",
+        "created_at": "2025-06-12T10:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933113858320982474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "1904873292366036992",
+              "start": 16,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 37,
+              "id": "1610822912684003329",
+              "start": 28,
+              "username": "muzijOvO"
+            },
+            {
+              "end": 54,
+              "id": "1838370893187395584",
+              "start": 38,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 65,
+              "id": "1834624042009341952",
+              "start": 55,
+              "username": "szx748591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933113858320982474",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933110206210380252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @Chiyuyu520 @muzijOvO @Cherry_BombY458 @szx748591 杂鱼RA姐姐，运气分我一点喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1933043922961641831",
+        "created_at": "2025-06-12T10:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933110206210380252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 21,
+              "id": "1610822912684003329",
+              "start": 12,
+              "username": "muzijOvO"
+            },
+            {
+              "end": 38,
+              "id": "1838370893187395584",
+              "start": 22,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 49,
+              "id": "1834624042009341952",
+              "start": 39,
+              "username": "szx748591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933110206210380252",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933043922961641831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @muzijOvO @Cherry_BombY458 @szx748591 呜哇谢喵～最近运气真好捏（）\n贴喵૮ ´͈ ᗜ `͈ ა♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 210,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 478
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1973,
+          "like_count": 3188,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 555
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 824,
+          "like_count": 1147,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-05T02:18:15.000Z",
+        "description": "⚠️有涩涩请注意！打牌小猫～，是女孩。mtf跨性别。私信选择性回复，🚪88。只想和有趣的人聊天。接线下。坐标：郑州。宝贝：@LianZimiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "LianZimiao"
+              }
+            ]
+          }
+        },
+        "id": "1610822912684003329",
+        "location": "沐子星球534",
+        "name": "沐子酱",
+        "pinned_tweet_id": "1912806381910106282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839609114743488512/SWdGz84Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22977,
+          "following_count": 534,
+          "like_count": 3910,
+          "listed_count": 75,
+          "media_count": 284,
+          "tweet_count": 1021
+        },
+        "username": "muzijOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 847,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 615
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:04:07.000Z",
+        "description": "",
+        "id": "1834624042009341952",
+        "name": "szx748591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855320332350976000/wzXyGcck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 165,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "szx748591",
+        "verified": false
+      }
+    ]
+  }
+}

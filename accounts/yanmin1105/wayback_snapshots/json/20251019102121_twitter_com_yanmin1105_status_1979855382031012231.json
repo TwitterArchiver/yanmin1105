@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1979509214591750482",
+    "created_at": "2025-10-19T10:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T11:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979855382031012231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "JohnKazuha"
+        },
+        {
+          "end": 28,
+          "id": "1503516796493590530",
+          "start": 12,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979855382031012231",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979846003303018664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnKazuha @orangefish_stew 你纯白嫖（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1979509214591750482",
+        "created_at": "2025-10-19T10:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979855382031012231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "JohnKazuha"
+            },
+            {
+              "end": 28,
+              "id": "1503516796493590530",
+              "start": 12,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979855382031012231",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979846003303018664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnKazuha @orangefish_stew 你纯白嫖（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554286007096590336",
+        "conversation_id": "1979509214591750482",
+        "created_at": "2025-10-19T09:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979846003303018664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            },
+            {
+              "end": 35,
+              "id": "1904539885769457665",
+              "start": 24,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979846003303018664",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979509214591750482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 突然想到之前 @yanmin1105 给我吃过一块😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 350,
+          "like_count": 2926,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1218
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "欢迎来和我一起Van♂ 😋｜酒蒙子｜ex @WandererFly｜高中生牛马麦当劳学兼｜对一切性向性别认同政治认同友好｜\n欢迎扩列喵年龄不能差太多哦｜\n08/179cm/75kg/m/0.5偏1只做0/🏳️‍🌈G xp很杂\n里@JasonKazuha｜\n🔞&⚠️情绪低落警告｜\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "WandererFly"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BGA2X"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John",
+        "pinned_tweet_id": "1952234170568351796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 2771,
+          "like_count": 8254,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/k7YP9BGA2X",
+        "username": "JohnKazuha",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜r18&负能@Orangefishbones",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "Orangefishbones"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7H9LP"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼（单身可撩",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7655,
+          "following_count": 2064,
+          "like_count": 42082,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 6953
+        },
+        "url": "https://t.co/CnV3d7H9LP",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

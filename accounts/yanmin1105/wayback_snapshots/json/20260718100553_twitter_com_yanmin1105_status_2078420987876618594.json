@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078420976753311744"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078377783802433934",
+    "created_at": "2026-07-18T10:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078420987876618594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647170304844914689",
+          "start": 0,
+          "username": "DustSwallo15805"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VGDQnB2Pc6",
+          "end": 44,
+          "expanded_url": "https://x.com/yanmin1105/status/2078420987876618594/photo/1",
+          "media_key": "3_2078420976753311744",
+          "start": 21,
+          "url": "https://t.co/VGDQnB2Pc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078420987876618594",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078377783802433934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DustSwallo15805 陪两个 https://t.co/VGDQnB2Pc6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2078420976753311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgI3c0aAAA6vFC.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078377755700592641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfhjp2bgAEIaUS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078420976753311744"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078377783802433934",
+        "created_at": "2026-07-18T10:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078420987876618594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGDQnB2Pc6",
+              "end": 44,
+              "expanded_url": "https://x.com/yanmin1105/status/2078420987876618594/photo/1",
+              "media_key": "3_2078420976753311744",
+              "start": 21,
+              "url": "https://t.co/VGDQnB2Pc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078420987876618594",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078377783802433934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 陪两个 https://t.co/VGDQnB2Pc6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078377755700592641"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2078377783802433934",
+        "created_at": "2026-07-18T07:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078377783802433934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QRH2jEbFS",
+              "end": 34,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2078377783802433934/photo/1",
+              "media_key": "3_2078377755700592641",
+              "start": 11,
+              "url": "https://t.co/9QRH2jEbFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078377783802433934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ｘｙｎ时尚单品（雾） https://t.co/9QRH2jEbFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 455,
+          "like_count": 4050,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi｜ｂｏｃ是傻逼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078420335880491008/CvTSbAK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 872,
+          "like_count": 87106,
+          "listed_count": 4,
+          "media_count": 734,
+          "tweet_count": 4387
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

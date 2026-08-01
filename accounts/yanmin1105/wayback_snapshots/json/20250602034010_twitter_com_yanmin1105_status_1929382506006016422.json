@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1928704467899396542",
+    "created_at": "2025-06-02T03:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T04:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929382506006016422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807678557826797568",
+          "start": 0,
+          "username": "TeRiri141421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "3.手机",
+          "end": 99,
+          "expanded_url": "http://3.xn--kput3i",
+          "start": 76,
+          "unwound_url": "http://3.xn--kput3i",
+          "url": "https://t.co/jT9PRWQrhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929382506006016422",
+    "in_reply_to_user_id": "1807678557826797568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929340276595884313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "@TeRiri141421 恭喜获得明信片一张喵~\n在6.6日24点私信我以下内容喵\n1.地址信息\n2.收件人(需要是中文或英文,不能有空格或连字符)\nhttps://t.co/jT9PRWQrhZ号(可选,最好要有)\n4.邮政编码(如果有)\n说明:明信片以平信寄出,不保证必然妥投,国内丢失率&lt;1%,平信条查不了~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-06-02T03:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T04:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929382506006016422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807678557826797568",
+              "start": 0,
+              "username": "TeRiri141421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "3.手机",
+              "end": 99,
+              "expanded_url": "http://3.xn--kput3i",
+              "start": 76,
+              "unwound_url": "http://3.xn--kput3i",
+              "url": "https://t.co/jT9PRWQrhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929382506006016422",
+        "in_reply_to_user_id": "1807678557826797568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929340276595884313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@TeRiri141421 恭喜获得明信片一张喵~\n在6.6日24点私信我以下内容喵\n1.地址信息\n2.收件人(需要是中文或英文,不能有空格或连字符)\nhttps://t.co/jT9PRWQrhZ号(可选,最好要有)\n4.邮政编码(如果有)\n说明:明信片以平信寄出,不保证必然妥投,国内丢失率&lt;1%,平信条查不了~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807678557826797568",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-06-02T00:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T01:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929340276595884313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929340276595884313",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928704467899396542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@yanmin1105 WOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 187,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 400
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:32:15.000Z",
+        "description": "阿巴阿巴…… 痴呆ㅇㅁㅇing…… 喵）现在是~蜕变😋 （ 愿望是：无",
+        "id": "1807678557826797568",
+        "location": "Izena-son, Okinawa",
+        "name": "呼咻~（",
+        "pinned_tweet_id": "1821930143771979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 2237,
+          "like_count": 63933,
+          "listed_count": 4,
+          "media_count": 1097,
+          "tweet_count": 9017
+        },
+        "username": "TeRiri141421",
+        "verified": false
+      }
+    ]
+  }
+}

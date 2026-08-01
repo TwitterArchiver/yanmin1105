@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1952304980817478080",
+    "created_at": "2025-08-04T14:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952371342197854664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "any_300"
+        },
+        {
+          "end": 16,
+          "id": "1902568136450424832",
+          "start": 9,
+          "username": "aoim02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952371342197854664",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952370800348004641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@any_300 @aoim02 唔🤔\n（沉思\n不管了\n麦当劳好吃\n香港麦当劳更好吃\n喜欢您来～\n快来超我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1952304980817478080",
+        "created_at": "2025-08-04T14:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952371342197854664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "any_300"
+            },
+            {
+              "end": 16,
+              "id": "1902568136450424832",
+              "start": 9,
+              "username": "aoim02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952371342197854664",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952370800348004641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@any_300 @aoim02 唔🤔\n（沉思\n不管了\n麦当劳好吃\n香港麦当劳更好吃\n喜欢您来～\n快来超我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "1952304980817478080",
+        "created_at": "2025-08-04T14:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952370800348004641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 19,
+              "id": "1902568136450424832",
+              "start": 12,
+              "username": "aoim02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952370800348004641",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952369953925153180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @aoim02 没必要 军粮城这边房子还是值点钱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 295,
+          "like_count": 1939,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 784
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "MtX🏳️‍⚧️｜铨晓妍｜前世@ryq59｜當太陽升起時 就把昨天忘掉. Banner from @Saikin_XiJun｜笨蛋 @cy79p｜reHrt：2025.6.28",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "ryq59"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "Saikin_XiJun"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "username": "cy79p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1951295845795864974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947808335241334784/uuZksHfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 1873,
+          "like_count": 16280,
+          "listed_count": 7,
+          "media_count": 353,
+          "tweet_count": 2365
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "any_300",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD 発達障害 / 人間観察 言語学 撮影 花畑 罠 音ゲー 白猫 Arcaea PTT 10.57 maimai 13,143 hoyoverse / CN EN JP KR / 無言フォロー失礼と、相互フォロー大歓迎 / Telegram group ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A9vj_WSFaT1iN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A9vj_WSFaT1iNWU1",
+                "start": 0,
+                "url": "https://t.co/p1hcclps2c"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "Shangcheng HZH ZJ & SHA CN",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1952050608539873556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950069662638886912/p4gVxjZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 393,
+          "like_count": 3030,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/p1hcclps2c",
+        "username": "aoim02",
+        "verified": true
+      }
+    ]
+  }
+}

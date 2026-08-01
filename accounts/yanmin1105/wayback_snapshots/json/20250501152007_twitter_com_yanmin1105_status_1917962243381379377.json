@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1917957315959115991",
+    "created_at": "2025-05-01T15:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T16:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917962243381379377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917962243381379377",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917957315959115991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1917956582111158272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3zWYNboAAC2Wg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1917957315959115991",
+        "created_at": "2025-05-01T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917962243381379377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917962243381379377",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917957315959115991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917956582111158272"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "1917957315959115991",
+        "created_at": "2025-05-01T15:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917957315959115991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "药娘"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "xyn"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "泰补"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "糖商"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "药商"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "买糖"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "补佳乐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiy3RTc08D",
+              "end": 102,
+              "expanded_url": "https://x.com/quitee123/status/1917957315959115991/photo/1",
+              "media_key": "3_1917956582111158272",
+              "start": 79,
+              "url": "https://t.co/oiy3RTc08D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917957315959115991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "190一盒泰补不算贵吧🤔）\n\n转发评论点赞抽一盒泰补，5月10号开奖，仍然是按照生成随机数方式）\n#药娘 #xyn #泰补 #糖商 #药商 #买糖 #补佳乐 https://t.co/oiy3RTc08D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1917509770686390688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 161,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 180
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 120,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 97,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（泰补190一盒清仓版）",
+        "pinned_tweet_id": "1910999755334832267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8065,
+          "following_count": 2549,
+          "like_count": 25841,
+          "listed_count": 17,
+          "media_count": 619,
+          "tweet_count": 11969
+        },
+        "username": "quitee123",
+        "verified": true
+      }
+    ]
+  }
+}

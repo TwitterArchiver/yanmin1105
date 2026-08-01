@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2063285186809516233",
+    "created_at": "2026-06-07T02:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063451226281513302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686679432604295170",
+          "start": 0,
+          "username": "ha_wthorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063451226281513302",
+    "in_reply_to_user_id": "1686679432604295170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063450545109823598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ha_wthorne 没用过（）\n我也拿不准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2063285186809516233",
+        "created_at": "2026-06-07T02:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063451226281513302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686679432604295170",
+              "start": 0,
+              "username": "ha_wthorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063451226281513302",
+        "in_reply_to_user_id": "1686679432604295170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063450545109823598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ha_wthorne 没用过（）\n我也拿不准"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686679432604295170",
+        "conversation_id": "2063285186809516233",
+        "created_at": "2026-06-07T02:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063450545109823598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063450545109823598",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063285186809516233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 澳门卡不是需要入境实名激活吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 422,
+          "like_count": 3599,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1432
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-02T10:05:03.000Z",
+        "description": "",
+        "id": "1686679432604295170",
+        "name": "相思茗",
+        "pinned_tweet_id": "2059822123682828579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687083413826568193/p8Q5Ftrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 475,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 106
+        },
+        "username": "ha_wthorne",
+        "verified": false
+      }
+    ]
+  }
+}

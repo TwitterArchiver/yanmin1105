@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1905586793174409678",
+    "created_at": "2025-03-28T11:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T12:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905586793174409678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905586793174409678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【此推文长期有效】\n无论各位xyn，mtf，或者是其他吃糖/抑郁的宝宝在生活中，情感上，或者是其他方面遇到了任何的问题与困难，都可以来找我啊。我来帮你们排解一下。\n不要想不开做一些不理智的事情哦(✋･_･)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1905586793174409678",
+        "created_at": "2025-03-28T11:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905586793174409678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905586793174409678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【此推文长期有效】\n无论各位xyn，mtf，或者是其他吃糖/抑郁的宝宝在生活中，情感上，或者是其他方面遇到了任何的问题与困难，都可以来找我啊。我来帮你们排解一下。\n不要想不开做一些不理智的事情哦(✋･_･)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔 一个无证含糖的 xyn，生日是11.5，一个INFP-T（之前还是ENTP呢），HRT:2025.3.19，一个苦逼高中生，暂时不露脸 是一个快乐的人呢，以帮助别人排解心理问题为使命，欢迎各位xyn前来贴贴（心理问题可以前来咨询哦） 偶尔也会给别人写写文章，人物志（征得同意后放出）",
+        "id": "1904539885769457665",
+        "name": "嫣敏🍥",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

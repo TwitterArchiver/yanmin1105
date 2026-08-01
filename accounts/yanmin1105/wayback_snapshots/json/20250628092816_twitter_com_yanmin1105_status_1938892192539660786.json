@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1938805225604980957",
+    "created_at": "2025-06-28T09:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938892192539660786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798598577431990272",
+          "start": 0,
+          "username": "PopoWrld999"
+        },
+        {
+          "end": 27,
+          "id": "1450365861345202177",
+          "start": 13,
+          "username": "MayISeeUAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938892192539660786",
+    "in_reply_to_user_id": "1798598577431990272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938885711547281625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopoWrld999 @MayISeeUAgain 不行的，去网点，半小时解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1938805225604980957",
+        "created_at": "2025-06-28T09:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938892192539660786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798598577431990272",
+              "start": 0,
+              "username": "PopoWrld999"
+            },
+            {
+              "end": 27,
+              "id": "1450365861345202177",
+              "start": 13,
+              "username": "MayISeeUAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938892192539660786",
+        "in_reply_to_user_id": "1798598577431990272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938885711547281625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopoWrld999 @MayISeeUAgain 不行的，去网点，半小时解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798598577431990272",
+        "conversation_id": "1938805225604980957",
+        "created_at": "2025-06-28T09:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938885711547281625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 26,
+              "id": "1450365861345202177",
+              "start": 12,
+              "username": "MayISeeUAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938885711547281625",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938872453331288077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @MayISeeUAgain 这个可以线上办吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 235,
+          "like_count": 1318,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 557
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T06:11:39.000Z",
+        "description": "是popo (づ￣ ³￣)づmtx ｜ 吃药含糖无证🍥 ｜17岁 体重46到47 身高164抑郁焦虑常驻 ptsd｜逃离计划启动！！！｜爱所有温暖的美好的生命-永远.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liam_swrld",
+                "end": 23,
+                "expanded_url": "https://t.me/liam_swrld",
+                "start": 0,
+                "url": "https://t.co/Vgy8aPwPVD"
+              }
+            ]
+          }
+        },
+        "id": "1798598577431990272",
+        "location": "在梦里❤️‍🩹",
+        "name": "popo🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1938451243103621176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938134376627507202/pRtbeajk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 330,
+          "like_count": 9818,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 2700
+        },
+        "url": "https://t.co/Vgy8aPwPVD",
+        "username": "PopoWrld999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T07:39:19.000Z",
+        "description": "补药时间我 (哭脸)｜查成分 / 了解我可以看置顶｜视情况回 fo｜挂个笨蛋😋@NorthLingkongRd ｜你大概已经找到了属于自己的栖身之所吧，我也许还会想你哦？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "windysummer.cloud",
+                "end": 23,
+                "expanded_url": "http://windysummer.cloud",
+                "start": 0,
+                "url": "https://t.co/AqAAX99ZWz"
+              }
+            ]
+          }
+        },
+        "id": "1450365861345202177",
+        "location": "Where Heart Belongs",
+        "name": "这是一只占位符",
+        "pinned_tweet_id": "1938522806737928237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924304236646469632/oCmYGhCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 611,
+          "like_count": 19890,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/AqAAX99ZWz",
+        "username": "MayISeeUAgain",
+        "verified": false
+      }
+    ]
+  }
+}

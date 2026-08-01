@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1975025650118623290",
+    "created_at": "2025-10-06T02:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T03:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975025650118623290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1918938686651035648",
+          "start": 3,
+          "username": "Bueno1623441162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975025650118623290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974756708477276603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bueno1623441162: 顺便欢迎小男娘mtf 帅姐姐找我玩🥺我尊嘟喜欢你们🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1975025650118623290",
+        "created_at": "2025-10-06T02:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T03:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975025650118623290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1918938686651035648",
+              "start": 3,
+              "username": "Bueno1623441162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975025650118623290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974756708477276603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bueno1623441162: 顺便欢迎小男娘mtf 帅姐姐找我玩🥺我尊嘟喜欢你们🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918938686651035648",
+        "conversation_id": "1974755027517661526",
+        "created_at": "2025-10-05T08:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974756708477276603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974756708477276603",
+        "in_reply_to_user_id": "1918938686651035648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974755027517661526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便欢迎小男娘mtf 帅姐姐找我玩🥺我尊嘟喜欢你们🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 329,
+          "like_count": 2645,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1172
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T08:00:54.000Z",
+        "description": "双-1i-4i‖在读女高/entp ‖喜欢会看置顶的人‖在校会带手机但是不经常看‖可陪聊/赛博女友‖学习压力大爱涩涩‖私信可鉴🐔‖长期收小狗‖欢迎投喂❤️\n文媛模式小号@fufu133769",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "fufu133769"
+              }
+            ]
+          }
+        },
+        "id": "1918938686651035648",
+        "location": "0.01km",
+        "name": "芙芙不软fufu✨",
+        "pinned_tweet_id": "1974755027517661526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964280090289983489/A_0Ofz7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 28,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 124
+        },
+        "username": "Bueno1623441162",
+        "verified": false
+      }
+    ]
+  }
+}

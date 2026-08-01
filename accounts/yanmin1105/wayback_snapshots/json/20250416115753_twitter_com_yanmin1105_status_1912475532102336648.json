@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912178645638283574",
+    "created_at": "2025-04-16T11:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T12:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912475532102336648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806972371607474176",
+          "start": 0,
+          "username": "QiongliBAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912475532102336648",
+    "in_reply_to_user_id": "1806972371607474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912178645638283574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiongliBAKA 只要好好活下来,一切还都是有希望的,加油哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912178645638283574",
+        "created_at": "2025-04-16T11:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T12:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912475532102336648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806972371607474176",
+              "start": 0,
+              "username": "QiongliBAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912475532102336648",
+        "in_reply_to_user_id": "1806972371607474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912178645638283574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiongliBAKA 只要好好活下来,一切还都是有希望的,加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1912178644115652608"
+          ]
+        },
+        "author_id": "1806972371607474176",
+        "conversation_id": "1912178645638283574",
+        "created_at": "2025-04-15T16:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T17:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912178645638283574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912178645638283574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相似…。\n方式？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 97,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 65
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊,超级笨蛋，10后（10/06/15）14岁，必回关！想交朋友QAQ！辽宁海城人‖INFP‖可Q，想聊天！有偏执，容易怀疑别人『望涨fo』 |||提问我：https://t.co/KlqPxuz3df||| 全是好朋友（无证含糖🍥）HRT:2025/3/19深柜中｛断糖｝⬇️赞赏码（小声",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiongli2",
+                "end": 109,
+                "expanded_url": "https://ngl.link/qiongli2",
+                "start": 86,
+                "url": "https://t.co/KlqPxuz3df"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/acgbaka233ba/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/acgbaka233ba/status/1903093167500694007?s=46",
+                "start": 0,
+                "url": "https://t.co/44irzZpvFS"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "location": "fufu软软的脑袋上",
+        "name": "是穹璃捏🍥🏳‍⚧",
+        "pinned_tweet_id": "1908503352155267445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908354645971648512/KDoNGfir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1248,
+          "like_count": 8589,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/44irzZpvFS",
+        "username": "QiongliBAKA",
+        "verified": false
+      }
+    ]
+  }
+}

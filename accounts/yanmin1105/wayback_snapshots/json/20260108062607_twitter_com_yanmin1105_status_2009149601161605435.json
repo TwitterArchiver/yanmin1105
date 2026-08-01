@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009149591502110720",
+        "3_2009149591497920519"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2009062371117916372",
+    "created_at": "2026-01-08T06:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009149601161605435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NnSuDKm5eU",
+          "end": 89,
+          "expanded_url": "https://x.com/yanmin1105/status/2009149601161605435/photo/1",
+          "media_key": "3_2009149591502110720",
+          "start": 66,
+          "url": "https://t.co/NnSuDKm5eU"
+        },
+        {
+          "display_url": "pic.x.com/NnSuDKm5eU",
+          "end": 89,
+          "expanded_url": "https://x.com/yanmin1105/status/2009149601161605435/photo/1",
+          "media_key": "3_2009149591497920519",
+          "start": 66,
+          "url": "https://t.co/NnSuDKm5eU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009149601161605435",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009062371117916372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao7 真的是，一群不了解飞行规定的人，在这胡说八道，大部分区域，只要不拉高，都是不需要审批申请的，开机就能飞 https://t.co/NnSuDKm5eU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2009149591502110720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Hu6JYawAAdxr6.jpg",
+        "width": 1156
+      },
+      {
+        "height": 568,
+        "media_key": "3_2009149591497920519",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Hu6JXa0AccZCp.jpg",
+        "width": 1200
+      },
+      {
+        "height": 914,
+        "media_key": "3_2009062358010703872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-GfkfTWMAAL5uZ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009149591502110720",
+            "3_2009149591497920519"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2009062371117916372",
+        "created_at": "2026-01-08T06:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009149601161605435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnSuDKm5eU",
+              "end": 89,
+              "expanded_url": "https://x.com/yanmin1105/status/2009149601161605435/photo/1",
+              "media_key": "3_2009149591502110720",
+              "start": 66,
+              "url": "https://t.co/NnSuDKm5eU"
+            },
+            {
+              "display_url": "pic.x.com/NnSuDKm5eU",
+              "end": 89,
+              "expanded_url": "https://x.com/yanmin1105/status/2009149601161605435/photo/1",
+              "media_key": "3_2009149591497920519",
+              "start": 66,
+              "url": "https://t.co/NnSuDKm5eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009149601161605435",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009062371117916372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 真的是，一群不了解飞行规定的人，在这胡说八道，大部分区域，只要不拉高，都是不需要审批申请的，开机就能飞 https://t.co/NnSuDKm5eU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009062358010703872"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2009062371117916372",
+        "created_at": "2026-01-08T00:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009062371117916372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7WMRqTMAW",
+              "end": 153,
+              "expanded_url": "https://x.com/cuichenghao7/status/2009062371117916372/photo/1",
+              "media_key": "3_2009062358010703872",
+              "start": 130,
+              "url": "https://t.co/B7WMRqTMAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009062371117916372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是网友绘制的中国无人机适飞管制空域一览，蓝色为适飞空域，120m以下无需报备；白色为管制空域，飞行需提前报备获批才能飞行。\n\n各地飞友汇总信息发现，几乎所有一线、新一线城市，都有一个明显的“白色核心区”：党政机关集中区、军事、警务、交通枢纽、大型活动区域。\n\n这说明无人机管理的第一逻辑并不是航空安全，而是政治与秩序安全。\n\n网友们还发现，蓝色多为人烟稀少区域，而很多禁飞区并不是“危险空域”，而是治理不放心空域。说明越是人多，越是要控制。\n\n有网友嘲讽，这不是一张“无人机能飞到哪里”的地图，而是一张哪里被允许拥有视频监督记录权的地图。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 72807,
+          "like_count": 292,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "这是网友绘制的中国无人机适飞管制空域一览，蓝色为适飞空域，120m以下无需报备；白色为管制空域，飞行需提前报备获批才能飞行。\n\n各地飞友汇总信息发现，几乎所有一线、新一线城市，都有一个明显的“白色核心区”：党政机关集中区、军事、警务、交通枢纽、大型活动区域。 https://t.co/B7WMRqTMAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 368,
+          "like_count": 3224,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1306
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72899,
+          "following_count": 538,
+          "like_count": 3660,
+          "listed_count": 245,
+          "media_count": 1609,
+          "tweet_count": 1741
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

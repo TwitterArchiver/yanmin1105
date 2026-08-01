@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914457398108151813"
+      ],
+      "media_source_tweet_id": [
+        "1914457405938934208"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1914624120492577186",
+    "created_at": "2025-04-22T10:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T11:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914624120492577186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685499489493323776",
+          "start": 3,
+          "username": "GuiMengNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WQDWgu4vxI",
+          "end": 118,
+          "expanded_url": "https://x.com/GuiMengNya/status/1914457405938934208/photo/1",
+          "media_key": "3_1914457398108151813",
+          "start": 95,
+          "url": "https://t.co/WQDWgu4vxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914624120492577186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914457405938934208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuiMengNya: 950fo抽奖\n特等奖：原味➕归梦整个人\n一等奖：现金50元*1\n二等奖：蓝粉白aime🉑刷任意机台*5\n三等奖：归梦给你晚安*5\n转贴➕评论➕关注参加抽奖 https://t.co/WQDWgu4vxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1774,
+        "media_key": "3_1914457398108151813",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGE3D_a4AUD900.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914457398108151813"
+          ],
+          "media_source_tweet_id": [
+            "1914457405938934208"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914624120492577186",
+        "created_at": "2025-04-22T10:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T11:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914624120492577186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685499489493323776",
+              "start": 3,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQDWgu4vxI",
+              "end": 118,
+              "expanded_url": "https://x.com/GuiMengNya/status/1914457405938934208/photo/1",
+              "media_key": "3_1914457398108151813",
+              "start": 95,
+              "url": "https://t.co/WQDWgu4vxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914624120492577186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914457405938934208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuiMengNya: 950fo抽奖\n特等奖：原味➕归梦整个人\n一等奖：现金50元*1\n二等奖：蓝粉白aime🉑刷任意机台*5\n三等奖：归梦给你晚安*5\n转贴➕评论➕关注参加抽奖 https://t.co/WQDWgu4vxI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914457398108151813"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914457405938934208",
+        "created_at": "2025-04-21T23:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T00:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914457405938934208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQDWgu4vxI",
+              "end": 102,
+              "expanded_url": "https://x.com/GuiMengNya/status/1914457405938934208/photo/1",
+              "media_key": "3_1914457398108151813",
+              "start": 79,
+              "url": "https://t.co/WQDWgu4vxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914457405938934208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9117,
+          "like_count": 158,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "950fo抽奖\n特等奖：原味➕归梦整个人\n一等奖：现金50元*1\n二等奖：蓝粉白aime🉑刷任意机台*5\n三等奖：归梦给你晚安*5\n转贴➕评论➕关注参加抽奖 https://t.co/WQDWgu4vxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 124,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 110
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "R.I.P./06.11.15/坐标杭州/家长不管党/性别未知mtm/x/f，重度焦虑重度抑郁疑似双向，喜欢机车，不接线下，#INTJ，音游摆烂，不管怎么说都是不折不扣的纯爱党！好妹妹@cyanide110705，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "cyanide110705"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦",
+        "pinned_tweet_id": "1908994587584319596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896591167699169280/G6AHL3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 211,
+          "like_count": 3300,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1009
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

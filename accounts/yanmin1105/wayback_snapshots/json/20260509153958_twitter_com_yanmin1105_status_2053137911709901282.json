@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2047524944280793505",
+    "created_at": "2026-05-09T15:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053137911709901282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "wolfyxbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053137911709901282",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047524944280793505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolfyxbt 舞萌DX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2047524944280793505",
+        "created_at": "2026-05-09T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053137911709901282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "wolfyxbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053137911709901282",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047524944280793505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfyxbt 舞萌DX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516941936971554817",
+        "conversation_id": "2047524944280793505",
+        "created_at": "2026-04-24T03:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047524944280793505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047524944280793505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 299623,
+          "like_count": 536,
+          "quote_count": 7,
+          "reply_count": 630,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "看到此推的所有人，现在立刻马上推荐我一个生活好物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨随缘互fo，只fo眼熟和xyn丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 395,
+          "like_count": 3413,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1392
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "交易所返佣链接 →",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1980990613739970728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852716,
+          "following_count": 7489,
+          "like_count": 53233,
+          "listed_count": 3746,
+          "media_count": 2818,
+          "tweet_count": 21637
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true
+      }
+    ]
+  }
+}

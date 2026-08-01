@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1960481186251464725",
+    "created_at": "2025-08-26T23:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T00:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960487627280540090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689704132242980870",
+          "start": 0,
+          "username": "LuochancyOWO"
+        },
+        {
+          "end": 23,
+          "id": "1545277694325116928",
+          "start": 14,
+          "username": "JDE_Alva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960487627280540090",
+    "in_reply_to_user_id": "1689704132242980870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960487414675464699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuochancyOWO @JDE_Alva 那是万事网联金葵花，我这是普卡，金葵花好像是银色的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1960481186251464725",
+        "created_at": "2025-08-26T23:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T00:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960487627280540090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689704132242980870",
+              "start": 0,
+              "username": "LuochancyOWO"
+            },
+            {
+              "end": 23,
+              "id": "1545277694325116928",
+              "start": 14,
+              "username": "JDE_Alva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960487627280540090",
+        "in_reply_to_user_id": "1689704132242980870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960487414675464699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuochancyOWO @JDE_Alva 那是万事网联金葵花，我这是普卡，金葵花好像是银色的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689704132242980870",
+        "conversation_id": "1960481186251464725",
+        "created_at": "2025-08-26T23:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T00:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960487414675464699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 21,
+              "id": "1545277694325116928",
+              "start": 12,
+              "username": "JDE_Alva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960487414675464699",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960481186251464725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @JDE_Alva 这卡好像没有账户管理费减免\n账户未达标一个月180（\n如果没有减免死也不要这卡\n虽然我有减免（不是账户达标）\n（沟槽的ADVX还在追我）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 305,
+          "like_count": 2072,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 884
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T18:23:59.000Z",
+        "description": "🤔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luochancy.com",
+                "end": 23,
+                "expanded_url": "http://luochancy.com",
+                "start": 0,
+                "url": "https://t.co/LseLDmi9Iu"
+              }
+            ]
+          }
+        },
+        "id": "1689704132242980870",
+        "location": "一个不为人知的地方",
+        "name": "洛寒兮Luochancy",
+        "pinned_tweet_id": "1713698511844430018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724063864638275584/nJo1Y62G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1198,
+          "like_count": 3075,
+          "listed_count": 3,
+          "media_count": 722,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/LseLDmi9Iu",
+        "username": "LuochancyOWO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Coach｜MtX🏳️‍⚧️｜Inherited from @ryq59｜Powered by @Lx_Lacie｜Banner from @SaiKin_XiJun｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 38,
+                "username": "ryq59"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Lx_Lacie"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "SaiKin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1959416277749080374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 1992,
+          "like_count": 17739,
+          "listed_count": 9,
+          "media_count": 398,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      }
+    ]
+  }
+}

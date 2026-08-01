@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2082346354576077142",
+    "created_at": "2026-07-29T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082446849911492642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002460581056688128",
+          "start": 0,
+          "username": "canesalt_G_Oath"
+        },
+        {
+          "end": 27,
+          "id": "1830213377052037120",
+          "start": 17,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082446849911492642",
+    "in_reply_to_user_id": "2002460581056688128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082360426424049804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canesalt_G_Oath @jiu_yokki 红桥山姆好像还没开业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2082346354576077142",
+        "created_at": "2026-07-29T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082446849911492642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002460581056688128",
+              "start": 0,
+              "username": "canesalt_G_Oath"
+            },
+            {
+              "end": 27,
+              "id": "1830213377052037120",
+              "start": 17,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082446849911492642",
+        "in_reply_to_user_id": "2002460581056688128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082360426424049804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canesalt_G_Oath @jiu_yokki 红桥山姆好像还没开业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002460581056688128",
+        "conversation_id": "2082346354576077142",
+        "created_at": "2026-07-29T06:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082360426424049804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082360426424049804",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082346354576077142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 红桥么还是梅江会展😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 462,
+          "like_count": 4093,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-20T19:27:13.000Z",
+        "description": "不良習性",
+        "id": "2002460581056688128",
+        "location": "太空",
+        "name": "蔗盐",
+        "pinned_tweet_id": "2069077282116026741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079558594719297537/48igA3uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 229,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "canesalt_G_Oath",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎   互关直fo看成分回",
+        "id": "1830213377052037120",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057855952981016576/b0bOr7uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 137,
+          "like_count": 2011,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2036088201501376722",
+    "created_at": "2026-03-23T17:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T18:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036130134705709067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036130134705709067",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036088201501376722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036088172275486720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjZ6_a0AAb4fq.jpg",
+        "width": 908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036088174347436032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjaCtaQAAI2i0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2036088173697372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjaASbEAA7WFP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1462,
+        "media_key": "3_2036088173881933825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjaA-bQAEA36I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2036088201501376722",
+        "created_at": "2026-03-23T17:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036130134705709067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036130134705709067",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036088201501376722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036088172275486720",
+            "3_2036088174347436032",
+            "3_2036088173697372160",
+            "3_2036088173881933825"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2036088201501376722",
+        "created_at": "2026-03-23T14:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036088201501376722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 137,
+              "id": "1368897611672018953",
+              "start": 127,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088172275486720",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            },
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088174347436032",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            },
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088173697372160",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            },
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088173881933825",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036088201501376722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1746,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第一弹！\n揪3个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/RTX4090/5090PRO模型钥匙扣（风扇可转）/投资铀条 随机发\n总计将抽出不少于30份奖品\n开奖时间为：2026年3月25日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与 https://t.co/IGNXLfBWuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 385,
+          "like_count": 3290,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1358
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6333,
+          "following_count": 1820,
+          "like_count": 21706,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2155
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

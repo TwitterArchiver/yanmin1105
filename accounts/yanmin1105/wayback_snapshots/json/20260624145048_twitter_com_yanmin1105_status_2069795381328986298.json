@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2069758983163023806",
+    "created_at": "2026-06-24T14:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069795381328986298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1266693365120172032",
+          "start": 0,
+          "username": "JuYanYan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069795381328986298",
+    "in_reply_to_user_id": "1266693365120172032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069758983163023806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuYanYan1 那种小的拓展坞的网口没灯的不少"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2069758928905232384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlCx6AW4AANyBh.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2069758983163023806",
+        "created_at": "2026-06-24T14:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069795381328986298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1266693365120172032",
+              "start": 0,
+              "username": "JuYanYan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069795381328986298",
+        "in_reply_to_user_id": "1266693365120172032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069758983163023806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuYanYan1 那种小的拓展坞的网口没灯的不少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069758928905232384"
+          ]
+        },
+        "author_id": "1266693365120172032",
+        "conversation_id": "2069758983163023806",
+        "created_at": "2026-06-24T12:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069758983163023806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8TfMo05ay",
+              "end": 64,
+              "expanded_url": "https://x.com/JuYanYan1/status/2069758983163023806/photo/1",
+              "media_key": "3_2069758928905232384",
+              "start": 41,
+              "url": "https://t.co/Y8TfMo05ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069758983163023806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我总认为网口上没有led是什么违反传统的事情\n世界上为什么会有不带灯的网口 https://t.co/Y8TfMo05ay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 432,
+          "like_count": 3737,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 1499
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-30T11:30:13.000Z",
+        "description": "猫咪，会玩电路板，偶尔写笨蛋代码\nEE / CS \nPower Electronics | Analog Circuits | Functional Programming | Memory Management | Static Analysis | Language Server",
+        "id": "1266693365120172032",
+        "location": "WuHan, Hubei",
+        "name": "XiangYang",
+        "pinned_tweet_id": "1993323347862868164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567890783537344514/xe1k-ovs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 172,
+          "like_count": 6818,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "JuYanYan1",
+        "verified": false
+      }
+    ]
+  }
+}

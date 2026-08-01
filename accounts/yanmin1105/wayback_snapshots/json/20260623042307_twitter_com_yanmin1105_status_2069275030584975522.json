@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2069092298093425135",
+    "created_at": "2026-06-23T04:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069275030584975522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "106690393",
+          "start": 0,
+          "username": "e0v1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069275030584975522",
+    "in_reply_to_user_id": "106690393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069165696156856435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e0v1a 不能吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2069092298093425135",
+        "created_at": "2026-06-23T04:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069275030584975522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "106690393",
+              "start": 0,
+              "username": "e0v1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069275030584975522",
+        "in_reply_to_user_id": "106690393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069165696156856435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e0v1a 不能吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106690393",
+        "conversation_id": "2069092298093425135",
+        "created_at": "2026-06-22T21:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069165696156856435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069165696156856435",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069092298093425135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 蓝卡能转 esim 么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 432,
+          "like_count": 3728,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-20T10:33:14.000Z",
+        "description": "40+古法IT男一枚\n个人站长 - 创业公司骨干 - 大厂总监 - 创业公司CTO\n真诚分享和沟通，感谢你的关注",
+        "id": "106690393",
+        "location": "BeiJing.CN",
+        "name": "Lester.Wong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/646263449/a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 119,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "e0v1a",
+        "verified": false
+      }
+    ]
+  }
+}

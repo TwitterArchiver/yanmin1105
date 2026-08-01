@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1106203556208480256",
+          "name": "BUMP OF CHICKEN"
+        }
+      }
+    ],
+    "conversation_id": "1948682623972495713",
+    "created_at": "2025-07-25T15:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T16:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948766473272655944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1269442820580016129",
+          "start": 0,
+          "username": "Hikari_Ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948766473272655944",
+    "in_reply_to_user_id": "1269442820580016129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948763004528721960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Ciallo BOC，ICBC，CMB，CGB，平安，明天去开中信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106203556208480256",
+              "name": "BUMP OF CHICKEN"
+            }
+          }
+        ],
+        "conversation_id": "1948682623972495713",
+        "created_at": "2025-07-25T15:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948766473272655944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269442820580016129",
+              "start": 0,
+              "username": "Hikari_Ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948766473272655944",
+        "in_reply_to_user_id": "1269442820580016129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948763004528721960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Ciallo BOC，ICBC，CMB，CGB，平安，明天去开中信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269442820580016129",
+        "conversation_id": "1948682623972495713",
+        "created_at": "2025-07-25T15:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948763004528721960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948763004528721960",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948762761443541316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 你开了哪些行呢👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 277,
+          "like_count": 1715,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 715
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流｜自家笨蛋 @kithiumR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "kithiumR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "location": "天津市同跨科技有限公司",
+        "name": " Hikari.deb 🏳️‍⚧️ #音游小夜猫",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 670,
+          "like_count": 262232,
+          "listed_count": 11,
+          "media_count": 2166,
+          "tweet_count": 52799
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false
+      }
+    ]
+  }
+}

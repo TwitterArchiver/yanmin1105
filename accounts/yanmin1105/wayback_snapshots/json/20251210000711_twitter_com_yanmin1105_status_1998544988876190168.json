@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1998057033493545266",
+    "created_at": "2025-12-10T00:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T01:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998544988876190168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "993493604",
+          "start": 0,
+          "username": "ClockWorkMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998544988876190168",
+    "in_reply_to_user_id": "993493604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998378620080054300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClockWorkMe 大专及以上，我高中"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_1998378613574610944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uqwtzaMAA7yWK.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1998057033493545266",
+        "created_at": "2025-12-10T00:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T01:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998544988876190168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "993493604",
+              "start": 0,
+              "username": "ClockWorkMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998544988876190168",
+        "in_reply_to_user_id": "993493604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998378620080054300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClockWorkMe 大专及以上，我高中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998378613574610944"
+          ]
+        },
+        "author_id": "993493604",
+        "conversation_id": "1998057033493545266",
+        "created_at": "2025-12-09T13:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998378620080054300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnn7kfNpyf",
+              "end": 47,
+              "expanded_url": "https://x.com/ClockWorkMe/status/1998378620080054300/photo/1",
+              "media_key": "3_1998378613574610944",
+              "start": 24,
+              "url": "https://t.co/hnn7kfNpyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998378620080054300",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998057033493545266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 不顺便搞个招行蓝狮子？ https://t.co/hnn7kfNpyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 368,
+          "like_count": 3169,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1271
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-06T17:28:20.000Z",
+        "description": "一个靠出卖写代码的能力换饭钱的家伙，但是技术力可能只有二流甚至三流。\n母语是普通话，英语也算是流利，会两句半吊子日语并且想学到向英语一样流利。\nGitHub: https://t.co/nZbTSvwAfb\nIG: https://t.co/TzSbshybsi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/boris1993",
+                "end": 103,
+                "expanded_url": "http://github.com/boris1993",
+                "start": 80,
+                "url": "https://t.co/nZbTSvwAfb"
+              },
+              {
+                "display_url": "instagram.com/boris.zhao/",
+                "end": 131,
+                "expanded_url": "http://instagram.com/boris.zhao/",
+                "start": 108,
+                "url": "https://t.co/TzSbshybsi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boris1993.com",
+                "end": 23,
+                "expanded_url": "https://www.boris1993.com",
+                "start": 0,
+                "url": "https://t.co/Nlmhu0aOj6"
+              }
+            ]
+          }
+        },
+        "id": "993493604",
+        "name": "boris1993",
+        "pinned_tweet_id": "1889540230723805670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1014585662161342464/QkPWFgJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 289,
+          "like_count": 114238,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 8536
+        },
+        "url": "https://t.co/Nlmhu0aOj6",
+        "username": "ClockWorkMe",
+        "verified": false
+      }
+    ]
+  }
+}

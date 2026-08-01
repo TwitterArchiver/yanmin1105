@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1921406107144081784",
+    "created_at": "2025-05-20T10:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T11:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924779745587429659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703200289397051392",
+          "start": 0,
+          "username": "HizuKuma21815"
+        },
+        {
+          "end": 31,
+          "id": "1838370893187395584",
+          "start": 15,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924779745587429659",
+    "in_reply_to_user_id": "1703200289397051392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924699843135730003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HizuKuma21815 @Cherry_BombY458 中国黄金喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1921406107144081784",
+        "created_at": "2025-05-20T10:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T11:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924779745587429659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703200289397051392",
+              "start": 0,
+              "username": "HizuKuma21815"
+            },
+            {
+              "end": 31,
+              "id": "1838370893187395584",
+              "start": 15,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924779745587429659",
+        "in_reply_to_user_id": "1703200289397051392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924699843135730003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HizuKuma21815 @Cherry_BombY458 中国黄金喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703200289397051392",
+        "conversation_id": "1921406107144081784",
+        "created_at": "2025-05-20T05:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924699843135730003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 28,
+              "id": "1838370893187395584",
+              "start": 12,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924699843135730003",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921406107144081784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @Cherry_BombY458 戒指好漂亮是哪家的，祝幸福呀www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 181,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 271
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T00:13:32.000Z",
+        "description": "还在看谁?",
+        "id": "1703200289397051392",
+        "location": "距离你3km",
+        "name": "小熊喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924701547184979972/b1wTEiso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "HizuKuma21815",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i80SpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i80SpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1910816461029065209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 786,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 516
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

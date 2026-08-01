@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2061036792565088525",
+    "created_at": "2026-05-31T10:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061036792565088525"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061036792565088525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想去澳门立桥开户\n现在网点要求10000+HKD定存一年以上了\n我能开完之后直接提前支取吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2061036792565088525",
+        "created_at": "2026-05-31T10:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061036792565088525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061036792565088525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想去澳门立桥开户\n现在网点要求10000+HKD定存一年以上了\n我能开完之后直接提前支取吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨随缘互fo，只fo眼熟和xyn丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 422,
+          "like_count": 3551,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1421
+        },
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

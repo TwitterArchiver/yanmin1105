@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1939936876443373993",
+    "created_at": "2025-07-01T06:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T07:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939939446469591102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678655311006273536",
+          "start": 0,
+          "username": "EimeiLait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939939446469591102",
+    "in_reply_to_user_id": "1678655311006273536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939936876443373993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EimeiLait 你才知道啊（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1939936876443373993",
+        "created_at": "2025-07-01T06:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939939446469591102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939939446469591102",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939936876443373993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait 你才知道啊（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678655311006273536",
+        "conversation_id": "1939936876443373993",
+        "created_at": "2025-07-01T06:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939936876443373993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939936876443373993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邮储纯煞笔，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 236,
+          "like_count": 1366,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 593
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "Ei. Si. Laitus｜萊・ライ｜BA4RRA｜Lat Eng L.Zomina崇明说话｜Postcrossing Photography ARCAEA maimai Arknights｜LVNARIA †IulMMXXIV ｜Ea:@jnmo327284｜AUTOLIKE MODE on",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "jnmo327284"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eimei-laitus.straw.page",
+                "end": 23,
+                "expanded_url": "http://eimei-laitus.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZNM4L4Uaop"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "location": "Terra",
+        "name": "墨落莱 Laitus",
+        "pinned_tweet_id": "1774840045582901374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754530612181078016/-hANndZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 242,
+          "like_count": 31693,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/ZNM4L4Uaop",
+        "username": "EimeiLait",
+        "verified": false
+      }
+    ]
+  }
+}

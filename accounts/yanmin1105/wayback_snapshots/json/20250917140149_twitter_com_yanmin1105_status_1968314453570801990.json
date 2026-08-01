@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1968174886179967083",
+    "created_at": "2025-09-17T14:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T15:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968314453570801990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4880352669",
+          "start": 0,
+          "username": "Mei_Na730"
+        },
+        {
+          "end": 22,
+          "id": "1858186854526562304",
+          "start": 11,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968314453570801990",
+    "in_reply_to_user_id": "4880352669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968235797632766432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mei_Na730 @meiyujijie 退订（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1968174886179967083",
+        "created_at": "2025-09-17T14:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968314453570801990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4880352669",
+              "start": 0,
+              "username": "Mei_Na730"
+            },
+            {
+              "end": 22,
+              "id": "1858186854526562304",
+              "start": 11,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968314453570801990",
+        "in_reply_to_user_id": "4880352669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968235797632766432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mei_Na730 @meiyujijie 退订（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4880352669",
+        "conversation_id": "1968174886179967083",
+        "created_at": "2025-09-17T08:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968235797632766432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858186854526562304",
+              "start": 0,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968235797632766432",
+        "in_reply_to_user_id": "1858186854526562304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968174886179967083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyujijie td\n是什麼單位？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 328,
+          "like_count": 2393,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1084
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "MtF/BDSMer/是個外在靦腆，內心卻色到不行的M、sub、bottom+調皮的brat/泛性戀",
+        "id": "4880352669",
+        "location": "天天天国地獄国",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "1959912677083656500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965656353978068992/HwOFZBCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 104,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 160
+        },
+        "username": "Mei_Na730",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86257,
+          "following_count": 107,
+          "like_count": 1552,
+          "listed_count": 179,
+          "media_count": 187,
+          "tweet_count": 505
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

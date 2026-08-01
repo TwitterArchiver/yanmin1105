@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1939618908799226011",
+    "created_at": "2025-06-30T14:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T15:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939685565252952348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647170304844914689",
+          "start": 0,
+          "username": "DustSwallo15805"
+        },
+        {
+          "end": 26,
+          "id": "1559906722588000256",
+          "start": 17,
+          "username": "Luo_yiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939685565252952348",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939685341348421901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DustSwallo15805 @Luo_yiyu 如你所见，我还没喝呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1939618908799226011",
+        "created_at": "2025-06-30T14:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939685565252952348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 26,
+              "id": "1559906722588000256",
+              "start": 17,
+              "username": "Luo_yiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939685565252952348",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939685341348421901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @Luo_yiyu 如你所见，我还没喝呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1939618908799226011",
+        "created_at": "2025-06-30T13:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T14:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939685341348421901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 21,
+              "id": "1559906722588000256",
+              "start": 12,
+              "username": "Luo_yiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939685341348421901",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939683935207973167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @Luo_yiyu 所以好喝吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 237,
+          "like_count": 1361,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 590
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 223,
+          "like_count": 15590,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1152
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "不幸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo75lV"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "location": "坟墓",
+        "name": "洛忆雨Yiur",
+        "pinned_tweet_id": "1849381864617971858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933861735183921152/M1wSmPYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 399,
+          "like_count": 5039,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 6012
+        },
+        "url": "https://t.co/A4NOlo75lV",
+        "username": "Luo_yiyu",
+        "verified": false
+      }
+    ]
+  }
+}

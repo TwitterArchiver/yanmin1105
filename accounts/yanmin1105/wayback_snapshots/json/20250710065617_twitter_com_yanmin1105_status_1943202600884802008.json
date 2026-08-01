@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1943152766941302894",
+    "created_at": "2025-07-10T06:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T07:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943202600884802008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943202600884802008",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943152766941302894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 精二可不能卖啊（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943152756748873730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvd3IxJWcAIPul-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943152756790898689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvd3IxTXsAE72DQ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1943152766941302894",
+        "created_at": "2025-07-10T06:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943202600884802008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943202600884802008",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943152766941302894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 精二可不能卖啊（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943152756748873730",
+            "3_1943152756790898689"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1943152766941302894",
+        "created_at": "2025-07-10T03:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T04:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943152766941302894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6K1gCvldgL",
+              "end": 31,
+              "expanded_url": "https://x.com/amecandy_x/status/1943152766941302894/photo/1",
+              "media_key": "3_1943152756748873730",
+              "start": 8,
+              "url": "https://t.co/6K1gCvldgL"
+            },
+            {
+              "display_url": "pic.x.com/6K1gCvldgL",
+              "end": 31,
+              "expanded_url": "https://x.com/amecandy_x/status/1943152766941302894/photo/1",
+              "media_key": "3_1943152756790898689",
+              "start": 8,
+              "url": "https://t.co/6K1gCvldgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943152766941302894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别来沾边啊啊啊 https://t.co/6K1gCvldgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨极度不稳定的重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 243,
+          "like_count": 1494,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 653
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧 // 🏳️‍⚧️💝✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1926501642251202861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 1127,
+          "like_count": 17047,
+          "listed_count": 7,
+          "media_count": 378,
+          "tweet_count": 5241
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

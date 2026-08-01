@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2078118257970602138",
+    "created_at": "2026-07-18T16:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078510263872143790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "367212879",
+          "start": 0,
+          "username": "biggor888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078510263872143790",
+    "in_reply_to_user_id": "367212879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078118257970602138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biggor888 漫游卡看看我主页哦，现货"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2078118217143173121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb1ghYWQAEIRcA.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2078118257970602138",
+        "created_at": "2026-07-18T16:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078510263872143790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "367212879",
+              "start": 0,
+              "username": "biggor888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078510263872143790",
+        "in_reply_to_user_id": "367212879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078118257970602138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biggor888 漫游卡看看我主页哦，现货"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078118217143173121"
+          ]
+        },
+        "author_id": "367212879",
+        "conversation_id": "2078118257970602138",
+        "created_at": "2026-07-17T14:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078118257970602138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBr60xAYeA",
+              "end": 61,
+              "expanded_url": "https://x.com/biggor888/status/2078118257970602138/photo/1",
+              "media_key": "3_2078118217143173121",
+              "start": 38,
+              "url": "https://t.co/wBr60xAYeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078118257970602138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17128,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "身处内地无法入金长桥\n开了 VPN 也不行\n不过。。。。\n用漫游卡就可以了 https://t.co/wBr60xAYeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 455,
+          "like_count": 4054,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-03T15:46:25.000Z",
+        "description": "❤️ I enjoy freedom in a broad sense.\n\n我不是 AI 博主，不要关注我\n\n家里排行第三\n\n资源分享 https://t.co/KPMOsOB8Sr\n\n我开发的快速查电报ID：https://t.co/yuFoRiNSWG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "afffun.com",
+                "end": 91,
+                "expanded_url": "https://afffun.com",
+                "start": 68,
+                "url": "https://t.co/KPMOsOB8Sr"
+              },
+              {
+                "display_url": "telegram.me/greatgorbot",
+                "end": 128,
+                "expanded_url": "https://telegram.me/greatgorbot",
+                "start": 105,
+                "url": "https://t.co/yuFoRiNSWG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afffun.com",
+                "end": 23,
+                "expanded_url": "https://afffun.com",
+                "start": 0,
+                "url": "https://t.co/KPMOsOB8Sr"
+              }
+            ]
+          }
+        },
+        "id": "367212879",
+        "location": "Freedom",
+        "name": "Samgor 三哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033078437020389376/ARz5NsEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6433,
+          "following_count": 817,
+          "like_count": 6848,
+          "listed_count": 46,
+          "media_count": 2879,
+          "tweet_count": 21965
+        },
+        "url": "https://t.co/KPMOsOB8Sr",
+        "username": "biggor888",
+        "verified": true
+      }
+    ]
+  }
+}

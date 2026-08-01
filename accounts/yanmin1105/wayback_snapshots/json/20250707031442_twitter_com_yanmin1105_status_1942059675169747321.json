@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1939962438700446010",
+    "created_at": "2025-07-07T03:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T04:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942059675169747321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859465416961294338",
+          "start": 0,
+          "username": "lynn_yuuka"
+        },
+        {
+          "end": 18,
+          "id": "1545277694325116928",
+          "start": 12,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942059675169747321",
+    "in_reply_to_user_id": "1859465416961294338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942058404958388348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_yuuka @yqua_ 给我开的一日5000"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1939962438700446010",
+        "created_at": "2025-07-07T03:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942059675169747321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859465416961294338",
+              "start": 0,
+              "username": "lynn_yuuka"
+            },
+            {
+              "end": 18,
+              "id": "1545277694325116928",
+              "start": 12,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942059675169747321",
+        "in_reply_to_user_id": "1859465416961294338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942058404958388348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_yuuka @yqua_ 给我开的一日5000"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859465416961294338",
+        "conversation_id": "1939962438700446010",
+        "created_at": "2025-07-07T03:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942058404958388348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 18,
+              "id": "1545277694325116928",
+              "start": 12,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942058404958388348",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939962438700446010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @yqua_ 限额多少？👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 239,
+          "like_count": 1469,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 636
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T05:15:02.000Z",
+        "description": "妹妹（附属账号）：@yukiko_yuuka｜极纯粹的理想主义者｜让我们一起，以理想主义为地基，重新再构筑一个新世界吧！｜主人：@yuuka_lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "yukiko_yuuka"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuuka_lynn"
+              }
+            ]
+          }
+        },
+        "id": "1859465416961294338",
+        "location": "Betelgeuse",
+        "name": "神楽坂 唯音 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1878526874839847412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921936660411162624/wToKf9kH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 152,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 340
+        },
+        "username": "lynn_yuuka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Analyst｜MTX🏳️‍⚧️｜前世17kfo @ryq59｜笨蛋@cy79p｜主人 @ckyf1134｜好妹妹 @mhtqwq｜唯一指定协议客户@yanmin1105｜互fo寻回中｜#MSI2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 101,
+                "tag": "MSI2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "username": "cy79p"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "ckyf1134"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "yanmin1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是想气死铨酱么🍥（推油寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1746,
+          "like_count": 14182,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

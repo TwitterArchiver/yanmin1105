@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2064913843646812645",
+    "created_at": "2026-06-11T09:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064997271381631309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044796931764060160",
+          "start": 0,
+          "username": "YOLOswc2y3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064997271381631309",
+    "in_reply_to_user_id": "2044796931764060160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064968709622661246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YOLOswc2y3 私聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T09:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064997271381631309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044796931764060160",
+              "start": 0,
+              "username": "YOLOswc2y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064997271381631309",
+        "in_reply_to_user_id": "2044796931764060160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064968709622661246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YOLOswc2y3 私聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796931764060160",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T07:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064968709622661246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064968709622661246",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913843646812645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 我要一张，推荐下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 423,
+          "like_count": 3626,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 1455
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T15:22:14.000Z",
+        "description": "10年美股交易经验，没事溜溜！喜欢瞎分享！",
+        "id": "2044796931764060160",
+        "name": "YOLOsw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044798723813965824/t6XmlFI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 366,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 512
+        },
+        "username": "YOLOswc2y3",
+        "verified": false
+      }
+    ]
+  }
+}

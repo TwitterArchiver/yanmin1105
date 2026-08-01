@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055534484976721920"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055534496490078456",
+    "created_at": "2026-05-16T06:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055534496490078456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kduCtEmOAu",
+          "end": 27,
+          "expanded_url": "https://x.com/yanmin1105/status/2055534496490078456/photo/1",
+          "media_key": "3_2055534484976721920",
+          "start": 4,
+          "url": "https://t.co/kduCtEmOAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055534496490078456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "紫框！ https://t.co/kduCtEmOAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055534484976721920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa5uTCaYAA10RD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055534484976721920"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055534496490078456",
+        "created_at": "2026-05-16T06:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055534496490078456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kduCtEmOAu",
+              "end": 27,
+              "expanded_url": "https://x.com/yanmin1105/status/2055534496490078456/photo/1",
+              "media_key": "3_2055534484976721920",
+              "start": 4,
+              "url": "https://t.co/kduCtEmOAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055534496490078456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紫框！ https://t.co/kduCtEmOAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨随缘互fo，只fo眼熟和xyn丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 403,
+          "like_count": 3435,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1398
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062405576819154944"
+      ],
+      "media_source_tweet_id": [
+        "2062405600164647028"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2062549878056931729",
+    "created_at": "2026-06-04T14:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062549878056931729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EVIQs3FIiH",
+          "end": 43,
+          "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+          "media_key": "3_2062405576819154944",
+          "start": 20,
+          "url": "https://t.co/EVIQs3FIiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062549878056931729",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6058
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062405600164647028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: https://t.co/EVIQs3FIiH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2062405576819154944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8i8e0XIAA-M6v.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062405576819154944"
+          ],
+          "media_source_tweet_id": [
+            "2062405600164647028"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2062549878056931729",
+        "created_at": "2026-06-04T14:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062549878056931729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVIQs3FIiH",
+              "end": 43,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+              "media_key": "3_2062405576819154944",
+              "start": 20,
+              "url": "https://t.co/EVIQs3FIiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062549878056931729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6058
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062405600164647028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: https://t.co/EVIQs3FIiH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062405576819154944"
+          ]
+        },
+        "author_id": "89421672",
+        "conversation_id": "2062405600164647028",
+        "created_at": "2026-06-04T05:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062405600164647028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVIQs3FIiH",
+              "end": 23,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+              "media_key": "3_2062405576819154944",
+              "start": 0,
+              "url": "https://t.co/EVIQs3FIiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062405600164647028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3568,
+          "impression_count": 3325849,
+          "like_count": 35497,
+          "quote_count": 553,
+          "reply_count": 2417,
+          "retweet_count": 6058
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EVIQs3FIiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 422,
+          "like_count": 3578,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1429
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636404,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4390,
+          "media_count": 468,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

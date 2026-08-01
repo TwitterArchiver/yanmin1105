@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2064913843646812645",
+    "created_at": "2026-06-11T14:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065078174254518275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963116465072295936",
+          "start": 0,
+          "username": "ShuangLuoLuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065078174254518275",
+    "in_reply_to_user_id": "1963116465072295936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065074752486859185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuangLuoLuo 在增值服务里面，有一个365日100MB的选项"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T14:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065078174254518275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963116465072295936",
+              "start": 0,
+              "username": "ShuangLuoLuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065078174254518275",
+        "in_reply_to_user_id": "1963116465072295936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065074752486859185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuangLuoLuo 在增值服务里面，有一个365日100MB的选项"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963116465072295936",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T14:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065074752486859185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065074752486859185",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913843646812645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 CSL怎么设置每年6元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 423,
+          "like_count": 3627,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 1457
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T05:47:13.000Z",
+        "description": "",
+        "id": "1963116465072295936",
+        "name": "璇洛Zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190798286700544/9KVo0gKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 60,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ShuangLuoLuo",
+        "verified": false
+      }
+    ]
+  }
+}

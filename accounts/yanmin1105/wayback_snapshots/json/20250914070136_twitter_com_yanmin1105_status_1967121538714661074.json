@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1967071775688450559",
+    "created_at": "2025-09-14T07:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967121538714661074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 28,
+          "id": "958587661240950785",
+          "start": 17,
+          "username": "lokesh4002"
+        },
+        {
+          "end": 41,
+          "id": "876768993452806144",
+          "start": 29,
+          "username": "Quan_040221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967121538714661074",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967121311500820595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 @lokesh4002 @Quan_040221 会直接枪毙（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1967071775688450559",
+        "created_at": "2025-09-14T07:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967121538714661074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 28,
+              "id": "958587661240950785",
+              "start": 17,
+              "username": "lokesh4002"
+            },
+            {
+              "end": 41,
+              "id": "876768993452806144",
+              "start": 29,
+              "username": "Quan_040221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967121538714661074",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967121311500820595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 @lokesh4002 @Quan_040221 会直接枪毙（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "1967071775688450559",
+        "created_at": "2025-09-14T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967121311500820595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "958587661240950785",
+              "start": 0,
+              "username": "lokesh4002"
+            },
+            {
+              "end": 24,
+              "id": "876768993452806144",
+              "start": 12,
+              "username": "Quan_040221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967121311500820595",
+        "in_reply_to_user_id": "958587661240950785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967117897417060467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lokesh4002 @Quan_040221 不懂就问 我把我的学生卡给我妈用会影响唔考公嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 322,
+          "like_count": 2363,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1071
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "🍥🏳️‍⚧️｜Mt(X→F)｜我最爱最爱世界上超级无敌好的未婚妻 另一半 老婆 宝宝 这辈子的唯一 要爱一辈子的人 @yanmin1105🥰｜宝宝@2i8oSpJhcU70504🥰｜没事就爱犯点小病｜坐标 天津｜🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "下水道左转包间302",
+        "name": "-4°🍥",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 946,
+          "like_count": 2482,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1002
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T06:28:02.000Z",
+        "description": "不谈政治/福瑞控/简中/繁中👌English👌/地铁打工人/gay/side/不约/可以扩列/需要回关可以私信/里推🔞：@jameshelen114 /telegram:https://t.co/t1D6lCGYRN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "jameshelen114"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jameshelen0324",
+                "end": 108,
+                "expanded_url": "http://t.me/jameshelen0324",
+                "start": 85,
+                "url": "https://t.co/t1D6lCGYRN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/pNjeo7kOkg"
+              }
+            ]
+          }
+        },
+        "id": "958587661240950785",
+        "location": "天津",
+        "name": "James Helen🔜TRT",
+        "pinned_tweet_id": "1964372474587467917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966444404400422912/pRFP5geZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8428,
+          "following_count": 4055,
+          "like_count": 42988,
+          "listed_count": 9,
+          "media_count": 1484,
+          "tweet_count": 18493
+        },
+        "url": "https://t.co/pNjeo7kOkg",
+        "username": "lokesh4002",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-19T11:49:52.000Z",
+        "description": "21-175-85-0.5 S/M都🉑 农牛/tk 控r 超爱叫床 2451252749（不常看，真的不是我不回）",
+        "id": "876768993452806144",
+        "location": "天津 河东",
+        "name": "轩墨不开心",
+        "pinned_tweet_id": "1819431703401676914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697728219628412928/MQmStohF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 310,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 185
+        },
+        "username": "Quan_040221",
+        "verified": false
+      }
+    ]
+  }
+}

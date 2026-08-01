@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1914315612630946138",
+    "created_at": "2025-04-21T14:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T15:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914322284850090260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912314927706157056",
+          "start": 0,
+          "username": "NataliaIcey2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914322284850090260",
+    "in_reply_to_user_id": "1912314927706157056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914322005438107834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NataliaIcey2006 确实，就是刚才就两个选的，看见有人选了个这个，就没过脑子就驳了一下(￢_￢)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1914315612630946138",
+        "created_at": "2025-04-21T14:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914322284850090260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912314927706157056",
+              "start": 0,
+              "username": "NataliaIcey2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914322284850090260",
+        "in_reply_to_user_id": "1912314927706157056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914322005438107834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NataliaIcey2006 确实，就是刚才就两个选的，看见有人选了个这个，就没过脑子就驳了一下(￢_￢)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912314927706157056",
+        "conversation_id": "1914315612630946138",
+        "created_at": "2025-04-21T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914322005438107834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914322005438107834",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914318375981117680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 这是一个选项……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 121,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 106
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T01:19:55.000Z",
+        "description": "致逝去的意识\n曾经她或许不应该是这样的\n@kukudejiaxibei或许\n应该出生就是女生才对吧？\n🏳️‍⚧️🏳️‍🌈\n简中/繁中/华夏语（文言文）/EN/ESP\n友跨/友同\n愿意陪着大家聊天\n希望@kukudejiaxibei这辈子可以手术",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "kukudejiaxibei"
+              }
+            ]
+          }
+        },
+        "id": "1912314927706157056",
+        "name": "Natalia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912315312025825280/xOKDWS7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 248,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "NataliaIcey2006",
+        "verified": false
+      }
+    ]
+  }
+}

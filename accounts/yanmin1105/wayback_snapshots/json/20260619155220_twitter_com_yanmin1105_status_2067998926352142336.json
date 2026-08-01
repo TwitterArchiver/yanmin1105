@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067998911718100992",
+        "3_2067998911739183104"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067998926352142336",
+    "created_at": "2026-06-19T15:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067998926352142336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cNffC9kHYh",
+          "end": 35,
+          "expanded_url": "https://x.com/yanmin1105/status/2067998926352142336/photo/1",
+          "media_key": "3_2067998911718100992",
+          "start": 12,
+          "url": "https://t.co/cNffC9kHYh"
+        },
+        {
+          "display_url": "pic.x.com/cNffC9kHYh",
+          "end": 35,
+          "expanded_url": "https://x.com/yanmin1105/status/2067998926352142336/photo/1",
+          "media_key": "3_2067998911739183104",
+          "start": 12,
+          "url": "https://t.co/cNffC9kHYh"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2067998926352142336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鸟，还有第一个S的12 https://t.co/cNffC9kHYh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c999e6a453e9ef72].",
+      "parameter": "geo.place_id",
+      "resource_id": "c999e6a453e9ef72",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c999e6a453e9ef72"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067998911718100992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMCDbDaEAAdmMI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067998911739183104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMCDbIbwAA76Fd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067998911718100992",
+            "3_2067998911739183104"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067998926352142336",
+        "created_at": "2026-06-19T15:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067998926352142336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNffC9kHYh",
+              "end": 35,
+              "expanded_url": "https://x.com/yanmin1105/status/2067998926352142336/photo/1",
+              "media_key": "3_2067998911718100992",
+              "start": 12,
+              "url": "https://t.co/cNffC9kHYh"
+            },
+            {
+              "display_url": "pic.x.com/cNffC9kHYh",
+              "end": 35,
+              "expanded_url": "https://x.com/yanmin1105/status/2067998926352142336/photo/1",
+              "media_key": "3_2067998911739183104",
+              "start": 12,
+              "url": "https://t.co/cNffC9kHYh"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2067998926352142336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸟，还有第一个S的12 https://t.co/cNffC9kHYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 432,
+          "like_count": 3683,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1470
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

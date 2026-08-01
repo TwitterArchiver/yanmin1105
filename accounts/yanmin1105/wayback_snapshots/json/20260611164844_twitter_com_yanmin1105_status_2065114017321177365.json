@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2064913843646812645",
+    "created_at": "2026-06-11T16:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065114017321177365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1544700414175907840",
+          "start": 0,
+          "username": "kpmoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065114017321177365",
+    "in_reply_to_user_id": "1544700414175907840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065106362842140789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kpmoer 入境才可以激活吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T16:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065114017321177365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1544700414175907840",
+              "start": 0,
+              "username": "kpmoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065114017321177365",
+        "in_reply_to_user_id": "1544700414175907840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065106362842140789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kpmoer 入境才可以激活吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544700414175907840",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-11T16:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065106362842140789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065106362842140789",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913843646812645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 CTM和CTMO都要入境澳门才能激活，除非提供代实名服务（但不太可能），既然要入境，为何不在当地买，挂号的话CTHK蓝卡给出的溢价有点高，CSL又能开eSIM...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 423,
+          "like_count": 3630,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 1459
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-06T15:11:00.000Z",
+        "description": "社恐 | 社交障碍 | ~ | Telegram: {removed} | 用戶名: 蝶铃 / 緒山真尋",
+        "id": "1544700414175907840",
+        "location": "Anywhere",
+        "name": "緒山真尋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761940976753610753/Ep4O5Yo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 990,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 37
+        },
+        "username": "kpmoer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1960661203677798760",
+    "created_at": "2025-08-27T13:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960692270732337606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960692270732337606",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960677524377362749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1960661203677798760",
+        "created_at": "2025-08-27T13:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960692270732337606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960692270732337606",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960677524377362749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "1960661203677798760",
+        "created_at": "2025-08-27T12:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960677524377362749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960677524377362749",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960661203677798760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该说不说 都给我嫣敏挤到哪去了 我要孤立你们！😡("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 306,
+          "like_count": 2086,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 896
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "🍥🏳️‍⚧️｜Mt(X→F)｜我最爱最爱世界上超级无敌好的未婚妻 另一半 老婆 宝宝 这辈子的唯一 要爱一辈子的人 @yanmin1105🥰｜宝宝@2i8oSpJhcU70504🥰｜没事就爱犯点小病｜坐标 天津｜🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "下水道左转包间302",
+        "name": "-4°🍥",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 988,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 946
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

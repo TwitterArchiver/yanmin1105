@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935605895913680897",
+        "3_1935605895779737600"
+      ],
+      "media_source_tweet_id": [
+        "1935605937206911017",
+        "1935605937206911017"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1935618375025348792",
+    "created_at": "2025-06-19T08:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T09:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935618375025348792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "yqua_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4nISzmr5U",
+          "end": 100,
+          "expanded_url": "https://x.com/yqua_/status/1935605937206911017/photo/1",
+          "media_key": "3_1935605895913680897",
+          "start": 77,
+          "url": "https://t.co/e4nISzmr5U"
+        },
+        {
+          "display_url": "pic.x.com/e4nISzmr5U",
+          "end": 100,
+          "expanded_url": "https://x.com/yqua_/status/1935605937206911017/photo/1",
+          "media_key": "3_1935605895779737600",
+          "start": 77,
+          "url": "https://t.co/e4nISzmr5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935618375025348792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935605937206911017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yqua_: ⚠️请注意⚠️\n位于澳大利亚的Akiball有吞盐自杀倾向\n\n请位于澳大利亚墨尔本或是能直接联系她的人请立即报警\n地址（疑似）如图 https://t.co/e4nISzmr5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935605895913680897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtynTpsWMAEhH8L.jpg",
+        "width": 942
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1935605895779737600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtynTpMaYAA6RsC.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935605895913680897",
+            "3_1935605895779737600"
+          ],
+          "media_source_tweet_id": [
+            "1935605937206911017",
+            "1935605937206911017"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935618375025348792",
+        "created_at": "2025-06-19T08:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T09:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935618375025348792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "yqua_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4nISzmr5U",
+              "end": 100,
+              "expanded_url": "https://x.com/yqua_/status/1935605937206911017/photo/1",
+              "media_key": "3_1935605895913680897",
+              "start": 77,
+              "url": "https://t.co/e4nISzmr5U"
+            },
+            {
+              "display_url": "pic.x.com/e4nISzmr5U",
+              "end": 100,
+              "expanded_url": "https://x.com/yqua_/status/1935605937206911017/photo/1",
+              "media_key": "3_1935605895779737600",
+              "start": 77,
+              "url": "https://t.co/e4nISzmr5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935618375025348792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935605937206911017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yqua_: ⚠️请注意⚠️\n位于澳大利亚的Akiball有吞盐自杀倾向\n\n请位于澳大利亚墨尔本或是能直接联系她的人请立即报警\n地址（疑似）如图 https://t.co/e4nISzmr5U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935605895913680897",
+            "3_1935605895779737600"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935605937206911017",
+        "created_at": "2025-06-19T07:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935605937206911017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4nISzmr5U",
+              "end": 89,
+              "expanded_url": "https://x.com/yqua_/status/1935605937206911017/photo/1",
+              "media_key": "3_1935605895913680897",
+              "start": 66,
+              "url": "https://t.co/e4nISzmr5U"
+            },
+            {
+              "display_url": "pic.x.com/e4nISzmr5U",
+              "end": 89,
+              "expanded_url": "https://x.com/yqua_/status/1935605937206911017/photo/1",
+              "media_key": "3_1935605895779737600",
+              "start": 66,
+              "url": "https://t.co/e4nISzmr5U"
+            },
+            {
+              "display_url": "x.com/lcg_akiball/st…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/lcg_akiball/status/1935542457317605628",
+              "start": 90,
+              "url": "https://t.co/VQXUKS0065"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935605937206911017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935542457317605628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚠️请注意⚠️\n位于澳大利亚的Akiball有吞盐自杀倾向\n\n请位于澳大利亚墨尔本或是能直接联系她的人请立即报警\n地址（疑似）如图 https://t.co/e4nISzmr5U https://t.co/VQXUKS0065"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 225,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 529
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Analyst｜MTX🏳️‍⚧️｜前世17kfo @ryq59｜笨蛋@cy79p｜主人 @ckyf1134｜好妹妹@mhtqwq｜唯一指定协议客户@yanmin1105｜互fo寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "username": "cy79p"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "ckyf1134"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yanmin1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "name": "你是想气死铨酱么🍥（推油寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 1644,
+          "like_count": 12809,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

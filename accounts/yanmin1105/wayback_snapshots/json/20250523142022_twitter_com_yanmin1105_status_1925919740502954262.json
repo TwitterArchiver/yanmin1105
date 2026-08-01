@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1925491442837070097",
+    "created_at": "2025-05-23T14:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T15:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925919740502954262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        },
+        {
+          "end": 52,
+          "id": "1838370893187395584",
+          "start": 36,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925919740502954262",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925491442837070097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 已经和爱的人在一起了喵，怎么办哦，不喝也很美好啦，爱你宝宝@Cherry_BombY458"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_1925491414768787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gri4PXNboAAE93K.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1925491442837070097",
+        "created_at": "2025-05-23T14:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T15:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925919740502954262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            },
+            {
+              "end": 52,
+              "id": "1838370893187395584",
+              "start": 36,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925919740502954262",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925491442837070097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 已经和爱的人在一起了喵，怎么办哦，不喝也很美好啦，爱你宝宝@Cherry_BombY458"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925491414768787456"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925491442837070097",
+        "created_at": "2025-05-22T09:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925491442837070097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQRAx2vqxZ",
+              "end": 35,
+              "expanded_url": "https://x.com/ryq59/status/1925491442837070097/photo/1",
+              "media_key": "3_1925491414768787456",
+              "start": 12,
+              "url": "https://t.co/dQRAx2vqxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925491442837070097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10396,
+          "like_count": 231,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这 喝汤 多是一件美事 https://t.co/dQRAx2vqxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 184,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 273
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "深柜MTX 🏳️‍⚧️｜Mid&Sup｜Esports Analyst",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/vL9QVAaVSM"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "天津市河西区陈塘庄四季馨园41号楼",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17425,
+          "following_count": 5020,
+          "like_count": 181703,
+          "listed_count": 70,
+          "media_count": 5454,
+          "tweet_count": 23656
+        },
+        "url": "https://t.co/vL9QVAaVSM",
+        "username": "ryq59",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1910816461029065209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 794,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 523
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

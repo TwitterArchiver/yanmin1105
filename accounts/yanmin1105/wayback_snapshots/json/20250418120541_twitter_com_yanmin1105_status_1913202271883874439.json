@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912893262320537611",
+    "created_at": "2025-04-18T12:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T13:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913202271883874439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830362663861325825",
+          "start": 0,
+          "username": "cOcO_MILL_"
+        },
+        {
+          "end": 24,
+          "id": "1420072716963520520",
+          "start": 12,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913202271883874439",
+    "in_reply_to_user_id": "1830362663861325825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912893262320537611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cOcO_MILL_ @meiqinyuban 不管怎么说，祝你生活快乐，愿你有更美好的生活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1912893256490426368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gov2SCZaIAAD0r9.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912893262320537611",
+        "created_at": "2025-04-18T12:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T13:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913202271883874439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830362663861325825",
+              "start": 0,
+              "username": "cOcO_MILL_"
+            },
+            {
+              "end": 24,
+              "id": "1420072716963520520",
+              "start": 12,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913202271883874439",
+        "in_reply_to_user_id": "1830362663861325825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912893262320537611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cOcO_MILL_ @meiqinyuban 不管怎么说，祝你生活快乐，愿你有更美好的生活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912893256490426368"
+          ]
+        },
+        "author_id": "1830362663861325825",
+        "conversation_id": "1912893262320537611",
+        "created_at": "2025-04-17T15:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912893262320537611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1420072716963520520",
+              "start": 32,
+              "username": "meiqinyuban"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAgESuVhrM",
+              "end": 166,
+              "expanded_url": "https://x.com/cOcO_MILL_/status/1912893262320537611/photo/1",
+              "media_key": "3_1912893256490426368",
+              "start": 143,
+              "url": "https://t.co/AAgESuVhrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912893262320537611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7636,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "经过考虑，我选择退推了\n感谢大家一直以来的支持\n我的账号将\n交给@meiqinyuban来保管\n\n这里是没有开封的色，扔掉可惜\n怎么办呢，抽一个宝宝全送了吧\n在底下评论哦～\n截止时间明天！\n感谢大家，祝大家一直要开心，一直要幸福呐，我爱你们，我也会一直都在的，爱你们，真的，爱你们❤️ https://t.co/AAgESuVhrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 108,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 88
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T21:50:47.000Z",
+        "description": "爱你们呐❤️\n愿你们天天开心 •͈ ₃ •͈",
+        "id": "1830362663861325825",
+        "name": "CoCo_mill",
+        "pinned_tweet_id": "1912893262320537611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912145653385293824/E6clTnxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 779,
+          "like_count": 5845,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2107
+        },
+        "username": "cOcO_MILL_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "河北邯郸 中国CN/EN 双性恋 性别中立，娱乐级街机音游玩家/电子DIY  GNU/Linux  把我当男的当女的都行 或许是男娘（？ 在沧州黄骅上学（看到有营养或好看的帖子会转转，合得来的会回关，需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "Handan Hebei China",
+        "name": "美琴御坂🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908806629270884352/fSDOVqtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 399,
+          "like_count": 2002,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1812
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

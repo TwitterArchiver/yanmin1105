@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980888698100060160"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1980888706153345408",
+    "created_at": "2025-10-22T06:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980888706153345408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yd2k7N2oAa",
+          "end": 28,
+          "expanded_url": "https://x.com/yanmin1105/status/1980888706153345408/photo/1",
+          "media_key": "3_1980888698100060160",
+          "start": 5,
+          "url": "https://t.co/yd2k7N2oAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980888706153345408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我请问呢 https://t.co/yd2k7N2oAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980888698100060160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32HxpXXEAAFEws.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980888698100060160"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1980888706153345408",
+        "created_at": "2025-10-22T06:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980888706153345408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yd2k7N2oAa",
+              "end": 28,
+              "expanded_url": "https://x.com/yanmin1105/status/1980888706153345408/photo/1",
+              "media_key": "3_1980888698100060160",
+              "start": 5,
+              "url": "https://t.co/yd2k7N2oAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980888706153345408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我请问呢 https://t.co/yd2k7N2oAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 350,
+          "like_count": 2944,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1219
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960690701018259460"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1960690713315958908",
+    "created_at": "2025-08-27T13:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960690713315958908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBje8ZIiDT",
+          "end": 77,
+          "expanded_url": "https://x.com/yanmin1105/status/1960690713315958908/photo/1",
+          "media_key": "3_1960690701018259460",
+          "start": 54,
+          "url": "https://t.co/xBje8ZIiDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960690713315958908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女士\n晚上好\n欢迎您选乘商务座出行\n需要用餐吗\n我们为您准备了精美的正餐\n\n您是想先吃饭\n还是\n\n先喝奶呢 https://t.co/xBje8ZIiDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1960690701018259460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXFzeya4AQibib.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960690701018259460"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960690713315958908",
+        "created_at": "2025-08-27T13:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960690713315958908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBje8ZIiDT",
+              "end": 77,
+              "expanded_url": "https://x.com/yanmin1105/status/1960690713315958908/photo/1",
+              "media_key": "3_1960690701018259460",
+              "start": 54,
+              "url": "https://t.co/xBje8ZIiDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960690713315958908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女士\n晚上好\n欢迎您选乘商务座出行\n需要用餐吗\n我们为您准备了精美的正餐\n\n您是想先吃饭\n还是\n\n先喝奶呢 https://t.co/xBje8ZIiDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 306,
+          "like_count": 2083,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 894
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

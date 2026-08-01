@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1928704467899396542",
+    "created_at": "2025-06-02T10:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T11:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929487990868341211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1838370893187395584",
+          "start": 8,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 58,
+          "id": "1838370893187395584",
+          "start": 42,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 70,
+          "id": "1537858604724015104",
+          "start": 59,
+          "username": "tonghua245"
+        },
+        {
+          "end": 87,
+          "id": "1889157954143981568",
+          "start": 71,
+          "username": "_blueberrysauce"
+        },
+        {
+          "end": 115,
+          "id": "1894461745277931524",
+          "start": 100,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 149,
+          "id": "1889157954143981568",
+          "start": 133,
+          "username": "_blueberrysauce"
+        },
+        {
+          "end": 159,
+          "id": "1695649420539219968",
+          "start": 150,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929487990868341211",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928704467899396542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "开奖了\n特等奖由@Cherry_BombY458 独占喵\n特别奖幸运得主包括但不限于@Cherry_BombY458 @tonghua245 @_blueberrysauce 喵\n一等奖 小鲨鲨一只 @Rain_Antar1121 \n二等奖 楚辞/天书奇谭邮票一套\n@_blueberrysauce @LiciiQAQ \n恭喜以上幸运观众~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-06-02T10:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T11:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929487990868341211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1838370893187395584",
+              "start": 8,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 58,
+              "id": "1838370893187395584",
+              "start": 42,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 70,
+              "id": "1537858604724015104",
+              "start": 59,
+              "username": "tonghua245"
+            },
+            {
+              "end": 87,
+              "id": "1889157954143981568",
+              "start": 71,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 115,
+              "id": "1894461745277931524",
+              "start": 100,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 149,
+              "id": "1889157954143981568",
+              "start": 133,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 159,
+              "id": "1695649420539219968",
+              "start": 150,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929487990868341211",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928704467899396542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "开奖了\n特等奖由@Cherry_BombY458 独占喵\n特别奖幸运得主包括但不限于@Cherry_BombY458 @tonghua245 @_blueberrysauce 喵\n一等奖 小鲨鲨一只 @Rain_Antar1121 \n二等奖 楚辞/天书奇谭邮票一套\n@_blueberrysauce @LiciiQAQ \n恭喜以上幸运观众~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-05-31T06:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928704467899396542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928704467899396542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6292,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 32
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "快500fo了喵\n唔 给大家抽个奖吧\n抽点啥呢 一只小嫣太少了喵\n诶 有了（点子王上线）\n特等奖 小嫣一只（被某只杂鱼线下内定了喵）\n特别奖：抽死一只小杂鱼喵（也被某位杂鱼姐姐内定了）\n一等奖 小鲨鲨一只\n二等奖 楚辞/天书奇谭邮票一套 抽两个\n三等奖 TJU主题明信片喵 在天大北洋园邮局寄出 抽30+张喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 191,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 421
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 817,
+          "like_count": 1513,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 595
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "丨 04mtf 丨 🍬hrt2024. 12.5 ｜小证含糖｜已炸柜｜半家长不管党？｜169cm/72kg了wok！！！（在减肥，不减到125不改名！窝要涩气的身材！）｜大三在读｜infp｜欢迎互fo！｜可以找小浔玩！｜谢谢大家关注｜老婆：@zihuan9011 老婆重度依赖！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "zihuan9011"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "小浔～🍥（决心减肥版）",
+        "pinned_tweet_id": "1923233397301727626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908910041815781376/tDmdWD8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 626,
+          "like_count": 3643,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 505
+        },
+        "username": "tonghua245",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 🚪门槛40支付宝🧧 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 54,
+                "username": "wwjxx"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "pinned_tweet_id": "1919217286923080152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 1298,
+          "like_count": 9327,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 2651
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 1601,
+          "like_count": 2545,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 512
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 971,
+          "like_count": 23209,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 3141
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

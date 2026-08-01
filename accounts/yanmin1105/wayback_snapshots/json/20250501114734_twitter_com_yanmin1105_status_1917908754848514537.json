@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1917869321608634493",
+    "created_at": "2025-05-01T11:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T12:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917908754848514537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426487709917274113",
+          "start": 0,
+          "username": "Alexand83092796"
+        },
+        {
+          "end": 33,
+          "id": "1838370893187395584",
+          "start": 17,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917908754848514537",
+    "in_reply_to_user_id": "1426487709917274113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917904034385854928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexand83092796 @Cherry_BombY458 没有多少钱啦，比一盒泰补还便宜～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1917869321608634493",
+        "created_at": "2025-05-01T11:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917908754848514537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426487709917274113",
+              "start": 0,
+              "username": "Alexand83092796"
+            },
+            {
+              "end": 33,
+              "id": "1838370893187395584",
+              "start": 17,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917908754848514537",
+        "in_reply_to_user_id": "1426487709917274113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917904034385854928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexand83092796 @Cherry_BombY458 没有多少钱啦，比一盒泰补还便宜～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426487709917274113",
+        "conversation_id": "1917869321608634493",
+        "created_at": "2025-05-01T11:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917904034385854928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 28,
+              "id": "1838370893187395584",
+              "start": 12,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917904034385854928",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917869321608634493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @Cherry_BombY458 有钱羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1917509770686390688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 161,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 179
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T10:16:28.000Z",
+        "description": "ゲームやアニメや可愛いものなどがすごく好き。今、日本語を勉強しています。可愛い子になりたい。INFP。\nシェアしたツイートは外国語の勉強用です。私の意見ではありません。\n可用语言🇨🇳🇹🇼華語/🇯🇵🎌日本語/🇬🇧🇺🇸English（苦手）",
+        "id": "1426487709917274113",
+        "location": "幻想乡",
+        "name": "朴时雨🌸🇰🇵🇯🇵🏳️‍⚧️",
+        "pinned_tweet_id": "1913968965384323453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917516540586455040/R6oIovRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 1123,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 232
+        },
+        "username": "Alexand83092796",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 我滴宝宝 @yanmin1105 / 亲爱的 @2i8OSpJhcU70504🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "2i8OSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1910816461029065209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 722,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 437
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

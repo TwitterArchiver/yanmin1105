@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2070087773629943823",
+    "created_at": "2026-06-25T10:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070093425643495596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070093425643495596",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070087773629943823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ （）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1902,
+        "media_key": "3_2070087761202171904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpt2dxW0AAqiKC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2070087773629943823",
+        "created_at": "2026-06-25T10:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070093425643495596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070093425643495596",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070087773629943823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ （）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070087761202171904"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "2070087773629943823",
+        "created_at": "2026-06-25T10:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070087773629943823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1904539885769457665",
+              "start": 28,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EapJ3tBKxb",
+              "end": 63,
+              "expanded_url": "https://x.com/yqua_/status/2070087773629943823/photo/1",
+              "media_key": "3_2070087761202171904",
+              "start": 40,
+              "url": "https://t.co/EapJ3tBKxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070087773629943823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们集邮佬是这样的\n家里除了新一代什么都有\n\nWith @yanmin1105 https://t.co/EapJ3tBKxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 434,
+          "like_count": 3744,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 1503
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "大号@YongQuan\n❤️@xyliaxka\n\n嘛时候是津门第一呐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "YongQuan"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "xyliaxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "铨铨睡着了🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 872,
+          "like_count": 11340,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

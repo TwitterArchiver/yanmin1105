@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912894026673721551",
+    "created_at": "2025-04-17T15:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T16:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912898417787105320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        },
+        {
+          "end": 24,
+          "id": "1693935285577670656",
+          "start": 12,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912898417787105320",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912898199033192675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 @MinaseAyano 天津市满分40，我差1.1（五十米跑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912894026673721551",
+        "created_at": "2025-04-17T15:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912898417787105320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            },
+            {
+              "end": 24,
+              "id": "1693935285577670656",
+              "start": 12,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912898417787105320",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912898199033192675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 @MinaseAyano 天津市满分40，我差1.1（五十米跑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741091789879308288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1912894026673721551",
+        "created_at": "2025-04-17T15:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912898199033192675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912898199033192675",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912894026673721551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 呜呜呜，我这里监考都特别严，都是用机器，篮球，足球，跳绳，上面都有传感器。我中考体育只考了45分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 104,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 81
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4，日语N2备考ing,欢迎大家找我集邮喵 好老婆🥰🥰  @kukudejiaxibei\n///主人:@blhpc/\n永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 97,
+                "start": 91,
+                "username": "blhpc"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥（重开倒计时）",
+        "pinned_tweet_id": "1912687293678383340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912720749787492352/QP4diWRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1491,
+          "like_count": 8684,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 1886
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 里推/老婆@Yumo_1314 | 喵呜～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/8MGVVAKFJF"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "猫窝",
+        "name": "綾乃𝐴𝑦𝑎𝑛𝑜🍋‍🟩",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 1475,
+          "like_count": 4175,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 5277
+        },
+        "url": "https://t.co/8MGVVAKFJF",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

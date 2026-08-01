@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2066072881692635621",
+    "created_at": "2026-06-15T05:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066391450238214548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "606148464",
+          "start": 0,
+          "username": "vivimoneya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066391450238214548",
+    "in_reply_to_user_id": "606148464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066072881692635621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vivimoneya 抄文案是不是有点过分了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066072755649572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwqOYia8AAgL5w.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2066072881692635621",
+        "created_at": "2026-06-15T05:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066391450238214548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "606148464",
+              "start": 0,
+              "username": "vivimoneya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066391450238214548",
+        "in_reply_to_user_id": "606148464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066072881692635621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vivimoneya 抄文案是不是有点过分了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066072755649572864"
+          ]
+        },
+        "author_id": "606148464",
+        "conversation_id": "2066072881692635621",
+        "created_at": "2026-06-14T08:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066072881692635621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri7TWOwmHt",
+              "end": 193,
+              "expanded_url": "https://x.com/vivimoneya/status/2066072881692635621/photo/1",
+              "media_key": "3_2066072755649572864",
+              "start": 170,
+              "url": "https://t.co/Ri7TWOwmHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072881692635621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 706,
+                "start": 700,
+                "tag": "海外手机卡"
+              },
+              {
+                "end": 712,
+                "start": 707,
+                "tag": "Sim卡"
+              },
+              {
+                "end": 718,
+                "start": 713,
+                "tag": "eSim"
+              },
+              {
+                "end": 724,
+                "start": 719,
+                "tag": "CTHK"
+              },
+              {
+                "end": 729,
+                "start": 725,
+                "tag": "CSL"
+              },
+              {
+                "end": 734,
+                "start": 730,
+                "tag": "CTM"
+              },
+              {
+                "end": 743,
+                "start": 735,
+                "tag": "ClubSim"
+              }
+            ]
+          },
+          "text": "[手机Sim卡]如何选择港澳手机卡？港澳旅游一圈，申请了多张海外手机号，稍微做了下比较： \nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:83CNY（比咸鱼便宜三四十）\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:155CNY\n特点:内含100HKD储值额，上网套餐较多，流量购买后不过期，上网体验较好，适用于既需要保号也需要部分漫游服务的用户\n\nCTHK上台卡（香港）\n运营商:中国电信香港\n此卡为月租卡，合约期24个月起，需要开卡时缴付1000HKD按金，每月最便宜的套餐98HKD，含有300分钟三地通话时长，13GB高速上网流量，超出后上网限速不限量\n另外可以申请内地副号，每日1HKD\n适用于资金较为充足，上网需求较大的用户，日常使用非常不错\n办理方式:这个我卖不了，有想要的自己去香港告士打道108号18楼门市办理\n\nCTM（澳门）\n运营商:澳门电信\n面额价:100MOP\n售价:110CNY\n特点:没啥特点，就是个澳门号码，带有自选流量\n\n中国电信澳门 港澳5日任用数据卡\n运营商:中国电信澳门\n面额价:50MOP\n售价:45CNY\n特点:仅可在澳门激活，送一个大三巴形状的卡针（还是挺好看的，但是要小心别扎到手）\n五日内用完，不可延长有效期，有10GB高速流量和不限量的低速流量，仅可在港澳使用。\n\n以上所有卡除CTHK上台卡和电信五日任用卡外，均为储值卡，充值可以延长号码有效期，自选套餐用量进行使用。另销售giffgaff、ClubSim卡，以上所有商品包邮挂信寄出。#海外手机卡 #Sim卡 #eSim #CTHK #CSL #CTM #ClubSim"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 11741,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "[手机Sim卡]如何选择港澳手机卡？港澳旅游一圈，申请了多张海外手机号，稍微做了下比较： \nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:83CNY（比咸鱼便宜三四十）\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:155CNY https://t.co/Ri7TWOwmHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 426,
+          "like_count": 3656,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1468
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-12T06:06:53.000Z",
+        "description": "Founder of vivimoney唯有搞钱\nAI + 出海 +  Web3 独立开发者🎯\n币安广场+推特 KOL ⭐\n超级个体养成记 🔥\n百倍金狗猎人 🧲\n增长黑客 🚀\nInfluencer Developer Builder... https://t.co/uPukNe2sV1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/vivimoneyx/",
+                "end": 143,
+                "expanded_url": "https://t.me/vivimoneyx/",
+                "start": 120,
+                "url": "https://t.co/uPukNe2sV1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vivimoney",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vivimoney",
+                "start": 0,
+                "url": "https://t.co/SqBQxVdLvz"
+              }
+            ]
+          }
+        },
+        "id": "606148464",
+        "location": "Singapore",
+        "name": "vivimoney Bluebird🕊️",
+        "pinned_tweet_id": "2061668539405316272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986733374887829504/8Z6kYqHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6853,
+          "following_count": 7011,
+          "like_count": 19316,
+          "listed_count": 9,
+          "media_count": 1801,
+          "tweet_count": 8220
+        },
+        "url": "https://t.co/SqBQxVdLvz",
+        "username": "vivimoneya",
+        "verified": true
+      }
+    ]
+  }
+}

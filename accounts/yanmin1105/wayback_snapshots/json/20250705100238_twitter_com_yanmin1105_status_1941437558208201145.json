@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1941436835508650124",
+    "created_at": "2025-07-05T10:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T11:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941437558208201145"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941437558208201145",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941436835508650124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国银行上海哔哩哔哩联名借记卡，是非预制卡，业务代码8103102，产品代码102910029（建议去不是特别小的支行办理）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941436812603412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFefrEX0AAEsPM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941435044989665280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFc4yMagAAC9_G.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941436812544618496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFefq2WsAArjE8.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941436812410617856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFefqWaAAAraiz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1941436835508650124",
+        "created_at": "2025-07-05T10:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T11:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941437558208201145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941437558208201145",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941436835508650124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国银行上海哔哩哔哩联名借记卡，是非预制卡，业务代码8103102，产品代码102910029（建议去不是特别小的支行办理）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941436812603412480",
+            "3_1941435044989665280",
+            "3_1941436812544618496",
+            "3_1941436812410617856"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "1941436835508650124",
+        "created_at": "2025-07-05T09:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941436835508650124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 153,
+              "id": "1545277694325116928",
+              "start": 147,
+              "username": "yqua_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mcmH43T0N",
+              "end": 177,
+              "expanded_url": "https://x.com/yanmin1105/status/1941436835508650124/photo/1",
+              "media_key": "3_1941436812603412480",
+              "start": 154,
+              "url": "https://t.co/2mcmH43T0N"
+            },
+            {
+              "display_url": "pic.x.com/2mcmH43T0N",
+              "end": 177,
+              "expanded_url": "https://x.com/yanmin1105/status/1941436835508650124/photo/1",
+              "media_key": "3_1941435044989665280",
+              "start": 154,
+              "url": "https://t.co/2mcmH43T0N"
+            },
+            {
+              "display_url": "pic.x.com/2mcmH43T0N",
+              "end": 177,
+              "expanded_url": "https://x.com/yanmin1105/status/1941436835508650124/photo/1",
+              "media_key": "3_1941436812544618496",
+              "start": 154,
+              "url": "https://t.co/2mcmH43T0N"
+            },
+            {
+              "display_url": "pic.x.com/2mcmH43T0N",
+              "end": 177,
+              "expanded_url": "https://x.com/yanmin1105/status/1941436835508650124/photo/1",
+              "media_key": "3_1941436812410617856",
+              "start": 154,
+              "url": "https://t.co/2mcmH43T0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941436835508650124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天小嫣办的事可真不少\n去了BOC取了三张非预制卡\n去了ICBC开到了网银（牡丹国际终于可以用来购汇了）\n广发的美国运通卡收到了，明天去激活\n（用红边约投信封但发的是顺丰）\n中国银行上海哔哩哔哩联名卡在Apple pay显示的卡面与实体卡是完全一样的\n感谢杂鱼小铨提供的理论指导和开卡建议\n超你@yqua_ https://t.co/2mcmH43T0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 238,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 622
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

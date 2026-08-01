@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2081745009892794546",
+    "created_at": "2026-07-27T15:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081757332158161331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558794109929734144",
+          "start": 0,
+          "username": "joooooobbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081757332158161331",
+    "in_reply_to_user_id": "1558794109929734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081745009892794546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joooooobbb 真的吗，我可以脱完不给钱吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2081745005920890880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPYDabbsAALTl1.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2081745009892794546",
+        "created_at": "2026-07-27T15:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081757332158161331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558794109929734144",
+              "start": 0,
+              "username": "joooooobbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081757332158161331",
+        "in_reply_to_user_id": "1558794109929734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081745009892794546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joooooobbb 真的吗，我可以脱完不给钱吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081745005920890880"
+          ]
+        },
+        "author_id": "1558794109929734144",
+        "conversation_id": "2081745009892794546",
+        "created_at": "2026-07-27T14:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081745009892794546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "伪娘"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "男娘"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "女装"
+            },
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "美女"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "帅哥"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "又美又帅"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "天津"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "脱毛"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "天津脱毛"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "男士脱毛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4WA4Lky1Q",
+              "end": 145,
+              "expanded_url": "https://x.com/joooooobbb/status/2081745009892794546/photo/1",
+              "media_key": "3_2081745005920890880",
+              "start": 122,
+              "url": "https://t.co/O4WA4Lky1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081745009892794546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好说话的，脱毛的时候有什么不适，无论是疼或者痒，有或者是高低空调，某个位置想多打几下，都可以告诉我哦，不用拘束\n(◍•ᴗ•◍)❤\n\n#伪娘 #男娘 #女装 #可爱的男孩子 #美女 #帅哥 #又美又帅 #天津 #脱毛 #天津脱毛 #男士脱毛 https://t.co/O4WA4Lky1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 463,
+          "like_count": 4093,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 1627
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-14T12:34:24.000Z",
+        "description": "随缘更新，懒得拍照拍视频，有兴致的时候才拍(我自己也不知道什么时候有兴致)，\n最喜欢吃了就睡，睡醒就吃，\n欢迎投食，56🚪交个朋友(好友位+1)",
+        "id": "1558794109929734144",
+        "location": "天津",
+        "name": "灰灰",
+        "pinned_tweet_id": "2010904937341886678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558794825050099712/o3mz0X2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 360,
+          "like_count": 412,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "joooooobbb",
+        "verified": false
+      }
+    ]
+  }
+}

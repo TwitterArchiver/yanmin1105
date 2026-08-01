@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1905147364211560664",
+    "created_at": "2025-04-07T14:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T15:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909246581523481032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909246581523481032",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905147364211560664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 抽个奖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905147356812881920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnBxbVebMAAqs5J.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1905147356817039360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnBxbVfaoAAyekS.jpg",
+        "width": 1152
+      },
+      {
+        "height": 800,
+        "media_key": "3_1905147356808675328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnBxbVdbAAAqJJF.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1905147364211560664",
+        "created_at": "2025-04-07T14:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T15:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909246581523481032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909246581523481032",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905147364211560664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 抽个奖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905147356812881920",
+            "3_1905147356817039360",
+            "3_1905147356808675328"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "1905147364211560664",
+        "created_at": "2025-03-27T06:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T07:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905147364211560664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKXp9vbU6O",
+              "end": 179,
+              "expanded_url": "https://x.com/quitee123/status/1905147364211560664/photo/1",
+              "media_key": "3_1905147356812881920",
+              "start": 156,
+              "url": "https://t.co/LKXp9vbU6O"
+            },
+            {
+              "display_url": "pic.x.com/LKXp9vbU6O",
+              "end": 179,
+              "expanded_url": "https://x.com/quitee123/status/1905147364211560664/photo/1",
+              "media_key": "3_1905147356817039360",
+              "start": 156,
+              "url": "https://t.co/LKXp9vbU6O"
+            },
+            {
+              "display_url": "pic.x.com/LKXp9vbU6O",
+              "end": 179,
+              "expanded_url": "https://x.com/quitee123/status/1905147364211560664/photo/1",
+              "media_key": "3_1905147356808675328",
+              "start": 156,
+              "url": "https://t.co/LKXp9vbU6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905147364211560664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 26823,
+          "like_count": 221,
+          "quote_count": 3,
+          "reply_count": 117,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "SRS耗尽毕生积蓄，所以橘猫😺药商决定开始营业！\n泰补200一盒，爱斯妥凝胶105一盒，是全网最低价！\n（4月2日12点前预定，泰补180，凝胶95）\n仅此一波，卖完就没啦\n\n最后抽个奖，4.10开奖，同样转发、关注、评论参与抽奖，采用随机数生成决定中奖者：\n一等奖泰补一盒\n二等奖凝胶一盒\n三等奖一米鲨鲨一只 https://t.co/LKXp9vbU6O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @larva7501 @dominnicchina 可爱妹妹@OVO_futa ⭐️@CnHpaHky tg：@hajvmi SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "larva7501"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "OVO_futa"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "CnHpaHky"
+              },
+              {
+                "end": 119,
+                "start": 112,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 149,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 126,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（卖泰补凝胶克龄蒙版）",
+        "pinned_tweet_id": "1887176415617163394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7647,
+          "following_count": 2410,
+          "like_count": 24058,
+          "listed_count": 17,
+          "media_count": 579,
+          "tweet_count": 11223
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

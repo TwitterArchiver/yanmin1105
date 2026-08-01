@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1971870646432157773",
+    "created_at": "2025-09-27T09:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T10:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971870646432157773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971870646432157773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【迟来的千fo抽奖】\n\n虽然窝已经1.1kfo了\n但我1000fo还没抽奖呢\n所以\n唔\n开抽！\n\n一等奖\n肯德基（25.10.9给你点餐或者折现35CNY）\n1份\n二等奖\nchiikawa上海旗舰店的官方商品（随机）一件\n2份（可折现19.9CNY）\n三等奖\n手写信封一个\n50份\n\n参与方式:关注转发评论点赞\n截止至25.10.2上午10点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1971870646432157773",
+        "created_at": "2025-09-27T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971870646432157773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971870646432157773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【迟来的千fo抽奖】\n\n虽然窝已经1.1kfo了\n但我1000fo还没抽奖呢\n所以\n唔\n开抽！\n\n一等奖\n肯德基（25.10.9给你点餐或者折现35CNY）\n1份\n二等奖\nchiikawa上海旗舰店的官方商品（随机）一件\n2份（可折现19.9CNY）\n三等奖\n手写信封一个\n50份\n\n参与方式:关注转发评论点赞\n截止至25.10.2上午10点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨亲爱的笨蛋宝宝 @Cherry_BombY458 丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 331,
+          "like_count": 2488,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1123
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

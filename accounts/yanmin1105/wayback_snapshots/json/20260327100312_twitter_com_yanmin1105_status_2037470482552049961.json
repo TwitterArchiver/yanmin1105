@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2037394785657659466",
+    "created_at": "2026-03-27T10:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037470482552049961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707911374377213952",
+          "start": 0,
+          "username": "Rainyufanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037470482552049961",
+    "in_reply_to_user_id": "1707911374377213952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037394785657659466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainyufanf 你就说你要去香港旅游，跨境携带处方药是需要处方单向海关申报的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2037394785657659466",
+        "created_at": "2026-03-27T10:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037470482552049961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707911374377213952",
+              "start": 0,
+              "username": "Rainyufanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037470482552049961",
+        "in_reply_to_user_id": "1707911374377213952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037394785657659466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainyufanf 你就说你要去香港旅游，跨境携带处方药是需要处方单向海关申报的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707911374377213952",
+        "conversation_id": "2037394785657659466",
+        "created_at": "2026-03-27T05:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037394785657659466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rainyufanf/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Rainyufanf/status/2037385905657569650",
+              "start": 57,
+              "url": "https://t.co/jVX6MaQ3I4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037394785657659466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 375,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037385905657569650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "处方不给我打，山东省精神卫生中心取药的说没合理理由不给打单子，所以我电子处方单和纸的处方单都没拿到，只能在医院开 https://t.co/jVX6MaQ3I4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 389,
+          "like_count": 3297,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1367
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T00:13:26.000Z",
+        "description": "雪下的那么深~下的那么认真~",
+        "id": "1707911374377213952",
+        "location": "你心里",
+        "name": "雪下的那么深~下的那么认真~",
+        "pinned_tweet_id": "2016913911451439480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327034537394176/2ld1xMwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 279,
+          "like_count": 6300,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1361
+        },
+        "username": "Rainyufanf",
+        "verified": false
+      }
+    ]
+  }
+}

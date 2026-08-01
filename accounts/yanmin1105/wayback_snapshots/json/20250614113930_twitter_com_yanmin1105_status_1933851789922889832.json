@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933850626112540764",
+    "created_at": "2025-06-14T11:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T12:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933851789922889832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748384528958394368",
+          "start": 0,
+          "username": "AelxFrank13962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933851789922889832",
+    "in_reply_to_user_id": "1748384528958394368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933851639385149817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AelxFrank13962 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T11:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933851789922889832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748384528958394368",
+              "start": 0,
+              "username": "AelxFrank13962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933851789922889832",
+        "in_reply_to_user_id": "1748384528958394368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933851639385149817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AelxFrank13962 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748384528958394368",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T11:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933851639385149817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933851639385149817",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933850626112540764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 会变成xyn🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 214,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 481
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T16:38:59.000Z",
+        "description": "可以叫我Fuko/Fufu喵🥹|超绝 ENFJ✨|准高三在读|最高の17歳!|中文|English|日本語|HRT🍥3.30 2025|交个朋友😘|三次元|现充|化学|药理学|DIY|Python|🎂2007 11 22|177cm|游戏不常玩 GTA5 BFV| DM会回|最爱的妈妈酱🥰@lihedong5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "lihedong5"
+              }
+            ]
+          }
+        },
+        "id": "1748384528958394368",
+        "location": "君のこころ♥️の中に",
+        "name": "風子ふうこ Fuko🏳️‍⚧️",
+        "pinned_tweet_id": "1923316531133346188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917441942482477058/_ma2cwAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1076,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 268
+        },
+        "username": "AelxFrank13962",
+        "verified": false
+      }
+    ]
+  }
+}

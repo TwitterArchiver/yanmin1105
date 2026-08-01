@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1909984708613529608",
+    "created_at": "2025-04-12T05:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T06:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910933005226459514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372480003401609216",
+          "start": 0,
+          "username": "MuronJungehaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910933005226459514",
+    "in_reply_to_user_id": "1372480003401609216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910893829621952637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuronJungehaya 啊，这个(」゜ロ゜)」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909984708613529608",
+        "created_at": "2025-04-12T05:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T06:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910933005226459514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372480003401609216",
+              "start": 0,
+              "username": "MuronJungehaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910933005226459514",
+        "in_reply_to_user_id": "1372480003401609216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910893829621952637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuronJungehaya 啊，这个(」゜ロ゜)」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372480003401609216",
+        "conversation_id": "1909984708613529608",
+        "created_at": "2025-04-12T03:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T04:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910893829621952637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910893829621952637",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909984708613529608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 可以面交吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T09:28:34.000Z",
+        "description": "TJU丨严以做事，温以对世，柔以待人丨粉丝群号782941108丨妹妹＆Lover❤️@KEVC_Bot丨hrt ing~丨双相丨互关私信基本都会回的丨纯清水丨门槛🚪请看主页丨不键政丨容貌焦虑不线下｜千粉前每100粉抄id丨不定时锁推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KEVC_Bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/325788065",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/325788065",
+                "start": 0,
+                "url": "https://t.co/MQ7bJEvdlx"
+              }
+            ]
+          }
+        },
+        "id": "1372480003401609216",
+        "location": "天津大学北洋园校区",
+        "name": "慕容云野haya🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1901615685773758692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906538309914152960/J4yRU39p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 301,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/MQ7bJEvdlx",
+        "username": "MuronJungehaya",
+        "verified": false
+      }
+    ]
+  }
+}

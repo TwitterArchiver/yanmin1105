@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933761922316578940",
+    "created_at": "2025-06-14T12:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T13:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933861361853088255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1529770876559708160",
+          "start": 0,
+          "username": "DoujinYuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933861361853088255",
+    "in_reply_to_user_id": "1529770876559708160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933858968654537204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoujinYuye 好哦喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933761922316578940",
+        "created_at": "2025-06-14T12:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933861361853088255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1529770876559708160",
+              "start": 0,
+              "username": "DoujinYuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933861361853088255",
+        "in_reply_to_user_id": "1529770876559708160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933858968654537204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoujinYuye 好哦喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529770876559708160",
+        "conversation_id": "1933761922316578940",
+        "created_at": "2025-06-14T12:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933858968654537204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933858968654537204",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933761922316578940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 dyn（大药娘bushi可以嘛😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 215,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 484
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T10:26:21.000Z",
+        "description": "｜日本语勉强中🇯🇵｜回避性依恋｜唇腭裂几度手术修复失败者｜不介意私聊｜孤独的猫猫渴望被抚摸被关注｜hrt2年｜",
+        "id": "1529770876559708160",
+        "name": "Rika🏳️‍⚧️",
+        "pinned_tweet_id": "1821849005967745341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759444921134747648/FGmVDb9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 590,
+          "like_count": 4349,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 2696
+        },
+        "username": "DoujinYuye",
+        "verified": false
+      }
+    ]
+  }
+}

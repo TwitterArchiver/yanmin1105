@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1946031512606142473",
+    "created_at": "2025-07-18T02:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T03:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946031512606142473"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 120,
+          "tag": "逆統戰烽火"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1292518508215992322",
+          "start": 3,
+          "username": "ReversedFrontTW"
+        }
+      ],
+      "urls": [
+        {
+          "description": "印有粉圓與她的暴言的大象杯（附粗吸管）、麻布提袋、壓克力飯友，隨商品附贈虛擬道具兌換碼（徵才告示×5）。 【每位買家限購3組】 【2025年8月1日24時結束預購】 ※此品項為實體商品，結帳時「請勿」使用虛假的收件人姓名、手機、地區、地址，以免商品無法送達。物流方式請勿選擇「遊戲內客服發送」。 ※此品項為預購，預計寄出時間為2025年9月底以前，惟不排除受產製期程影響導致提前或延後出貨。",
+          "display_url": "reversedfront.tw/products/f378a…",
+          "end": 98,
+          "expanded_url": "https://www.reversedfront.tw/products/f378a8bc-677b-4f8f-a771-abfb65a792bc",
+          "start": 75,
+          "status": 200,
+          "title": "【周邊商品限時限購】暴言粉圓之刁近干小男娘杯+提袋+壓克力飯友",
+          "unwound_url": "https://www.reversedfront.tw/products/f378a8bc-677b-4f8f-a771-abfb65a792bc",
+          "url": "https://t.co/bof8uHMQw2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946031512606142473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945697575241216048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReversedFrontTW: 【限時預購價】暴言粉圓之刁近干小男娘杯！如果賣出2000組，我們就出可以拿來摩擦的刁近干周邊商品！點此預購：https://t.co/bof8uHMQw2\n\n（每人限購3組，預購於8月1日截止）\n\n#逆統戰烽火 手遊首款周邊 臺灣製造…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1945697567179673600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCBoOwWEAA8Djn.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1946031512606142473",
+        "created_at": "2025-07-18T02:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T03:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946031512606142473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "逆統戰烽火"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1292518508215992322",
+              "start": 3,
+              "username": "ReversedFrontTW"
+            }
+          ],
+          "urls": [
+            {
+              "description": "印有粉圓與她的暴言的大象杯（附粗吸管）、麻布提袋、壓克力飯友，隨商品附贈虛擬道具兌換碼（徵才告示×5）。 【每位買家限購3組】 【2025年8月1日24時結束預購】 ※此品項為實體商品，結帳時「請勿」使用虛假的收件人姓名、手機、地區、地址，以免商品無法送達。物流方式請勿選擇「遊戲內客服發送」。 ※此品項為預購，預計寄出時間為2025年9月底以前，惟不排除受產製期程影響導致提前或延後出貨。",
+              "display_url": "reversedfront.tw/products/f378a…",
+              "end": 98,
+              "expanded_url": "https://www.reversedfront.tw/products/f378a8bc-677b-4f8f-a771-abfb65a792bc",
+              "start": 75,
+              "status": 200,
+              "title": "【周邊商品限時限購】暴言粉圓之刁近干小男娘杯+提袋+壓克力飯友",
+              "unwound_url": "https://www.reversedfront.tw/products/f378a8bc-677b-4f8f-a771-abfb65a792bc",
+              "url": "https://t.co/bof8uHMQw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946031512606142473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945697575241216048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReversedFrontTW: 【限時預購價】暴言粉圓之刁近干小男娘杯！如果賣出2000組，我們就出可以拿來摩擦的刁近干周邊商品！點此預購：https://t.co/bof8uHMQw2\n\n（每人限購3組，預購於8月1日截止）\n\n#逆統戰烽火 手遊首款周邊 臺灣製造…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945697567179673600"
+          ]
+        },
+        "author_id": "1292518508215992322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1945697575241216048",
+        "created_at": "2025-07-17T04:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945697575241216048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 99,
+              "tag": "逆統戰烽火"
+            }
+          ],
+          "urls": [
+            {
+              "description": "印有粉圓與她的暴言的大象杯（附粗吸管）、麻布提袋、壓克力飯友，隨商品附贈虛擬道具兌換碼（徵才告示×5）。 【每位買家限購3組】 【2025年8月1日24時結束預購】 ※此品項為實體商品，結帳時「請勿」使用虛假的收件人姓名、手機、地區、地址，以免商品無法送達。物流方式請勿選擇「遊戲內客服發送」。 ※此品項為預購，預計寄出時間為2025年9月底以前，惟不排除受產製期程影響導致提前或延後出貨。",
+              "display_url": "reversedfront.tw/products/f378a…",
+              "end": 77,
+              "expanded_url": "https://www.reversedfront.tw/products/f378a8bc-677b-4f8f-a771-abfb65a792bc",
+              "start": 54,
+              "status": 200,
+              "title": "【周邊商品限時限購】暴言粉圓之刁近干小男娘杯+提袋+壓克力飯友",
+              "unwound_url": "https://www.reversedfront.tw/products/f378a8bc-677b-4f8f-a771-abfb65a792bc",
+              "url": "https://t.co/bof8uHMQw2"
+            },
+            {
+              "display_url": "pic.x.com/LXSy6wVsqP",
+              "end": 141,
+              "expanded_url": "https://x.com/ReversedFrontTW/status/1945697575241216048/photo/1",
+              "media_key": "3_1945697567179673600",
+              "start": 118,
+              "url": "https://t.co/LXSy6wVsqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945697575241216048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 25307,
+          "like_count": 578,
+          "quote_count": 11,
+          "reply_count": 35,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "【限時預購價】暴言粉圓之刁近干小男娘杯！如果賣出2000組，我們就出可以拿來摩擦的刁近干周邊商品！點此預購：https://t.co/bof8uHMQw2\n\n（每人限購3組，預購於8月1日截止）\n\n#逆統戰烽火 手遊首款周邊 臺灣製造 https://t.co/LXSy6wVsqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 262,
+          "like_count": 1603,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 691
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T17:50:11.000Z",
+        "description": "现代东亚国战手游《逆统战：烽火》安卓APK游戏安装档下载：https://t.co/0mPCdj9fKr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reversedfront.tw/pages/sc_apk",
+                "end": 52,
+                "expanded_url": "https://www.reversedfront.tw/pages/sc_apk",
+                "start": 29,
+                "url": "https://t.co/0mPCdj9fKr"
+              }
+            ]
+          }
+        },
+        "id": "1292518508215992322",
+        "name": "逆統戰：烽火 Reversed Front: Bonfire",
+        "pinned_tweet_id": "1945697575241216048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679048240510160897/YXcxgshb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15369,
+          "following_count": 341,
+          "like_count": 2249,
+          "listed_count": 42,
+          "media_count": 503,
+          "tweet_count": 2866
+        },
+        "username": "ReversedFrontTW",
+        "verified": true
+      }
+    ]
+  }
+}

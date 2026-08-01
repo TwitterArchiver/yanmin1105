@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1979164229245571290",
+    "created_at": "2025-10-18T01:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T02:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979355683113046315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "JohnKazuha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979355683113046315",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979164229245571290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnKazuha 带走，变成黑奴天天给我做麦当劳吃（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979164224988319744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dnYGaXEAA0Pb7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1979164229245571290",
+        "created_at": "2025-10-18T01:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T02:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979355683113046315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "JohnKazuha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979355683113046315",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979164229245571290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnKazuha 带走，变成黑奴天天给我做麦当劳吃（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979164224988319744"
+          ]
+        },
+        "author_id": "1554286007096590336",
+        "conversation_id": "1979164229245571290",
+        "created_at": "2025-10-17T12:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979164229245571290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAvkSjReeV",
+              "end": 37,
+              "expanded_url": "https://x.com/JohnKazuha/status/1979164229245571290/photo/1",
+              "media_key": "3_1979164224988319744",
+              "start": 14,
+              "url": "https://t.co/QAvkSjReeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979164229245571290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1585,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢的话就把小雨带回家叭🥺 https://t.co/QAvkSjReeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 346,
+          "like_count": 2918,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1217
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "欢迎来和我一起Van♂ 😋｜酒蒙子｜ex @WandererFly｜高中生牛马麦当劳学兼｜对一切性向性别认同政治认同友好｜\n欢迎扩列喵年龄不能差太多哦｜\n08/179cm/75kg/m/0.5偏1只做0/🏳️‍🌈G xp很杂\n里@JasonKazuha｜\n🔞&⚠️情绪低落警告｜\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "WandererFly"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BGA2X"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John",
+        "pinned_tweet_id": "1952234170568351796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 2763,
+          "like_count": 8201,
+          "listed_count": 1,
+          "media_count": 728,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/k7YP9BGA2X",
+        "username": "JohnKazuha",
+        "verified": false
+      }
+    ]
+  }
+}

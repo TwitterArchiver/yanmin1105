@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1958922591407939721",
+    "created_at": "2025-08-23T14:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T15:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959266123981246603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 25,
+          "id": "1472111867036594179",
+          "start": 16,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959266123981246603",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958922591407939721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @SeimoDev 指日可待…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958922584055324674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy99th0boAI0j_K.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1958922591407939721",
+        "created_at": "2025-08-23T14:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959266123981246603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 25,
+              "id": "1472111867036594179",
+              "start": 16,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959266123981246603",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958922591407939721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @SeimoDev 指日可待…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958922584055324674"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "1958922591407939721",
+        "created_at": "2025-08-22T16:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T17:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958922591407939721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLFhWjUErV",
+              "end": 28,
+              "expanded_url": "https://x.com/RainEngine2024/status/1958922591407939721/photo/1",
+              "media_key": "3_1958922584055324674",
+              "start": 5,
+              "url": "https://t.co/vLFhWjUErV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958922591407939721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1418,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要了（ https://t.co/vLFhWjUErV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 306,
+          "like_count": 2062,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 881
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/小米合作伙伴/07年/貌似不是学生/喜欢摄影/喜欢折腾各类的手机/欢迎各位小伙伴互fo",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1947956179180687702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944672141984825344/HUOGHaJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 306,
+          "like_count": 8036,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1567
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨WorkWork!丨Spark Lab丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议丨@workworkorg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 113,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 90,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362795879809025/HbzzOBdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 654,
+          "like_count": 7359,
+          "listed_count": 1,
+          "media_count": 1078,
+          "tweet_count": 4520
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": false
+      }
+    ]
+  }
+}

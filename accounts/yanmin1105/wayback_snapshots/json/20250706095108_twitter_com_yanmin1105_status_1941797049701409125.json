@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1941797049701409125",
+    "created_at": "2025-07-06T09:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T10:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941797049701409125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 52,
+          "id": "868831876315848705",
+          "start": 43,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "性价值观测试",
+          "display_url": "idrlabs.com/cn/sex-values/…",
+          "end": 39,
+          "expanded_url": "https://www.idrlabs.com/cn/sex-values/14.29-62.5-41.67-43.75-62.5/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1941797050951372800/mFbRIR1j?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1941797050951372800/mFbRIR1j?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "性价值观测试：我的性价值观分数",
+          "unwound_url": "https://www.idrlabs.com/cn/sex-values/14.29-62.5-41.67-43.75-62.5/result.php",
+          "url": "https://t.co/AYk6W2IMEy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941797049701409125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性价值观测试：我的性价值观分数 https://t.co/AYk6W2IMEy 来自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1941797049701409125",
+        "created_at": "2025-07-06T09:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941797049701409125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "868831876315848705",
+              "start": 43,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性价值观测试",
+              "display_url": "idrlabs.com/cn/sex-values/…",
+              "end": 39,
+              "expanded_url": "https://www.idrlabs.com/cn/sex-values/14.29-62.5-41.67-43.75-62.5/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1941797050951372800/mFbRIR1j?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1941797050951372800/mFbRIR1j?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "性价值观测试：我的性价值观分数",
+              "unwound_url": "https://www.idrlabs.com/cn/sex-values/14.29-62.5-41.67-43.75-62.5/result.php",
+              "url": "https://t.co/AYk6W2IMEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941797049701409125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性价值观测试：我的性价值观分数 https://t.co/AYk6W2IMEy 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 239,
+          "like_count": 1463,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 630
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "name": "IDRlabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9815,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 43,
+          "media_count": 19,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

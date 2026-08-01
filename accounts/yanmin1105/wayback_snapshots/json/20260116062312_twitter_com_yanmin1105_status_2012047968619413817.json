@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2011791235049275762",
+    "created_at": "2026-01-16T06:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012047968619413817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322365696983003136",
+          "start": 0,
+          "username": "bryanwangxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012047968619413817",
+    "in_reply_to_user_id": "1322365696983003136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012037775290482697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bryanwangxin 目前不可以，但是番茄炒蛋急了，估计也快了，Visa的热度太高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2011791235049275762",
+        "created_at": "2026-01-16T06:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012047968619413817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322365696983003136",
+              "start": 0,
+              "username": "bryanwangxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012047968619413817",
+        "in_reply_to_user_id": "1322365696983003136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012037775290482697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bryanwangxin 目前不可以，但是番茄炒蛋急了，估计也快了，Visa的热度太高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322365696983003136",
+        "conversation_id": "2011791235049275762",
+        "created_at": "2026-01-16T05:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012037775290482697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012037775290482697",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011791235049275762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 master也可以了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 378,
+          "like_count": 3260,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1315
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T02:32:14.000Z",
+        "description": "Former Photographer | Currently diver|Currently Underwater Photographers | Currently Astro-Photographer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laurainkitchen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laurainkitchen",
+                "start": 0,
+                "url": "https://t.co/XgZII4H6rf"
+              }
+            ]
+          }
+        },
+        "id": "1322365696983003136",
+        "location": "Selango, Kuala Lumpur",
+        "name": "Bryan",
+        "pinned_tweet_id": "2008722602660163840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538993840278884357/pnrcd42T_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 2671,
+          "like_count": 2653,
+          "listed_count": 4,
+          "media_count": 606,
+          "tweet_count": 12737
+        },
+        "url": "https://t.co/XgZII4H6rf",
+        "username": "bryanwangxin",
+        "verified": true
+      }
+    ]
+  }
+}

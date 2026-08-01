@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2063285186809516233",
+    "created_at": "2026-06-06T15:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063287716704555127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063287716704555127",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063285186809516233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另销售未激活giffgaff卡板，50一个，以上所有商品包邮挂信寄出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2063285186809516233",
+        "created_at": "2026-06-06T15:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063287716704555127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063287716704555127",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063285186809516233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另销售未激活giffgaff卡板，50一个，以上所有商品包邮挂信寄出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2063285186809516233",
+        "created_at": "2026-06-06T15:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063285186809516233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063285186809516233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "港澳旅游一圈，背了一点卡回来，有需要的推友可以私聊哦\n\nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:83CNY（比咸鱼便宜三四十）\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:155CNY\n特点:内含100HKD储值额，上网套餐较多，流量购买后不过期，上网体验较好，适用于既需要保号也需要部分漫游服务的用户\n\nCTHK上台卡（香港）\n运营商:中国电信香港\n此卡为月租卡，合约期24个月起，需要开卡时缴付1000HKD按金，每月最便宜的套餐98HKD，含有300分钟三地通话时长，13GB高速上网流量，超出后上网限速不限量\n另外可以申请内地副号，每日1HKD\n适用于资金较为充足，上网需求较大的用户，日常使用非常不错\n办理方式:这个我卖不了，有想要的自己去香港告士打道108号18楼门市办理\n\nCTM（澳门）\n运营商:澳门电信\n面额价:100MOP\n售价:110CNY\n特点:没啥特点，就是个澳门号码，带有自选流量\n\n中国电信澳门 港澳5日任用数据卡\n运营商:中国电信澳门\n面额价:50MOP\n售价:45CNY\n特点:仅可在澳门激活，送一个大三巴形状的卡针（还是挺好看的，但是要小心别扎到手）\n五日内用完，不可延长有效期，有10GB高速流量和不限量的低速流量，仅可在港澳使用\n\n以上所有卡除CTHK上台卡和电信五日任用卡外，均为储值卡，充值可以延长号码有效期，自选套餐用量进行使用"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "港澳旅游一圈，背了一点卡回来，有需要的推友可以私聊哦\n\nCSL（香港）\n运营商:CSL\n面额价:58HKD\n售价:83CNY（比咸鱼便宜三四十）\n特点:6HKD即可保号一年，适用于较少数或不使用该卡漫游的用户\n\nCTHK大湾区蓝卡（香港）\n运营商:中国电信香港\n面额价:100HKD\n售价:155CNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 422,
+          "like_count": 3599,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1431
+        },
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

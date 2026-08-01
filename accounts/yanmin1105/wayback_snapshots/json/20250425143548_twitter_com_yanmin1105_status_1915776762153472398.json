@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915776487015530496"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915776762153472398",
+    "created_at": "2025-04-25T14:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T15:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915776762153472398"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "xyn"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "mtf"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "hrt"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "药娘"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "邮票"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "集邮"
+        },
+        {
+          "end": 50,
+          "start": 44,
+          "tag": "stamp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ViANDfIhSw",
+          "end": 74,
+          "expanded_url": "https://x.com/yanmin1105/status/1915776762153472398/photo/1",
+          "media_key": "3_1915776487015530496",
+          "start": 51,
+          "url": "https://t.co/ViANDfIhSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915776762153472398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "价目表完成,明天九点开始营业哦~\n#xyn #mtf #hrt #药娘 #邮票 #集邮 #stamp https://t.co/ViANDfIhSw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_1915776487015530496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpY0kJGbQAAk5iE.png",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915776487015530496"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915776762153472398",
+        "created_at": "2025-04-25T14:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915776762153472398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "xyn"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "mtf"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "hrt"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "药娘"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "邮票"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "集邮"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "stamp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViANDfIhSw",
+              "end": 74,
+              "expanded_url": "https://x.com/yanmin1105/status/1915776762153472398/photo/1",
+              "media_key": "3_1915776487015530496",
+              "start": 51,
+              "url": "https://t.co/ViANDfIhSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915776762153472398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "价目表完成,明天九点开始营业哦~\n#xyn #mtf #hrt #药娘 #邮票 #集邮 #stamp https://t.co/ViANDfIhSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 140,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 133
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2008577295582458261",
+    "created_at": "2026-01-06T16:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008577295582458261"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008577295582458261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小嫣现在真的是处于咖啡因与安眠药的无限循环中了\n早上起床困困的，但是睡不着，喝咖啡提神，效果也不好\n下午稍微清醒一点\n晚上终于醒了\n睡觉前一点不困，吃了常规的1t右佐+2t曲唑酮，效果不佳，索性又补1t劳拉西泮，等待效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2008577295582458261",
+        "created_at": "2026-01-06T16:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008577295582458261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008577295582458261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小嫣现在真的是处于咖啡因与安眠药的无限循环中了\n早上起床困困的，但是睡不着，喝咖啡提神，效果也不好\n下午稍微清醒一点\n晚上终于醒了\n睡觉前一点不困，吃了常规的1t右佐+2t曲唑酮，效果不佳，索性又补1t劳拉西泮，等待效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 369,
+          "like_count": 3224,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1303
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

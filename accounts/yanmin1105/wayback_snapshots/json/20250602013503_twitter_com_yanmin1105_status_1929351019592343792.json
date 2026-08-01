@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929351003767492609",
+        "3_1929351003784220672"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1929351019592343792",
+    "created_at": "2025-06-02T01:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T02:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929351019592343792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741091789879308288",
+          "start": 3,
+          "username": "zixinmiao2"
+        },
+        {
+          "end": 32,
+          "id": "1923314882965045248",
+          "start": 21,
+          "username": "xMh1619618"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vC5NMZ83wI",
+          "end": 78,
+          "expanded_url": "https://x.com/yanmin1105/status/1929351019592343792/photo/1",
+          "media_key": "3_1929351003767492609",
+          "start": 55,
+          "url": "https://t.co/vC5NMZ83wI"
+        },
+        {
+          "display_url": "pic.x.com/vC5NMZ83wI",
+          "end": 78,
+          "expanded_url": "https://x.com/yanmin1105/status/1929351019592343792/photo/1",
+          "media_key": "3_1929351003784220672",
+          "start": 55,
+          "url": "https://t.co/vC5NMZ83wI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929351019592343792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声明:@zixinmiao2 （梓欣）被 @xMh1619618 （骗子） 皮套了，请大家注意分辨，避免上当 https://t.co/vC5NMZ83wI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929351003767492609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsZuhAqa0AE1i1k.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929351003784220672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsZuhAuaEAA1ohK.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929351003767492609",
+            "3_1929351003784220672"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1929351019592343792",
+        "created_at": "2025-06-02T01:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T02:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929351019592343792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741091789879308288",
+              "start": 3,
+              "username": "zixinmiao2"
+            },
+            {
+              "end": 32,
+              "id": "1923314882965045248",
+              "start": 21,
+              "username": "xMh1619618"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vC5NMZ83wI",
+              "end": 78,
+              "expanded_url": "https://x.com/yanmin1105/status/1929351019592343792/photo/1",
+              "media_key": "3_1929351003767492609",
+              "start": 55,
+              "url": "https://t.co/vC5NMZ83wI"
+            },
+            {
+              "display_url": "pic.x.com/vC5NMZ83wI",
+              "end": 78,
+              "expanded_url": "https://x.com/yanmin1105/status/1929351019592343792/photo/1",
+              "media_key": "3_1929351003784220672",
+              "start": 55,
+              "url": "https://t.co/vC5NMZ83wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929351019592343792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声明:@zixinmiao2 （梓欣）被 @xMh1619618 （骗子） 皮套了，请大家注意分辨，避免上当 https://t.co/vC5NMZ83wI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 187,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 376
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "梓欣です，恋人🥰🥰 @yzkeaimiao\n  ,coser/kiger/せいふくコン/写真撮影",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "yzkeaimiao"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "オキサゼパム",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926339534884622336/oETqP4k9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4405,
+          "following_count": 2046,
+          "like_count": 11496,
+          "listed_count": 10,
+          "media_count": 259,
+          "tweet_count": 2480
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T09:49:42.000Z",
+        "description": "梓欣です，恋人🥰🥰 @yzkeaimiao   ,coser/kiger/せいふくコン/写真撮影",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "yzkeaimiao"
+              }
+            ]
+          }
+        },
+        "id": "1923314882965045248",
+        "name": "オキサゼパム",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929303110083887104/C70lBC3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "xMh1619618",
+        "verified": false
+      }
+    ]
+  }
+}

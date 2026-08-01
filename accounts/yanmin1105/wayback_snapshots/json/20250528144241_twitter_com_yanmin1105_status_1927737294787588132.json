@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1927366715194630436",
+    "created_at": "2025-05-28T14:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T15:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927737294787588132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2384854741",
+          "start": 0,
+          "username": "Rinyu001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927737294787588132",
+    "in_reply_to_user_id": "2384854741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927736564106338504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyu001 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1927366715194630436",
+        "created_at": "2025-05-28T14:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T15:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927737294787588132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2384854741",
+              "start": 0,
+              "username": "Rinyu001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927737294787588132",
+        "in_reply_to_user_id": "2384854741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927736564106338504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyu001 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2384854741",
+        "conversation_id": "1927366715194630436",
+        "created_at": "2025-05-28T14:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T15:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927736564106338504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927736564106338504",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927366715194630436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 好羡慕😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 187,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 323
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-12T07:27:12.000Z",
+        "description": "🏳️‍⚧️🍥mtf/HRT：2025.1.28/无证含糖中/家暴党/LGBT+友好/泛性恋/infp/常驻浙江/07年18岁/169cm45kg/中抑中焦/高三在读/hcm/摄影爱好者/不定时营业/最好最好的宝宝：@yeeee444404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "yeeee444404"
+              }
+            ]
+          }
+        },
+        "id": "2384854741",
+        "name": "綾羽Rinyu🍥",
+        "pinned_tweet_id": "1910547147574989113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888594779652685824/Rem2lP-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 165,
+          "like_count": 2921,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1149
+        },
+        "username": "Rinyu001",
+        "verified": false
+      }
+    ]
+  }
+}

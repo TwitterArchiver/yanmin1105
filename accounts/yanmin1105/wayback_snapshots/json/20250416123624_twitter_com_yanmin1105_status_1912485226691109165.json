@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912476131124764897",
+    "created_at": "2025-04-16T12:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T13:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912485226691109165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799987405161684992",
+          "start": 0,
+          "username": "TAKUSAMA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912485226691109165",
+    "in_reply_to_user_id": "1799987405161684992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912484958800867612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAKUSAMA0 体检家长应该不能跟进去吧，你就说当天头疼/感冒什么的，不想去，到了医院，就只能祝你好运了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912476131124764897",
+        "created_at": "2025-04-16T12:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912485226691109165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799987405161684992",
+              "start": 0,
+              "username": "TAKUSAMA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912485226691109165",
+        "in_reply_to_user_id": "1799987405161684992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912484958800867612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAKUSAMA0 体检家长应该不能跟进去吧，你就说当天头疼/感冒什么的，不想去，到了医院，就只能祝你好运了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799987405161684992",
+        "conversation_id": "1912476131124764897",
+        "created_at": "2025-04-16T12:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912484958800867612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912484958800867612",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912484531338354974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 但是家长怎么办、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 97,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 71
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T02:10:48.000Z",
+        "description": "唔……🤔 07高中生 / INFP / 喜欢听ヨルシカ/日语在学中/喜欢看电影🎬/喜欢摄影📷/电吉他/J-pop",
+        "id": "1799987405161684992",
+        "location": "地球",
+        "name": "未緒ミオ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911027466040229888/1FXYX_Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 173,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 231
+        },
+        "username": "TAKUSAMA0",
+        "verified": false
+      }
+    ]
+  }
+}

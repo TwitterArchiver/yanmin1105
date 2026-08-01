@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072673818162897019",
+    "created_at": "2026-07-02T15:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072697133908799875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1145191442135965696",
+          "start": 0,
+          "username": "dongfeng100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072697133908799875",
+    "in_reply_to_user_id": "1145191442135965696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072696735177281880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongfeng100 澳门的要过境记录，香港的不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072673818162897019",
+        "created_at": "2026-07-02T15:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072697133908799875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1145191442135965696",
+              "start": 0,
+              "username": "dongfeng100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072697133908799875",
+        "in_reply_to_user_id": "1145191442135965696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072696735177281880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongfeng100 澳门的要过境记录，香港的不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145191442135965696",
+        "conversation_id": "2072673818162897019",
+        "created_at": "2026-07-02T14:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072696735177281880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072696735177281880",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072696382558007796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 过境记录怎么上传"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 434,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-30T04:44:51.000Z",
+        "description": "全栈程序员进阶中🚀 | 独立开发 | 2026 年 All in AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaobingkj.com",
+                "end": 23,
+                "expanded_url": "https://xiaobingkj.com",
+                "start": 0,
+                "url": "https://t.co/t05N7PnNA9"
+              }
+            ]
+          }
+        },
+        "id": "1145191442135965696",
+        "location": "纯AI生成的→",
+        "name": "Dong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870111533260517376/QG0MfL89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 225,
+          "like_count": 394,
+          "listed_count": 5,
+          "media_count": 381,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/t05N7PnNA9",
+        "username": "dongfeng100",
+        "verified": false
+      }
+    ]
+  }
+}

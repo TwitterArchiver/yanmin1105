@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915933852435914854",
+    "created_at": "2025-04-26T10:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T11:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916073223491620921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1894461745277931524",
+          "start": 2,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 34,
+          "id": "1773379708635467776",
+          "start": 18,
+          "username": "HerbalSnow23528"
+        },
+        {
+          "end": 51,
+          "id": "1838370893187395584",
+          "start": 35,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916073223491620921",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915933852435914854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜@Rain_Antar1121 @HerbalSnow23528 @Cherry_BombY458 中奖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_1915776850137337856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpY05R1aUAAaQGS.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915933852435914854",
+        "created_at": "2025-04-26T10:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916073223491620921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1894461745277931524",
+              "start": 2,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 34,
+              "id": "1773379708635467776",
+              "start": 18,
+              "username": "HerbalSnow23528"
+            },
+            {
+              "end": 51,
+              "id": "1838370893187395584",
+              "start": 35,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916073223491620921",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915933852435914854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜@Rain_Antar1121 @HerbalSnow23528 @Cherry_BombY458 中奖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915776850137337856"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915933852435914854",
+        "created_at": "2025-04-26T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915933852435914854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "xyn"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "mtf"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "hrt"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "药娘"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "邮票"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "集邮"
+            },
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "stamp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYPVHYSZ0I",
+              "end": 120,
+              "expanded_url": "https://x.com/yanmin1105/status/1915933852435914854/photo/1",
+              "media_key": "3_1915776850137337856",
+              "start": 97,
+              "url": "https://t.co/cYPVHYSZ0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915933852435914854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1655,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "热烈庆祝嫣敏的邮票小店开业了哦,关注+评论+转发+点赞,今晚六点,随机抽取一只xyn,送出\"中国高速铁路发展成就\"型张一枚~\n#xyn #mtf #hrt #药娘 #邮票 #集邮 #stamp https://t.co/cYPVHYSZ0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1915933852435914854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 147,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 148
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 615,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 216
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:01:13.000Z",
+        "description": "你好哦～叫咱小铃/铃酱就好呢，20岁，不小心翻车的xyn，无证含糖🍥，hrt25.3.16，女装萌新，喜欢铁路、车万、术力口，tk圈小ee，174cm，57kg，欢迎来戳咱，交友可私聊加q，咱想要成为有趣的人，想要被喜欢（也好想被tickle……）希望每个人都要好好爱护自己的身体，活成自己想要的样子哦～",
+        "id": "1773379708635467776",
+        "location": "国铁济南局管内（时不时跨局）",
+        "name": "HerbalSnow🍥",
+        "pinned_tweet_id": "1895889427693760630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773406031382745089/35YvhfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 2863,
+          "like_count": 10467,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 577
+        },
+        "username": "HerbalSnow23528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / 我是看起来像坐在板凳上的一个很憔悴的人 / Mt(X→F) / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜🥹 / 讨厌自己 疯狂内耗 / (可能)不od / 卑微xyn在线卖图 @2i8OSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 139,
+                "username": "2i8OSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1910816461029065209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 713,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 432
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

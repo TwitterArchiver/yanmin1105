@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1968324198104998387",
+    "created_at": "2025-09-18T13:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968666692021612839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768252813363314688",
+          "start": 0,
+          "username": "LinKuoTianKong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968666692021612839",
+    "in_reply_to_user_id": "1768252813363314688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968659571339051442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinKuoTianKong 啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1968324198104998387",
+        "created_at": "2025-09-18T13:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968666692021612839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768252813363314688",
+              "start": 0,
+              "username": "LinKuoTianKong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968666692021612839",
+        "in_reply_to_user_id": "1768252813363314688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968659571339051442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinKuoTianKong 啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768252813363314688",
+        "conversation_id": "1968324198104998387",
+        "created_at": "2025-09-18T12:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968659571339051442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968659571339051442",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968324198104998387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 能玩嫣敏姐姐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 328,
+          "like_count": 2410,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1091
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T12:28:33.000Z",
+        "description": "不友跨了。自己也不知道什么时候翻，有点受虐倾向，有时候脑子不太灵光，脾气比较暴躁，经常被人挂，还总遭人讨厌。所发的帖子经常贴脸开大，发言很逆天，且可能出现负能量内容，请谨慎关注。想被捆，想被关进笼子……嗯很好不知道写什么",
+        "id": "1768252813363314688",
+        "location": "广西省南宁市 兴宁区长兴路8号 同和华彩美地",
+        "name": "水中月-林阔天空",
+        "pinned_tweet_id": "1912524604129825042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853342112051503104/61LjScn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 211,
+          "like_count": 41849,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 4527
+        },
+        "username": "LinKuoTianKong",
+        "verified": false
+      }
+    ]
+  }
+}

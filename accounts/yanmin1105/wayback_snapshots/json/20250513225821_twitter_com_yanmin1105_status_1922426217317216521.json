@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1922426217317216521",
+    "created_at": "2025-05-13T22:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T23:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922426217317216521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1894461745277931524",
+          "start": 3,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922426217317216521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922422487456882948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain_Antar1121: 虽然在偷文案，但…我真的彻夜未眠…因为沉浸在绝望里\n这一切…最终是我做错了\n我真的没有顾及你的意志…我是个畜牲啊…我都干了什么啊\n能原谅我吗…我都不指望了…只要还愿意理我就行\n也许你会不喜欢我发这个…怕有人骂什么的…但是我必须公开道歉了啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1922426217317216521",
+        "created_at": "2025-05-13T22:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T23:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922426217317216521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1894461745277931524",
+              "start": 3,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922426217317216521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922422487456882948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain_Antar1121: 虽然在偷文案，但…我真的彻夜未眠…因为沉浸在绝望里\n这一切…最终是我做错了\n我真的没有顾及你的意志…我是个畜牲啊…我都干了什么啊\n能原谅我吗…我都不指望了…只要还愿意理我就行\n也许你会不喜欢我发这个…怕有人骂什么的…但是我必须公开道歉了啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1922420157944565900",
+        "created_at": "2025-05-13T22:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T23:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922422487456882948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 148,
+              "id": "1744316513291747328",
+              "start": 136,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922422487456882948",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922420157944565900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然在偷文案，但…我真的彻夜未眠…因为沉浸在绝望里\n这一切…最终是我做错了\n我真的没有顾及你的意志…我是个畜牲啊…我都干了什么啊\n能原谅我吗…我都不指望了…只要还愿意理我就行\n也许你会不喜欢我发这个…怕有人骂什么的…但是我必须公开道歉了啊\n真的对不起没有留意你的感受啊…\n@shuifenziya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 178,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 233
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 这几个字放这里用来占位♡♡tivjgfoajzb | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 791,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 307
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

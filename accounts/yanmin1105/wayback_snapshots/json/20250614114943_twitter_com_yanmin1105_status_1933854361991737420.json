@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933850626112540764",
+    "created_at": "2025-06-14T11:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T12:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933854361991737420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795137310935408640",
+          "start": 0,
+          "username": "saksamalah2nd"
+        },
+        {
+          "end": 24,
+          "id": "1840055457756610560",
+          "start": 15,
+          "username": "hood8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933854361991737420",
+    "in_reply_to_user_id": "1795137310935408640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933853884071694457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saksamalah2nd @hood8964 什么东西（唔，没见过）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T11:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933854361991737420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795137310935408640",
+              "start": 0,
+              "username": "saksamalah2nd"
+            },
+            {
+              "end": 24,
+              "id": "1840055457756610560",
+              "start": 15,
+              "username": "hood8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933854361991737420",
+        "in_reply_to_user_id": "1795137310935408640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933853884071694457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saksamalah2nd @hood8964 什么东西（唔，没见过）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795137310935408640",
+        "conversation_id": "1933850626112540764",
+        "created_at": "2025-06-14T11:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933853884071694457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            },
+            {
+              "end": 21,
+              "id": "1904539885769457665",
+              "start": 10,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933853884071694457",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933851878720463351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 @yanmin1105 不小心吃了penadol怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 214,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 482
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T16:57:58.000Z",
+        "description": "马来西亚是马来西亚人的马来西亚😞   不要遵宪要修宪📕  不要主人要平等📜 人民至上👨🛠 Ketuanan Rakyat  一國三制🇲🇾❤|惠州人|@lmao_quien @Muoujiang_ ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "lmao_quien"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Muoujiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/g0moet-jLw8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/g0moet-jLw8?si=IxPxG6Xe51xCb20d",
+                "start": 0,
+                "url": "https://t.co/GwUECa6oIO"
+              }
+            ]
+          }
+        },
+        "id": "1795137310935408640",
+        "location": "重庆 马来西亚/（广东省）闽粤交界",
+        "name": "向日葵🌻",
+        "pinned_tweet_id": "1928823430796976162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931578182454644737/I1JnCtn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 1495,
+          "like_count": 77617,
+          "listed_count": 8,
+          "media_count": 1868,
+          "tweet_count": 26890
+        },
+        "url": "https://t.co/GwUECa6oIO",
+        "username": "saksamalah2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "@SLhttpssri26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "SLhttpssri26"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "name": "46亿年的紅移与紅移驭者🏳️‍⚧️",
+        "pinned_tweet_id": "1917169464879046853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933217080926408704/ZMQVVU87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1589,
+          "like_count": 62573,
+          "listed_count": 5,
+          "media_count": 776,
+          "tweet_count": 14499
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

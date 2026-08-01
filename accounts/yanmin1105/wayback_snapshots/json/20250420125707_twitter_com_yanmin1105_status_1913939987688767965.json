@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1913911925626564664",
+    "created_at": "2025-04-20T12:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T13:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913939987688767965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913939987688767965",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913911925626564664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 也是进圈了，赢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1913911923588186113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-UwRDbwAEfrNO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1913911925626564664",
+        "created_at": "2025-04-20T12:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T13:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913939987688767965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913939987688767965",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913911925626564664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 也是进圈了，赢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913911923588186113"
+          ]
+        },
+        "author_id": "1741091789879308288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1913911925626564664",
+        "created_at": "2025-04-20T11:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913911925626564664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1913863755974512640/I4kitvIc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1913863755974512640/I4kitvIc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/U78q4mUWg3"
+            },
+            {
+              "display_url": "pic.x.com/tbMqyGqkBb",
+              "end": 64,
+              "expanded_url": "https://x.com/zixinmiao2/status/1913911925626564664/photo/1",
+              "media_key": "3_1913911923588186113",
+              "start": 41,
+              "url": "https://t.co/tbMqyGqkBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913911925626564664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 361,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/U78q4mUWg3 https://t.co/tbMqyGqkBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 113,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 95
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4, 萌新kiger/日语N2备考ing,欢迎大家找我集邮\n///主人:@blhpc/好朋友@kukudejiaxibei\n//永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 76,
+                "username": "blhpc"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥（不再内耗）",
+        "pinned_tweet_id": "1912687293678383340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913750927179472896/ylvFAADB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 1482,
+          "like_count": 8917,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1951
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1997805636038570382",
+    "created_at": "2025-12-08T15:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998055687855997355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        },
+        {
+          "end": 22,
+          "id": "1589809419822329857",
+          "start": 13,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998055687855997355",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998027217675382835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano @jianlvup 不过你要是煮树皮我也没意见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1997805636038570382",
+        "created_at": "2025-12-08T15:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998055687855997355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            },
+            {
+              "end": 22,
+              "id": "1589809419822329857",
+              "start": 13,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998055687855997355",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998027217675382835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano @jianlvup 不过你要是煮树皮我也没意见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "1997805636038570382",
+        "created_at": "2025-12-08T13:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998027217675382835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998027217675382835",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997805636038570382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 东方树叶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 366,
+          "like_count": 3153,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1262
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 2010.5 | 欢迎互fo! | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 里推@Yumo_1314 | 傻傻的萌萌的笨蛋宝宝💕@qwqawanya 最好的大姐姐@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "qwqawanya"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5YyzgB"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "中国大陆",
+        "name": "绫乃Ayano🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974339366408630432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985745698982363136/vwaNlsV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 2343,
+          "like_count": 8413,
+          "listed_count": 6,
+          "media_count": 763,
+          "tweet_count": 8500
+        },
+        "url": "https://t.co/1HZl5YyzgB",
+        "username": "MinaseAyano",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人  INTJ 欢迎交流 爱评论点赞 \n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "jianlvya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1997805636038570382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992981633105113088/ZtR4hyl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13564,
+          "following_count": 1131,
+          "like_count": 62404,
+          "listed_count": 46,
+          "media_count": 2187,
+          "tweet_count": 4932
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072584285161500872",
+    "created_at": "2026-07-02T07:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072584582428512500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072584582428512500",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072584285161500872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "需要预约后提前打印一张预约单，一张护照复印件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072584261308407808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNMZ5ZaYAA2qLW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2072584261300027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNMZ5XagAA3_1r.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072584261211987968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNMZ5CbIAA6ZKm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T07:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072584582428512500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072584582428512500",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072584285161500872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "需要预约后提前打印一张预约单，一张护照复印件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072584261308407808",
+            "3_2072584261300027392",
+            "3_2072584261211987968"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T07:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072584285161500872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YworeqVm8I",
+              "end": 189,
+              "expanded_url": "https://x.com/yanmin1105/status/2072584285161500872/photo/1",
+              "media_key": "3_2072584261308407808",
+              "start": 166,
+              "url": "https://t.co/YworeqVm8I"
+            },
+            {
+              "display_url": "pic.x.com/YworeqVm8I",
+              "end": 189,
+              "expanded_url": "https://x.com/yanmin1105/status/2072584285161500872/photo/1",
+              "media_key": "3_2072584261300027392",
+              "start": 166,
+              "url": "https://t.co/YworeqVm8I"
+            },
+            {
+              "display_url": "pic.x.com/YworeqVm8I",
+              "end": 189,
+              "expanded_url": "https://x.com/yanmin1105/status/2072584285161500872/photo/1",
+              "media_key": "3_2072584261211987968",
+              "start": 166,
+              "url": "https://t.co/YworeqVm8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072584285161500872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 182,
+                "id": "1545277694325116928",
+                "start": 173,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "text": "手搓ITIN第一步\n美国大使馆预约公证护照\n成本:公证费50USD（接受美元纸钱，人民币纸钱，Mastercard，Visa，AMEX，Discovery，Diner Clubs    不收银联不收万事顺，不设找零）自带一张护照复印件\n提前在美国大使馆官网预约\n与签证的通道不同，需要告知工作人员是去做公证，但也需要存包和电子设备\n详情见杂鱼小铨@yongquan 的推文"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "手搓ITIN第一步\n美国大使馆预约公证护照\n成本:公证费50USD（接受美元纸钱，人民币纸钱，Mastercard，Visa，AMEX，Discovery，Diner Clubs    不收银联不收万事顺，不设找零）自带一张护照复印件\n提前在美国大使馆官网预约\n与签证的通道不同，需要告知工作人员是去做公证，但也需要存包和电子设备 https://t.co/YworeqVm8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 433,
+          "like_count": 3852,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

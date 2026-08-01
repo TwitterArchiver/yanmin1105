@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1909080272223789304",
+    "created_at": "2025-04-07T10:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T11:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909186638334304362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 26,
+          "id": "1741091789879308288",
+          "start": 15,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909186638334304362",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909185513275482544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy @zixinmiao2 你好像，上当了吧，以后建议去“邮宝”App看看（我不是广告），1992-14，国际空间年0.3一张，面额20分，那更不对了啊，要不补收0.6（补差）要不补收1.2元，怎么出来的0.8这个价格呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909080272223789304",
+        "created_at": "2025-04-07T10:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T11:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909186638334304362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 26,
+              "id": "1741091789879308288",
+              "start": 15,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909186638334304362",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909185513275482544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @zixinmiao2 你好像，上当了吧，以后建议去“邮宝”App看看（我不是广告），1992-14，国际空间年0.3一张，面额20分，那更不对了啊，要不补收0.6（补差）要不补收1.2元，怎么出来的0.8这个价格呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1909080272223789304",
+        "created_at": "2025-04-07T10:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T11:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909185513275482544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 23,
+              "id": "1741091789879308288",
+              "start": 12,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909185513275482544",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909185255388442697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @zixinmiao2 欸\n这是我从商家手里买的纪念款邮票，六十块（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 50,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 2183,
+          "like_count": 13997,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 3677
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4，日语N2备考ing,欢迎大家找我集邮喵。永远的老婆 @kukudejiaxibei\n 主人:@blhpc/\n永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "username": "blhpc"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908871372396449792/QwIZkidc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1295,
+          "like_count": 7078,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1384
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

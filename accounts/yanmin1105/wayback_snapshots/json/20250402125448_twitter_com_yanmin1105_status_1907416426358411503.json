@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1907268541931479498",
+    "created_at": "2025-04-02T12:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T13:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907416426358411503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646848221879365632",
+          "start": 0,
+          "username": "Michisa37677141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907416426358411503",
+    "in_reply_to_user_id": "1646848221879365632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907268541931479498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michisa37677141 好主意，但可是要搞什么口味的呢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1907268541931479498",
+        "created_at": "2025-04-02T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907416426358411503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646848221879365632",
+              "start": 0,
+              "username": "Michisa37677141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907416426358411503",
+        "in_reply_to_user_id": "1646848221879365632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907268541931479498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michisa37677141 好主意，但可是要搞什么口味的呢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646848221879365632",
+        "conversation_id": "1907268541931479498",
+        "created_at": "2025-04-02T03:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T04:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907268541931479498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/1906937557595906174",
+              "start": 38,
+              "url": "https://t.co/m7bq3VClK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907268541931479498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906937557595906174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打算开发一款这样包装的饮料，里面含戊酸雌二醇2mg，大家怎么看？一次卖一箱 https://t.co/m7bq3VClK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T12:10:02.000Z",
+        "description": "-ˋˏ对象ˎˊ- @xingleizhitong ❤️ , MTF🍥，INTP-T🤔，程序媛💻 （",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "xingleizhitong"
+              }
+            ]
+          }
+        },
+        "id": "1646848221879365632",
+        "name": "Michisan🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906337888910155776/5yz1zIJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 329,
+          "like_count": 1994,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 2036
+        },
+        "username": "Michisa37677141",
+        "verified": false
+      }
+    ]
+  }
+}

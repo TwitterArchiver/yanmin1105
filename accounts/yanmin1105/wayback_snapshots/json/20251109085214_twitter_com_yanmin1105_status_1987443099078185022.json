@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987443086323322880"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987443099078185022",
+    "created_at": "2025-11-09T08:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T09:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987443099078185022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 42,
+          "id": "1647170304844914689",
+          "start": 26,
+          "username": "DustSwallo15805"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vb93ETJuDQ",
+          "end": 66,
+          "expanded_url": "https://x.com/yanmin1105/status/1987443099078185022/photo/1",
+          "media_key": "3_1987443086323322880",
+          "start": 43,
+          "url": "https://t.co/vb93ETJuDQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987443099078185022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天津市第298号邮政信箱\n新增固定资产\n减速带一条\n@DustSwallo15805 https://t.co/vb93ETJuDQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987443086323322880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TQ9QObkAA9shG.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987443086323322880"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987443099078185022",
+        "created_at": "2025-11-09T08:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987443099078185022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1647170304844914689",
+              "start": 26,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vb93ETJuDQ",
+              "end": 66,
+              "expanded_url": "https://x.com/yanmin1105/status/1987443099078185022/photo/1",
+              "media_key": "3_1987443086323322880",
+              "start": 43,
+              "url": "https://t.co/vb93ETJuDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987443099078185022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天津市第298号邮政信箱\n新增固定资产\n减速带一条\n@DustSwallo15805 https://t.co/vb93ETJuDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 359,
+          "like_count": 3036,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1249
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1986988676354875520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 533,
+          "like_count": 51281,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 2840
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

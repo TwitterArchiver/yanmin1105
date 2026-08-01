@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2071492205739680049",
+    "created_at": "2026-06-29T09:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071520884947669055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 20,
+          "id": "1287994312714670080",
+          "start": 10,
+          "username": "bozhuLANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071520884947669055",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071495529591341117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt @bozhuLANG 四张卡咪，那个Visa以及之前的红貔裘，中国心那种万事达外币单标也算的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2071492205739680049",
+        "created_at": "2026-06-29T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071520884947669055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 20,
+              "id": "1287994312714670080",
+              "start": 10,
+              "username": "bozhuLANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071520884947669055",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071495529591341117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @bozhuLANG 四张卡咪，那个Visa以及之前的红貔裘，中国心那种万事达外币单标也算的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2071492205739680049",
+        "created_at": "2026-06-29T07:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071495529591341117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287994312714670080",
+              "start": 0,
+              "username": "bozhuLANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071495529591341117",
+        "in_reply_to_user_id": "1287994312714670080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071492205739680049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bozhuLANG 最多有4个人民币账户吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 434,
+          "like_count": 3804,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 946,
+          "like_count": 64875,
+          "listed_count": 11,
+          "media_count": 1408,
+          "tweet_count": 16312
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T06:12:35.000Z",
+        "description": "「波珠朗」 aka 『BZLang』｜ Former aircraft mechanic, graduated from Vehicle Proposal Engineering at National Civil Aviation University of China. 中國民航大學 飛行器動力工程。",
+        "id": "1287994312714670080",
+        "location": "CAN / ZGGG; KIX / RJBB. 系廣東仔! ",
+        "name": "BZLang",
+        "pinned_tweet_id": "2044795533886460352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289474702788960256/pwpMRqa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 1497,
+          "like_count": 189270,
+          "listed_count": 6,
+          "media_count": 4630,
+          "tweet_count": 28978
+        },
+        "url": "",
+        "username": "bozhuLANG",
+        "verified": false
+      }
+    ]
+  }
+}

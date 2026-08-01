@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1923682695080706304",
+    "created_at": "2025-05-17T10:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T11:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923683896417452322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829411930458718208",
+          "start": 0,
+          "username": "Natsuki_Akko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923683896417452322",
+    "in_reply_to_user_id": "1829411930458718208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923682695080706304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_Akko 暂时不打算术喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1923682695080706304",
+        "created_at": "2025-05-17T10:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923683896417452322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829411930458718208",
+              "start": 0,
+              "username": "Natsuki_Akko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923683896417452322",
+        "in_reply_to_user_id": "1829411930458718208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923682695080706304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_Akko 暂时不打算术喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829411930458718208",
+        "conversation_id": "1923682695080706304",
+        "created_at": "2025-05-17T10:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923682695080706304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanmin1105/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/yanmin1105/status/1920463388527743058",
+              "start": 76,
+              "url": "https://t.co/OP5xRYOYEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923682695080706304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920463388527743058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕年龄党\n小小年纪就开出诊断证明来了\n不像我一直在蹉跎年华\n未来前途不可限量\n大学毕业前手术改证\n不再是梦，不在话下\n祝愿大家前路都顺利\n😮‍💨🥹🥹 https://t.co/OP5xRYOYEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 181,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 250
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T06:55:21.000Z",
+        "description": "栗子妹妹@lhoy440777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "lhoy440777"
+              }
+            ]
+          }
+        },
+        "id": "1829411930458718208",
+        "location": "ハルピン",
+        "name": "希希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912662621687619584/-55spIo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 1158,
+          "like_count": 17257,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 296
+        },
+        "username": "Natsuki_Akko",
+        "verified": false
+      }
+    ]
+  }
+}

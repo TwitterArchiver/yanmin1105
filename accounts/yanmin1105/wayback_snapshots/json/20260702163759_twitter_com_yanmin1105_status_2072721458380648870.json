@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072584285161500872",
+    "created_at": "2026-07-02T16:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072721458380648870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "841320619484557313",
+          "start": 0,
+          "username": "tangua2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072721458380648870",
+    "in_reply_to_user_id": "841320619484557313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072720563122872793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangua2022 这个公证是用于在不进行邮寄实体护照的情况下，申请ITIN的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T16:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072721458380648870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "841320619484557313",
+              "start": 0,
+              "username": "tangua2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072721458380648870",
+        "in_reply_to_user_id": "841320619484557313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072720563122872793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangua2022 这个公证是用于在不进行邮寄实体护照的情况下，申请ITIN的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841320619484557313",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T16:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072720563122872793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072720563122872793",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072584285161500872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 好奇，这种公证了有什么实际应用的地方吗？\n难道是美宝出生后，使用的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 433,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-13T16:10:41.000Z",
+        "description": "潜潜水，灌灌水，不参与任何圈子。\n不看私信。",
+        "id": "841320619484557313",
+        "location": "United Kingdom",
+        "name": "TG🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520054807934947332/87ufzu27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 713,
+          "like_count": 1028,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 3170
+        },
+        "url": "",
+        "username": "tangua2022",
+        "verified": false
+      }
+    ]
+  }
+}

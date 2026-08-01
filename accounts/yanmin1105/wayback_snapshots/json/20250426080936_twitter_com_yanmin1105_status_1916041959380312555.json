@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915980057367154699",
+    "created_at": "2025-04-26T08:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916041959380312555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637759072115261440",
+          "start": 0,
+          "username": "MiaoZephyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916041959380312555",
+    "in_reply_to_user_id": "1637759072115261440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915980057367154699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoZephyr 抽抽我哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915980054242463744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpbttUHbEAApCfH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915980057367154699",
+        "created_at": "2025-04-26T08:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916041959380312555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637759072115261440",
+              "start": 0,
+              "username": "MiaoZephyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916041959380312555",
+        "in_reply_to_user_id": "1637759072115261440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915980057367154699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoZephyr 抽抽我哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915980054242463744"
+          ]
+        },
+        "author_id": "1637759072115261440",
+        "conversation_id": "1915980057367154699",
+        "created_at": "2025-04-26T04:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T05:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915980057367154699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT0YzEZ975",
+              "end": 141,
+              "expanded_url": "https://x.com/MiaoZephyr/status/1915980057367154699/photo/1",
+              "media_key": "3_1915980054242463744",
+              "start": 118,
+              "url": "https://t.co/DT0YzEZ975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915980057367154699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2254,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "全网首发！雌二醇凝胶3.0无酒精版-雌二醇乳液！还是0.3%的含量，温和无刺激，肤感清爽，但是会比酒精凝胶干得慢。\n点赞关注且转发此推抽两个110g的正装\n另外想绘制血药浓度曲线，需要可以测一次激素的亲🥺，有条件的可以私我，免费送正装 https://t.co/DT0YzEZ975"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1915933852435914854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 147,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 146
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T10:13:58.000Z",
+        "description": "『彩虹厨房』实验室官方号，研究各种化妆品配方，主营5倍雌二醇凝胶和高浓度美白精华，日雌和色谱龙找@yaoniangmao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yaoniangmao"
+              }
+            ]
+          }
+        },
+        "id": "1637759072115261440",
+        "name": "小怪兽🏳️‍⚧️",
+        "pinned_tweet_id": "1891718536654913726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773291055452139520/3hyvjI66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 242,
+          "like_count": 2753,
+          "listed_count": 8,
+          "media_count": 128,
+          "tweet_count": 2198
+        },
+        "username": "MiaoZephyr",
+        "verified": false
+      }
+    ]
+  }
+}

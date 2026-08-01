@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1926559094636159080",
+    "created_at": "2025-05-25T08:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T09:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926559094636159080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1634197813973356544",
+          "start": 3,
+          "username": "xingleizhitong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926559094636159080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926540970989957359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingleizhitong: 【🌟星愿工坊·特别日子福利抽奖】  \n\n🔥 **重磅奖品**：  \n✅ **庚酸雌二醇大瓶** ×1（幸运儿就是你！）  \n\n📌 参与方式：  \n1️⃣ **关注**\n2️⃣ **点赞** + **转发**本条动态  \n3️⃣ 评论✨…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1926559094636159080",
+        "created_at": "2025-05-25T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926559094636159080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1634197813973356544",
+              "start": 3,
+              "username": "xingleizhitong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926559094636159080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926540970989957359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingleizhitong: 【🌟星愿工坊·特别日子福利抽奖】  \n\n🔥 **重磅奖品**：  \n✅ **庚酸雌二醇大瓶** ×1（幸运儿就是你！）  \n\n📌 参与方式：  \n1️⃣ **关注**\n2️⃣ **点赞** + **转发**本条动态  \n3️⃣ 评论✨…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634197813973356544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1926540970989957359",
+        "created_at": "2025-05-25T07:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926540970989957359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "雌激素"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "药娘"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "mtf"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "原神"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "跨性别"
+            },
+            {
+              "end": 163,
+              "start": 158,
+              "tag": "王者荣耀"
+            },
+            {
+              "end": 169,
+              "start": 164,
+              "tag": "开放世界"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "糖商"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "鸣潮"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926540970989957359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "【🌟星愿工坊·特别日子福利抽奖】  \n\n🔥 **重磅奖品**：  \n✅ **庚酸雌二醇大瓶** ×1（幸运儿就是你！）  \n\n📌 参与方式：  \n1️⃣ **关注**\n2️⃣ **点赞** + **转发**本条动态  \n3️⃣ 评论✨  \n\n⏰ 开奖时间：5月28日\n\n#雌激素 #药娘 #mtf #原神 #跨性别 #王者荣耀 #开放世界 #糖商 #鸣潮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 186,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 281
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T14:21:46.000Z",
+        "description": "星愿小铺高级CEO~蜀道山废物道士是也~也是个连自己都骗的迷茫坐忘道~ 是个僵尸--旱魃 控梦术！ 是个三流作家 敬佩的人 @duoren6221 小RBQ @Michisa37677141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "duoren6221"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Michisa37677141"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starwish.cat",
+                "end": 23,
+                "expanded_url": "https://starwish.cat/",
+                "start": 0,
+                "url": "https://t.co/8eIYj9tuzq"
+              }
+            ]
+          }
+        },
+        "id": "1634197813973356544",
+        "location": "蜀道山",
+        "name": "星泪之瞳(🍬糖商)",
+        "pinned_tweet_id": "1903740096748368231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651781562751660032/gPOuArD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 712,
+          "like_count": 1729,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/8eIYj9tuzq",
+        "username": "xingleizhitong",
+        "verified": false
+      }
+    ]
+  }
+}

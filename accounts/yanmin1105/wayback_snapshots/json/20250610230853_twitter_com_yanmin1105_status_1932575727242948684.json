@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1932575727242948684",
+    "created_at": "2025-06-10T23:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T00:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932575727242948684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904873292366036992",
+          "start": 3,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932575727242948684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932465163678179383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiyuyu520: 发个抽奖～\n特等：5盒国产补佳乐 1mg*21\n一等：3盒国产补佳乐 1mg*21\n二等：1盒国产补佳乐 1mg*21\n三等：咱给你点杯喝的\n（品牌口味自选）\n参与方式：转发本帖并评论\n开奖时间：等池鱼达到1000fo当天开奖 人工把所有评论ID…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1932465159081242625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtF-0tPbMAEkJsB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1932575727242948684",
+        "created_at": "2025-06-10T23:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T00:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932575727242948684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904873292366036992",
+              "start": 3,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932575727242948684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932465163678179383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiyuyu520: 发个抽奖～\n特等：5盒国产补佳乐 1mg*21\n一等：3盒国产补佳乐 1mg*21\n二等：1盒国产补佳乐 1mg*21\n三等：咱给你点杯喝的\n（品牌口味自选）\n参与方式：转发本帖并评论\n开奖时间：等池鱼达到1000fo当天开奖 人工把所有评论ID…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932465159081242625"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1932465163678179383",
+        "created_at": "2025-06-10T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932465163678179383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4rSDpiiX0",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1932465163678179383/photo/1",
+              "media_key": "3_1932465159081242625",
+              "start": 136,
+              "url": "https://t.co/v4rSDpiiX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932465163678179383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "发个抽奖～\n特等：5盒国产补佳乐 1mg*21\n一等：3盒国产补佳乐 1mg*21\n二等：1盒国产补佳乐 1mg*21\n三等：咱给你点杯喝的\n（品牌口味自选）\n参与方式：转发本帖并评论\n开奖时间：等池鱼达到1000fo当天开奖 人工把所有评论ID标出序号然后抽随机数开奖\n（如果1000fo时帖子还在继续大范围传播，会延迟开奖，尽量让所有看见的人都有参与机会）\n说明：5盒3盒国补由池鱼在苏州本地发出，包邮，只发邮政。\n1盒补佳乐因为发快递不划算不如直接买，所以提供地址后会在美团等平台上直接购买邮寄到你所提供的地址\n抽到奶茶的私聊加QQ/telegram，即时通讯提供信息\n中奖者需要私信地址，5天内不发送私信视为放弃，不再补发。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3589,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "发个抽奖～\n特等：5盒国产补佳乐 1mg*21\n一等：3盒国产补佳乐 1mg*21\n二等：1盒国产补佳乐 1mg*21\n三等：咱给你点杯喝的\n（品牌口味自选）\n参与方式：转发本帖并评论\n开奖时间：等池鱼达到1000fo当天开奖 人工把所有评论ID标出序号然后抽随机数开奖 https://t.co/v4rSDpiiX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 204,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 467
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 710,
+          "like_count": 882,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

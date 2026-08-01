@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072577985366929736",
+    "created_at": "2026-07-02T11:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072643337098764540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751306897985298432",
+          "start": 0,
+          "username": "Rorochan___2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072643337098764540",
+    "in_reply_to_user_id": "1751306897985298432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072577985366929736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rorochan___2001 邮政其实就是得靠投诉才能治好，我家门口投递，被我治的特别老实，规规矩矩的给我送件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072577985366929736",
+        "created_at": "2026-07-02T11:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072643337098764540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751306897985298432",
+              "start": 0,
+              "username": "Rorochan___2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072643337098764540",
+        "in_reply_to_user_id": "1751306897985298432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072577985366929736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rorochan___2001 邮政其实就是得靠投诉才能治好，我家门口投递，被我治的特别老实，规规矩矩的给我送件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751306897985298432",
+        "conversation_id": "2072577985366929736",
+        "created_at": "2026-07-02T07:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072577985366929736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072577985366929736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于通信咱要说几句，以后有可能咱不会再走邮政通信了，因为我地方邮局出现了付费挂号信因派送员个人而拒不派送的情况，其还编造谎言骗我。去邮局我已全程录音。\n🔴我对中国邮政十分失望。\n经常处理我信件邮寄工作的前台对于我的态度也是立刻把自己抖得干干净净，言语中也流露讥讽之意味。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 434,
+          "like_count": 3859,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T18:11:27.000Z",
+        "description": "愛拍照的她(she/her)🏳️‍⚧️┋INFJ-T 💮┋喜歡看書📖┋養貓咪和蝸牛🐌┋雙相一型┋戀愛中💟┋攝影專營賬號請點鏈接謝謝🙇🏻‍♀️☮️┋同類同好互fo💟┋梗圖/垃圾搬運者會被ban請留意🚮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rorochan__2001…",
+                "end": 23,
+                "expanded_url": "https://x.com/rorochan__2001?s=21",
+                "start": 0,
+                "url": "https://t.co/5bY3leWVsZ"
+              }
+            ]
+          }
+        },
+        "id": "1751306897985298432",
+        "location": "病棟81號 🏥",
+        "name": "辰辰不愛吃菠菜🏳️‍⚧️",
+        "pinned_tweet_id": "2045911170553700803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062598428056834048/SVMweIk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 180,
+          "like_count": 2599,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/5bY3leWVsZ",
+        "username": "Rorochan___2001",
+        "verified": false
+      }
+    ]
+  }
+}

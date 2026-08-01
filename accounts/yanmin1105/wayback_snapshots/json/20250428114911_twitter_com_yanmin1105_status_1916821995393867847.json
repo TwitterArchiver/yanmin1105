@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1916789718148407548",
+    "created_at": "2025-04-28T11:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T12:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916821995393867847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17235228",
+          "start": 0,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916821995393867847",
+    "in_reply_to_user_id": "17235228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916821476642357350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@INP1458 嘶,不好说啊,这个,难搞啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1916789718148407548",
+        "created_at": "2025-04-28T11:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916821995393867847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17235228",
+              "start": 0,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916821995393867847",
+        "in_reply_to_user_id": "17235228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916821476642357350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@INP1458 嘶,不好说啊,这个,难搞啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "conversation_id": "1916789718148407548",
+        "created_at": "2025-04-28T11:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916821476642357350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916821476642357350",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916815986629681578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 我不确定我妈的态度，我做美甲，去年留长发，还有一次衣柜没来得及关上她看见女装了都没有说什么，护肤品也会帮我付款，但幼儿园的时候因为我说想当女孩她大发雷霆，我外婆给我买了一件可爱一点的衣服她也是吵着闹着要拿去退掉，现在也还是有意无意的强调我是男子汉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 152,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 163
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "09高一 | 🏳️‍⚧️MtF | 🍥HRT 2024.08.09 | 不自伤不od",
+        "id": "17235228",
+        "name": "INP🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906832804794839040/voz7SQY8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 95,
+          "like_count": 322,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 187
+        },
+        "username": "INP1458",
+        "verified": true
+      }
+    ]
+  }
+}

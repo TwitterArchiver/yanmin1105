@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1909241418545082618",
+    "created_at": "2025-04-07T13:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T14:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909241418545082618"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "xyn"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "吃糖"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "药娘"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "HRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909241418545082618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去了天津安定，大夫认为我没有易性症，大概率是因为我初中才觉得自己性别异常，怎么办啊，我妈觉得我没有易性症，就是庸人自扰，觉得这个会分散学习精力，但我就觉得我有\n我焦虑了好久，也没想开\n#xyn #吃糖 #药娘 #HRT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909241418545082618",
+        "created_at": "2025-04-07T13:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T14:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909241418545082618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "xyn"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "吃糖"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "药娘"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "HRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909241418545082618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去了天津安定，大夫认为我没有易性症，大概率是因为我初中才觉得自己性别异常，怎么办啊，我妈觉得我没有易性症，就是庸人自扰，觉得这个会分散学习精力，但我就觉得我有\n我焦虑了好久，也没想开\n#xyn #吃糖 #药娘 #HRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 59,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

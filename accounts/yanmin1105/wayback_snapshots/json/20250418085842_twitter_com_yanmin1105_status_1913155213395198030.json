@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912850909534798083",
+    "created_at": "2025-04-18T08:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T09:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913155213395198030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913155213395198030",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913154099656479185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova 好哦，谢谢你(´ᴗ`ʃƪ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-18T08:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913155213395198030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913155213395198030",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913154099656479185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova 好哦，谢谢你(´ᴗ`ʃƪ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725486340542775296",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-18T08:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913154099656479185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913154099656479185",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912850909534798083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 可以去北医三院找郝树伟。我在他那里看过，人挺好的。开了份病历（小证），可以用于在北三参与hrt治疗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 105,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 85
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "关注喵卡酱喵，关注喵卡酱谢谢喵。时不时更新age regression/abdl内容喵。大部分是sfw喵。",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "Myaukarova🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819361384783597568/775Jceao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 152,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1211
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

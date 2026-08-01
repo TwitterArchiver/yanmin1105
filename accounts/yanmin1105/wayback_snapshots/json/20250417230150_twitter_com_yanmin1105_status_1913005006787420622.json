@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912850909534798083",
+    "created_at": "2025-04-17T23:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T00:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913005006787420622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843518394056015872",
+          "start": 0,
+          "username": "xxxx123yyy545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913005006787420622",
+    "in_reply_to_user_id": "1843518394056015872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912863077147791409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx123yyy545 没有办法发给你私信啊•ᴗ•💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-17T23:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T00:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913005006787420622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843518394056015872",
+              "start": 0,
+              "username": "xxxx123yyy545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913005006787420622",
+        "in_reply_to_user_id": "1843518394056015872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912863077147791409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx123yyy545 没有办法发给你私信啊•ᴗ•💧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843518394056015872",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-17T13:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T14:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912863077147791409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912863077147791409",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912850909534798083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 可以私我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 104,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 84
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "百合无限好！持证含糖xyn / 日常发疯 / 偶尔鉴证自残 / 喜提双相 / 热爱猎奇gal血图 / 高考政治满分者 / 天依南北 / 喜欢被调教\n\n知识拥有：文学 电影 戏剧 生化竞赛 欢迎交流 另接初高中语历政家教150/h 同类100\n求灌注，同类回fo！\n爱人&小狗 @l93374231",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "l93374231"
+              }
+            ]
+          }
+        },
+        "id": "1843518394056015872",
+        "location": "后海旁边地道老北京人",
+        "name": "纪~伊~🏳️‍⚧️",
+        "pinned_tweet_id": "1912862146104598779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 936,
+          "like_count": 4622,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1434
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

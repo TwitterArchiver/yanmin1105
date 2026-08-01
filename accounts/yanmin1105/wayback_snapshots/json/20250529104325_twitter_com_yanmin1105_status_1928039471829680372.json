@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1927366715194630436",
+    "created_at": "2025-05-29T10:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T11:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928039471829680372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249681779218190338",
+          "start": 0,
+          "username": "realMlgmXyysd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928039471829680372",
+    "in_reply_to_user_id": "1249681779218190338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927998904122953945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realMlgmXyysd 我也想hrt，但是大夫写的是建议考虑青春期阻断剂，那我怎么办喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1927366715194630436",
+        "created_at": "2025-05-29T10:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T11:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928039471829680372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249681779218190338",
+              "start": 0,
+              "username": "realMlgmXyysd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928039471829680372",
+        "in_reply_to_user_id": "1249681779218190338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927998904122953945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realMlgmXyysd 我也想hrt，但是大夫写的是建议考虑青春期阻断剂，那我怎么办喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249681779218190338",
+        "conversation_id": "1927366715194630436",
+        "created_at": "2025-05-29T08:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927998904122953945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927998904122953945",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927366715194630436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 17还打GnRHa吗，可以直接正常HRT了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 187,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 324
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T12:52:14.000Z",
+        "description": "A cat, nya~｜Inner @MlgmXyysd｜https://t.co/xB1GClxlkz｜😘@cjybyjk｜XDA Recognized Developer｜Programmer/Engineer/Coder/Tipster｜CisF (DSD)｜Bisexuality｜College Girl｜Chinese",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "MlgmXyysd"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "cjybyjk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 52,
+                "expanded_url": "http://neko.ink",
+                "start": 29,
+                "url": "https://t.co/xB1GClxlkz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 23,
+                "expanded_url": "https://neko.ink",
+                "start": 0,
+                "url": "https://t.co/PeWlFBJuYU"
+              }
+            ]
+          }
+        },
+        "id": "1249681779218190338",
+        "location": "In Your Heart 💘",
+        "name": "MlgmXyysd🐱💕",
+        "pinned_tweet_id": "1612139513215582209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507220651496538112/Lprj30pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 93,
+          "like_count": 6763,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 5943
+        },
+        "url": "https://t.co/PeWlFBJuYU",
+        "username": "realMlgmXyysd",
+        "verified": false
+      }
+    ]
+  }
+}

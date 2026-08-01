@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1929858551973138477",
+    "created_at": "2025-06-03T11:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T12:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929858964843647224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 23,
+          "id": "1545277694325116928",
+          "start": 17,
+          "username": "yqua_"
+        },
+        {
+          "end": 32,
+          "id": "1532663208393117696",
+          "start": 24,
+          "username": "Ziverk2"
+        },
+        {
+          "end": 46,
+          "id": "1807678557826797568",
+          "start": 33,
+          "username": "TeRiri141421"
+        },
+        {
+          "end": 57,
+          "id": "1908123958005604352",
+          "start": 47,
+          "username": "Mooy_viio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929858964843647224",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929858551973138477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 @yqua_ @Ziverk2 @TeRiri141421 @Mooy_viio 老婆贴贴"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929858551973138477].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929858551973138477",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929858551973138477"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1929858551973138477",
+        "created_at": "2025-06-03T11:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T12:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929858964843647224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 23,
+              "id": "1545277694325116928",
+              "start": 17,
+              "username": "yqua_"
+            },
+            {
+              "end": 32,
+              "id": "1532663208393117696",
+              "start": 24,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 46,
+              "id": "1807678557826797568",
+              "start": 33,
+              "username": "TeRiri141421"
+            },
+            {
+              "end": 57,
+              "id": "1908123958005604352",
+              "start": 47,
+              "username": "Mooy_viio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929858964843647224",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929858551973138477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 @yqua_ @Ziverk2 @TeRiri141421 @Mooy_viio 老婆贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 193,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 436
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 824,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 600
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Mid & Sup｜🏳️‍⚧️｜前世17kfo @ryq59｜互fo4.6k寻回中｜如果我关注了你 说明你和@ryq59是互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 24,
+                "username": "ryq59"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "ryq59"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "name": "你是想气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "1832651643797827628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924861960644132864/luB0Qkx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 1438,
+          "like_count": 10966,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1291
+        },
+        "username": "yqua_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n|像MTF的MTX🏳️‍⚧️🍥 SINCE 2024.11\n| 极度社恐\n| 偶尔血图\n|小群 1020709329\n| Office @mtitstudio\n| ♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "mtitstudio"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "einashome.byethost22.com",
+                "end": 23,
+                "expanded_url": "http://einashome.byethost22.com",
+                "start": 0,
+                "url": "https://t.co/AFyZbAfkaM"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1884407282454482944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 5010,
+          "like_count": 149709,
+          "listed_count": 9,
+          "media_count": 130,
+          "tweet_count": 11840
+        },
+        "url": "https://t.co/AFyZbAfkaM",
+        "username": "Ziverk2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:32:15.000Z",
+        "description": "阿巴阿巴…… 痴呆ㅇㅁㅇing…… 喵）现在是~蜕变😋 （ 愿望是：无",
+        "id": "1807678557826797568",
+        "location": "Izena-son, Okinawa",
+        "name": "呼咻~（",
+        "pinned_tweet_id": "1821930143771979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 2237,
+          "like_count": 64129,
+          "listed_count": 4,
+          "media_count": 1098,
+          "tweet_count": 9029
+        },
+        "username": "TeRiri141421",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T11:46:36.000Z",
+        "description": "（163.5/56）\n赫爾墨斯的臣民，雅典娜的僕從，普羅米修斯的使者。 \n是■■（檔案刪除）…… \n降臨的未知，琢磨不透的物。\n不明白意圖，𥥖而𢜛。",
+        "id": "1908123958005604352",
+        "location": "XTE J1650-500",
+        "name": "Molly_CoCo/兰兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922062431536238592/lTtugpja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 491,
+          "like_count": 4333,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 828
+        },
+        "username": "Mooy_viio",
+        "verified": false
+      }
+    ]
+  }
+}

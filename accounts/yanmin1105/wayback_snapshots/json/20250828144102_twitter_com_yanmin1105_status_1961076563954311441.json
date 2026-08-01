@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1960961221370519717",
+    "created_at": "2025-08-28T14:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T15:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961076563954311441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858186854526562304",
+          "start": 0,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961076563954311441",
+    "in_reply_to_user_id": "1858186854526562304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960961221370519717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiyujijie 我去，大佬居然征婚了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960961211190927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gza71Pta4AAVQTk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1960961221370519717",
+        "created_at": "2025-08-28T14:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961076563954311441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858186854526562304",
+              "start": 0,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961076563954311441",
+        "in_reply_to_user_id": "1858186854526562304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960961221370519717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyujijie 我去，大佬居然征婚了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960961211190927360"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1960961221370519717",
+        "created_at": "2025-08-28T07:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960961221370519717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xuy4NJEYtn",
+              "end": 72,
+              "expanded_url": "https://x.com/meiyujijie/status/1960961221370519717/photo/1",
+              "media_key": "3_1960961211190927360",
+              "start": 49,
+              "url": "https://t.co/Xuy4NJEYtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960961221370519717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6132,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "诚招对象\n男娘、女生都可以\n❗️男的不要、卡颜\n有意向的联系我带一张自己的照片\n这是我的照片⬇️ https://t.co/Xuy4NJEYtn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 304,
+          "like_count": 2088,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 900
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "找对象，男娘或者女生 ‼️男的不要、卡颜  私我附带一张自己的照片",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86422,
+          "following_count": 106,
+          "like_count": 1539,
+          "listed_count": 175,
+          "media_count": 173,
+          "tweet_count": 485
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

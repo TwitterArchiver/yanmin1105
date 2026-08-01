@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966790600138915840",
+        "3_1966790600138825728"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1966790658875605168",
+    "created_at": "2025-09-13T09:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T10:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966790658875605168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 142,
+          "id": "1537858604724015104",
+          "start": 131,
+          "username": "tonghua245"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4Oww1FEUV",
+          "end": 174,
+          "expanded_url": "https://x.com/yanmin1105/status/1966790658875605168/photo/1",
+          "media_key": "3_1966790600138915840",
+          "start": 151,
+          "url": "https://t.co/t4Oww1FEUV"
+        },
+        {
+          "display_url": "pic.x.com/t4Oww1FEUV",
+          "end": 174,
+          "expanded_url": "https://x.com/yanmin1105/status/1966790658875605168/photo/1",
+          "media_key": "3_1966790600138825728",
+          "start": 151,
+          "url": "https://t.co/t4Oww1FEUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966790658875605168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "众所周知，小嫣是一个不怎么吃甜的人，但今年一年，单是好利来chiikawa联动，就买了一盒黄油夹心饼，一盒半熟芝士，两盒米皮点心，今天又买了一个焦糖墩墩（一家店一天就六个）\n小嫣还是太有消费力了\nP1是周大福chiikawa联动的转运珠\nP2是那两盒米皮小点心\n@tonghua245 浔姨快羡慕一下 https://t.co/t4Oww1FEUV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966790600138915840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0txoVzbgAAUOYi.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966790600138825728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0txoVzaIAAu7eu.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966790600138915840",
+            "3_1966790600138825728"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1966790658875605168",
+        "created_at": "2025-09-13T09:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966790658875605168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 142,
+              "id": "1537858604724015104",
+              "start": 131,
+              "username": "tonghua245"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4Oww1FEUV",
+              "end": 174,
+              "expanded_url": "https://x.com/yanmin1105/status/1966790658875605168/photo/1",
+              "media_key": "3_1966790600138915840",
+              "start": 151,
+              "url": "https://t.co/t4Oww1FEUV"
+            },
+            {
+              "display_url": "pic.x.com/t4Oww1FEUV",
+              "end": 174,
+              "expanded_url": "https://x.com/yanmin1105/status/1966790658875605168/photo/1",
+              "media_key": "3_1966790600138825728",
+              "start": 151,
+              "url": "https://t.co/t4Oww1FEUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966790658875605168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知，小嫣是一个不怎么吃甜的人，但今年一年，单是好利来chiikawa联动，就买了一盒黄油夹心饼，一盒半熟芝士，两盒米皮点心，今天又买了一个焦糖墩墩（一家店一天就六个）\n小嫣还是太有消费力了\nP1是周大福chiikawa联动的转运珠\nP2是那两盒米皮小点心\n@tonghua245 浔姨快羡慕一下 https://t.co/t4Oww1FEUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 322,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1057
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "04是个xyn 🍥\nhrt2024.12.5 |\n🚪50 |\n随缘线下 |\n喜欢@zihuan9011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "zihuan9011"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "是浔姨吖",
+        "pinned_tweet_id": "1949378587716731070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958389281837522944/06waOAHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 709,
+          "like_count": 3706,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 536
+        },
+        "username": "tonghua245",
+        "verified": false
+      }
+    ]
+  }
+}

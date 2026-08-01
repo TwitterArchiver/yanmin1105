@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076313603536572416"
+      ],
+      "media_source_tweet_id": [
+        "2076313610809430158"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2076337226003419152",
+    "created_at": "2026-07-12T16:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076337226003419152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2279407860",
+          "start": 3,
+          "username": "bailyLU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w7VkWMVAbH",
+          "end": 70,
+          "expanded_url": "https://x.com/bailyLU/status/2076313610809430158/photo/1",
+          "media_key": "3_2076313603536572416",
+          "start": 47,
+          "url": "https://t.co/w7VkWMVAbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076337226003419152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076313610809430158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bailyLU: 汇丰pulse新用户开卡礼又来了🎁\n这次一共1800\n你申请了吗？ https://t.co/w7VkWMVAbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_2076313603536572416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCMOL0b0AAihA3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076313603536572416"
+          ],
+          "media_source_tweet_id": [
+            "2076313610809430158"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2076337226003419152",
+        "created_at": "2026-07-12T16:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076337226003419152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2279407860",
+              "start": 3,
+              "username": "bailyLU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7VkWMVAbH",
+              "end": 70,
+              "expanded_url": "https://x.com/bailyLU/status/2076313610809430158/photo/1",
+              "media_key": "3_2076313603536572416",
+              "start": 47,
+              "url": "https://t.co/w7VkWMVAbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076337226003419152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076313610809430158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bailyLU: 汇丰pulse新用户开卡礼又来了🎁\n这次一共1800\n你申请了吗？ https://t.co/w7VkWMVAbH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076313603536572416"
+          ]
+        },
+        "author_id": "2279407860",
+        "conversation_id": "2076313610809430158",
+        "created_at": "2026-07-12T14:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076313610809430158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7VkWMVAbH",
+              "end": 57,
+              "expanded_url": "https://x.com/bailyLU/status/2076313610809430158/photo/1",
+              "media_key": "3_2076313603536572416",
+              "start": 34,
+              "url": "https://t.co/w7VkWMVAbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076313610809430158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2485,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "汇丰pulse新用户开卡礼又来了🎁\n这次一共1800\n你申请了吗？ https://t.co/w7VkWMVAbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 448,
+          "like_count": 3981,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-06T18:00:04.000Z",
+        "description": "🎉 大家好，我是贝利 ✈️ 全球云居民☁️ 让我们一起花费更少，享受更好 📍 机票｜酒店｜信用卡｜数码科技 🍎主业留学移民工作（EU）💳 研究信用卡积分、省钱玩法 & 旅行黑科技 👥 社群｜知识星球：「贝利和他的小伙伴们」 📬 联络我：bailylu@icloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baily.life",
+                "end": 23,
+                "expanded_url": "http://baily.life",
+                "start": 0,
+                "url": "https://t.co/uk7nmQ1sDP"
+              }
+            ]
+          }
+        },
+        "id": "2279407860",
+        "location": "Milan",
+        "name": "贝利Baily",
+        "pinned_tweet_id": "2074925687891497335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987211914146160645/NFElt4XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15127,
+          "following_count": 845,
+          "like_count": 4939,
+          "listed_count": 55,
+          "media_count": 1576,
+          "tweet_count": 5968
+        },
+        "url": "https://t.co/uk7nmQ1sDP",
+        "username": "bailyLU",
+        "verified": true
+      }
+    ]
+  }
+}

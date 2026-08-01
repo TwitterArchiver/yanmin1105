@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2014717006394884200",
+    "created_at": "2026-01-23T15:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014717006394884200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minaseayano/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/minaseayano/status/2014339907054096534",
+          "start": 22,
+          "url": "https://t.co/jHE5AfnMQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014717006394884200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014339907054096534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要用杯子了，用用我好不好（拽着）（摇晃） https://t.co/jHE5AfnMQS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2014717006394884200",
+        "created_at": "2026-01-23T15:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014717006394884200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minaseayano/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/minaseayano/status/2014339907054096534",
+              "start": 22,
+              "url": "https://t.co/jHE5AfnMQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014717006394884200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014339907054096534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要用杯子了，用用我好不好（拽着）（摇晃） https://t.co/jHE5AfnMQS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2014339907054096534",
+        "created_at": "2026-01-22T14:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014339907054096534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rikka_ela/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/rikka_ela/status/2013963947750138332",
+              "start": 22,
+              "url": "https://t.co/bhRqoToE5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014339907054096534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1681,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013963947750138332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要用杯子了，用用我好不好（拽着）（摇晃） https://t.co/bhRqoToE5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 382,
+          "like_count": 3282,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1325
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 2010.5 | 欢迎互fo! | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 里推@Yumo_1314 | 永远只爱你w @Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5YyzgB"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "中国大陆",
+        "name": "绫乃Ayano🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974339366408630432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999845756484927488/gnQDKgsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 2318,
+          "like_count": 8529,
+          "listed_count": 6,
+          "media_count": 773,
+          "tweet_count": 8613
+        },
+        "url": "https://t.co/1HZl5YyzgB",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915763784012189745",
+    "created_at": "2025-04-25T13:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T14:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915763784012189745"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "泰补"
+        },
+        {
+          "end": 132,
+          "start": 126,
+          "tag": "艾斯妥凝胶"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "诺坤复"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875215593688977408",
+          "start": 3,
+          "username": "tbh2317X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915763784012189745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915728703969001935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tbh2317X: 1000fo抽10盒泰补，10个鲨鲨，关注并转发可参加抽奖，泰补一年有效期199，半年有效期180，诺坤复80，艾斯妥凝胶115，下单满600送鲨鲨100cm中号一个，随机抽泰补一板，当天发货，发买家秀下次运费减半\n#泰补 #艾斯妥凝胶 #诺坤复 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_1915728687837962246",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYJF3SbYAYuvRt.jpg",
+        "width": 1287
+      },
+      {
+        "height": 1544,
+        "media_key": "3_1915728687850483712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYJF3VacAATqap.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915763784012189745",
+        "created_at": "2025-04-25T13:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T14:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915763784012189745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "泰补"
+            },
+            {
+              "end": 132,
+              "start": 126,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "诺坤复"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875215593688977408",
+              "start": 3,
+              "username": "tbh2317X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915763784012189745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915728703969001935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tbh2317X: 1000fo抽10盒泰补，10个鲨鲨，关注并转发可参加抽奖，泰补一年有效期199，半年有效期180，诺坤复80，艾斯妥凝胶115，下单满600送鲨鲨100cm中号一个，随机抽泰补一板，当天发货，发买家秀下次运费减半\n#泰补 #艾斯妥凝胶 #诺坤复 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915728687837962246",
+            "3_1915728687850483712"
+          ]
+        },
+        "author_id": "1875215593688977408",
+        "conversation_id": "1915728703969001935",
+        "created_at": "2025-04-25T11:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T12:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915728703969001935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "泰补"
+            },
+            {
+              "end": 118,
+              "start": 112,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "诺坤复"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "hrt"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "糖商"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "鲨鲨"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PB6qByRQZo",
+              "end": 164,
+              "expanded_url": "https://x.com/tbh2317X/status/1915728703969001935/photo/1",
+              "media_key": "3_1915728687837962246",
+              "start": 141,
+              "url": "https://t.co/PB6qByRQZo"
+            },
+            {
+              "display_url": "pic.x.com/PB6qByRQZo",
+              "end": 164,
+              "expanded_url": "https://x.com/tbh2317X/status/1915728703969001935/photo/1",
+              "media_key": "3_1915728687850483712",
+              "start": 141,
+              "url": "https://t.co/PB6qByRQZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915728703969001935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo抽10盒泰补，10个鲨鲨，关注并转发可参加抽奖，泰补一年有效期199，半年有效期180，诺坤复80，艾斯妥凝胶115，下单满600送鲨鲨100cm中号一个，随机抽泰补一板，当天发货，发买家秀下次运费减半\n#泰补 #艾斯妥凝胶 #诺坤复 #hrt #糖商 #鲨鲨 #抽奖 https://t.co/PB6qByRQZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 140,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 132
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T16:20:26.000Z",
+        "description": "这里是@tbh2317的二代目，这里可以继续接单，过年不放假，正常接单发货，我们的telegram账号是tbh2317x，点击右上角小信封私信购买,价格单是泰补（泰国补佳乐）215，艾斯妥凝胶115，诺坤复85，关注我们单次快递费-5，老客户免审核只需要提供我们原始账号的聊天记录截图，老客户回归可以单次快递费-10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "tbh2317"
+              }
+            ]
+          }
+        },
+        "id": "1875215593688977408",
+        "location": "曼谷",
+        "name": "乇乇 momo （糖商/药商）/泰补/艾斯妥凝胶/诺坤复🍥🏳️‍⚧️ ⚧️",
+        "pinned_tweet_id": "1912800885627035933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875240102999588864/cyvcGyu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 1125,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 74
+        },
+        "username": "tbh2317X",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912336287971045474",
+    "created_at": "2025-04-16T14:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912512885894574108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1865831426303897600",
+          "start": 0,
+          "username": "Zero_158_Kana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912512885894574108",
+    "in_reply_to_user_id": "1865831426303897600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912336287971045474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zero_158_Kana 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912336287971045474",
+        "created_at": "2025-04-16T14:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912512885894574108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1865831426303897600",
+              "start": 0,
+              "username": "Zero_158_Kana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912512885894574108",
+        "in_reply_to_user_id": "1865831426303897600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912336287971045474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zero_158_Kana 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1912336287971045474",
+        "created_at": "2025-04-16T02:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T03:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912336287971045474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912336287971045474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 791,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 100,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 75
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "这里是零酱&樱舞花&可奈&未知（？）哦！一（三or多？）只INFP小猫！喵呜～\n/无证hrt2025.1.10\n/想让大家幸福喵\n/超天酱重度依赖\n/インターネット · エンジェル、ただいま降臨 ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ22Y4"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之乡",
+        "name": "Zero_158_Kana",
+        "pinned_tweet_id": "1906895138582106622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 721,
+          "like_count": 7965,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 4063
+        },
+        "url": "https://t.co/ZxXMCZ22Y4",
+        "username": "Zero_158_Kana",
+        "verified": false
+      }
+    ]
+  }
+}

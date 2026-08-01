@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1907657985180025249",
+    "created_at": "2025-04-06T13:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T14:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908868868531016056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561626226695221249",
+          "start": 0,
+          "username": "kill22229011"
+        },
+        {
+          "end": 25,
+          "id": "1741091789879308288",
+          "start": 14,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908868868531016056",
+    "in_reply_to_user_id": "1561626226695221249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907657985180025249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill22229011 @zixinmiao2 建议以后把平信条打一下马赛克哦，因为邮政内部的投递工号是可以查平信条的物流信息的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_1907657953588711424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlczTSakAAlN8w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1907657985180025249",
+        "created_at": "2025-04-06T13:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T14:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908868868531016056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561626226695221249",
+              "start": 0,
+              "username": "kill22229011"
+            },
+            {
+              "end": 25,
+              "id": "1741091789879308288",
+              "start": 14,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908868868531016056",
+        "in_reply_to_user_id": "1561626226695221249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907657985180025249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill22229011 @zixinmiao2 建议以后把平信条打一下马赛克哦，因为邮政内部的投递工号是可以查平信条的物流信息的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907657953588711424"
+          ]
+        },
+        "author_id": "1561626226695221249",
+        "conversation_id": "1907657985180025249",
+        "created_at": "2025-04-03T04:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907657985180025249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FJiIhg7Nl",
+              "end": 31,
+              "expanded_url": "https://x.com/kill22229011/status/1907657985180025249/photo/1",
+              "media_key": "3_1907657953588711424",
+              "start": 8,
+              "url": "https://t.co/8FJiIhg7Nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907657985180025249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 713,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴宝宝🍭🍭🍭 https://t.co/8FJiIhg7Nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 43,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T08:08:11.000Z",
+        "description": "05🍥/2024.12.02",
+        "id": "1561626226695221249",
+        "location": "Surprise, AZ",
+        "name": "彤宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904001311252848640/_3NqfZgg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 293,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "username": "kill22229011",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4，日语N2备考ing,\n欢迎大家找我集邮喵。\n 主人:@blhpc/\n永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 68,
+                "username": "blhpc"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908782129548582914/ZynU3C3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1283,
+          "like_count": 7000,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1369
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

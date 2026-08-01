@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915933852435914854",
+    "created_at": "2025-04-26T04:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T05:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915989924060217432"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915989924060217432",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915933852435914854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "五一假期结束前的xyn，下单后都可以打九折哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_1915776850137337856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpY05R1aUAAaQGS.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915933852435914854",
+        "created_at": "2025-04-26T04:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T05:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915989924060217432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915989924060217432",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915933852435914854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五一假期结束前的xyn，下单后都可以打九折哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915776850137337856"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915933852435914854",
+        "created_at": "2025-04-26T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915933852435914854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "xyn"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "mtf"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "hrt"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "药娘"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "邮票"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "集邮"
+            },
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "stamp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYPVHYSZ0I",
+              "end": 120,
+              "expanded_url": "https://x.com/yanmin1105/status/1915933852435914854/photo/1",
+              "media_key": "3_1915776850137337856",
+              "start": 97,
+              "url": "https://t.co/cYPVHYSZ0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915933852435914854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "热烈庆祝嫣敏的邮票小店开业了哦,关注+评论+转发+点赞,今晚六点,随机抽取一只xyn,送出\"中国高速铁路发展成就\"型张一枚~\n#xyn #mtf #hrt #药娘 #邮票 #集邮 #stamp https://t.co/cYPVHYSZ0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1915933852435914854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 144,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 141
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

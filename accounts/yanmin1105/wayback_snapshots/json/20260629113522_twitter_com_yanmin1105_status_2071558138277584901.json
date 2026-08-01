@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071558129767288832"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2071558138277584901",
+    "created_at": "2026-06-29T11:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071558138277584901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1yB6RdErp",
+          "end": 30,
+          "expanded_url": "https://x.com/yanmin1105/status/2071558138277584901/photo/1",
+          "media_key": "3_2071558129767288832",
+          "start": 7,
+          "url": "https://t.co/I1yB6RdErp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071558138277584901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中T恤了我靠 https://t.co/I1yB6RdErp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071558129767288832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-nJLhaEAAlMJr.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071558129767288832"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2071558138277584901",
+        "created_at": "2026-06-29T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071558138277584901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1yB6RdErp",
+              "end": 30,
+              "expanded_url": "https://x.com/yanmin1105/status/2071558138277584901/photo/1",
+              "media_key": "3_2071558129767288832",
+              "start": 7,
+              "url": "https://t.co/I1yB6RdErp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071558138277584901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中T恤了我靠 https://t.co/I1yB6RdErp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 434,
+          "like_count": 3810,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

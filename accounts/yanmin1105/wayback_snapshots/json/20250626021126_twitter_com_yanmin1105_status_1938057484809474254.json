@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1938057484809474254",
+    "created_at": "2025-06-26T02:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T03:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938057484809474254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904539885769457665",
+          "start": 3,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938057484809474254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937813453345050980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanmin1105: 哈😁 wc😁推特怎么这么好啊😁\n第一次上推就给我推小药娘😁 😁 😁\n看了三年自己也变成小药娘了😖\n哈😁 wc😁推特怎么这么好啊😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1938057484809474254",
+        "created_at": "2025-06-26T02:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T03:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938057484809474254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904539885769457665",
+              "start": 3,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938057484809474254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937813453345050980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanmin1105: 哈😁 wc😁推特怎么这么好啊😁\n第一次上推就给我推小药娘😁 😁 😁\n看了三年自己也变成小药娘了😖\n哈😁 wc😁推特怎么这么好啊😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1937813453345050980",
+        "created_at": "2025-06-25T10:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937813453345050980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_blueberrysauc…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/_blueberrysauce/status/1937718207252684868",
+              "start": 65,
+              "url": "https://t.co/vb0XgbH06N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937813453345050980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937718207252684868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈😁 wc😁推特怎么这么好啊😁\n第一次上推就给我推小药娘😁 😁 😁\n看了三年自己也变成小药娘了😖\n哈😁 wc😁推特怎么这么好啊😁 https://t.co/vb0XgbH06N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 235,
+          "like_count": 1281,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 549
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

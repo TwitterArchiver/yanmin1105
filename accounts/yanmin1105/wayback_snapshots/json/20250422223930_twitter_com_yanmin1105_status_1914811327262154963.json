@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912851745853899000",
+    "created_at": "2025-04-22T22:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T23:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914811327262154963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 26,
+          "id": "1888543672834392064",
+          "start": 17,
+          "username": "A7M3yyds"
+        },
+        {
+          "end": 38,
+          "id": "1741091789879308288",
+          "start": 27,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914811327262154963",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914788864016990283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @A7M3yyds @zixinmiao2 就是御三的，我买的我还不知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912851745853899000",
+        "created_at": "2025-04-22T22:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T23:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914811327262154963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 26,
+              "id": "1888543672834392064",
+              "start": 17,
+              "username": "A7M3yyds"
+            },
+            {
+              "end": 38,
+              "id": "1741091789879308288",
+              "start": 27,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914811327262154963",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914788864016990283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @A7M3yyds @zixinmiao2 就是御三的，我买的我还不知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "1912851745853899000",
+        "created_at": "2025-04-22T21:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T22:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914788864016990283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1888543672834392064",
+              "start": 0,
+              "username": "A7M3yyds"
+            },
+            {
+              "end": 21,
+              "id": "1741091789879308288",
+              "start": 10,
+              "username": "zixinmiao2"
+            },
+            {
+              "end": 33,
+              "id": "1904539885769457665",
+              "start": 22,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914788864016990283",
+        "in_reply_to_user_id": "1888543672834392064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914788182098633199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A7M3yyds @zixinmiao2 @yanmin1105 有御3p不代表这个桨叶一定是御3的，我仍然认为这是Air3/3s的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 128,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 114
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "",
+        "id": "1676572709742944259",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 262,
+          "like_count": 6527,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 375
+        },
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T11:01:26.000Z",
+        "description": "喜欢的可以关注下，感谢",
+        "id": "1888543672834392064",
+        "name": "麦当当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888592152441290752/bOpfH1T0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "A7M3yyds",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4, 萌新kiger/日语N2备考ing,欢迎大家找我集邮\n///主人:@blhpc/好朋友@kukudejiaxibei\n//永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 64,
+                "username": "blhpc"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥（不再内耗）",
+        "pinned_tweet_id": "1914302154636140774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913750927179472896/ylvFAADB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3441,
+          "following_count": 1561,
+          "like_count": 9235,
+          "listed_count": 7,
+          "media_count": 199,
+          "tweet_count": 2015
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

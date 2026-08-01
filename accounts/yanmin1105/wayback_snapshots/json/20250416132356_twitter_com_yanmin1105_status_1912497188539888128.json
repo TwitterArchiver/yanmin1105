@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912496421988905366",
+    "created_at": "2025-04-16T13:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T14:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912497188539888128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "Mr_LDYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912497188539888128",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912496421988905366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_LDYS 麦当劳的这个粥，最大的雷点是还要加点别的豆子，我真受不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1912496418566045696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoqNXB7WAAAi9Vl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912496421988905366",
+        "created_at": "2025-04-16T13:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912497188539888128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "Mr_LDYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912497188539888128",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912496421988905366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_LDYS 麦当劳的这个粥，最大的雷点是还要加点别的豆子，我真受不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912496418566045696"
+          ]
+        },
+        "author_id": "1554286007096590336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1912496421988905366",
+        "created_at": "2025-04-16T13:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912496421988905366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6X9QjLdkfN",
+              "end": 73,
+              "expanded_url": "https://x.com/Mr_LDYS/status/1912496421988905366/photo/1",
+              "media_key": "3_1912496418566045696",
+              "start": 50,
+              "url": "https://t.co/6X9QjLdkfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912496421988905366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳雪菜脆笋鸡肉粥\nemmmm第一感觉有点馊味\n然后还挺好吃的😋\n*仅中国大陆麦当劳（中国）产品 https://t.co/6X9QjLdkfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 98,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "NO SIGNAL\n枫原万叶厨&浅羽悠真厨\n对一切性向和性别认同政治认同友好\n欢迎扩列喵\n2008/178/75/0.5偏0不10/Gay🏳️‍🌈 xp很杂\n或许在某个角落存在着一个里推\n🔞&⚠️情绪低落警告\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BH7Sv"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John.Kazuha",
+        "pinned_tweet_id": "1878188774687207567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1900,
+          "like_count": 3654,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/k7YP9BH7Sv",
+        "username": "Mr_LDYS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1916838721837740372",
+    "created_at": "2025-04-28T14:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T15:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916855595572805932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17235228",
+          "start": 0,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916855595572805932",
+    "in_reply_to_user_id": "17235228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916838721837740372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@INP1458 私信哦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1916838721837740372",
+        "created_at": "2025-04-28T14:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916855595572805932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17235228",
+              "start": 0,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916855595572805932",
+        "in_reply_to_user_id": "17235228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916838721837740372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@INP1458 私信哦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "conversation_id": "1916838721837740372",
+        "created_at": "2025-04-28T12:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T13:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916838721837740372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916838721837740372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开小证的医生一般问些什么问题呀？我得趁现在成绩好主动出柜，要是哪天考砸了再炸柜就完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 154,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 164
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "09高一 | 🏳️‍⚧️MtF | 🍥HRT 2024.08.09 | 不自伤不od",
+        "id": "17235228",
+        "name": "INP🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906832804794839040/voz7SQY8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 95,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 197
+        },
+        "username": "INP1458",
+        "verified": true
+      }
+    ]
+  }
+}

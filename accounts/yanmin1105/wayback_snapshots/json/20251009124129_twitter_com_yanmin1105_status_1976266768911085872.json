@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1976193767662288914",
+    "created_at": "2025-10-09T12:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T13:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976266768911085872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730530795977404416",
+          "start": 0,
+          "username": "0712_luotianyi"
+        },
+        {
+          "end": 29,
+          "id": "1964119102123016192",
+          "start": 16,
+          "username": "yanmin071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976266768911085872",
+    "in_reply_to_user_id": "1730530795977404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976260276702834737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0712_luotianyi @yanmin071105 杂鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1976193767662288914",
+        "created_at": "2025-10-09T12:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976266768911085872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730530795977404416",
+              "start": 0,
+              "username": "0712_luotianyi"
+            },
+            {
+              "end": 29,
+              "id": "1964119102123016192",
+              "start": 16,
+              "username": "yanmin071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976266768911085872",
+        "in_reply_to_user_id": "1730530795977404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976260276702834737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0712_luotianyi @yanmin071105 杂鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730530795977404416",
+        "conversation_id": "1976193767662288914",
+        "created_at": "2025-10-09T12:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976260276702834737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 25,
+              "id": "1964119102123016192",
+              "start": 12,
+              "username": "yanmin071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976260276702834737",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976193767662288914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @yanmin071105 呜呜...为什么你们牛子都那么大，还那么好看....哭哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 332,
+          "like_count": 2767,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1190
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T10:14:40.000Z",
+        "description": "华风夏韵，洛水天依/临床在读/是一只淡青色小蝴蝶/可爱的男孩子/友跨男娘🏳️‍⚧️/不含药物\n\n最爱的姐姐&老婆：@nabyuuta\n好朋友：\n星星@PoorstarRMB\n海鸥姐姐@liki24003\n秋秋@QiuTtang\n绫乃@MinaseAyano\n嫣敏@yanmin1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "nabyuuta"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "PoorstarRMB"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "liki24003"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "QiuTtang"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1730530795977404416",
+        "location": "Nabiuta心里",
+        "name": "蝶依（超级无敌小蝴蝶版）",
+        "pinned_tweet_id": "1850438053170725059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973073812418863107/i9Ecf4B3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 1136,
+          "like_count": 20142,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1976
+        },
+        "username": "0712_luotianyi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T00:11:38.000Z",
+        "description": "您好，喜欢您来！这里是@yanmin1105 的搞黄里推，只放行熟人和已过门槛的老板，过门请见主号置顶推文｜不约线下！暂时未开通其他平台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1964119102123016192",
+        "name": "Yanmin",
+        "pinned_tweet_id": "1964542524581883940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964119403865526272/oiMeVyvX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 2,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 25
+        },
+        "username": "yanmin071105",
+        "verified": false
+      }
+    ]
+  }
+}

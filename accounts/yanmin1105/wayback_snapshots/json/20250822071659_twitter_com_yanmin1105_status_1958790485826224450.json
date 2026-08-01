@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1958789847633858791",
+    "created_at": "2025-08-22T07:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T08:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958790485826224450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "JDE_Alva"
+        },
+        {
+          "end": 21,
+          "id": "1620394787617796097",
+          "start": 10,
+          "username": "MuxuShinzo"
+        },
+        {
+          "end": 37,
+          "id": "1527769249283985409",
+          "start": 22,
+          "username": "Atheistsophist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958790485826224450",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958789847633858791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDE_Alva @MuxuShinzo @Atheistsophist 我就坐你旁边啊喂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1958789829019455488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8E-KxaUAAnO1K.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1958789829044707328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8E-K3boAACpCh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1958789847633858791",
+        "created_at": "2025-08-22T07:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T08:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958790485826224450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "JDE_Alva"
+            },
+            {
+              "end": 21,
+              "id": "1620394787617796097",
+              "start": 10,
+              "username": "MuxuShinzo"
+            },
+            {
+              "end": 37,
+              "id": "1527769249283985409",
+              "start": 22,
+              "username": "Atheistsophist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958790485826224450",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958789847633858791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDE_Alva @MuxuShinzo @Atheistsophist 我就坐你旁边啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958789829019455488",
+            "3_1958789829044707328"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958789847633858791",
+        "created_at": "2025-08-22T07:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T08:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958789847633858791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620394787617796097",
+              "start": 8,
+              "username": "MuxuShinzo"
+            },
+            {
+              "end": 36,
+              "id": "1527769249283985409",
+              "start": 21,
+              "username": "Atheistsophist"
+            },
+            {
+              "end": 49,
+              "id": "1904539885769457665",
+              "start": 38,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rn2T9DRU12",
+              "end": 73,
+              "expanded_url": "https://x.com/JDE_Alva/status/1958789847633858791/photo/1",
+              "media_key": "3_1958789829019455488",
+              "start": 50,
+              "url": "https://t.co/rn2T9DRU12"
+            },
+            {
+              "display_url": "pic.x.com/rn2T9DRU12",
+              "end": 73,
+              "expanded_url": "https://x.com/JDE_Alva/status/1958789847633858791/photo/1",
+              "media_key": "3_1958789829044707328",
+              "start": 50,
+              "url": "https://t.co/rn2T9DRU12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958789847633858791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四个人也很孤单\n@MuxuShinzo \n@Atheistsophist \n@yanmin1105 https://t.co/rn2T9DRU12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 306,
+          "like_count": 2050,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 877
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Coach for JDE｜MtX🏳️‍⚧️｜Inherited from @ryq59｜Powered by @Lx_Lacie｜Banner from @SaiKin_XiJun｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 46,
+                "username": "ryq59"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "Lx_Lacie"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "SaiKin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1955625612984647831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 1976,
+          "like_count": 17374,
+          "listed_count": 7,
+          "media_count": 386,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T12:13:31.000Z",
+        "description": "",
+        "id": "1620394787617796097",
+        "location": "⛓️利維坦的地獄⛓️",
+        "name": "Muxu_Shinzo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623133642137665537/BA1sqREJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 202,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "MuxuShinzo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T21:52:36.000Z",
+        "description": "喜欢美好事物的音乐杂食系诗人/黄衣修道士/匿名不死者/( ￣▽￣)σ哈‖\n“这个舞台太小了，容纳不了伟大的演员！”",
+        "id": "1527769249283985409",
+        "location": "魔王城😈",
+        "name": "怀安",
+        "pinned_tweet_id": "1952354291727179952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818314152143904768/wMacf9Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 883,
+          "like_count": 85669,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 3466
+        },
+        "username": "Atheistsophist",
+        "verified": false
+      }
+    ]
+  }
+}

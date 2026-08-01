@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2064913843646812645",
+    "created_at": "2026-06-14T07:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066066846122656221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "98263253",
+          "start": 0,
+          "username": "yuezi8856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066066846122656221",
+    "in_reply_to_user_id": "98263253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066053133000679874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuezi8856 私聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-14T07:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066066846122656221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "98263253",
+              "start": 0,
+              "username": "yuezi8856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066066846122656221",
+        "in_reply_to_user_id": "98263253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066053133000679874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuezi8856 私聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "98263253",
+        "conversation_id": "2064913843646812645",
+        "created_at": "2026-06-14T07:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066053133000679874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066053133000679874",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064913843646812645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 推薦一下卡卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 425,
+          "like_count": 3654,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1467
+        },
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-21T02:41:49.000Z",
+        "description": "悦子，冰熊，鸭嘴，冰爆，比熊，崧，高维，莱爆应有尽有！🐧3️⃣9️⃣2️⃣4️⃣9️⃣0️⃣2️⃣7️⃣9️⃣2️⃣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tc8807",
+                "end": 23,
+                "expanded_url": "https://t.me/Tc8807",
+                "start": 0,
+                "url": "https://t.co/umkXWo5ONT"
+              }
+            ]
+          }
+        },
+        "id": "98263253",
+        "location": "QQ/✈️",
+        "name": "正品电子烟/RELX悦刻/鸭嘴兽/冰爆/JUUL/烟油/雪加大板砖一次性电子烟冰 熊烟弹/海淘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047978770934685696/QeKYLPrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/umkXWo5ONT",
+        "username": "yuezi8856",
+        "verified": false
+      }
+    ]
+  }
+}

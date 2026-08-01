@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1973231483985994174",
+    "created_at": "2025-10-01T07:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T08:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973294761353290095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747564136719085568",
+          "start": 0,
+          "username": "passion_sugar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973294761353290095",
+    "in_reply_to_user_id": "1747564136719085568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973268732501000571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@passion_sugar 这是那个周大福chiikawa联动的金饰，自己去柜面就能买到，CNY2180喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1973231483985994174",
+        "created_at": "2025-10-01T07:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T08:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973294761353290095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747564136719085568",
+              "start": 0,
+              "username": "passion_sugar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973294761353290095",
+        "in_reply_to_user_id": "1747564136719085568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973268732501000571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@passion_sugar 这是那个周大福chiikawa联动的金饰，自己去柜面就能买到，CNY2180喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747564136719085568",
+        "conversation_id": "1973231483985994174",
+        "created_at": "2025-10-01T06:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973268732501000571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973268732501000571",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973231483985994174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 蹲一个手链链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨亲爱的笨蛋宝宝 @Cherry_BombY458 丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 328,
+          "like_count": 2538,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1143
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T10:19:03.000Z",
+        "description": "一只小小的的高三女生🙃（趴），ヽ(*´з｀*)ﾉ喜欢/瑟瑟小说/音游/贴贴/睡觉/甜食爱好者/mc，时不时分享好玩的事情🥰🥰｜不线下！｜推推当朋友圈发｜欢迎投喂🥺｜自用vpn👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://so.sulink.life/#/register?code=Scz6lxd2",
+                "start": 0,
+                "url": "https://t.co/DBwGmbDDls"
+              }
+            ]
+          }
+        },
+        "id": "1747564136719085568",
+        "location": "距离你520m",
+        "name": "爱嗑糖的百香果",
+        "pinned_tweet_id": "1946971419554025666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804568911708590080/IBpTSGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10694,
+          "following_count": 549,
+          "like_count": 8352,
+          "listed_count": 14,
+          "media_count": 359,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/DBwGmbDDls",
+        "username": "passion_sugar",
+        "verified": false
+      }
+    ]
+  }
+}

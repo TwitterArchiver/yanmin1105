@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2059238066406269129",
+    "created_at": "2026-05-27T02:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059455081473609931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "866092386694217728",
+          "start": 0,
+          "username": "dungeon_lab_toy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059455081473609931",
+    "in_reply_to_user_id": "866092386694217728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059238066406269129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dungeon_lab_toy 所以说有没有那种很耐电的人可以应聘的岗位"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2019,
+        "media_key": "3_2059233728208265216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPeKl9bYAAOnfK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2059238066406269129",
+        "created_at": "2026-05-27T02:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059455081473609931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "866092386694217728",
+              "start": 0,
+              "username": "dungeon_lab_toy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059455081473609931",
+        "in_reply_to_user_id": "866092386694217728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059238066406269129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dungeon_lab_toy 所以说有没有那种很耐电的人可以应聘的岗位"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059233728208265216"
+          ]
+        },
+        "author_id": "866092386694217728",
+        "conversation_id": "2059238066406269129",
+        "created_at": "2026-05-26T11:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:22:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059233736814944655",
+          "2059238066406269129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tLsvxTyCr",
+              "end": 144,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/2059238066406269129/photo/1",
+              "media_key": "3_2059233728208265216",
+              "start": 121,
+              "url": "https://t.co/0tLsvxTyCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059238066406269129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 44050,
+          "like_count": 198,
+          "quote_count": 13,
+          "reply_count": 43,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "👨🏻‍💻老板：好缺人，真的没时间自己做APP优化，求求了，来人，来人，来人～～～\n📍工作地点：深圳南山\n📭投递邮箱：hr@dungeon-lab.com\n\n🙏🏻大家帮忙扩散下，转抽5个V50疯狂星期四。如果招到合适的，转正之后再来抽奖还愿💕 https://t.co/0tLsvxTyCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨随缘互fo，只fo眼熟和xyn丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 408,
+          "like_count": 3478,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 1408
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "2026136106752962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23969,
+          "following_count": 160,
+          "like_count": 146,
+          "listed_count": 31,
+          "media_count": 46,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1963914769104322867",
+    "created_at": "2025-09-06T01:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964138449331740963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        },
+        {
+          "end": 21,
+          "id": "1693873810469199872",
+          "start": 12,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964138449331740963",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963961169921654966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao @eve_city 吃什么啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1963914769104322867",
+        "created_at": "2025-09-06T01:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964138449331740963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            },
+            {
+              "end": 21,
+              "id": "1693873810469199872",
+              "start": 12,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964138449331740963",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963961169921654966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao @eve_city 吃什么啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "1963914769104322867",
+        "created_at": "2025-09-05T13:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963961169921654966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693873810469199872",
+              "start": 0,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963961169921654966",
+        "in_reply_to_user_id": "1693873810469199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963943485259612500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eve_city 吃点药就可以有啦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪20，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 315,
+          "like_count": 2198,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1000
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n24年8月28号无证含糖\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n幻想友一：大洛洛\n幻想友二：小渺渺\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao",
+                "start": 0,
+                "url": "https://t.co/kL6TQThccf"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾🍥（戒割手版）",
+        "pinned_tweet_id": "1867250521729306631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863679245043544064/UEWeNeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3200,
+          "following_count": 845,
+          "like_count": 24092,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 4692
+        },
+        "url": "https://t.co/kL6TQThccf",
+        "username": "jinluomiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "HRT 2024.3.4 / 07年 成都📖 / https://t.co/BfsZkEfpcK✈️ / 1056540854🐧 /  喜欢音游 MC 轨交🐱 / 最可爱的猫猫🐈 @Jin_Ge233 @yoka740273 @TianshaYS / 最可爱的月月🌕@Dymoons_tis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "yoka740273"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "TianshaYS"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Dymoons_tis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+5Hyy_7AnXjg4Z…",
+                "end": 48,
+                "expanded_url": "http://t.me/+5Hyy_7AnXjg4ZDI1",
+                "start": 25,
+                "url": "https://t.co/BfsZkEfpcK"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "location": "Estradiol Planet",
+        "name": "雨城EveningCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941145792586084352/Jd8lQnWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 969,
+          "like_count": 19603,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 5675
+        },
+        "username": "eve_city",
+        "verified": false
+      }
+    ]
+  }
+}

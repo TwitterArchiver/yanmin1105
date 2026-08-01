@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008475243812450304"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2008475261633700212",
+    "created_at": "2026-01-06T09:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008475261633700212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yDhu1uLSr8",
+          "end": 46,
+          "expanded_url": "https://x.com/yanmin1105/status/2008475261633700212/photo/1",
+          "media_key": "3_2008475243812450304",
+          "start": 23,
+          "url": "https://t.co/yDhu1uLSr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008475261633700212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酷儿橙汁\n妈妈给买的\n这么多\n那可真是太酷了 https://t.co/yDhu1uLSr8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008475243812450304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-Jl8ebcAA5QOa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008475243812450304"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008475261633700212",
+        "created_at": "2026-01-06T09:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008475261633700212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDhu1uLSr8",
+              "end": 46,
+              "expanded_url": "https://x.com/yanmin1105/status/2008475261633700212/photo/1",
+              "media_key": "3_2008475243812450304",
+              "start": 23,
+              "url": "https://t.co/yDhu1uLSr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008475261633700212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酷儿橙汁\n妈妈给买的\n这么多\n那可真是太酷了 https://t.co/yDhu1uLSr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 370,
+          "like_count": 3223,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1301
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

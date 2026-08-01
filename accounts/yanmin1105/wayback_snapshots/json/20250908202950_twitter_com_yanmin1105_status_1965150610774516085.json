@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1965150610774516085",
+    "created_at": "2025-09-08T20:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T21:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965150610774516085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puddings00/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/puddings00/status/1965064952831750445",
+          "start": 16,
+          "url": "https://t.co/6Z6RfgdcGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965150610774516085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965064952831750445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求求你们过我门槛吧啊啊啊啊啊啊 https://t.co/6Z6RfgdcGl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1965150610774516085",
+        "created_at": "2025-09-08T20:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T21:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965150610774516085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puddings00/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/puddings00/status/1965064952831750445",
+              "start": 16,
+              "url": "https://t.co/6Z6RfgdcGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965150610774516085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965064952831750445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求你们过我门槛吧啊啊啊啊啊啊 https://t.co/6Z6RfgdcGl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1965064952831750445",
+        "created_at": "2025-09-08T14:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965064952831750445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HacchiTheMaid/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/HacchiTheMaid/status/1965059004046119263",
+              "start": 16,
+              "url": "https://t.co/RrwEdR7heb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965064952831750445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965059004046119263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求你们过我门槛吧啊啊啊啊啊啊 https://t.co/RrwEdR7heb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 320,
+          "like_count": 2270,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1033
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "🌈童话说雨后会有一道彩虹 我看见希望闪耀在虹之间/zh-CN&en-US/希望你可以喜欢我哦🍬/小只软妹🎀/变得越来越可爱啦🥰/158cm＆40kg/Lesbian🩷/infp-t/喜欢贴贴🌟/美食鉴赏家🤤/同频的小可爱欢迎互fo喵🐢♥️/里推:@puddings0_0 \n表推:@puddings0n0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "puddings0_0"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "puddings0n0"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "In your heart♥️",
+        "name": "布丁喵呜🍮",
+        "pinned_tweet_id": "1948409462303117785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964270189869961216/_7wYoKWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 587,
+          "like_count": 9431,
+          "listed_count": 7,
+          "media_count": 787,
+          "tweet_count": 5764
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1973805784116175127",
+    "created_at": "2025-10-03T02:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T03:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973945084753404411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487258598774231051",
+          "start": 0,
+          "username": "CencenTiredZzz"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973945084753404411",
+    "in_reply_to_user_id": "1487258598774231051",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973805784116175127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CencenTiredZzz @grok w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1973805784116175127",
+        "created_at": "2025-10-03T02:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973945084753404411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487258598774231051",
+              "start": 0,
+              "username": "CencenTiredZzz"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973945084753404411",
+        "in_reply_to_user_id": "1487258598774231051",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973805784116175127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CencenTiredZzz @grok w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487258598774231051",
+        "conversation_id": "1973805784116175127",
+        "created_at": "2025-10-02T17:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973805784116175127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1720665183188922368",
+              "start": 37,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973805784116175127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n\n守序善良： \n中立善良： \n混乱善良： \n守序中立： \n完全中立： \n混乱中立： \n守序邪恶： \n中立邪恶： \n混乱邪恶："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨亲爱的笨蛋宝宝 @Cherry_BombY458 丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 327,
+          "like_count": 2567,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1150
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T02:57:48.000Z",
+        "description": "这里是岑岑！\n音游玩家 主玩arc ptt13.02 12段通过|hrt2025.7.19|抹茶芭菲激推:@NoDateLost",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "NoDateLost"
+              }
+            ]
+          }
+        },
+        "id": "1487258598774231051",
+        "location": "如月车站",
+        "name": "岑岑zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953804108307345416/ORUyOZGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 129,
+          "like_count": 125,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 591
+        },
+        "username": "CencenTiredZzz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376819,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5030,
+          "media_count": 2679966,
+          "tweet_count": 53572231
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

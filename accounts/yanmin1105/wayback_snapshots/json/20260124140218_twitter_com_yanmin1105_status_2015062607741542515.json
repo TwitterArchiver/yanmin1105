@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2015062182682304627",
+    "created_at": "2026-01-24T14:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T15:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015062607741542515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015062607741542515",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015062182682304627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少配偶肯定是对的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2015062174079782912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bwXv5aEAA84Ji.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2015062182682304627",
+        "created_at": "2026-01-24T14:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015062607741542515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015062607741542515",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015062182682304627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少配偶肯定是对的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015062174079782912"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2015062182682304627",
+        "created_at": "2026-01-24T14:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015062182682304627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1773379708635467776",
+              "start": 22,
+              "username": "HerbalSnow23528"
+            },
+            {
+              "end": 51,
+              "id": "1768824740666650624",
+              "start": 39,
+              "username": "shiluoshiro"
+            },
+            {
+              "end": 72,
+              "id": "1817217302762594304",
+              "start": 58,
+              "username": "chickenwinz33"
+            },
+            {
+              "end": 86,
+              "id": "1545277694325116928",
+              "start": 79,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 97,
+              "id": "1678655311006273536",
+              "start": 87,
+              "username": "EimeiLait"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 125,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2012912584710877184/a2gr_5d4?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012912584710877184/a2gr_5d4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/3h3HlNQK9G"
+            },
+            {
+              "display_url": "pic.x.com/BahMHARIId",
+              "end": 149,
+              "expanded_url": "https://x.com/yanmin1105/status/2015062182682304627/photo/1",
+              "media_key": "3_2015062174079782912",
+              "start": 126,
+              "url": "https://t.co/BahMHARIId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015062182682304627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @HerbalSnow23528 @shiluoshiro\n👰 配偶: @chickenwinz33\n👶 孩子: @BI3BXI @EimeiLait\n\n➡️ https://t.co/3h3HlNQK9G https://t.co/BahMHARIId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 382,
+          "like_count": 3290,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1327
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

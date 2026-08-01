@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915448915354411012"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1915449212793479353",
+    "created_at": "2025-04-24T16:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T17:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915449212793479353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "HRT"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "吃糖"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "药娘"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "MTF"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdPOCmg9Ce",
+          "end": 134,
+          "expanded_url": "https://x.com/yanmin1105/status/1915449212793479353/photo/1",
+          "media_key": "3_1915448915354411012",
+          "start": 111,
+          "url": "https://t.co/hdPOCmg9Ce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915449212793479353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打算在推上卖点邮票，赚点小钱哦（真的不怎么赚钱的这个价格）\n第一批就这么多\n第二批计划上一些方联什么的\n第三批会上型张，物料（平信条），集邮品（戳卡）什么的\n有需要的联系我哦\n#HRT #吃糖 #药娘 #MTF #xyn https://t.co/hdPOCmg9Ce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_1915448915354411012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpUKo9kbYAQ9Ojd.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915448915354411012"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1915449212793479353",
+        "created_at": "2025-04-24T16:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915449212793479353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "HRT"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "吃糖"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "药娘"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "MTF"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdPOCmg9Ce",
+              "end": 134,
+              "expanded_url": "https://x.com/yanmin1105/status/1915449212793479353/photo/1",
+              "media_key": "3_1915448915354411012",
+              "start": 111,
+              "url": "https://t.co/hdPOCmg9Ce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915449212793479353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算在推上卖点邮票，赚点小钱哦（真的不怎么赚钱的这个价格）\n第一批就这么多\n第二批计划上一些方联什么的\n第三批会上型张，物料（平信条），集邮品（戳卡）什么的\n有需要的联系我哦\n#HRT #吃糖 #药娘 #MTF #xyn https://t.co/hdPOCmg9Ce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 137,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 123
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

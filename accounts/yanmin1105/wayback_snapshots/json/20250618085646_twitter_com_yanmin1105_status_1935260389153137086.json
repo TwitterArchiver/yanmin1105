@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935260373382483968"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1935260389153137086",
+    "created_at": "2025-06-18T08:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T09:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935260389153137086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c10CzX32mf",
+          "end": 92,
+          "expanded_url": "https://x.com/yanmin1105/status/1935260389153137086/photo/1",
+          "media_key": "3_1935260373382483968",
+          "start": 69,
+          "url": "https://t.co/c10CzX32mf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935260389153137086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唔，倒霉舍曲林，心情不见好，副作用不少，这是又头晕又头疼，肚子不好受，睡觉不安稳，白天不醒，夜里不睡，一宿四个小时\n唉\n摆烂了，发个腿子 https://t.co/c10CzX32mf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1935260373382483968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtttDl9aUAAW-mJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935260373382483968"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1935260389153137086",
+        "created_at": "2025-06-18T08:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935260389153137086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c10CzX32mf",
+              "end": 92,
+              "expanded_url": "https://x.com/yanmin1105/status/1935260389153137086/photo/1",
+              "media_key": "3_1935260373382483968",
+              "start": 69,
+              "url": "https://t.co/c10CzX32mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935260389153137086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔，倒霉舍曲林，心情不见好，副作用不少，这是又头晕又头疼，肚子不好受，睡觉不安稳，白天不醒，夜里不睡，一宿四个小时\n唉\n摆烂了，发个腿子 https://t.co/c10CzX32mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 222,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 516
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

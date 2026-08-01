@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      }
+    ],
+    "conversation_id": "1910288178864660567",
+    "created_at": "2025-04-10T14:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T15:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910341814969684369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910341814969684369",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910288178864660567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 我现在用的air3s，感觉还可以，等哪天晚上试试无GPS钻地库返航"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "1910288178864660567",
+        "created_at": "2025-04-10T14:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910341814969684369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910341814969684369",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910288178864660567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 我现在用的air3s，感觉还可以，等哪天晚上试试无GPS钻地库返航"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741091789879308288",
+        "conversation_id": "1910288178864660567",
+        "created_at": "2025-04-10T11:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T12:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910288178864660567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910288178864660567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鹅鹅鹅鹅鹅，觉得御3pro不好玩，每次飞只敢在天上转转，不如换个AVATA2,这个才刺激；御三算是个什么答辩😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 73,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4，日语N2备考ing,欢迎大家找我集邮喵。 @kukudejiaxibei\n ///主人:@blhpc/\n永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "blhpc"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥",
+        "pinned_tweet_id": "1909422656186970239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908871372396449792/QwIZkidc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1340,
+          "like_count": 7513,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 1501
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

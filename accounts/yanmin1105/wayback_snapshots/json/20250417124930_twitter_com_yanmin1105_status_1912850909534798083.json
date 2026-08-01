@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912850909534798083",
+    "created_at": "2025-04-17T12:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T13:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912850909534798083"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912850909534798083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求助一下,有没有开过小证的啊\n我未成年,在天津(可以到北京去),想开小证,怎么搞比较好拿到小证啊\n求大家给点建议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-17T12:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912850909534798083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912850909534798083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助一下,有没有开过小证的啊\n我未成年,在天津(可以到北京去),想开小证,怎么搞比较好拿到小证啊\n求大家给点建议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 100,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

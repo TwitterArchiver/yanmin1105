@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1932801192612278344",
+    "created_at": "2025-06-11T14:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932801192612278344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cherry_bomby45…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/cherry_bomby458/status/1932792382648693036",
+          "start": 10,
+          "url": "https://t.co/zio0AZIRSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932801192612278344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932792382648693036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睾酮你怎么这么坏啊 https://t.co/zio0AZIRSw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1932801192612278344",
+        "created_at": "2025-06-11T14:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932801192612278344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cherry_bomby45…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/cherry_bomby458/status/1932792382648693036",
+              "start": 10,
+              "url": "https://t.co/zio0AZIRSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932801192612278344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932792382648693036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睾酮你怎么这么坏啊 https://t.co/zio0AZIRSw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "1932792382648693036",
+        "created_at": "2025-06-11T13:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T14:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932792382648693036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932792382648693036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睾酮你怎么这么坏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 207,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 473
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 845,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 612
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

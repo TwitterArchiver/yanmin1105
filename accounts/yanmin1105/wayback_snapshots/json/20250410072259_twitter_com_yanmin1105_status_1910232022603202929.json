@@ -1,0 +1,697 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      }
+    ],
+    "conversation_id": "1910232022603202929",
+    "created_at": "2025-04-10T07:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T08:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910232022603202929"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "雌激素"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "药娘"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "mtf"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "原神"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "跨性别"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "王者荣耀"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "开放世界"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "糖商"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "鸣潮"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "瓦洛兰特"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1634197813973356544",
+          "start": 3,
+          "username": "xingleizhitong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910232022603202929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910214485475737690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingleizhitong: 小星前几天结婚,请大家吃喜糖🎉\n抽一个幸运儿送出星愿工坊的凝胶\n抽奖内容:凝胶*1\n抽奖方式:评论点赞转发\n抽奖时间:即日起至四月十二号\n#雌激素 #药娘 #mtf #原神 #跨性别 #王者荣耀 #开放世界 #糖商 #鸣潮 #瓦洛兰特 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_1910213864698101760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoJxY6JbQAAiK_x.jpg",
+        "width": 576
+      },
+      {
+        "height": 1196,
+        "media_key": "16_1910213887204765696",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GoJxaN_bsAA4AUi.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GoJxaN_bsAA4AUi.mp4"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1910232022603202929",
+        "created_at": "2025-04-10T07:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T08:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910232022603202929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "雌激素"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "药娘"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "mtf"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "原神"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "跨性别"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "王者荣耀"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "开放世界"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "糖商"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "鸣潮"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "瓦洛兰特"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1634197813973356544",
+              "start": 3,
+              "username": "xingleizhitong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910232022603202929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910214485475737690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingleizhitong: 小星前几天结婚,请大家吃喜糖🎉\n抽一个幸运儿送出星愿工坊的凝胶\n抽奖内容:凝胶*1\n抽奖方式:评论点赞转发\n抽奖时间:即日起至四月十二号\n#雌激素 #药娘 #mtf #原神 #跨性别 #王者荣耀 #开放世界 #糖商 #鸣潮 #瓦洛兰特 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910213864698101760",
+            "16_1910213887204765696"
+          ]
+        },
+        "author_id": "1634197813973356544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1910214485475737690",
+        "created_at": "2025-04-10T06:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T07:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910214485475737690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "雌激素"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "药娘"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "mtf"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "原神"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "跨性别"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "王者荣耀"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "开放世界"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "糖商"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "鸣潮"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "瓦洛兰特"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnmR1Tl5pt",
+              "end": 141,
+              "expanded_url": "https://x.com/xingleizhitong/status/1910214485475737690/photo/1",
+              "media_key": "3_1910213864698101760",
+              "start": 118,
+              "url": "https://t.co/OnmR1Tl5pt"
+            },
+            {
+              "display_url": "pic.x.com/OnmR1Tl5pt",
+              "end": 141,
+              "expanded_url": "https://x.com/xingleizhitong/status/1910214485475737690/photo/1",
+              "media_key": "16_1910213887204765696",
+              "start": 118,
+              "url": "https://t.co/OnmR1Tl5pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910214485475737690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "小星前几天结婚,请大家吃喜糖🎉\n抽一个幸运儿送出星愿工坊的凝胶\n抽奖内容:凝胶*1\n抽奖方式:评论点赞转发\n抽奖时间:即日起至四月十二号\n#雌激素 #药娘 #mtf #原神 #跨性别 #王者荣耀 #开放世界 #糖商 #鸣潮 #瓦洛兰特 https://t.co/OnmR1Tl5pt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 71,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T14:21:46.000Z",
+        "description": "星愿小铺高级CEO~蜀道山废物道士是也~也是个连自己都骗的迷茫坐忘道~ 是个僵尸--旱魃 控梦术！ 是个三流作家 敬佩的人 @duoren6221 小RBQ @Michisa37677141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "duoren6221"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Michisa37677141"
+              }
+            ]
+          }
+        },
+        "id": "1634197813973356544",
+        "location": "蜀道山",
+        "name": "星泪之瞳(🍬糖商)",
+        "pinned_tweet_id": "1903740096748368231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651781562751660032/gPOuArD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 666,
+          "like_count": 1519,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2592
+        },
+        "username": "xingleizhitong",
+        "verified": false
+      }
+    ]
+  }
+}

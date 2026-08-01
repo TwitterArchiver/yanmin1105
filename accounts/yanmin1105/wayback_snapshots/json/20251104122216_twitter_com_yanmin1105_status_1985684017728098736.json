@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1985363074363146699",
+    "created_at": "2025-11-04T12:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985684017728098736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639773463895498752",
+          "start": 0,
+          "username": "tuanzi939"
+        },
+        {
+          "end": 26,
+          "id": "1903099585129816064",
+          "start": 11,
+          "username": "tokerumaisurii"
+        },
+        {
+          "end": 40,
+          "id": "1745799972576968705",
+          "start": 27,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985684017728098736",
+    "in_reply_to_user_id": "1639773463895498752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985488270697120162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuanzi939 @tokerumaisurii @bubblepipe42 我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1985363074363146699",
+        "created_at": "2025-11-04T12:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985684017728098736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639773463895498752",
+              "start": 0,
+              "username": "tuanzi939"
+            },
+            {
+              "end": 26,
+              "id": "1903099585129816064",
+              "start": 11,
+              "username": "tokerumaisurii"
+            },
+            {
+              "end": 40,
+              "id": "1745799972576968705",
+              "start": 27,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985684017728098736",
+        "in_reply_to_user_id": "1639773463895498752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985488270697120162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuanzi939 @tokerumaisurii @bubblepipe42 我玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639773463895498752",
+        "conversation_id": "1985363074363146699",
+        "created_at": "2025-11-03T23:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T00:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985488270697120162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            },
+            {
+              "end": 29,
+              "id": "1745799972576968705",
+              "start": 16,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985488270697120162",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985483971094868012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii @bubblepipe42 我觉得懂“邮票”的药娘应该还是有的吧。但是邮票真没听说过谁玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 354,
+          "like_count": 3021,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1242
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T23:37:24.000Z",
+        "description": "一只不太疯癫的贫穷mtx\n是个04年的崽\n主砸@fngmin62726729",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "fngmin62726729"
+              }
+            ]
+          }
+        },
+        "id": "1639773463895498752",
+        "location": "北京",
+        "name": "团子",
+        "pinned_tweet_id": "1864225474635026891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709994021056372736/baxnzgyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 107,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 332
+        },
+        "username": "tuanzi939",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 231,
+          "like_count": 59064,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 11138
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个笑话。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "1976880265319661703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786969387137990656/K-JPSsMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 745,
+          "like_count": 4556,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 1080
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078893851704786944"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2078893885825462629",
+    "created_at": "2026-07-19T17:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078893885825462629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRHYxifi4O",
+          "end": 41,
+          "expanded_url": "https://x.com/yanmin1105/status/2078893885825462629/photo/1",
+          "media_key": "3_2078893851704786944",
+          "start": 18,
+          "url": "https://t.co/NRHYxifi4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078893885825462629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香港电话卡销售\n剩的不多了\n抓紧哦 https://t.co/NRHYxifi4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078893851704786944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm28ZSbgAAJP_A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078893851704786944"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2078893885825462629",
+        "created_at": "2026-07-19T17:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078893885825462629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRHYxifi4O",
+              "end": 41,
+              "expanded_url": "https://x.com/yanmin1105/status/2078893885825462629/photo/1",
+              "media_key": "3_2078893851704786944",
+              "start": 18,
+              "url": "https://t.co/NRHYxifi4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078893885825462629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港电话卡销售\n剩的不多了\n抓紧哦 https://t.co/NRHYxifi4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 456,
+          "like_count": 4060,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

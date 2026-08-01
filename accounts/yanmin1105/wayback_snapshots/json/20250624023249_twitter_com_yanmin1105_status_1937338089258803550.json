@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1937338089258803550",
+    "created_at": "2025-06-24T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937338089258803550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695649420539219968",
+          "start": 3,
+          "username": "LiciiQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/DchCl1",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/DchCl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937338089258803550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937198111644090766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiciiQAQ: 抽奖来了喵w\n一等奖x2：雌二醇凝胶一瓶（需自付邮费，不可折现，可放弃并顺延至二等奖）\n二等奖x3：5.2r红包\n三等奖x5：Licii抱抱泥🥰\n截至30日0点捏，点赞关注转发并填写表单即可参加ww😘，，\n表单：https://t.co/DchCl1…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1937338089258803550",
+        "created_at": "2025-06-24T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937338089258803550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695649420539219968",
+              "start": 3,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/DchCl1",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/DchCl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937338089258803550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937198111644090766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiciiQAQ: 抽奖来了喵w\n一等奖x2：雌二醇凝胶一瓶（需自付邮费，不可折现，可放弃并顺延至二等奖）\n二等奖x3：5.2r红包\n三等奖x5：Licii抱抱泥🥰\n截至30日0点捏，点赞关注转发并填写表单即可参加ww😘，，\n表单：https://t.co/DchCl1…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1937198111644090766",
+        "created_at": "2025-06-23T17:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T18:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937198111644090766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "终于上1k fo了，窝也素大煮波了😇 所以抽个奖叭、、 （运费需要自己付捏）",
+              "display_url": "docs.google.com/forms/d/e/1FAI…",
+              "end": 129,
+              "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdsTyg4IQGlU8TCFQBCA29Hior0jiKTTbnxs7KZLpKQkziNWg/viewform?usp=dialog",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1937195601000873984/SQcwhSMz?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1937195601000873984/SQcwhSMz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "千fo抽奖",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdsTyg4IQGlU8TCFQBCA29Hior0jiKTTbnxs7KZLpKQkziNWg/viewform?usp=dialog",
+              "url": "https://t.co/DchCl1QPJe"
+            },
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1936834401159287136",
+              "start": 130,
+              "url": "https://t.co/nRsdkx1gIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937198111644090766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936834401159287136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖来了喵w\n一等奖x2：雌二醇凝胶一瓶（需自付邮费，不可折现，可放弃并顺延至二等奖）\n二等奖x3：5.2r红包\n三等奖x5：Licii抱抱泥🥰\n截至30日0点捏，点赞关注转发并填写表单即可参加ww😘，，\n表单：https://t.co/DchCl1QPJe https://t.co/nRsdkx1gIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 230,
+          "like_count": 1268,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 549
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 1131,
+          "like_count": 32147,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3853
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

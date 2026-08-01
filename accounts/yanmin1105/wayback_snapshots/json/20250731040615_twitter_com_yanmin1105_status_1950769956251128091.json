@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1950694624345096480",
+    "created_at": "2025-07-31T04:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T05:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950769956251128091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522542545598705664",
+          "start": 0,
+          "username": "Alexius_Jashin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950769956251128091",
+    "in_reply_to_user_id": "1522542545598705664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950760460749541388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexius_Jashin 那很欢迎了，现在还在机场延误呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1950694624345096480",
+        "created_at": "2025-07-31T04:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T05:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950769956251128091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522542545598705664",
+              "start": 0,
+              "username": "Alexius_Jashin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950769956251128091",
+        "in_reply_to_user_id": "1522542545598705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950760460749541388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexius_Jashin 那很欢迎了，现在还在机场延误呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522542545598705664",
+        "conversation_id": "1950694624345096480",
+        "created_at": "2025-07-31T03:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950760460749541388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950760460749541388",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950694624345096480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 欢迎来深圳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 291,
+          "like_count": 1852,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 769
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T11:43:34.000Z",
+        "description": "具有很多ASD特质的ADHD ||\nTomorra_\nchefeng\n💫无聊了无聊了无聊了||\n自由意志者 ||\nai，quant，go，全蘸 ||\n无聊了 ||\nINTP5w4 ||\n多巴胺持续缺乏者无聊了",
+        "id": "1522542545598705664",
+        "location": "Sasebo-shi, Nagasaki",
+        "name": "松果Ⓐ阿莱克修斯・邪神(女武神的骑行)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885677559972769792/B10cjENj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3922,
+          "following_count": 1740,
+          "like_count": 7751,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 4304
+        },
+        "username": "Alexius_Jashin",
+        "verified": false
+      }
+    ]
+  }
+}

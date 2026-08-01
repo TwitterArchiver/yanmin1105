@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912850909534798083",
+    "created_at": "2025-04-27T11:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916458884610326664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783201319530160128",
+          "start": 0,
+          "username": "xyn3246540970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916458884610326664",
+    "in_reply_to_user_id": "1783201319530160128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916458648379023752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyn3246540970 5.8出诊吗,我5.1去抢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-27T11:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916458884610326664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783201319530160128",
+              "start": 0,
+              "username": "xyn3246540970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916458884610326664",
+        "in_reply_to_user_id": "1783201319530160128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916458648379023752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyn3246540970 5.8出诊吗,我5.1去抢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783201319530160128",
+        "conversation_id": "1912850909534798083",
+        "created_at": "2025-04-27T11:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916458648379023752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916458648379023752",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916457128723939343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 估计得中旬了，五一没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 149,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 154
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T18:28:30.000Z",
+        "description": "02🍥持证含糖2024/04/20~🍥抗双相中🍥家长党",
+        "id": "1783201319530160128",
+        "location": "保定市",
+        "name": "喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802136409006108672/dGrCvFKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 28,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 58
+        },
+        "username": "xyn3246540970",
+        "verified": false
+      }
+    ]
+  }
+}

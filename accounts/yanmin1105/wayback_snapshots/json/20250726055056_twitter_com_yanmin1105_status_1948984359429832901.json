@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1948722916213878858",
+    "created_at": "2025-07-26T05:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T06:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948984359429832901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        },
+        {
+          "end": 33,
+          "id": "1773379708635467776",
+          "start": 17,
+          "username": "HerbalSnow23528"
+        },
+        {
+          "end": 50,
+          "id": "1889157954143981568",
+          "start": 34,
+          "username": "_blueberrysauce"
+        },
+        {
+          "end": 67,
+          "id": "1889157954143981568",
+          "start": 51,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948984359429832901",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948983992818303235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 @HerbalSnow23528 @_blueberrysauce @_blueberrysauce"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1948722916213878858",
+        "created_at": "2025-07-26T05:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T06:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948984359429832901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            },
+            {
+              "end": 33,
+              "id": "1773379708635467776",
+              "start": 17,
+              "username": "HerbalSnow23528"
+            },
+            {
+              "end": 50,
+              "id": "1889157954143981568",
+              "start": 34,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 67,
+              "id": "1889157954143981568",
+              "start": 51,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948984359429832901",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948983992818303235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 @HerbalSnow23528 @_blueberrysauce @_blueberrysauce"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "1948722916213878858",
+        "created_at": "2025-07-26T05:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T06:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948983992818303235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773379708635467776",
+              "start": 0,
+              "username": "HerbalSnow23528"
+            },
+            {
+              "end": 33,
+              "id": "1889157954143981568",
+              "start": 17,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948983992818303235",
+        "in_reply_to_user_id": "1773379708635467776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948722916213878858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HerbalSnow23528 @_blueberrysauce  小菠萝快来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 279,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 725
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 生产日期08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 🚪20全球🉑✈️ / 最爱最爱滴老婆 @yanmin1105 🥰/  宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "下水道左转包间302",
+        "name": "-4°",
+        "pinned_tweet_id": "1945704591250923812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 913,
+          "like_count": 2036,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 739
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:01:13.000Z",
+        "description": "你好哦～叫咱小铃/铃酱就好呢，20岁，无证含糖🍥xyn，hrt25.3.16，女装萌新，喜欢铁路、车万、术力口，tk圈小ee，173cm，56kg，欢迎来戳咱，交友可私聊加q，咱想要成为有趣的人，想要被喜欢（也好想被tickle……）希望每个人都要好好爱护自己的身体，活成自己想要的样子哦～",
+        "id": "1773379708635467776",
+        "location": "国铁济南局管内（时不时跨局）",
+        "name": "HerbalSnow小铃酱🍥",
+        "pinned_tweet_id": "1895889427693760630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773406031382745089/35YvhfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 2979,
+          "like_count": 12377,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 827
+        },
+        "username": "HerbalSnow23528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 不收门槛了 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 50,
+                "username": "wwjxx"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "pinned_tweet_id": "1919217286923080152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 1410,
+          "like_count": 9790,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 2876
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": true
+      }
+    ]
+  }
+}

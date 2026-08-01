@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1974753261363294208"
+      ],
+      "media_source_tweet_id": [
+        "1974753435124978073"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1975025686705496562",
+    "created_at": "2025-10-06T02:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T03:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975025686705496562"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "4i女攻"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "踩脸"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "足控"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "女性崇拜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1918938686651035648",
+          "start": 3,
+          "username": "Bueno1623441162"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4zxkps636Q",
+          "end": 75,
+          "expanded_url": "https://x.com/Bueno1623441162/status/1974753435124978073/video/1",
+          "media_key": "7_1974753261363294208",
+          "start": 52,
+          "url": "https://t.co/4zxkps636Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975025686705496562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974753435124978073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bueno1623441162: 叫声妈妈就踩你脸上🖤\n#4i女攻 #踩脸 #足控 #女性崇拜 https://t.co/4zxkps636Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975025686705496562].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975025686705496562",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975025686705496562"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74800,
+        "height": 720,
+        "media_key": "7_1974753261363294208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974753261363294208/pu/img/7WJDWgwhkmBsTjuG.jpg",
+        "public_metrics": {
+          "view_count": 167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974753261363294208/pu/vid/avc1/480x270/BkmPugJIaxgNwWwP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974753261363294208/pu/vid/avc1/640x360/VYhPJPBb-zyU8wkm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974753261363294208/pu/vid/avc1/1280x720/axRvdyK2sGWAcxku.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974753261363294208/pu/pl/T5mFRT3A8dvK8Wb9.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974753261363294208"
+          ]
+        },
+        "author_id": "1918938686651035648",
+        "conversation_id": "1974753435124978073",
+        "created_at": "2025-10-05T08:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974753435124978073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "4i女攻"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "踩脸"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "足控"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "女性崇拜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zxkps636Q",
+              "end": 54,
+              "expanded_url": "https://x.com/Bueno1623441162/status/1974753435124978073/video/1",
+              "media_key": "7_1974753261363294208",
+              "start": 31,
+              "url": "https://t.co/4zxkps636Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974753435124978073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 660,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "叫声妈妈就踩你脸上🖤\n#4i女攻 #踩脸 #足控 #女性崇拜 https://t.co/4zxkps636Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1971853074307436867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 329,
+          "like_count": 2645,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1173
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T08:00:54.000Z",
+        "description": "双-1i-4i‖在读女高/entp ‖喜欢会看置顶的人‖在校会带手机但是不经常看‖可陪聊/赛博女友‖学习压力大爱涩涩‖私信可鉴🐔‖长期收小狗‖欢迎投喂❤️\n文媛模式小号@fufu133769",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "fufu133769"
+              }
+            ]
+          }
+        },
+        "id": "1918938686651035648",
+        "location": "0.01km",
+        "name": "芙芙不软fufu✨",
+        "pinned_tweet_id": "1974755027517661526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964280090289983489/A_0Ofz7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 28,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 124
+        },
+        "username": "Bueno1623441162",
+        "verified": false
+      }
+    ]
+  }
+}

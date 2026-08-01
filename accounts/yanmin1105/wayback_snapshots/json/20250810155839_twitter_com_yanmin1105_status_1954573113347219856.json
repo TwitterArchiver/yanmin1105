@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1953479373870563717",
+    "created_at": "2025-08-10T15:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T16:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954573113347219856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "2temisinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954573113347219856",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954572721834086458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2temisinin 推荐姐姐去广州塔底下，坐晚上的观光巴士，30一位，坐了就能体会到什么叫上当受骗了，我在车上浪费两个小时，绕（堵）了一圈，啥也没看见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1953479373870563717",
+        "created_at": "2025-08-10T15:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954573113347219856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "2temisinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954573113347219856",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954572721834086458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2temisinin 推荐姐姐去广州塔底下，坐晚上的观光巴士，30一位，坐了就能体会到什么叫上当受骗了，我在车上浪费两个小时，绕（堵）了一圈，啥也没看见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "1953479373870563717",
+        "created_at": "2025-08-10T15:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954572721834086458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954572721834086458",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954572316878446666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 298,
+          "like_count": 1997,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 818
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜一只黎博利｜HAM BH6RQG as Digital DXer｜Nikon｜Bioscience｜Aerospace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "绿鸮西泮",
+        "pinned_tweet_id": "1954206496700649679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948030569415315456/Vp5WQ8_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 1678,
+          "like_count": 34937,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3350
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

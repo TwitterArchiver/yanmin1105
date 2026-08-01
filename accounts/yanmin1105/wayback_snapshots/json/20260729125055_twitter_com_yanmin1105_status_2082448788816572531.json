@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2082346354576077142",
+    "created_at": "2026-07-29T12:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082448788816572531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        },
+        {
+          "end": 27,
+          "id": "2002460581056688128",
+          "start": 11,
+          "username": "canesalt_G_Oath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082448788816572531",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082448037981343805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki @canesalt_G_Oath 不知道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082448021577461763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZXcT1W8AMVt5u.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2082346354576077142",
+        "created_at": "2026-07-29T12:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082448788816572531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            },
+            {
+              "end": 27,
+              "id": "2002460581056688128",
+              "start": 11,
+              "username": "canesalt_G_Oath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082448788816572531",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082448037981343805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki @canesalt_G_Oath 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082448021577461763"
+          ]
+        },
+        "author_id": "1830213377052037120",
+        "conversation_id": "2082346354576077142",
+        "created_at": "2026-07-29T12:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082448037981343805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 28,
+              "id": "2002460581056688128",
+              "start": 12,
+              "username": "canesalt_G_Oath"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHZ4qP0UPT",
+              "end": 59,
+              "expanded_url": "https://x.com/jiu_yokki/status/2082448037981343805/photo/1",
+              "media_key": "3_2082448021577461763",
+              "start": 36,
+              "url": "https://t.co/SHZ4qP0UPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082448037981343805",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082446849911492642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @canesalt_G_Oath 这是什么情况 https://t.co/SHZ4qP0UPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 462,
+          "like_count": 4094,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎   互关直fo看成分回",
+        "id": "1830213377052037120",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057855952981016576/b0bOr7uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 138,
+          "like_count": 2011,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T19:27:13.000Z",
+        "description": "不良習性",
+        "id": "2002460581056688128",
+        "location": "太空",
+        "name": "蔗盐",
+        "pinned_tweet_id": "2069077282116026741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079558594719297537/48igA3uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 229,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "canesalt_G_Oath",
+        "verified": false
+      }
+    ]
+  }
+}

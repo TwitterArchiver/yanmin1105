@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1945759756121210958",
+    "created_at": "2025-07-17T08:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T09:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945765721990124029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945765721990124029",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945759756121210958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_1945759752266366976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwC6L4QWwAAfv_K.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1945759756121210958",
+        "created_at": "2025-07-17T08:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945765721990124029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945765721990124029",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945759756121210958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945759752266366976"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1945759756121210958",
+        "created_at": "2025-07-17T08:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945759756121210958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gj2ThbfPXg",
+              "end": 188,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1945759756121210958/photo/1",
+              "media_key": "3_1945759752266366976",
+              "start": 165,
+              "url": "https://t.co/gj2ThbfPXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945759756121210958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chiyu.it/posts/2025/0609",
+                "end": 417,
+                "expanded_url": "https://chiyu.it/posts/2025/0609",
+                "start": 394,
+                "url": "https://t.co/K3oGQ3qC59"
+              },
+              {
+                "display_url": "chiyu.it/posts/2025/0608",
+                "end": 452,
+                "expanded_url": "https://chiyu.it/posts/2025/0608",
+                "start": 429,
+                "url": "https://t.co/debRkzTIqQ"
+              }
+            ]
+          },
+          "text": "2400fo了，补一下2000fo抽奖吧\n参与方式：点赞、转贴、评论一句\n少一个都不会算参与列表里哦\n\n【一等】英国GiffGaff（+44）带10英镑SIM卡一张 or 新西兰One NZ （+64）SIM一张自选\n不需要实名\n也可以折算成V你50\n\n【二等】2盒补佳乐 寄到你手里\n如果不是xyn没有HRT需求那么请你吃顿饭\n\n【三等】给个地址请你吃顿饭/一杯奶茶 可以折成V你20\n\n【特殊奖】如果这个奖抽到xyn了那么再额外给1盒补佳乐\n抽到普通人什么都没有\n\n开奖方式：达到3000fo开奖\n\n希望各位踊跃参与（多转发引用 让更多人看见）\n\n英国GiffGaff和OneNZ的区别主要就是充值方式，英国GG自带10英镑余额 充值需要外币银行卡\n而One NZ可以直接用支付宝生活缴费充值 相对来说方便些\n看个人需要什么自己选就好～\n\n具体差别也可以看我的文章o\nOne NZ: https://t.co/K3oGQ3qC59\n\nGiffGaff：\nhttps://t.co/debRkzTIqQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 796,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "2400fo了，补一下2000fo抽奖吧\n参与方式：点赞、转贴、评论一句\n少一个都不会算参与列表里哦\n\n【一等】英国GiffGaff（+44）带10英镑SIM卡一张 or 新西兰One NZ （+64）SIM一张自选\n不需要实名\n也可以折算成V你50\n\n【二等】2盒补佳乐 寄到你手里\n如果不是xyn没有HRT需求那么请你吃顿饭 https://t.co/gj2ThbfPXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 262,
+          "like_count": 1592,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 687
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939728580105445794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 1158,
+          "like_count": 2972,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

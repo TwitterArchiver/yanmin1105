@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1968157028528054651",
+    "created_at": "2025-09-17T13:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968304472893112403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537858604724015104",
+          "start": 0,
+          "username": "tonghua245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968304472893112403",
+    "in_reply_to_user_id": "1537858604724015104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968157405751152732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua245 乌萨奇（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1968157028528054651",
+        "created_at": "2025-09-17T13:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968304472893112403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537858604724015104",
+              "start": 0,
+              "username": "tonghua245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968304472893112403",
+        "in_reply_to_user_id": "1537858604724015104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968157405751152732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua245 乌萨奇（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537858604724015104",
+        "conversation_id": "1968157028528054651",
+        "created_at": "2025-09-17T03:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968157405751152732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968157405751152732",
+        "in_reply_to_user_id": "1537858604724015104",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968157028528054651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 328,
+          "like_count": 2393,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1083
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "04是个xyn 🍥\nhrt2024.12.5 |\n🚪50 |\n随缘线下 |\n喜欢@zihuan9011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "zihuan9011"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "是浔姨吖",
+        "pinned_tweet_id": "1949378587716731070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958389281837522944/06waOAHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 723,
+          "like_count": 3737,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 549
+        },
+        "username": "tonghua245",
+        "verified": false
+      }
+    ]
+  }
+}

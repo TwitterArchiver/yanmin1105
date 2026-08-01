@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2072584285161500872",
+    "created_at": "2026-07-02T12:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072661134222807400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1581154911596650496",
+          "start": 0,
+          "username": "kcillatem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072661134222807400",
+    "in_reply_to_user_id": "1581154911596650496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072660184846287002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kcillatem 差不多，纸做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T12:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072661134222807400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1581154911596650496",
+              "start": 0,
+              "username": "kcillatem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072661134222807400",
+        "in_reply_to_user_id": "1581154911596650496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072660184846287002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kcillatem 差不多，纸做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581154911596650496",
+        "conversation_id": "2072584285161500872",
+        "created_at": "2026-07-02T12:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072660184846287002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072660184846287002",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072584285161500872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 现金，不叫纸钱啊！😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 433,
+          "like_count": 3861,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1535
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T05:28:11.000Z",
+        "description": "写什么",
+        "id": "1581154911596650496",
+        "location": "Tokyo-to, Japan",
+        "name": "kcillatem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581159539780395008/IEHv71C__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 213,
+          "like_count": 17520,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "kcillatem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2076434740085715353",
+    "created_at": "2026-07-13T16:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076707765297521041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        },
+        {
+          "end": 21,
+          "id": "1028139778536079360",
+          "start": 10,
+          "username": "kohakumito"
+        },
+        {
+          "end": 34,
+          "id": "1825860031855865856",
+          "start": 22,
+          "username": "assdent3258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076707765297521041",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076600303823265816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 @kohakumito @assdent3258 汇丰哈哈理财这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076600280234496000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGQ89vakAAxEuc.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2076434740085715353",
+        "created_at": "2026-07-13T16:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076707765297521041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 21,
+              "id": "1028139778536079360",
+              "start": 10,
+              "username": "kohakumito"
+            },
+            {
+              "end": 34,
+              "id": "1825860031855865856",
+              "start": 22,
+              "username": "assdent3258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076707765297521041",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076600303823265816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 @kohakumito @assdent3258 汇丰哈哈理财这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076600280234496000"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2076434740085715353",
+        "created_at": "2026-07-13T09:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076600303823265816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1028139778536079360",
+              "start": 0,
+              "username": "kohakumito"
+            },
+            {
+              "end": 24,
+              "id": "1825860031855865856",
+              "start": 12,
+              "username": "assdent3258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQyaaI3PgT",
+              "end": 65,
+              "expanded_url": "https://x.com/DrilL019/status/2076600303823265816/photo/1",
+              "media_key": "3_2076600280234496000",
+              "start": 42,
+              "url": "https://t.co/UQyaaI3PgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076600303823265816",
+        "in_reply_to_user_id": "1028139778536079360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4906,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076434740085715353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohakumito @assdent3258 当你存了1000000HKD后： https://t.co/UQyaaI3PgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 448,
+          "like_count": 3999,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1340,
+          "like_count": 22388,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 6691
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-11T04:43:19.000Z",
+        "description": "持證含糖MTF🏳️‍⚧️🍥 | 178公分/70kg大隻狐狸🦊| 終身不加入任何政黨 | 同類回fo | 下體人退散 | 喜歡計算機/硬體設計/網路技術 | 喜歡二次元 | 裏帳號@mitokohaku835 | 老公 @Joestar8622 | あなたと結ぶ，たったひとつの誓いが，わたしのすべてです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "mitokohaku835"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohaku.cat",
+                "end": 23,
+                "expanded_url": "https://www.kohaku.cat",
+                "start": 0,
+                "url": "https://t.co/4JycxaItgf"
+              }
+            ]
+          }
+        },
+        "id": "1028139778536079360",
+        "location": "中華民國",
+        "name": "泉戸 こはく🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193314290348032/DNJNHMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 954,
+          "like_count": 21324,
+          "listed_count": 11,
+          "media_count": 485,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/4JycxaItgf",
+        "username": "kohakumito",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-20T11:38:59.000Z",
+        "description": "",
+        "id": "1825860031855865856",
+        "name": "川和工团CHUD",
+        "pinned_tweet_id": "2074723552339861990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992761020998459392/1BZ4kLVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 598,
+          "like_count": 30220,
+          "listed_count": 10,
+          "media_count": 2067,
+          "tweet_count": 19940
+        },
+        "url": "",
+        "username": "assdent3258",
+        "verified": false
+      }
+    ]
+  }
+}

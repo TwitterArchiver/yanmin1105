@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938908291381501954"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938908305008808051",
+    "created_at": "2025-06-28T10:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938908305008808051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q8dCY41qrx",
+          "end": 90,
+          "expanded_url": "https://x.com/yanmin1105/status/1938908305008808051/photo/1",
+          "media_key": "3_1938908291381501954",
+          "start": 67,
+          "url": "https://t.co/Q8dCY41qrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938908305008808051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日前往一家离居住地很远的ICBC支行，成功办理牡丹国际借记卡（这个卡板好多支行都没有了捏）\n感谢杂鱼铨铨提供的理论指导和开卡建议捏 https://t.co/Q8dCY41qrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1938908291381501954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guhi0XfaoAIWhGN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938908291381501954"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938908305008808051",
+        "created_at": "2025-06-28T10:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938908305008808051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8dCY41qrx",
+              "end": 90,
+              "expanded_url": "https://x.com/yanmin1105/status/1938908305008808051/photo/1",
+              "media_key": "3_1938908291381501954",
+              "start": 67,
+              "url": "https://t.co/Q8dCY41qrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938908305008808051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日前往一家离居住地很远的ICBC支行，成功办理牡丹国际借记卡（这个卡板好多支行都没有了捏）\n感谢杂鱼铨铨提供的理论指导和开卡建议捏 https://t.co/Q8dCY41qrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 235,
+          "like_count": 1319,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 559
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

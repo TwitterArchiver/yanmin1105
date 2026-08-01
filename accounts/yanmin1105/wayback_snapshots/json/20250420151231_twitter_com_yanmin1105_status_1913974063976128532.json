@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1913971414731837928",
+    "created_at": "2025-04-20T15:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T16:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913974063976128532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647170304844914689",
+          "start": 0,
+          "username": "DustSwallo15805"
+        },
+        {
+          "end": 23,
+          "id": "1243945571796295681",
+          "start": 17,
+          "username": "ryq59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913974063976128532",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913973786589925528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DustSwallo15805 @ryq59 可能不行，得是纸质品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1913971414731837928",
+        "created_at": "2025-04-20T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913974063976128532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 23,
+              "id": "1243945571796295681",
+              "start": 17,
+              "username": "ryq59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913974063976128532",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913973786589925528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @ryq59 可能不行，得是纸质品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1913971414731837928",
+        "created_at": "2025-04-20T15:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913973786589925528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            },
+            {
+              "end": 18,
+              "id": "1904539885769457665",
+              "start": 7,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913973786589925528",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913971414731837928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 @yanmin1105 所以我找个塑料袋也行🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 113,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 98
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 158,
+          "like_count": 8542,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 738
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "半个天津卫嘴子（在努力练说话了）｜家暴党MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜查成分回fo（可以私信）｜Sis @iranon_lcf @yizhikapaiqaq｜请点击查看更多 以了解我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "yizhikapaiqaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUeaH"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1913912688352038987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16788,
+          "following_count": 4798,
+          "like_count": 178251,
+          "listed_count": 70,
+          "media_count": 4977,
+          "tweet_count": 22565
+        },
+        "url": "https://t.co/6W3mmCUeaH",
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

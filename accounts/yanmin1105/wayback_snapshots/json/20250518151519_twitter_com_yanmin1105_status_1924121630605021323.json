@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1924116047323644311",
+    "created_at": "2025-05-18T15:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T16:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924121630605021323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924121630605021323",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924121461994000669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 才9万喵，这得多少箱日雌了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1924116047323644311",
+        "created_at": "2025-05-18T15:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924121630605021323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924121630605021323",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924121461994000669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 才9万喵，这得多少箱日雌了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741091789879308288",
+        "conversation_id": "1924116047323644311",
+        "created_at": "2025-05-18T15:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924121461994000669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924121461994000669",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924121021218758950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 哈哈哈哈\n我当然想要啊，要不好妹妹给我买一个，才9万喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 181,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 264
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "是梓欣哦，对象🥰🥰 @yzkeaimiao\n临床医学专业，hrt2424.12.4～2025.4.23，坐标漯杉矶///暂时断糖,coser/kiger/摄影/无人机/垃圾佬，一只香香软软的小男娘，最好的闺蜜 @yanmin1105  @Cherry_BombY458🥰🥰🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "yzkeaimiao"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "鷔莎西泮",
+        "pinned_tweet_id": "1921427079133835378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922121997854605312/tp7iy_08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 1912,
+          "like_count": 10426,
+          "listed_count": 7,
+          "media_count": 238,
+          "tweet_count": 2324
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

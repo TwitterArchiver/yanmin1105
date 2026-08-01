@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914397664436944897"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1914397673962267098",
+    "created_at": "2025-04-21T19:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T20:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914397673962267098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOKbddNK6u",
+          "end": 138,
+          "expanded_url": "https://x.com/yanmin1105/status/1914397673962267098/photo/1",
+          "media_key": "3_1914397664436944897",
+          "start": 115,
+          "url": "https://t.co/vOKbddNK6u"
+        },
+        {
+          "display_url": "x.com/yanmin1105/sta…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/yanmin1105/status/1906335074590625860",
+          "start": 139,
+          "url": "https://t.co/YDoKcpbhRl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914397673962267098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906335074590625860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非同类（顺男)加我要过20R门槛哦，如果过了门槛之后和你聊的很不舒服的话，会把门槛退给你然后把你删掉哦\n（纯绿，不面，不涉三）\n（线上也可以接文爱的啦，过了🚪再说哦）\n付完之后记得截图哦，然后备注或者私信联系方式，把截图也发过来 https://t.co/vOKbddNK6u https://t.co/YDoKcpbhRl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1914397664436944897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpFOiGuaAAEToE3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914397664436944897"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1914397673962267098",
+        "created_at": "2025-04-21T19:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T20:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914397673962267098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOKbddNK6u",
+              "end": 138,
+              "expanded_url": "https://x.com/yanmin1105/status/1914397673962267098/photo/1",
+              "media_key": "3_1914397664436944897",
+              "start": 115,
+              "url": "https://t.co/vOKbddNK6u"
+            },
+            {
+              "display_url": "x.com/yanmin1105/sta…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/yanmin1105/status/1906335074590625860",
+              "start": 139,
+              "url": "https://t.co/YDoKcpbhRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914397673962267098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906335074590625860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非同类（顺男)加我要过20R门槛哦，如果过了门槛之后和你聊的很不舒服的话，会把门槛退给你然后把你删掉哦\n（纯绿，不面，不涉三）\n（线上也可以接文爱的啦，过了🚪再说哦）\n付完之后记得截图哦，然后备注或者私信联系方式，把截图也发过来 https://t.co/vOKbddNK6u https://t.co/YDoKcpbhRl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1906335074590625860",
+        "created_at": "2025-03-30T13:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T14:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906335074590625860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906335074590625860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2604,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【自我介绍一下】\n一个无证含糖的 xyn，生日是11.5\n一个INFP-T（之前还是ENTP呢）HRT:2025.3.19\n一个苦逼高中生，暂时不露脸 \n大家如果有什么想不开的，一定不要冲动，不要做傻事，可以来找我聊聊啊\n欢迎各位xyn前来贴贴（心理问题可以前来咨询哦）\n偶尔也会给别人写写文章，人物志（征得同意后放出）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914396826339561582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 121,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 107
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

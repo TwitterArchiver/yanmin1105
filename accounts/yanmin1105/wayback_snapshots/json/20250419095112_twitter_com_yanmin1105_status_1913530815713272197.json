@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1913529111303290880"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1909586091247624275",
+    "created_at": "2025-04-19T09:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913530815713272197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1693935285577670656",
+          "start": 9,
+          "username": "MinaseAyano"
+        },
+        {
+          "end": 43,
+          "id": "1894461745277931524",
+          "start": 28,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 61,
+          "id": "1741091789879308288",
+          "start": 50,
+          "username": "zixinmiao2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tt1Al7z1Vg",
+          "end": 91,
+          "expanded_url": "https://x.com/yanmin1105/status/1913530815713272197/video/1",
+          "media_key": "13_1913529111303290880",
+          "start": 68,
+          "url": "https://t.co/tt1Al7z1Vg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913530815713272197",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909608889957392686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开奖了开奖了\n恭喜@MinaseAyano 获得一等奖\n@Rain_Antar1121 获得二等奖\n@zixinmiao2 获得三等奖 https://t.co/tt1Al7z1Vg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87340,
+        "height": 1280,
+        "media_key": "13_1913529111303290880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913529111303290880/img/ux4_Hlp7YAGYoQjP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913529111303290880/vid/avc1/320x690/JiTT7g15I6gvg_Hu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913529111303290880/vid/avc1/480x1036/KqCE2aLMbd3bQjqu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913529111303290880/vid/avc1/592x1280/XBre-OZCarhbduqR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913529111303290880/pl/GoqolHrbFv3pSckg.m3u8?tag=14"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913529111303290880"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909586091247624275",
+        "created_at": "2025-04-19T09:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913530815713272197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1693935285577670656",
+              "start": 9,
+              "username": "MinaseAyano"
+            },
+            {
+              "end": 43,
+              "id": "1894461745277931524",
+              "start": 28,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 61,
+              "id": "1741091789879308288",
+              "start": 50,
+              "username": "zixinmiao2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tt1Al7z1Vg",
+              "end": 91,
+              "expanded_url": "https://x.com/yanmin1105/status/1913530815713272197/video/1",
+              "media_key": "13_1913529111303290880",
+              "start": 68,
+              "url": "https://t.co/tt1Al7z1Vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913530815713272197",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909608889957392686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖了开奖了\n恭喜@MinaseAyano 获得一等奖\n@Rain_Antar1121 获得二等奖\n@zixinmiao2 获得三等奖 https://t.co/tt1Al7z1Vg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1909586091247624275",
+        "created_at": "2025-04-08T14:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T15:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909608889957392686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909608889957392686",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909586967823609914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国大陆包邮，跨境补5R运费哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 112,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 90
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 里推/老婆@Yumo_1314 | 请看置顶推w | 喵呜～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/8MGVVAKFJF"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "猫窝",
+        "name": "綾乃𝐴𝑦𝑎𝑛𝑜🍋‍🟩",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1481,
+          "like_count": 4219,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 5323
+        },
+        "url": "https://t.co/8MGVVAKFJF",
+        "username": "MinaseAyano",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 有容易抱住别人的习惯 | 小透明属性 | 同类互fo喵 | 贴贴看到这里的每一只小可爱～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 553,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 195
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/家暴党/天残党/hrt 24.12.4, 萌新kiger/日语N2备考ing,欢迎大家找我集邮喵 好老婆🥰🥰  @kukudejiaxibei\n///主人:@blhpc/\n永远的姐姐めんま🕯️🕯️@TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "blhpc"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥（不再内耗）",
+        "pinned_tweet_id": "1912687293678383340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912720749787492352/QP4diWRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1461,
+          "like_count": 8784,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 1916
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

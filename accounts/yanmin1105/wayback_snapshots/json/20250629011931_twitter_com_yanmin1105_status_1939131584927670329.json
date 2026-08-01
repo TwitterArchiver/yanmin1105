@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1938973224789774765",
+    "created_at": "2025-06-29T01:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T02:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939131584927670329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730530795977404416",
+          "start": 0,
+          "username": "0712_luotianyi"
+        },
+        {
+          "end": 28,
+          "id": "1818678630824001538",
+          "start": 16,
+          "username": "Misako_25ji"
+        },
+        {
+          "end": 41,
+          "id": "1693935285577670656",
+          "start": 29,
+          "username": "MinaseAyano"
+        },
+        {
+          "end": 57,
+          "id": "1693935285577670656",
+          "start": 45,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939131584927670329",
+    "in_reply_to_user_id": "1730530795977404416",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939128657928429798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0712_luotianyi @Misako_25ji @MinaseAyano xm @MinaseAyano"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939128657928429798].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939128657928429798",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939128657928429798"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1938973224789774765",
+        "created_at": "2025-06-29T01:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939131584927670329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730530795977404416",
+              "start": 0,
+              "username": "0712_luotianyi"
+            },
+            {
+              "end": 28,
+              "id": "1818678630824001538",
+              "start": 16,
+              "username": "Misako_25ji"
+            },
+            {
+              "end": 41,
+              "id": "1693935285577670656",
+              "start": 29,
+              "username": "MinaseAyano"
+            },
+            {
+              "end": 57,
+              "id": "1693935285577670656",
+              "start": 45,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939131584927670329",
+        "in_reply_to_user_id": "1730530795977404416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939128657928429798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0712_luotianyi @Misako_25ji @MinaseAyano xm @MinaseAyano"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 236,
+          "like_count": 1328,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 571
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T10:14:40.000Z",
+        "description": "华风夏韵，洛水天依/INFP-A/临床在读/是一只淡青色小蝴蝶/想成为可爱的男孩子/不含药物/跨性别友善🏳️‍⚧️\n\n最爱的姐姐&老婆：@nabyuuta\n好朋友：\n星星@PoorstarRMB\n海鸥姐姐@liki24003\n秋秋@QiuTtang\n绫乃@MinaseAyano\n嫣敏@yanmin1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "nabyuuta"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "PoorstarRMB"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "liki24003"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "QiuTtang"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "yanmin1105"
+              }
+            ]
+          }
+        },
+        "id": "1730530795977404416",
+        "name": "蝶依（超级无敌小蝴蝶版）",
+        "pinned_tweet_id": "1850438053170725059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911791364083257344/cF7quUTr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 1038,
+          "like_count": 15985,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1550
+        },
+        "username": "0712_luotianyi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "翻车顺男.avi｜小狗：@Silicium_28 好き@Cano_3118 @zqtlovekris99｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Silicium_28"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Cano_3118"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1911389216899989608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 984,
+          "like_count": 1153,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推负能 & 可爱老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 老婆大人@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "Longyearbyen",
+        "name": "綾乃 🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1729,
+          "like_count": 6114,
+          "listed_count": 6,
+          "media_count": 541,
+          "tweet_count": 6606
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

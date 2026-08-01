@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1926542280481022395",
+    "created_at": "2025-05-25T12:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T13:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926614684204970187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634197813973356544",
+          "start": 0,
+          "username": "xingleizhitong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926614684204970187",
+    "in_reply_to_user_id": "1634197813973356544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926542280481022395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingleizhitong 生日快乐喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1926542267759685632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grxz_DqXcAA0HGu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1926542280481022395",
+        "created_at": "2025-05-25T12:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T13:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926614684204970187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634197813973356544",
+              "start": 0,
+              "username": "xingleizhitong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926614684204970187",
+        "in_reply_to_user_id": "1634197813973356544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926542280481022395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingleizhitong 生日快乐喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926542267759685632"
+          ]
+        },
+        "author_id": "1634197813973356544",
+        "conversation_id": "1926542280481022395",
+        "created_at": "2025-05-25T07:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926542280481022395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wip8lyHKK",
+              "end": 34,
+              "expanded_url": "https://x.com/xingleizhitong/status/1926542280481022395/photo/1",
+              "media_key": "3_1926542267759685632",
+              "start": 11,
+              "url": "https://t.co/2wip8lyHKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926542280481022395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成年三年来第一次生日 https://t.co/2wip8lyHKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 186,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 284
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T14:21:46.000Z",
+        "description": "星愿小铺高级CEO~蜀道山废物道士是也~也是个连自己都骗的迷茫坐忘道~ 是个僵尸--旱魃 控梦术！ 是个三流作家 敬佩的人 @duoren6221 小RBQ @Michisa37677141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "duoren6221"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Michisa37677141"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starwish.cat",
+                "end": 23,
+                "expanded_url": "https://starwish.cat/",
+                "start": 0,
+                "url": "https://t.co/8eIYj9tuzq"
+              }
+            ]
+          }
+        },
+        "id": "1634197813973356544",
+        "location": "蜀道山",
+        "name": "星泪之瞳(🍬糖商)",
+        "pinned_tweet_id": "1903740096748368231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651781562751660032/gPOuArD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 712,
+          "like_count": 1750,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/8eIYj9tuzq",
+        "username": "xingleizhitong",
+        "verified": false
+      }
+    ]
+  }
+}

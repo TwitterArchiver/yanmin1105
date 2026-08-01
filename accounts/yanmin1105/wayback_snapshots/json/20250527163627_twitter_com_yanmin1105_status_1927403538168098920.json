@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1927366715194630436",
+    "created_at": "2025-05-27T16:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927403538168098920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748384528958394368",
+          "start": 0,
+          "username": "AelxFrank13962"
+        },
+        {
+          "end": 26,
+          "id": "1537965269997408263",
+          "start": 16,
+          "username": "lihedong5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927403538168098920",
+    "in_reply_to_user_id": "1748384528958394368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927403151495196690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AelxFrank13962 @lihedong5 北三就那么几个喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1927366715194630436",
+        "created_at": "2025-05-27T16:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927403538168098920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748384528958394368",
+              "start": 0,
+              "username": "AelxFrank13962"
+            },
+            {
+              "end": 26,
+              "id": "1537965269997408263",
+              "start": 16,
+              "username": "lihedong5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927403538168098920",
+        "in_reply_to_user_id": "1748384528958394368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927403151495196690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AelxFrank13962 @lihedong5 北三就那么几个喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748384528958394368",
+        "conversation_id": "1927366715194630436",
+        "created_at": "2025-05-27T16:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927403151495196690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 33,
+              "id": "1537965269997408263",
+              "start": 23,
+              "username": "lihedong5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927403151495196690",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927366715194630436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 这个医师名字好熟悉啊 @lihedong5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 186,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 308
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T16:38:59.000Z",
+        "description": "可以叫我Fuko/Fufu |高二在读|最高の17歳!|中文|English|日本語|ENFJ|HRT 3.30 2025|随便发些日常|来推是想交些朋友|微🍥|三次元|现充|化学|药理学|DIY|Python|2007 11 22|177cm|游戏不常玩 GTA5 BFV|欢迎随时找我聊天🥹 (我很友好的🥲）",
+        "id": "1748384528958394368",
+        "name": "風子 ふうこ Fuko🏳️‍⚧️",
+        "pinned_tweet_id": "1923316531133346188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917441942482477058/_ma2cwAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 516,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 41
+        },
+        "username": "AelxFrank13962",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T01:08:04.000Z",
+        "description": "mtf，化学爱好者，17岁，身高172cm hrt 2022 5 17 ，ADHD 持证含糖 想和xyn贴贴，同类回fo",
+        "id": "1537965269997408263",
+        "location": "山东济南",
+        "name": "硫酸奎宁🏳️‍⚧️",
+        "pinned_tweet_id": "1735275561730392091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704298719292882944/Yuxh2kmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 2003,
+          "like_count": 6546,
+          "listed_count": 7,
+          "media_count": 231,
+          "tweet_count": 636
+        },
+        "username": "lihedong5",
+        "verified": false
+      }
+    ]
+  }
+}

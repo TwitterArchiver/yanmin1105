@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1964354301083455802",
+    "created_at": "2025-09-07T14:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T15:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964693628892410221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "JDE_Alva"
+        },
+        {
+          "end": 25,
+          "id": "1351485882696548357",
+          "start": 10,
+          "username": "OnlyAppleCanDo"
+        },
+        {
+          "end": 39,
+          "id": "1296696911580209152",
+          "start": 26,
+          "username": "akari_starry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964693628892410221",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964693033766756746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDE_Alva @OnlyAppleCanDo @akari_starry 是这样的，哎，如果给我当职员做的话，你就要被税务找麻烦了，如果是学生，又做不出来，难办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1964354301083455802",
+        "created_at": "2025-09-07T14:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964693628892410221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "JDE_Alva"
+            },
+            {
+              "end": 25,
+              "id": "1351485882696548357",
+              "start": 10,
+              "username": "OnlyAppleCanDo"
+            },
+            {
+              "end": 39,
+              "id": "1296696911580209152",
+              "start": 26,
+              "username": "akari_starry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964693628892410221",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964693033766756746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDE_Alva @OnlyAppleCanDo @akari_starry 是这样的，哎，如果给我当职员做的话，你就要被税务找麻烦了，如果是学生，又做不出来，难办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "1964354301083455802",
+        "created_at": "2025-09-07T14:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964693033766756746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            },
+            {
+              "end": 29,
+              "id": "1296696911580209152",
+              "start": 16,
+              "username": "akari_starry"
+            },
+            {
+              "end": 43,
+              "id": "1904539885769457665",
+              "start": 32,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964693033766756746",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964692327236264105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo @akari_starry 我和@yanmin1105 在前两天去平安开卡的时候 拿着在职证明去的\n\n结果反诈通过 但是没有个税缴纳记录（说白了导出一份PDF提交审核）\n\n还不如两年前什么都没有就直接开的流程\n现在好了 反诈多多少少有点过头了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪20，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 318,
+          "like_count": 2234,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1019
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "E-Sports Coach.｜Enby.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1961440554384003295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 2079,
+          "like_count": 18897,
+          "listed_count": 9,
+          "media_count": 427,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "meowqwqnya@hotmail.com｜我D唔知可以寫啲咩",
+        "id": "1351485882696548357",
+        "location": "Swadlincote, England",
+        "name": "🐭",
+        "pinned_tweet_id": "1961149796145905962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945879649319325696/BkSgTj4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 743,
+          "like_count": 43484,
+          "listed_count": 7,
+          "media_count": 2090,
+          "tweet_count": 9615
+        },
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T06:33:46.000Z",
+        "description": "看推回复为主。",
+        "id": "1296696911580209152",
+        "name": "繁星",
+        "pinned_tweet_id": "1947152602145202600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711034761764798464/iKY56nYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 1006,
+          "like_count": 3121,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 5142
+        },
+        "username": "akari_starry",
+        "verified": false
+      }
+    ]
+  }
+}

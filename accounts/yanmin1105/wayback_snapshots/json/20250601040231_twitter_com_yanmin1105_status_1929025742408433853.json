@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929025731184701440",
+        "3_1929025731163758592"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1929025742408433853",
+    "created_at": "2025-06-01T04:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929025742408433853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1838370893187395584",
+          "start": 7,
+          "username": "Cherry_BombY458"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VT4XN29qkj",
+          "end": 47,
+          "expanded_url": "https://x.com/yanmin1105/status/1929025742408433853/photo/1",
+          "media_key": "3_1929025731184701440",
+          "start": 24,
+          "url": "https://t.co/VT4XN29qkj"
+        },
+        {
+          "display_url": "pic.x.com/VT4XN29qkj",
+          "end": 47,
+          "expanded_url": "https://x.com/yanmin1105/status/1929025742408433853/photo/1",
+          "media_key": "3_1929025731163758592",
+          "start": 24,
+          "url": "https://t.co/VT4XN29qkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929025742408433853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "与萨莉亚一起吃@Cherry_BombY458 https://t.co/VT4XN29qkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929025731184701440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVGrp3aMAAwf1n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1929025731163758592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVGrpyaoAAfT57.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929025731184701440",
+            "3_1929025731163758592"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1929025742408433853",
+        "created_at": "2025-06-01T04:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929025742408433853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1838370893187395584",
+              "start": 7,
+              "username": "Cherry_BombY458"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VT4XN29qkj",
+              "end": 47,
+              "expanded_url": "https://x.com/yanmin1105/status/1929025742408433853/photo/1",
+              "media_key": "3_1929025731184701440",
+              "start": 24,
+              "url": "https://t.co/VT4XN29qkj"
+            },
+            {
+              "display_url": "pic.x.com/VT4XN29qkj",
+              "end": 47,
+              "expanded_url": "https://x.com/yanmin1105/status/1929025742408433853/photo/1",
+              "media_key": "3_1929025731163758592",
+              "start": 24,
+              "url": "https://t.co/VT4XN29qkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929025742408433853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与萨莉亚一起吃@Cherry_BombY458 https://t.co/VT4XN29qkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 187,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 363
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 809,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 587
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

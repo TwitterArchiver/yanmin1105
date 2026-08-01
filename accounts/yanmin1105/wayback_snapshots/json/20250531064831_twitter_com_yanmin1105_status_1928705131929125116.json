@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1928705131929125116",
+    "created_at": "2025-05-31T06:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T07:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928705131929125116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904539885769457665",
+          "start": 3,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928705131929125116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928704467899396542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanmin1105: 快500fo了喵\n唔 给大家抽个奖吧\n抽点啥呢 一只小嫣太少了喵\n诶 有了（点子王上线）\n特等奖 小嫣一只（被某只杂鱼线下内定了喵）\n特别奖：抽死一只小杂鱼喵（也被某位杂鱼姐姐内定了）\n一等奖 小鲨鲨一只\n二等奖 楚辞/天书奇谭邮票一套 抽两个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1928705131929125116",
+        "created_at": "2025-05-31T06:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928705131929125116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904539885769457665",
+              "start": 3,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928705131929125116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928704467899396542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanmin1105: 快500fo了喵\n唔 给大家抽个奖吧\n抽点啥呢 一只小嫣太少了喵\n诶 有了（点子王上线）\n特等奖 小嫣一只（被某只杂鱼线下内定了喵）\n特别奖：抽死一只小杂鱼喵（也被某位杂鱼姐姐内定了）\n一等奖 小鲨鲨一只\n二等奖 楚辞/天书奇谭邮票一套 抽两个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1928704467899396542",
+        "created_at": "2025-05-31T06:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928704467899396542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928704467899396542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "快500fo了喵\n唔 给大家抽个奖吧\n抽点啥呢 一只小嫣太少了喵\n诶 有了（点子王上线）\n特等奖 小嫣一只（被某只杂鱼线下内定了喵）\n特别奖：抽死一只小杂鱼喵（也被某位杂鱼姐姐内定了）\n一等奖 小鲨鲨一只\n二等奖 楚辞/天书奇谭邮票一套 抽两个\n三等奖 TJU主题明信片喵 在天大北洋园邮局寄出 抽30+张喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 188,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 346
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

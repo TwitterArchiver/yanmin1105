@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927268646574796800",
+        "3_1927268646583234561",
+        "3_1927268646566477824"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1927268670297800911",
+    "created_at": "2025-05-27T07:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927268670297800911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOLSUm9J8Q",
+          "end": 63,
+          "expanded_url": "https://x.com/yanmin1105/status/1927268670297800911/photo/1",
+          "media_key": "3_1927268646574796800",
+          "start": 40,
+          "url": "https://t.co/nOLSUm9J8Q"
+        },
+        {
+          "display_url": "pic.x.com/nOLSUm9J8Q",
+          "end": 63,
+          "expanded_url": "https://x.com/yanmin1105/status/1927268670297800911/photo/1",
+          "media_key": "3_1927268646583234561",
+          "start": 40,
+          "url": "https://t.co/nOLSUm9J8Q"
+        },
+        {
+          "display_url": "pic.x.com/nOLSUm9J8Q",
+          "end": 63,
+          "expanded_url": "https://x.com/yanmin1105/status/1927268670297800911/photo/1",
+          "media_key": "3_1927268646566477824",
+          "start": 40,
+          "url": "https://t.co/nOLSUm9J8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927268670297800911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是周二，学校既没有考试，也没有活动，为什么我不在学校捏，因为我要去三院了喵 https://t.co/nOLSUm9J8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1927268646574796800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8In3nWsAARJ_0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1927268646583234561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8In3pXcAEkA9D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1927268646566477824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8In3lXwAAVBmj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927268646574796800",
+            "3_1927268646583234561",
+            "3_1927268646566477824"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1927268670297800911",
+        "created_at": "2025-05-27T07:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927268670297800911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOLSUm9J8Q",
+              "end": 63,
+              "expanded_url": "https://x.com/yanmin1105/status/1927268670297800911/photo/1",
+              "media_key": "3_1927268646574796800",
+              "start": 40,
+              "url": "https://t.co/nOLSUm9J8Q"
+            },
+            {
+              "display_url": "pic.x.com/nOLSUm9J8Q",
+              "end": 63,
+              "expanded_url": "https://x.com/yanmin1105/status/1927268670297800911/photo/1",
+              "media_key": "3_1927268646583234561",
+              "start": 40,
+              "url": "https://t.co/nOLSUm9J8Q"
+            },
+            {
+              "display_url": "pic.x.com/nOLSUm9J8Q",
+              "end": 63,
+              "expanded_url": "https://x.com/yanmin1105/status/1927268670297800911/photo/1",
+              "media_key": "3_1927268646566477824",
+              "start": 40,
+              "url": "https://t.co/nOLSUm9J8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927268670297800911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是周二，学校既没有考试，也没有活动，为什么我不在学校捏，因为我要去三院了喵 https://t.co/nOLSUm9J8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1921406107144081784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 186,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 291
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

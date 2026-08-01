@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069092273401606145",
+        "3_2069092273426751488"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069092298093425135",
+    "created_at": "2026-06-22T16:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069092298093425135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOqoQaJHsp",
+          "end": 174,
+          "expanded_url": "https://x.com/yanmin1105/status/2069092298093425135/photo/1",
+          "media_key": "3_2069092273401606145",
+          "start": 151,
+          "url": "https://t.co/XOqoQaJHsp"
+        },
+        {
+          "display_url": "pic.x.com/XOqoQaJHsp",
+          "end": 174,
+          "expanded_url": "https://x.com/yanmin1105/status/2069092298093425135/photo/1",
+          "media_key": "3_2069092273426751488",
+          "start": 151,
+          "url": "https://t.co/XOqoQaJHsp"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2069092298093425135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香港电话卡越来越难买了\n\n线下找不到，鸭寮街要加价，而且还没货\n不想花时间到处找\n那就快来找我买\n\n『在政策关门前赶紧上车』\n\nCSL CTHK大湾区蓝卡都有大量现货\n拍下快速发货\n详情请见主页置顶\n不懂的可以来问，提供售前介绍与售后指引\n欢迎来咨询选购哦\n\n「特殊商品，售出后无质量问题不退不换哦」 https://t.co/XOqoQaJHsp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c999e6a453e9ef72].",
+      "parameter": "geo.place_id",
+      "resource_id": "c999e6a453e9ef72",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c999e6a453e9ef72"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069092273401606145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbkdcubsAEtI_e.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2069092273426751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbkdc0bYAALdzr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069092273401606145",
+            "3_2069092273426751488"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069092298093425135",
+        "created_at": "2026-06-22T16:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069092298093425135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOqoQaJHsp",
+              "end": 174,
+              "expanded_url": "https://x.com/yanmin1105/status/2069092298093425135/photo/1",
+              "media_key": "3_2069092273401606145",
+              "start": 151,
+              "url": "https://t.co/XOqoQaJHsp"
+            },
+            {
+              "display_url": "pic.x.com/XOqoQaJHsp",
+              "end": 174,
+              "expanded_url": "https://x.com/yanmin1105/status/2069092298093425135/photo/1",
+              "media_key": "3_2069092273426751488",
+              "start": 151,
+              "url": "https://t.co/XOqoQaJHsp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2069092298093425135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港电话卡越来越难买了\n\n线下找不到，鸭寮街要加价，而且还没货\n不想花时间到处找\n那就快来找我买\n\n『在政策关门前赶紧上车』\n\nCSL CTHK大湾区蓝卡都有大量现货\n拍下快速发货\n详情请见主页置顶\n不懂的可以来问，提供售前介绍与售后指引\n欢迎来咨询选购哦\n\n「特殊商品，售出后无质量问题不退不换哦」 https://t.co/XOqoQaJHsp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 432,
+          "like_count": 3723,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 1478
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

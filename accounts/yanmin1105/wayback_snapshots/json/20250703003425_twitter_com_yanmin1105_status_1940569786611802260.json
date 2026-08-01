@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1940328654887854425",
+    "created_at": "2025-07-03T00:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T01:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940569786611802260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537858604724015104",
+          "start": 0,
+          "username": "tonghua245"
+        },
+        {
+          "end": 28,
+          "id": "1889157954143981568",
+          "start": 12,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940569786611802260",
+    "in_reply_to_user_id": "1537858604724015104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940418521063927852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua245 @_blueberrysauce 这算盘打的，快崩到我脸上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1940328654887854425",
+        "created_at": "2025-07-03T00:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T01:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940569786611802260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537858604724015104",
+              "start": 0,
+              "username": "tonghua245"
+            },
+            {
+              "end": 28,
+              "id": "1889157954143981568",
+              "start": 12,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940569786611802260",
+        "in_reply_to_user_id": "1537858604724015104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940418521063927852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua245 @_blueberrysauce 这算盘打的，快崩到我脸上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537858604724015104",
+        "conversation_id": "1940328654887854425",
+        "created_at": "2025-07-02T14:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940418521063927852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889157954143981568",
+              "start": 0,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940418521063927852",
+        "in_reply_to_user_id": "1889157954143981568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940328654887854425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_blueberrysauce 唔，来石家庄和我合租～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458  丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 237,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 606
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "丨 04mtf 丨 🍬hrt2024. 12.5 ｜小证含糖｜已炸柜｜169cm/72kg了wok！！！（在减肥，不减到125不改名！窝要涩气的身材！）｜大三在读｜infp｜欢迎互fo！｜可以找小浔玩！｜谢谢大家关注｜老婆：@zihuan9011 老婆重度依赖！！！持续限流了中～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "zihuan9011"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "小浔～🍥（ 持续限流版）",
+        "pinned_tweet_id": "1923233397301727626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935611826521186304/x6UYpaO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 666,
+          "like_count": 3683,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 551
+        },
+        "username": "tonghua245",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 不收门槛了 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 50,
+                "username": "wwjxx"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "pinned_tweet_id": "1919217286923080152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 1395,
+          "like_count": 9638,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": true
+      }
+    ]
+  }
+}

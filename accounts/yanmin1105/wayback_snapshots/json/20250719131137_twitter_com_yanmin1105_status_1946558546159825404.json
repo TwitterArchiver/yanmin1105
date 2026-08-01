@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1946411981826867285",
+    "created_at": "2025-07-19T13:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T14:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946558546159825404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1619618000159793152",
+          "start": 0,
+          "username": "Ringo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946558546159825404",
+    "in_reply_to_user_id": "1619618000159793152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946547771332333589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ringo8964 唔，空白卡板我这有很多喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1946411981826867285",
+        "created_at": "2025-07-19T13:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T14:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946558546159825404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619618000159793152",
+              "start": 0,
+              "username": "Ringo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946558546159825404",
+        "in_reply_to_user_id": "1619618000159793152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946547771332333589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ringo8964 唔，空白卡板我这有很多喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619618000159793152",
+        "conversation_id": "1946411981826867285",
+        "created_at": "2025-07-19T12:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946547771332333589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946547771332333589",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946411981826867285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 我拼多多两块钱买到过，你需要货源嘛..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 261,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 699
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T08:47:17.000Z",
+        "description": "🇬🇧🇭🇰🇹🇼\n友🏳️‍⚧️。里推@yourxiyun \n向我匿名提问吧。https://t.co/VqD85QGP9V\n會中文（繁體簡體），英語還有粵語。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yourxiyun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mandycheung896…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/mandycheung8964/",
+                "start": 36,
+                "url": "https://t.co/VqD85QGP9V"
+              }
+            ]
+          }
+        },
+        "id": "1619618000159793152",
+        "location": "Free HongKong",
+        "name": "Ringo",
+        "pinned_tweet_id": "1810827806672310514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888847979815309312/LaDaDFe6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 166,
+          "like_count": 33736,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 3343
+        },
+        "username": "Ringo8964",
+        "verified": false
+      }
+    ]
+  }
+}

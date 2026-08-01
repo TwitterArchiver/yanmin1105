@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1918218511450546438",
+    "created_at": "2025-05-02T09:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T10:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918236690461888805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889157954143981568",
+          "start": 0,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918236690461888805",
+    "in_reply_to_user_id": "1889157954143981568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918218511450546438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_blueberrysauce 嗦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_1918218361709768704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7hb9NXsAAGA9y.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1918218511450546438",
+        "created_at": "2025-05-02T09:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T10:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918236690461888805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889157954143981568",
+              "start": 0,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918236690461888805",
+        "in_reply_to_user_id": "1889157954143981568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918218511450546438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_blueberrysauce 嗦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918218361709768704"
+          ]
+        },
+        "author_id": "1889157954143981568",
+        "conversation_id": "1918218511450546438",
+        "created_at": "2025-05-02T08:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918218511450546438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xN90R1uTDj",
+              "end": 48,
+              "expanded_url": "https://x.com/_blueberrysauce/status/1918218511450546438/photo/1",
+              "media_key": "3_1918218361709768704",
+              "start": 25,
+              "url": "https://t.co/xN90R1uTDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918218511450546438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 640,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿白丝运动鞋在漫展走了一整天了\n为什么没味道啊🤔 https://t.co/xN90R1uTDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔丨我最爱的宝宝 @Cherry_BombY458",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1917509770686390688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 165,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 189
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "曾用名 是奶糖吖 10年 I mtf I 方舟崩铁 I 想要交朋友QAQ l 门槛20 I 私信包回 好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "♪往世乐土♪",
+        "name": "小小菠萝包🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 1234,
+          "like_count": 9163,
+          "listed_count": 7,
+          "media_count": 132,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1945791547666235496",
+    "created_at": "2025-07-17T10:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T11:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945791547666235496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tonghua245/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/tonghua245/status/1945768882091721151",
+          "start": 43,
+          "url": "https://t.co/LTRuvLWWW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945791547666235496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945768882091721151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们好，我是小嫣，mtf而已，我还没淡圈了，但是我最近需要一些钱，可以给我发点赞赏吗 https://t.co/LTRuvLWWW3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1945791547666235496",
+        "created_at": "2025-07-17T10:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945791547666235496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tonghua245/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/tonghua245/status/1945768882091721151",
+              "start": 43,
+              "url": "https://t.co/LTRuvLWWW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945791547666235496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945768882091721151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好，我是小嫣，mtf而已，我还没淡圈了，但是我最近需要一些钱，可以给我发点赞赏吗 https://t.co/LTRuvLWWW3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537858604724015104",
+        "conversation_id": "1945768882091721151",
+        "created_at": "2025-07-17T08:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945768882091721151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cherry_bomby45…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/cherry_bomby458/status/1945739118291665097",
+              "start": 44,
+              "url": "https://t.co/U4XCXvgLqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945768882091721151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945739118291665097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好，我是小浔～，mtf而已，我还没淡圈了，但是我最近需要一些钱，可以给我发点赞赏吗 https://t.co/U4XCXvgLqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 261,
+          "like_count": 1593,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 689
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "丨 04mtf 丨 🍬hrt2024. 12.5 ｜小证含糖｜已炸柜｜169cm/72kg了wok！！！（在减肥，不减到125不改名！窝要涩气的身材！）｜大三在读｜infp｜欢迎互fo！｜可以找小浔玩！｜谢谢大家关注｜老婆：@zihuan9011 老婆重度依赖！！！持续限流了中～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "zihuan9011"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "小浔～🍥（ 持续限流版）",
+        "pinned_tweet_id": "1923233397301727626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935611826521186304/x6UYpaO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 678,
+          "like_count": 3758,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 597
+        },
+        "username": "tonghua245",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912458872096534567",
+    "created_at": "2025-04-16T10:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912458872096534567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1466301287998185481",
+          "start": 3,
+          "username": "chastitybeltsex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912458872096534567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912343241925751111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chastitybeltsex: 可曾听说过[睡眠剥夺]？\n这是非常折磨人的玩法呢😋\n\n在昏昏欲睡时的突然刺激，一下子把人惊醒，被迫保持清醒。\n随时间流逝筋疲力竭却无法休息，最后濒临崩溃，再怎么嘴硬、调皮捣蛋的sub，都会对主人哀嚎求饶，燃尽逆反的心~😭\n\n想试试吗？想…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1912458872096534567].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1912458872096534567",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912458872096534567"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95735,
+        "height": 4096,
+        "media_key": "13_1912342336543031296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912342336543031296/img/Y7n5QJXo8KuGH431.jpg",
+        "public_metrics": {
+          "view_count": 1244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912342336543031296/vid/avc1/480x1106/TZ2NeT2GDcWgqbP5.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912342336543031296/pl/9wxdfxWkjK5Br4EQ.m3u8?tag=16&v=ebb"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912342336543031296/vid/avc1/320x738/vSH1TpUFazlAYus0.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912342336543031296/vid/avc1/1080x2490/OWVfzlrzsIYsxFlR.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912342336543031296/vid/avc1/720x1660/X0xHP-D7L3IDCkaV.mp4?tag=16"
+          }
+        ],
+        "width": 1776
+      },
+      {
+        "height": 800,
+        "media_key": "3_1912342658623713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GooBhBgXsAA0ets.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912342336543031296",
+            "3_1912342658623713280"
+          ]
+        },
+        "author_id": "1466301287998185481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912343241925751111",
+        "created_at": "2025-04-16T03:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T04:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912343241925751111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyCL9nzwaY",
+              "end": 169,
+              "expanded_url": "https://x.com/chastitybeltsex/status/1912343241925751111/video/1",
+              "media_key": "13_1912342336543031296",
+              "start": 146,
+              "url": "https://t.co/JyCL9nzwaY"
+            },
+            {
+              "display_url": "pic.x.com/JyCL9nzwaY",
+              "end": 169,
+              "expanded_url": "https://x.com/chastitybeltsex/status/1912343241925751111/video/1",
+              "media_key": "3_1912342658623713280",
+              "start": 146,
+              "url": "https://t.co/JyCL9nzwaY"
+            },
+            {
+              "display_url": "x.com/deadcq1/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/deadcq1/status/1909567551832535332",
+              "start": 170,
+              "url": "https://t.co/2anWlwwdkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912343241925751111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 258,
+                "start": 254,
+                "tag": "役次元"
+              },
+              {
+                "end": 264,
+                "start": 259,
+                "tag": "情趣电击"
+              },
+              {
+                "end": 269,
+                "start": 265,
+                "tag": "电击器"
+              }
+            ]
+          },
+          "text": "可曾听说过[睡眠剥夺]？\n这是非常折磨人的玩法呢😋\n\n在昏昏欲睡时的突然刺激，一下子把人惊醒，被迫保持清醒。\n随时间流逝筋疲力竭却无法休息，最后濒临崩溃，再怎么嘴硬、调皮捣蛋的sub，都会对主人哀嚎求饶，燃尽逆反的心~😭\n\n想试试吗？想体验吗？\n根本不需要多复杂，役次元电击器就能满足你！😘\n\n有趣的游戏，简单配置就能玩，贴上贴片，束缚放置，直接开电！🥵\n\n不光线下，还可以远程操控。\n乖乖躺在床上，今晚别想睡觉，不时电击折磨到天明！😖\n\n更详细的内容可看视频哦\n转发+关注，4.21 抽取电击器标配一台🥳\n#役次元 #情趣电击 #电击器"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5756,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909567551832535332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可曾听说过[睡眠剥夺]？\n这是非常折磨人的玩法呢😋\n\n在昏昏欲睡时的突然刺激，一下子把人惊醒，被迫保持清醒。\n随时间流逝筋疲力竭却无法休息，最后濒临崩溃，再怎么嘴硬、调皮捣蛋的sub，都会对主人哀嚎求饶，燃尽逆反的心~😭\n\n想试试吗？想体验吗？\n根本不需要多复杂，役次元电击器就能满足你！😘 https://t.co/JyCL9nzwaY https://t.co/2anWlwwdkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 95,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T07:00:49.000Z",
+        "description": "BDSM成人品牌\n创新玩具，超级刺激\n🎈在役次元，满足另一个自己🎈\n✉合作推广、寄拍测评请私信（1w粉以上）\n❤欢迎宝子们返图和视频捏❤\napp下载链接：https://t.co/K3HHyJSkEl\nqq交流群：712275933",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suo.jiushu1234.com/m/#/pages/down…",
+                "end": 100,
+                "expanded_url": "https://suo.jiushu1234.com/m/#/pages/download/download",
+                "start": 77,
+                "url": "https://t.co/K3HHyJSkEl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/38ssfkwp",
+                "end": 23,
+                "expanded_url": "https://tinyurl.com/38ssfkwp",
+                "start": 0,
+                "url": "https://t.co/SEfce1zVlJ"
+              }
+            ]
+          }
+        },
+        "id": "1466301287998185481",
+        "name": "役次元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644964442327891968/Qs6gESiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35694,
+          "following_count": 146,
+          "like_count": 84,
+          "listed_count": 68,
+          "media_count": 356,
+          "tweet_count": 1392
+        },
+        "url": "https://t.co/SEfce1zVlJ",
+        "username": "chastitybeltsex",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929433759289597952"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1929433761881763954",
+    "created_at": "2025-06-02T07:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T08:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929433761881763954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1838370893187395584",
+          "start": 3,
+          "username": "Cherry_BombY458"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinityweet.me/love-calculato…",
+          "end": 58,
+          "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1927945087948050433/xZlYhFmd?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1927945087948050433/xZlYhFmd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/og7FLiIcOz"
+        },
+        {
+          "display_url": "pic.x.com/G4tWlfb16T",
+          "end": 82,
+          "expanded_url": "https://x.com/yanmin1105/status/1929433761881763954/photo/1",
+          "media_key": "3_1929433759289597952",
+          "start": 59,
+          "url": "https://t.co/G4tWlfb16T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929433761881763954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @Cherry_BombY458 的爱兼容性为 80%\n\n➡️ https://t.co/og7FLiIcOz https://t.co/G4tWlfb16T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1929433759289597952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsa5yBAaYAA5-z8.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929433759289597952"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929433761881763954",
+        "created_at": "2025-06-02T07:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T08:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929433761881763954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1838370893187395584",
+              "start": 3,
+              "username": "Cherry_BombY458"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinityweet.me/love-calculato…",
+              "end": 58,
+              "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1927945087948050433/xZlYhFmd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1927945087948050433/xZlYhFmd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/og7FLiIcOz"
+            },
+            {
+              "display_url": "pic.x.com/G4tWlfb16T",
+              "end": 82,
+              "expanded_url": "https://x.com/yanmin1105/status/1929433761881763954/photo/1",
+              "media_key": "3_1929433759289597952",
+              "start": 59,
+              "url": "https://t.co/G4tWlfb16T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929433761881763954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @Cherry_BombY458 的爱兼容性为 80%\n\n➡️ https://t.co/og7FLiIcOz https://t.co/G4tWlfb16T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一个小杂鱼（划掉）丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨不割不o的健全B丨我最爱的宝宝 （老婆）@Cherry_BombY458丨随缘互fo，只fo眼熟和xyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "Cherry_BombY458"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 187,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 419
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "没事就爱犯点小病 / Mt(X→F) / 无证含糖 / HRT:20240131🍥 🏳️‍⚧️ / infp / 08 / 超大只加大版xyn / 坐标 天津 /天残党 已炸柜 / 亲爱滴宝宝 @yanmin1105 🥰/ 爱你 宝宝@2i8oSpJhcU70504",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "有人爱我！",
+        "name": "-4°",
+        "pinned_tweet_id": "1927012279691669835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 812,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 595
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

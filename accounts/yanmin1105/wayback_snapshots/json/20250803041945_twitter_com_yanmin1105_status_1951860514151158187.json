@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1951772839474085896",
+    "created_at": "2025-08-03T04:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T05:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951860514151158187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944413509401640960",
+          "start": 0,
+          "username": "Grinin_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951860514151158187",
+    "in_reply_to_user_id": "1944413509401640960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951772839474085896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grinin_mark 抽我喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1951772839474085896",
+        "created_at": "2025-08-03T04:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T05:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951860514151158187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944413509401640960",
+              "start": 0,
+              "username": "Grinin_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951860514151158187",
+        "in_reply_to_user_id": "1944413509401640960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951772839474085896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grinin_mark 抽我喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944413509401640960",
+        "conversation_id": "1951772839474085896",
+        "created_at": "2025-08-02T22:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T23:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951772839474085896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951772839474085896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3632,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "150fo到的好快……那抽奖正式开始\n以下是奖品:\n1.15x2\n2. pr一盒\n3.国补一盒\n4.主包奇怪照片x2\n抽奖在8.6 1:00结算出结果哦\n期待中奖人呢，本次联系不上者会将奖品重新抽取\n参与方式依旧是关注+转发+喜欢+评论喵!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 296,
+          "like_count": 1912,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 776
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:08:18.000Z",
+        "description": "重度抖m|| 某年从炸柜党进化成家长党 || INFP-T || 168cm 55.5kg || 双相 精分 （不过精神稳态ing） || hrt2023.8.3 || 泛性恋 || 肌肤渴求 ||",
+        "id": "1944413509401640960",
+        "location": "江苏省 无锡",
+        "name": "Grin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944413584714547200/OzEzaKbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 87,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 141
+        },
+        "username": "Grinin_mark",
+        "verified": true
+      }
+    ]
+  }
+}

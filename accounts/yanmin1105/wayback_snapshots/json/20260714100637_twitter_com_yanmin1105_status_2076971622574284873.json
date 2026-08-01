@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2076959155118539251",
+    "created_at": "2026-07-14T10:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076971622574284873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490744102979260418",
+          "start": 0,
+          "username": "fenyoulei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076971622574284873",
+    "in_reply_to_user_id": "1490744102979260418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076959155118539251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenyoulei （挠一下）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46579,
+        "height": 1280,
+        "media_key": "7_2076958898846683137",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076958898846683137/pu/img/Lzq5pD4n6FjN5G-2.jpg",
+        "public_metrics": {
+          "view_count": 257
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076958898846683137/pu/vid/avc1/320x568/cPnfKTjdjFH8ESis.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076958898846683137/pu/vid/avc1/480x852/-LcmcWydBaY0onva.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076958898846683137/pu/vid/avc1/720x1280/gbbX4qQhpsbWl_pm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076958898846683137/pu/pl/Oj4C-yZpwBaBpvP7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2076959155118539251",
+        "created_at": "2026-07-14T10:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076971622574284873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490744102979260418",
+              "start": 0,
+              "username": "fenyoulei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076971622574284873",
+        "in_reply_to_user_id": "1490744102979260418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076959155118539251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenyoulei （挠一下）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076958898846683137"
+          ]
+        },
+        "author_id": "1490744102979260418",
+        "conversation_id": "2076959155118539251",
+        "created_at": "2026-07-14T09:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076959155118539251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBJQASXbUi",
+              "end": 35,
+              "expanded_url": "https://x.com/fenyoulei/status/2076959155118539251/video/1",
+              "media_key": "7_2076958898846683137",
+              "start": 12,
+              "url": "https://t.co/MBJQASXbUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076959155118539251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1104,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "玉足肥穴勾引人中，，， https://t.co/MBJQASXbUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 449,
+          "like_count": 4019,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 1585
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T17:47:51.000Z",
+        "description": "性别：ftx酷儿/假性双性🐾布尔玛认证已过❤️\n门槛150好友位＋试看区🍑\n388完整资源区＋好友位\n暂不线下 | 千粉互推💎 |接寄拍推广\n小号@y4QWQ1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "y4QWQ1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baddogy4_bot",
+                "end": 23,
+                "expanded_url": "https://t.me/baddogy4_bot",
+                "start": 0,
+                "url": "https://t.co/h7vzGhUXfq"
+              }
+            ]
+          }
+        },
+        "id": "1490744102979260418",
+        "location": "自助个人视频资源tg群/原味购买链接↓\n",
+        "name": "🔞坏狗y4（唯一主号禁防号）",
+        "pinned_tweet_id": "2066801900050076099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417629548077056/WAUyJyE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72267,
+          "following_count": 967,
+          "like_count": 12621,
+          "listed_count": 176,
+          "media_count": 1460,
+          "tweet_count": 5274
+        },
+        "url": "https://t.co/h7vzGhUXfq",
+        "username": "fenyoulei",
+        "verified": false
+      }
+    ]
+  }
+}

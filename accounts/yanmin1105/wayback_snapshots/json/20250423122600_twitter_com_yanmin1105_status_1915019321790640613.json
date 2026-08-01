@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1914666866884403713",
+    "created_at": "2025-04-23T12:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T13:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915019321790640613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827293756661571584",
+          "start": 0,
+          "username": "aizhenxunjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915019321790640613",
+    "in_reply_to_user_id": "1827293756661571584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914666866884403713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizhenxunjiang 同款诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914666863340257280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJDXiybgAA6duY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1914666866884403713",
+        "created_at": "2025-04-23T12:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915019321790640613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827293756661571584",
+              "start": 0,
+              "username": "aizhenxunjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915019321790640613",
+        "in_reply_to_user_id": "1827293756661571584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914666866884403713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizhenxunjiang 同款诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914666863340257280"
+          ]
+        },
+        "author_id": "1827293756661571584",
+        "conversation_id": "1914666866884403713",
+        "created_at": "2025-04-22T13:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914666866884403713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPkDDPaDxe",
+              "end": 30,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/1914666866884403713/photo/1",
+              "media_key": "3_1914666863340257280",
+              "start": 7,
+              "url": "https://t.co/JPkDDPaDxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914666866884403713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天带这个🤓 https://t.co/JPkDDPaDxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1914397673962267098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 129,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 115
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜2025.2.28hrt｜无证含糖🍥｜07｜istp｜欢迎同类｜互fo｜身高158｜",
+        "id": "1827293756661571584",
+        "name": "雨池🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898580859621699584/VRwpy7ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 245,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 48
+        },
+        "username": "aizhenxunjiang",
+        "verified": false
+      }
+    ]
+  }
+}

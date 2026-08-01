@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1933931356557578398",
+    "created_at": "2025-06-14T21:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T22:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934003602634539410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        },
+        {
+          "end": 32,
+          "id": "1859219215062028288",
+          "start": 16,
+          "username": "jiang_chua28655"
+        },
+        {
+          "end": 43,
+          "id": "1760607995300585472",
+          "start": 33,
+          "username": "xiaoeiQAQ"
+        },
+        {
+          "end": 56,
+          "id": "1693935285577670656",
+          "start": 44,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934003602634539410",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933931356557578398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe @jiang_chua28655 @xiaoeiQAQ @MinaseAyano 非常好的使用方法（确信）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933931356557578398].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933931356557578398",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1933931356557578398"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1933931356557578398",
+        "created_at": "2025-06-14T21:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T22:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934003602634539410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            },
+            {
+              "end": 32,
+              "id": "1859219215062028288",
+              "start": 16,
+              "username": "jiang_chua28655"
+            },
+            {
+              "end": 43,
+              "id": "1760607995300585472",
+              "start": 33,
+              "username": "xiaoeiQAQ"
+            },
+            {
+              "end": 56,
+              "id": "1693935285577670656",
+              "start": 44,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934003602634539410",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933931356557578398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe @jiang_chua28655 @xiaoeiQAQ @MinaseAyano 非常好的使用方法（确信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨中度焦虑&中度抑郁丨不割不o的健全B丨随缘互fo，只fo眼熟和xyn 我最爱的宝宝 （老婆）@Cherry_BombY458 里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 217,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 488
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "🏳️‍⚧️ | 重度网瘾熬夜少女 | 前OIer | 疑似家长党(？) | 最重要的可爱主人&妹妹&老婆 @MinaseAyano | 可爱妹妹 @tangeorange 一个很负能量的人，如果给你带来了困扰我很抱歉 还有就是真的好穷好穷…非同类的话找我聊天请私信🚪10元呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "tangeorange"
+              }
+            ]
+          }
+        },
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "那一天的如月 桃枝起来🍥",
+        "pinned_tweet_id": "1923436598101721554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895410848836759553/EbKJ2tNI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 712,
+          "like_count": 14248,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 2187
+        },
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T12:56:33.000Z",
+        "description": "回济宁了喵~过几天妹妹也来济宁\n可爱的狗狗@hry_xsu  \n天天导管的杂鱼@WinkCat1234\n涩涩方面的同类@kukudejiaxibei\n喵呜~老婆老婆@NorthLingkongRd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "hry_xsu"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          }
+        },
+        "id": "1859219215062028288",
+        "location": "山东济宁",
+        "name": "涩涩の喵🍥",
+        "pinned_tweet_id": "1911406933405204650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879070661320073216/nSTgIxRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 52,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 875
+        },
+        "username": "jiang_chua28655",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T10:10:39.000Z",
+        "description": "09年(12.7)家长党/身高164/体重95左右/m属性/\n无证含糖/乞讨大王/🚪50/🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️\n金主爸爸来养我吧🥺\n好妹妹 @WinkCat1234\n好姐姐@FengJIn2781\n老婆是这位哦→@qinghuan5865471\n世上对我最好的姐姐：@Yuewu49667",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "FengJIn2781"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "qinghuan5865471"
+              },
+              {
+                "end": 149,
+                "start": 138,
+                "username": "Yuewu49667"
+              }
+            ]
+          }
+        },
+        "id": "1760607995300585472",
+        "location": "喵喵喵",
+        "name": "咲苡🏳️‍⚧️🏳️‍⚧️（努力活着）",
+        "pinned_tweet_id": "1929755203835998531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923230146896723971/fOEnMnSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 448,
+          "like_count": 1404,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1126
+        },
+        "username": "xiaoeiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推（负能）& 老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 | tg频道 https://t.co/xMT471y6mP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "yanmin1105"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Sn3dFcOItP5lO…",
+                "end": 133,
+                "expanded_url": "https://t.me/+Sn3dFcOItP5lOTM0",
+                "start": 110,
+                "url": "https://t.co/xMT471y6mP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "猫窝",
+        "name": "綾乃🍋‍🟩",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1593,
+          "like_count": 5200,
+          "listed_count": 6,
+          "media_count": 478,
+          "tweet_count": 6115
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072673787787841536",
+        "3_2072673787771039744"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072673818162897019",
+    "created_at": "2026-07-02T13:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072673818162897019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGS6cDCMUJ",
+          "end": 109,
+          "expanded_url": "https://x.com/yanmin1105/status/2072673818162897019/photo/1",
+          "media_key": "3_2072673787787841536",
+          "start": 86,
+          "url": "https://t.co/rGS6cDCMUJ"
+        },
+        {
+          "display_url": "pic.x.com/rGS6cDCMUJ",
+          "end": 109,
+          "expanded_url": "https://x.com/yanmin1105/status/2072673818162897019/photo/1",
+          "media_key": "3_2072673787771039744",
+          "start": 86,
+          "url": "https://t.co/rGS6cDCMUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072673818162897019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泥们快来买小嫣的电话卡吧\n 即日起至7.15\nCSL67元一张  大湾区蓝卡135元一张\n买得多和复购都有优惠哦\n快来私信我买吧\n孩子要穷的吃土了\n\n更多内容请见主页置顶 https://t.co/rGS6cDCMUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072673787787841536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOd1BhbkAAJKP8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072673787771039744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOd1BdbMAAPoMs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072673787787841536",
+            "3_2072673787771039744"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072673818162897019",
+        "created_at": "2026-07-02T13:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072673818162897019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGS6cDCMUJ",
+              "end": 109,
+              "expanded_url": "https://x.com/yanmin1105/status/2072673818162897019/photo/1",
+              "media_key": "3_2072673787787841536",
+              "start": 86,
+              "url": "https://t.co/rGS6cDCMUJ"
+            },
+            {
+              "display_url": "pic.x.com/rGS6cDCMUJ",
+              "end": 109,
+              "expanded_url": "https://x.com/yanmin1105/status/2072673818162897019/photo/1",
+              "media_key": "3_2072673787771039744",
+              "start": 86,
+              "url": "https://t.co/rGS6cDCMUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072673818162897019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥们快来买小嫣的电话卡吧\n 即日起至7.15\nCSL67元一张  大湾区蓝卡135元一张\n买得多和复购都有优惠哦\n快来私信我买吧\n孩子要穷的吃土了\n\n更多内容请见主页置顶 https://t.co/rGS6cDCMUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 433,
+          "like_count": 3862,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1536
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      }
+    ]
+  }
+}

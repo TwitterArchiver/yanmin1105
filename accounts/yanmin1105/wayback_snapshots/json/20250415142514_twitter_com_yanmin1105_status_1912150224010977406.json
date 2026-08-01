@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912150198320603136",
+        "3_1912150198291140608"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "1912150224010977406",
+    "created_at": "2025-04-15T14:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T15:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912150224010977406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634197813973356544",
+          "start": 0,
+          "username": "xingleizhitong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oPuplt7ZOn",
+          "end": 77,
+          "expanded_url": "https://x.com/yanmin1105/status/1912150224010977406/photo/1",
+          "media_key": "3_1912150198320603136",
+          "start": 54,
+          "url": "https://t.co/oPuplt7ZOn"
+        },
+        {
+          "display_url": "pic.x.com/oPuplt7ZOn",
+          "end": 77,
+          "expanded_url": "https://x.com/yanmin1105/status/1912150224010977406/photo/1",
+          "media_key": "3_1912150198291140608",
+          "start": 54,
+          "url": "https://t.co/oPuplt7ZOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912150224010977406",
+    "in_reply_to_user_id": "1634197813973356544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@xingleizhitong 从宝宝那里又买了凝胶（定制的加浓度的）收到了，谢谢宝宝，包装很好，赠品很多 https://t.co/oPuplt7ZOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912150198320603136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GolSeXAXoAAVlHN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1912150198291140608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GolSeW5WEAAA2Oy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912150198320603136",
+            "3_1912150198291140608"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "1912150224010977406",
+        "created_at": "2025-04-15T14:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T15:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912150224010977406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634197813973356544",
+              "start": 0,
+              "username": "xingleizhitong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPuplt7ZOn",
+              "end": 77,
+              "expanded_url": "https://x.com/yanmin1105/status/1912150224010977406/photo/1",
+              "media_key": "3_1912150198320603136",
+              "start": 54,
+              "url": "https://t.co/oPuplt7ZOn"
+            },
+            {
+              "display_url": "pic.x.com/oPuplt7ZOn",
+              "end": 77,
+              "expanded_url": "https://x.com/yanmin1105/status/1912150224010977406/photo/1",
+              "media_key": "3_1912150198291140608",
+              "start": 54,
+              "url": "https://t.co/oPuplt7ZOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912150224010977406",
+        "in_reply_to_user_id": "1634197813973356544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@xingleizhitong 从宝宝那里又买了凝胶（定制的加浓度的）收到了，谢谢宝宝，包装很好，赠品很多 https://t.co/oPuplt7ZOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 91,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 58
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T14:21:46.000Z",
+        "description": "星愿小铺高级CEO~蜀道山废物道士是也~也是个连自己都骗的迷茫坐忘道~ 是个僵尸--旱魃 控梦术！ 是个三流作家 敬佩的人 @duoren6221 小RBQ @Michisa37677141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "duoren6221"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Michisa37677141"
+              }
+            ]
+          }
+        },
+        "id": "1634197813973356544",
+        "location": "蜀道山",
+        "name": "星泪之瞳(🍬糖商)",
+        "pinned_tweet_id": "1903740096748368231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651781562751660032/gPOuArD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 675,
+          "like_count": 1588,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2644
+        },
+        "username": "xingleizhitong",
+        "verified": false
+      }
+    ]
+  }
+}

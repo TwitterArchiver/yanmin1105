@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "1913262812144800031",
+    "created_at": "2025-04-19T12:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T13:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913573436351533525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591494658273992704",
+          "start": 0,
+          "username": "xiao_skl064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913573436351533525",
+    "in_reply_to_user_id": "1591494658273992704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913562033854861668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_skl064 ？ 这条不是抽奖的推文啊，另一条才是，这条就是说一下开奖的时间啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "1913262812144800031",
+        "created_at": "2025-04-19T12:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T13:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913573436351533525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591494658273992704",
+              "start": 0,
+              "username": "xiao_skl064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913573436351533525",
+        "in_reply_to_user_id": "1591494658273992704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913562033854861668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_skl064 ？ 这条不是抽奖的推文啊，另一条才是，这条就是说一下开奖的时间啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591494658273992704",
+        "conversation_id": "1913262812144800031",
+        "created_at": "2025-04-19T11:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913562033854861668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913562033854861668",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913262812144800031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 开奖吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "亦余心之所善兮，虽九死其犹未悔٩(๑^o^๑)۶",
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1906335074590625860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 112,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 92
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T18:14:50.000Z",
+        "description": "一个不是二刺螈的二刺螈（是学生）",
+        "id": "1591494658273992704",
+        "name": "咲de",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591494895994548225/BZZcpsWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "xiao_skl064",
+        "verified": false
+      }
+    ]
+  }
+}
