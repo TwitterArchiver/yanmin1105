@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2093406906681618684",
+    "created_at": "2026-08-29T09:02:35.000Z",
+    "display_text_range": [
+      30,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093625348424601963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "156219202",
+          "start": 0,
+          "username": "ToshinoAyano"
+        },
+        {
+          "end": 29,
+          "id": "1894461745277931524",
+          "start": 14,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093625348424601963",
+    "in_reply_to_user_id": "156219202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093624770906759354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToshinoAyano @Rain_Antar1121 移动香港内地无法激活了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2093406906681618684",
+        "created_at": "2026-08-29T09:02:35.000Z",
+        "display_text_range": [
+          30,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093625348424601963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "156219202",
+              "start": 0,
+              "username": "ToshinoAyano"
+            },
+            {
+              "end": 29,
+              "id": "1894461745277931524",
+              "start": 14,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093625348424601963",
+        "in_reply_to_user_id": "156219202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093624770906759354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToshinoAyano @Rain_Antar1121 移动香港内地无法激活了哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156219202",
+        "conversation_id": "2093406906681618684",
+        "created_at": "2026-08-29T09:00:17.000Z",
+        "display_text_range": [
+          28,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093624770906759354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 27,
+              "id": "1904539885769457665",
+              "start": 16,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093624770906759354",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093622355239297228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @yanmin1105 那叫什么来着，CMHK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2093625348424601963",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 491,
+          "like_count": 4195,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "椰子味的Potong，精神不正常～\n欢迎加入雪糕频道，钟意您来！\n寄拍？也可以考虑😋\n日常/树洞号小蛋糕@SweetCream37012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "SweetCream37012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Potong_Coconut",
+                "end": 23,
+                "expanded_url": "http://t.me/Potong_Coconut",
+                "start": 0,
+                "url": "https://t.co/lfSkDpxziO"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093624770906759354",
+        "name": "雪糕Potong🍦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156219202/1758810265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047558886518112257/RWFVWo6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 1783,
+          "like_count": 24658,
+          "listed_count": 18,
+          "media_count": 144,
+          "tweet_count": 12057
+        },
+        "url": "https://t.co/lfSkDpxziO",
+        "username": "ToshinoAyano",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2093625349548671328",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5077,
+          "following_count": 7021,
+          "like_count": 19581,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 5588
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

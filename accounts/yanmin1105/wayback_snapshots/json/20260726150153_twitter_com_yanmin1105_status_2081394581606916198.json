@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2081354829977563308",
+    "created_at": "2026-07-26T15:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081394581606916198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "Ayano_Nya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081394581606916198",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081354829977563308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayano_Nya_ 韩鹏是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2081354829977563308",
+        "created_at": "2026-07-26T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081394581606916198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "Ayano_Nya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081394581606916198",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081354829977563308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayano_Nya_ 韩鹏是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2081354829977563308",
+        "created_at": "2026-07-26T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081354829977563308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081354829977563308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩鹏你赶紧下课吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 462,
+          "like_count": 4092,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 1626
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 欢迎互fo! | xp是如月桃枝😋 | 全世界最可爱之人&唯一最爱最喜欢的姐姐老婆大人♥️@Kisaragi_Momoe | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5Yz769"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "姐姐腿上",
+        "name": "𝙰𝚢𝚊𝚗𝚘♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017252344346603520/YwbDSw_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2431,
+          "like_count": 8821,
+          "listed_count": 6,
+          "media_count": 789,
+          "tweet_count": 8960
+        },
+        "url": "https://t.co/1HZl5Yz769",
+        "username": "Ayano_Nya_",
+        "verified": false
+      }
+    ]
+  }
+}

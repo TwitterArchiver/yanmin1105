@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088274686644031490"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2088262509300244708",
+    "created_at": "2026-08-14T14:40:59.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088274693828825352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYvcgqG7VV",
+          "end": 60,
+          "expanded_url": "https://x.com/yanmin1105/status/2088274693828825352/photo/1",
+          "media_key": "3_2088274686644031490",
+          "start": 37,
+          "url": "https://t.co/gYvcgqG7VV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088274693828825352",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088274686644031490"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088262509300244708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 国家邮政局批复发型江泽民诞辰100周年纪念邮票 https://t.co/gYvcgqG7VV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2088274686644031490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsKw2rbkAIStBz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 406,
+        "media_key": "3_2088262306602061824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr_gPbakAAZ6Ij.jpg",
+        "width": 471
+      },
+      {
+        "height": 409,
+        "media_key": "3_2088262346477297664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr_ij-aYAAaO9f.jpg",
+        "width": 474
+      },
+      {
+        "height": 410,
+        "media_key": "3_2088262376797949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr_kU7a0AAqk4r.jpg",
+        "width": 473
+      },
+      {
+        "height": 409,
+        "media_key": "3_2088262405382144000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr_l_abAAA9IOA.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088274686644031490"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2088262509300244708",
+        "created_at": "2026-08-14T14:40:59.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088274693828825352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYvcgqG7VV",
+              "end": 60,
+              "expanded_url": "https://x.com/yanmin1105/status/2088274693828825352/photo/1",
+              "media_key": "3_2088274686644031490",
+              "start": 37,
+              "url": "https://t.co/gYvcgqG7VV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088274693828825352",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088274686644031490"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088262509300244708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 国家邮政局批复发型江泽民诞辰100周年纪念邮票 https://t.co/gYvcgqG7VV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088262306602061824",
+            "3_2088262346477297664",
+            "3_2088262376797949952",
+            "3_2088262405382144000"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2088262509300244708",
+        "created_at": "2026-08-14T13:52:34.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088262509300244708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uI0SAHPW05",
+              "end": 190,
+              "expanded_url": "https://x.com/realNyarime/status/2088262509300244708/photo/1",
+              "media_key": "3_2088262306602061824",
+              "start": 167,
+              "url": "https://t.co/uI0SAHPW05"
+            },
+            {
+              "display_url": "pic.x.com/uI0SAHPW05",
+              "end": 190,
+              "expanded_url": "https://x.com/realNyarime/status/2088262509300244708/photo/1",
+              "media_key": "3_2088262346477297664",
+              "start": 167,
+              "url": "https://t.co/uI0SAHPW05"
+            },
+            {
+              "display_url": "pic.x.com/uI0SAHPW05",
+              "end": 190,
+              "expanded_url": "https://x.com/realNyarime/status/2088262509300244708/photo/1",
+              "media_key": "3_2088262376797949952",
+              "start": 167,
+              "url": "https://t.co/uI0SAHPW05"
+            },
+            {
+              "display_url": "pic.x.com/uI0SAHPW05",
+              "end": 190,
+              "expanded_url": "https://x.com/realNyarime/status/2088262509300244708/photo/1",
+              "media_key": "3_2088262405382144000",
+              "start": 167,
+              "url": "https://t.co/uI0SAHPW05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088262509300244708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088262306602061824"
+          },
+          {
+            "media_key": "3_2088262346477297664"
+          },
+          {
+            "media_key": "3_2088262376797949952"
+          },
+          {
+            "media_key": "3_2088262405382144000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mp.weixin.qq.com/s/Tf1ASgVRP1pO…",
+                "end": 210,
+                "expanded_url": "https://mp.weixin.qq.com/s/Tf1ASgVRP1pO_rSmTSy4eg",
+                "start": 187,
+                "url": "https://t.co/DDNKNVD748"
+              }
+            ]
+          },
+          "text": "央行将发行江泽民诞辰 100 周年纪念币，普通币发行 1000 万枚\n\n中国人民银行宣布，2026 年 8 月 17 日起陆续发行江泽民诞辰 100 周年纪念币，共 4 枚，包括 1 枚普通纪念币、2 枚金质纪念币和 1 枚银质纪念币。\n\n普通纪念币面额 1 元、发行 1000 万枚，采取预约兑换；金银币最大发行量分别为 1000 枚、1 万枚和 2 万枚。\n\nsrc: https://t.co/DDNKNVD748"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2464,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "央行将发行江泽民诞辰 100 周年纪念币，普通币发行 1000 万枚\n\n中国人民银行宣布，2026 年 8 月 17 日起陆续发行江泽民诞辰 100 周年纪念币，共 4 枚，包括 1 枚普通纪念币、2 枚金质纪念币和 1 枚银质纪念币。\n\n普通纪念币面额 1 元、发行 1000 万枚，采取预约兑换；金银币最大发行量分别为 1000 https://t.co/uI0SAHPW05"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2088274693828825352",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 476,
+          "like_count": 4149,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2088262509300244708",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44118,
+          "following_count": 665,
+          "like_count": 21374,
+          "listed_count": 192,
+          "media_count": 2593,
+          "tweet_count": 17773
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

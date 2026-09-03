@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2091567658840023059",
+    "created_at": "2026-08-24T04:44:59.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T05:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091748581397188691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091748581397188691",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091681469391573334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 私聊喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2091567658840023059",
+        "created_at": "2026-08-24T04:44:59.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091748581397188691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091748581397188691",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091681469391573334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 私聊喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2091567658840023059",
+        "created_at": "2026-08-24T00:18:18.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091681469391573334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091681469391573334",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091567658840023059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 好耶！想要"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2091748581397188691",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 484,
+          "like_count": 4180,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 1688
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw19SA"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2091698460617777654",
+        "name": "HosinoNeko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 588,
+          "like_count": 4418,
+          "listed_count": 4,
+          "media_count": 877,
+          "tweet_count": 4438
+        },
+        "url": "https://t.co/2FBvyw19SA",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2077625083720601626",
+    "created_at": "2026-08-22T18:56:34.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T19:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091238116296397131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669586639130361856",
+          "start": 0,
+          "username": "mc_xiaomi33396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091238116296397131",
+    "in_reply_to_user_id": "1669586639130361856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091236787272470686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mc_xiaomi33396 （）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2077625083720601626",
+        "created_at": "2026-08-22T18:56:34.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091238116296397131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669586639130361856",
+              "start": 0,
+              "username": "mc_xiaomi33396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091238116296397131",
+        "in_reply_to_user_id": "1669586639130361856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091236787272470686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mc_xiaomi33396 （）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669586639130361856",
+        "conversation_id": "2077625083720601626",
+        "created_at": "2026-08-22T18:51:18.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091236787272470686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091236787272470686",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077625083720601626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 bro在天津？wc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2091238116296397131",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 483,
+          "like_count": 4165,
+          "listed_count": 5,
+          "media_count": 193,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T06:04:21.000Z",
+        "description": "",
+        "id": "1669586639130361856",
+        "is_identity_verified": true,
+        "location": "OM88ru",
+        "most_recent_tweet_id": "2091236837990056343",
+        "name": "BI3AZE",
+        "pinned_tweet_id": "2086113877885059450",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070675574004355072/ZmpPqxk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 145,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "mc_xiaomi33396",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

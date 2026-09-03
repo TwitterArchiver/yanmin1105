@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093049270098354177",
+        "3_2093049269636972544"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2093049291833323529",
+    "created_at": "2026-08-27T18:53:32.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093049291833323529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RlQNFJOwiX",
+          "end": 107,
+          "expanded_url": "https://x.com/yanmin1105/status/2093049291833323529/photo/1",
+          "media_key": "3_2093049270098354177",
+          "start": 84,
+          "url": "https://t.co/RlQNFJOwiX"
+        },
+        {
+          "display_url": "pic.x.com/RlQNFJOwiX",
+          "end": 107,
+          "expanded_url": "https://x.com/yanmin1105/status/2093049291833323529/photo/1",
+          "media_key": "3_2093049269636972544",
+          "start": 84,
+          "url": "https://t.co/RlQNFJOwiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093049291833323529",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093049270098354177"
+      },
+      {
+        "media_key": "3_2093049269636972544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香港电话卡\n内地可激活\n使用好方便\n资费也不贵\n保号选橙卡\n漫游用蓝卡\n电话和短信\n这些也好用\n这卡真的好\n这卡真的妙\n要问怎么买\n看主页置顶\n速速私聊我\n还有优惠哦 https://t.co/RlQNFJOwiX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093049270098354177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwBOMGaYAEgHLT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1408,
+        "media_key": "3_2093049269636972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwBOKYaQAAsJCE.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093049270098354177",
+            "3_2093049269636972544"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2093049291833323529",
+        "created_at": "2026-08-27T18:53:32.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093049291833323529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RlQNFJOwiX",
+              "end": 107,
+              "expanded_url": "https://x.com/yanmin1105/status/2093049291833323529/photo/1",
+              "media_key": "3_2093049270098354177",
+              "start": 84,
+              "url": "https://t.co/RlQNFJOwiX"
+            },
+            {
+              "display_url": "pic.x.com/RlQNFJOwiX",
+              "end": 107,
+              "expanded_url": "https://x.com/yanmin1105/status/2093049291833323529/photo/1",
+              "media_key": "3_2093049269636972544",
+              "start": 84,
+              "url": "https://t.co/RlQNFJOwiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093049291833323529",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093049270098354177"
+          },
+          {
+            "media_key": "3_2093049269636972544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港电话卡\n内地可激活\n使用好方便\n资费也不贵\n保号选橙卡\n漫游用蓝卡\n电话和短信\n这些也好用\n这卡真的好\n这卡真的妙\n要问怎么买\n看主页置顶\n速速私聊我\n还有优惠哦 https://t.co/RlQNFJOwiX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2093049291833323529",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 488,
+          "like_count": 4193,
+          "listed_count": 6,
+          "media_count": 202,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

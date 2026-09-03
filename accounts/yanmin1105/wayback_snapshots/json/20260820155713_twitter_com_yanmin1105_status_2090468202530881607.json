@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2090468202530881607",
+    "created_at": "2026-08-20T15:57:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090468202530881607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904539885769457665",
+          "start": 3,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090468202530881607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089298737822916975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @yanmin1105: 香港电话卡现货已到\n快来买吧\n\nCSL\n（橙卡 实体卡 暂不支援转换esim）\n70元/张  最晚启用日期为2029.6.30\n\nCSL优势是低廉的保号成本，如果对于短信/接打电话/漫游上网需求量低，可以考虑这个\n\n老版本CTHK大湾区蓝卡\n（实…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089298663805964288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6uEK3aUAAYsaT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089298663529172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6uEJ1a0AAZV-g.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089298663520731136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6uEJzaAAAuV8O.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2090468202530881607",
+        "created_at": "2026-08-20T15:57:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090468202530881607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904539885769457665",
+              "start": 3,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090468202530881607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089298737822916975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @yanmin1105: 香港电话卡现货已到\n快来买吧\n\nCSL\n（橙卡 实体卡 暂不支援转换esim）\n70元/张  最晚启用日期为2029.6.30\n\nCSL优势是低廉的保号成本，如果对于短信/接打电话/漫游上网需求量低，可以考虑这个\n\n老版本CTHK大湾区蓝卡\n（实…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089298663805964288",
+            "3_2089298663529172992",
+            "3_2089298663520731136"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2089298737822916975",
+        "created_at": "2026-08-17T10:30:11.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089298737822916975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dt2b3sy1TP",
+              "end": 180,
+              "expanded_url": "https://x.com/yanmin1105/status/2089298737822916975/photo/1",
+              "media_key": "3_2089298663805964288",
+              "start": 157,
+              "url": "https://t.co/dt2b3sy1TP"
+            },
+            {
+              "display_url": "pic.x.com/dt2b3sy1TP",
+              "end": 180,
+              "expanded_url": "https://x.com/yanmin1105/status/2089298737822916975/photo/1",
+              "media_key": "3_2089298663529172992",
+              "start": 157,
+              "url": "https://t.co/dt2b3sy1TP"
+            },
+            {
+              "display_url": "pic.x.com/dt2b3sy1TP",
+              "end": 180,
+              "expanded_url": "https://x.com/yanmin1105/status/2089298737822916975/photo/1",
+              "media_key": "3_2089298663520731136",
+              "start": 157,
+              "url": "https://t.co/dt2b3sy1TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089298737822916975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089298663805964288"
+          },
+          {
+            "media_key": "3_2089298663529172992"
+          },
+          {
+            "media_key": "3_2089298663520731136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "香港电话卡现货已到\n快来买吧\n\nCSL\n（橙卡 实体卡 暂不支援转换esim）\n70元/张  最晚启用日期为2029.6.30\n\nCSL优势是低廉的保号成本，如果对于短信/接打电话/漫游上网需求量低，可以考虑这个\n\n老版本CTHK大湾区蓝卡\n（实体卡 暂不支援转换esim）\n无卡套外壳的现惊爆价只需145元/张\n最晚启动时间为2028年底\n有塑封和卡套的也只需要165元/张\n\n大湾区蓝卡优势是不过期且优惠的三地流量套餐，同时对于日常使用来说更友好，保号方式是每半年进行一次增值\n\n「以上两种都可以在中国大陆境内激活启动使用，实名登记时可用证件包括香港身份证，护照，往来港澳通行证」\n\n本店同一单购买多张/老用户复购均有优惠，可以私聊我咨询\n\n所有商品均一件包邮（中国大陆全域，含西藏新疆等偏远地区），以邮政约投挂号形式寄出，寄出后会提供单号，可供查询\n\n此外我这还剩了两个CTM的chiil预付卡和一个hahasim，便宜处理，感兴趣私聊\n\n【关于售前咨询，支付方式和售后服务等内容的说明】\n\n1.想要购买或者是咨询详情的，请点击我主页的发消息，把想问的内容发给我，我看到后一定会尽快回复的\n\n2.目前暂不提供已经实名登记的储值卡，若买家无法/不会激活，也可以将激活实名所使用的有效证件原件邮寄给我，我帮买家进行激活操作后，将证件原件和卡片一同寄回\n\n3.支付请使用〔口令红包〕\n口令红包发出方式为:1.打开支付宝 2.在搜索栏输入“口令红包” 3.选择“发口令红包” 4.输入需要支付的金额 5.完成支付，将文字口令粘贴给我\n请不要在口令红包的备注栏目中输入任何内容，尤其是与商品相关的内容\n（大额口令红包领取时，支付宝可能会要求领取人提供口令红包发出者的全名，请配合提供）\n在发送口令红包口令时，请将收件地址，收件人昵称和手机号发送给我，以便尽快打包发货\n『如需延后发货请注明』\n\n4.买家收到邮件后，应当在自物流签收之日起4日内对商品进行检查，如发现异常，请私聊我进行处理\n买家可对认为有质量问题的商品进行退货（请使用顺丰到付或者是邮政挂号寄出），我将在录像下开拆并进行检验，经检验是商品质量问题的，我将提供 全额退款，退/补差价换购其他商品 ，换货 这三种处理方式\n对于系买家个人原因导致的无法使用，我无法提供售后，请买家支付双程邮费后，我将原卡寄回\n\n本店商品种类特殊，一经支付，无法退单\n\n〈若您选择光临本店，即代表您已阅读并充分理解了以上所有内容，感谢您选择小嫣的卡店，我将尽心为您提供最优质的服务。愿我十分努力，换您百倍认可〉\n\n2026.8.17 \n本推文下评论区将会更新其他关于零售的公告，请以最新公告为准"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4248,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "香港电话卡现货已到\n快来买吧\n\nCSL\n（橙卡 实体卡 暂不支援转换esim）\n70元/张  最晚启用日期为2029.6.30\n\nCSL优势是低廉的保号成本，如果对于短信/接打电话/漫游上网需求量低，可以考虑这个\n\n老版本CTHK大湾区蓝卡\n（实体卡 暂不支援转换esim）\n无卡套外壳的现惊爆价只需145元/张 https://t.co/dt2b3sy1TP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2090468202530881607",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 481,
+          "like_count": 4161,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 1672
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

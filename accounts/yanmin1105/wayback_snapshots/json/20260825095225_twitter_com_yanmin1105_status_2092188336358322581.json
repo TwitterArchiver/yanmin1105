@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2092157489169244648",
+    "created_at": "2026-08-25T09:52:25.000Z",
+    "display_text_range": [
+      15,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092188336358322581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554391763510382592",
+          "start": 0,
+          "username": "crispy_p0tato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092188336358322581",
+    "in_reply_to_user_id": "1554391763510382592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092181497126285776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crispy_p0tato 在北京也打了，曹操绑的一直都是这个号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2092157489169244648",
+        "created_at": "2026-08-25T09:52:25.000Z",
+        "display_text_range": [
+          15,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092188336358322581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554391763510382592",
+              "start": 0,
+              "username": "crispy_p0tato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092188336358322581",
+        "in_reply_to_user_id": "1554391763510382592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092181497126285776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crispy_p0tato 在北京也打了，曹操绑的一直都是这个号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554391763510382592",
+        "conversation_id": "2092157489169244648",
+        "created_at": "2026-08-25T09:25:14.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092181497126285776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092181497126285776",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092157489169244648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 敢不敢去北京用这个手机号打车"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2092188336358322581",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 487,
+          "like_count": 4187,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 1694
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T09:01:01.000Z",
+        "description": "注意我只有两岁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.mihari.top",
+                "end": 23,
+                "expanded_url": "http://blog.mihari.top",
+                "start": 0,
+                "url": "https://t.co/3zDpF5rwDK"
+              }
+            ]
+          }
+        },
+        "id": "1554391763510382592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092185017208451395",
+        "name": "旺旺小小酥享受者",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554391763510382592/1773842803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077146225611284480/lEzaCaRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 89,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/3zDpF5rwDK",
+        "username": "crispy_p0tato",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
