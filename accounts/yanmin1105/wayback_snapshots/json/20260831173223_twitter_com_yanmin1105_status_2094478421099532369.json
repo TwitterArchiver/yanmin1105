@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2094443277827424706",
+    "created_at": "2026-08-31T17:32:23.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094478421099532369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002460581056688128",
+          "start": 0,
+          "username": "SaltIKenny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094478421099532369",
+    "in_reply_to_user_id": "2002460581056688128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094443277827424706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaltIKenny 你才知道啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2094443277827424706",
+        "created_at": "2026-08-31T17:32:23.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094478421099532369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002460581056688128",
+              "start": 0,
+              "username": "SaltIKenny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094478421099532369",
+        "in_reply_to_user_id": "2002460581056688128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094443277827424706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaltIKenny 你才知道啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002460581056688128",
+        "conversation_id": "2094443277827424706",
+        "created_at": "2026-08-31T15:12:44.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094443277827424706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094443277827424706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内小孩儿要疯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2094478421099532369",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 490,
+          "like_count": 4199,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 1722
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T19:27:13.000Z",
+        "description": "不良習性",
+        "id": "2002460581056688128",
+        "is_identity_verified": false,
+        "location": "太空",
+        "most_recent_tweet_id": "2094457426124947752",
+        "name": "戕生甘蔗",
+        "pinned_tweet_id": "2069077282116026741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002460581056688128/1784557310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079558594719297537/48igA3uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 231,
+          "like_count": 3229,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "SaltIKenny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

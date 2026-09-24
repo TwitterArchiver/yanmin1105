@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093406632562851840",
+        "3_2093406632546119681",
+        "3_2093406632571228160",
+        "3_2093406632567070720"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2093406660085883210",
+    "created_at": "2026-08-28T18:33:36.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T19:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093406660085883210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pq75LVzpkO",
+          "end": 86,
+          "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+          "media_key": "3_2093406632562851840",
+          "start": 63,
+          "url": "https://t.co/pq75LVzpkO"
+        },
+        {
+          "display_url": "pic.x.com/pq75LVzpkO",
+          "end": 86,
+          "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+          "media_key": "3_2093406632546119681",
+          "start": 63,
+          "url": "https://t.co/pq75LVzpkO"
+        },
+        {
+          "display_url": "pic.x.com/pq75LVzpkO",
+          "end": 86,
+          "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+          "media_key": "3_2093406632571228160",
+          "start": 63,
+          "url": "https://t.co/pq75LVzpkO"
+        },
+        {
+          "display_url": "pic.x.com/pq75LVzpkO",
+          "end": 86,
+          "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+          "media_key": "3_2093406632567070720",
+          "start": 63,
+          "url": "https://t.co/pq75LVzpkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093406660085883210",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093406632562851840"
+      },
+      {
+        "media_key": "3_2093406632546119681"
+      },
+      {
+        "media_key": "3_2093406632571228160"
+      },
+      {
+        "media_key": "3_2093406632567070720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "晚上好，现在为各位推友推荐香港电话卡\n\nCSL用于保号，一年只需要20港币，价格实惠，一直续费一直保，低价获取稳定的香港号码\n\n大湾区蓝卡兼顾性价比与使用体验，每半年只需要充值50港币进去，就可以保号，余额可以用于打电话，发短信以及选购多种类的流量套餐，套餐不过期，用完为止，同时套餐还会有额外的电话时长赠送哦\n\n以上卡片均为实体卡，价格与销售政策请见主页置顶推文哦，快来私聊我吧"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上好，现在为各位推友推荐香港电话卡\n\nCSL用于保号，一年只需要20港币，价格实惠，一直续费一直保，低价获取稳定的香港号码 https://t.co/pq75LVzpkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2093406632562851840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1GPbBbAAANVzc.jpg",
+        "width": 1408
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093406632546119681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1GPa9bsAEg9qT.jpg",
+        "width": 945
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093406632571228160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1GPbDa0AAGN1u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093406632567070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1GPbCbYAAOWWT.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093406632562851840",
+            "3_2093406632546119681",
+            "3_2093406632571228160",
+            "3_2093406632567070720"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2093406660085883210",
+        "created_at": "2026-08-28T18:33:36.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093406660085883210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pq75LVzpkO",
+              "end": 86,
+              "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+              "media_key": "3_2093406632562851840",
+              "start": 63,
+              "url": "https://t.co/pq75LVzpkO"
+            },
+            {
+              "display_url": "pic.x.com/pq75LVzpkO",
+              "end": 86,
+              "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+              "media_key": "3_2093406632546119681",
+              "start": 63,
+              "url": "https://t.co/pq75LVzpkO"
+            },
+            {
+              "display_url": "pic.x.com/pq75LVzpkO",
+              "end": 86,
+              "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+              "media_key": "3_2093406632571228160",
+              "start": 63,
+              "url": "https://t.co/pq75LVzpkO"
+            },
+            {
+              "display_url": "pic.x.com/pq75LVzpkO",
+              "end": 86,
+              "expanded_url": "https://x.com/yanmin1105/status/2093406660085883210/photo/1",
+              "media_key": "3_2093406632567070720",
+              "start": 63,
+              "url": "https://t.co/pq75LVzpkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093406660085883210",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093406632562851840"
+          },
+          {
+            "media_key": "3_2093406632546119681"
+          },
+          {
+            "media_key": "3_2093406632571228160"
+          },
+          {
+            "media_key": "3_2093406632567070720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "晚上好，现在为各位推友推荐香港电话卡\n\nCSL用于保号，一年只需要20港币，价格实惠，一直续费一直保，低价获取稳定的香港号码\n\n大湾区蓝卡兼顾性价比与使用体验，每半年只需要充值50港币进去，就可以保号，余额可以用于打电话，发短信以及选购多种类的流量套餐，套餐不过期，用完为止，同时套餐还会有额外的电话时长赠送哦\n\n以上卡片均为实体卡，价格与销售政策请见主页置顶推文哦，快来私聊我吧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好，现在为各位推友推荐香港电话卡\n\nCSL用于保号，一年只需要20港币，价格实惠，一直续费一直保，低价获取稳定的香港号码 https://t.co/pq75LVzpkO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2093406660085883210",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 490,
+          "like_count": 4195,
+          "listed_count": 6,
+          "media_count": 203,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

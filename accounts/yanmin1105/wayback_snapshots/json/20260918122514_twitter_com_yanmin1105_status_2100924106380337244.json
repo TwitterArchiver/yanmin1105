@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2100923361404817664",
+    "created_at": "2026-09-18T12:25:14.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100924106380337244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "467368287",
+          "start": 0,
+          "username": "HSBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100924106380337244",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100923361404817664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HSBC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100923333403627520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf6o_vaUAAEJOs.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100923333399515136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf6o_ubkAAfKHh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2100923361404817664",
+        "created_at": "2026-09-18T12:25:14.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100924106380337244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "467368287",
+              "start": 0,
+              "username": "HSBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100924106380337244",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100923361404817664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HSBC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100923333403627520",
+            "3_2100923333399515136"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2100923361404817664",
+        "created_at": "2026-09-18T12:22:17.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100923361404817664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eK1f4PsZiw",
+              "end": 44,
+              "expanded_url": "https://x.com/yanmin1105/status/2100923361404817664/photo/1",
+              "media_key": "3_2100923333403627520",
+              "start": 21,
+              "url": "https://t.co/eK1f4PsZiw"
+            },
+            {
+              "display_url": "pic.x.com/eK1f4PsZiw",
+              "end": 44,
+              "expanded_url": "https://x.com/yanmin1105/status/2100923361404817664/photo/1",
+              "media_key": "3_2100923333399515136",
+              "start": 21,
+              "url": "https://t.co/eK1f4PsZiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100923361404817664",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100923333403627520"
+          },
+          {
+            "media_key": "3_2100923333399515136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了，天津唯一一个24小时的汇丰ATM https://t.co/eK1f4PsZiw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2100924106380337244",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 522,
+          "like_count": 4340,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T11:48:57.000Z",
+        "description": "Opening up a world of opportunity for our customers, investors, ourselves and the planet. For support, our local handles are happy to help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hsbc.com/terms-and-cond…",
+                "end": 23,
+                "expanded_url": "http://www.hsbc.com/terms-and-conditions#socialmedia",
+                "start": 0,
+                "url": "https://t.co/UeW0RiXnxC"
+              }
+            ]
+          }
+        },
+        "id": "467368287",
+        "is_identity_verified": false,
+        "location": "Global",
+        "most_recent_tweet_id": "1588100799019696133",
+        "name": "HSBC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467368287/1645491954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678231805764456448/iaGxsxHV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193318,
+          "following_count": 12,
+          "like_count": 310,
+          "listed_count": 1208,
+          "media_count": 1741,
+          "tweet_count": 3799
+        },
+        "url": "https://t.co/UeW0RiXnxC",
+        "username": "HSBC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

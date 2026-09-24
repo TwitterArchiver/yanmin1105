@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2086734890901610592",
+    "created_at": "2026-08-10T18:01:54.000Z",
+    "display_text_range": [
+      24,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086875703782646081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1477161691980967937",
+          "start": 0,
+          "username": "sigmaamphibia"
+        },
+        {
+          "end": 23,
+          "id": "761375055724974081",
+          "start": 15,
+          "username": "Azuelle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086875703782646081",
+    "in_reply_to_user_id": "1477161691980967937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086870825076953100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sigmaamphibia @Azuelle 因为这个是行街纸，不是那种香港永久性居民身份证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2086734890901610592",
+        "created_at": "2026-08-10T18:01:54.000Z",
+        "display_text_range": [
+          24,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086875703782646081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1477161691980967937",
+              "start": 0,
+              "username": "sigmaamphibia"
+            },
+            {
+              "end": 23,
+              "id": "761375055724974081",
+              "start": 15,
+              "username": "Azuelle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086875703782646081",
+        "in_reply_to_user_id": "1477161691980967937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086870825076953100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sigmaamphibia @Azuelle 因为这个是行街纸，不是那种香港永久性居民身份证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477161691980967937",
+        "conversation_id": "2086734890901610592",
+        "created_at": "2026-08-10T17:42:31.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086870825076953100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "761375055724974081",
+              "start": 0,
+              "username": "Azuelle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086870825076953100",
+        "in_reply_to_user_id": "761375055724974081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086734890901610592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azuelle 有点离谱了，香港改证需要先改旅行证件？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2086875703782646081",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 470,
+          "like_count": 4142,
+          "listed_count": 5,
+          "media_count": 188,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-01T06:21:28.000Z",
+        "description": "Infra guy. I tweet in EN & CN. Opinions are my own. cooking https://t.co/TFIY4MFyvB as side project",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "getcodesk.com",
+                "end": 83,
+                "expanded_url": "http://getcodesk.com",
+                "start": 60,
+                "url": "https://t.co/TFIY4MFyvB"
+              }
+            ]
+          }
+        },
+        "id": "1477161691980967937",
+        "is_identity_verified": false,
+        "location": "Toronto ON",
+        "most_recent_tweet_id": "2086870825076953100",
+        "name": "AlphaToad",
+        "pinned_tweet_id": "2080839427501302016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477161691980967937/1647545144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504538900316008448/ccZiXsRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 433,
+          "like_count": 2513,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 11366
+        },
+        "url": "",
+        "username": "sigmaamphibia",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-05T01:35:33.000Z",
+        "description": "She/Her / 一只重点色布偶猫 / AKA Sierra / #FF14 #maimai / 随缘回fo / HKU CompSc · Ling / Ex-OI&BOer / 🏳️‍🌈🏳️‍⚧️ Transles / 🍥 Sept 21, 2021",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "FF14"
+              },
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azuelle.github.io",
+                "end": 23,
+                "expanded_url": "https://azuelle.github.io/",
+                "start": 0,
+                "url": "https://t.co/SIWcfK6B13"
+              }
+            ]
+          }
+        },
+        "id": "761375055724974081",
+        "is_identity_verified": false,
+        "location": "Aetherial Sea",
+        "most_recent_tweet_id": "2086812637237801063",
+        "name": "Azuelle × 夢野雫",
+        "pinned_tweet_id": "1837750991841907110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/761375055724974081/1646976076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497607849760813056/TCtKM9ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 1226,
+          "like_count": 78935,
+          "listed_count": 8,
+          "media_count": 1154,
+          "tweet_count": 13347
+        },
+        "url": "https://t.co/SIWcfK6B13",
+        "username": "Azuelle",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

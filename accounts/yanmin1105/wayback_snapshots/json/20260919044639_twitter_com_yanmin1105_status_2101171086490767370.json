@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101171079024959488"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101138483792462055",
+    "created_at": "2026-09-19T04:46:39.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101171086490767370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1837057158674010112",
+          "start": 0,
+          "username": "InfiCheesy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMkj7elSf8",
+          "end": 59,
+          "expanded_url": "https://x.com/yanmin1105/status/2101171086490767370/photo/1",
+          "media_key": "3_2101171079024959488",
+          "start": 36,
+          "url": "https://t.co/xMkj7elSf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101171086490767370",
+    "in_reply_to_user_id": "1837057158674010112",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101171079024959488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101138483792462055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiCheesy 宝子们，实体sim卡香港买不到也可以来找我买的 https://t.co/xMkj7elSf8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101171079024959488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjb9sGbYAAfhF1.jpg",
+        "width": 1152
+      },
+      {
+        "height": 512,
+        "media_key": "3_2101136897464778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSi84D3awAA51Sx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101171079024959488"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101138483792462055",
+        "created_at": "2026-09-19T04:46:39.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101171086490767370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1837057158674010112",
+              "start": 0,
+              "username": "InfiCheesy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMkj7elSf8",
+              "end": 59,
+              "expanded_url": "https://x.com/yanmin1105/status/2101171086490767370/photo/1",
+              "media_key": "3_2101171079024959488",
+              "start": 36,
+              "url": "https://t.co/xMkj7elSf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101171086490767370",
+        "in_reply_to_user_id": "1837057158674010112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101171079024959488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101138483792462055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiCheesy 宝子们，实体sim卡香港买不到也可以来找我买的 https://t.co/xMkj7elSf8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101136897464778752"
+          ]
+        },
+        "author_id": "1837057158674010112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2101138483792462055",
+        "created_at": "2026-09-19T02:37:06.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101138483792462055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZTBcXEygn",
+              "end": 197,
+              "expanded_url": "https://x.com/InfiCheesy/status/2101138483792462055/photo/1",
+              "media_key": "3_2101136897464778752",
+              "start": 174,
+              "url": "https://t.co/jZTBcXEygn"
+            },
+            {
+              "display_url": "x.com/InfiCheesy/sta…",
+              "end": 221,
+              "expanded_url": "https://twitter.com/InfiCheesy/status/2101136707374715281",
+              "start": 198,
+              "url": "https://t.co/0yMvVpfk60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101138483792462055",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101136897464778752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/InfiCheesy/sta…",
+                "end": 435,
+                "expanded_url": "https://x.com/InfiCheesy/status/2062004549448306981",
+                "start": 412,
+                "url": "https://t.co/3NVctMjLOP"
+              }
+            ]
+          },
+          "text": "目前「ClubSim」和「csl 5G任纵横」都是我最推荐的两款「香港保号eSIM」\n\nClubSIM：\n优点：\n1.价格更便宜，每年保号16 HKD\n2.购买方便（直接下单）\n3.更换设备方便（APP内直接申请）\n缺点：\n1.内地不能打电话\n2.不能用流量\n3.只能接短信保号\n\ncsl 5G任纵横：\n优点：\n1.内地能用漫游流量\n2.能打电话\n3.保号套餐可以薅羊毛（50港元课金易，能充AppStore/PlayStore）\n缺点：\n1.换设备极其麻烦（官方指定渠道是线下门店换，也就是说你得去趟香港，网友开发的方案是“自己给自己携号转网”）\n2.价格比clubsim贵一丢丢（充值20港币能保号1年）\n3. APP难用，UI老旧\n4.SIM卡购买必须香港线下711便利店，有些711便利店还没货\n5.eSIM购买要么等theclub补货，要么已经有一个香港手机号，注册csl官方APP账号购买（操作麻烦）\n\n文章链接https://t.co/3NVctMjLOP"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 6276,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101136707374715281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前「ClubSim」和「csl 5G任纵横」都是我最推荐的两款「香港保号eSIM」\n\nClubSIM：\n优点：\n1.价格更便宜，每年保号16 HKD\n2.购买方便（直接下单）\n3.更换设备方便（APP内直接申请）\n缺点：\n1.内地不能打电话\n2.不能用流量\n3.只能接短信保号\n\ncsl 5G任纵横：\n优点：\n1.内地能用漫游流量\n2.能打电话 https://t.co/jZTBcXEygn https://t.co/0yMvVpfk60"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2101171086490767370",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 522,
+          "like_count": 4347,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 1779
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T09:12:23.000Z",
+        "description": "这里是无限芝士，一个致力于提升您上网体验的信息分享频道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/inficheesy",
+                "end": 23,
+                "expanded_url": "https://t.me/inficheesy",
+                "start": 0,
+                "url": "https://t.co/CVXeusXIlM"
+              }
+            ]
+          }
+        },
+        "id": "1837057158674010112",
+        "is_identity_verified": false,
+        "location": "HongKong",
+        "most_recent_tweet_id": "2101168109562564929",
+        "name": "InfiCheesy無限芝士",
+        "pinned_tweet_id": "2056594033263407611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837057158674010112/1776587228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837057377402761216/g2oIddXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14316,
+          "following_count": 182,
+          "like_count": 403,
+          "listed_count": 47,
+          "media_count": 1071,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/CVXeusXIlM",
+        "username": "InfiCheesy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

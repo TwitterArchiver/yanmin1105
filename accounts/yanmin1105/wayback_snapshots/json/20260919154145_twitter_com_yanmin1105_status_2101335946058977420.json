@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101335935170588672"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101120331117134059",
+    "created_at": "2026-09-19T15:41:45.000Z",
+    "display_text_range": [
+      12,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101335946058977420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "394631855",
+          "start": 0,
+          "username": "leeking420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yq7UE2o1uy",
+          "end": 85,
+          "expanded_url": "https://x.com/yanmin1105/status/2101335946058977420/photo/1",
+          "media_key": "3_2101335935170588672",
+          "start": 62,
+          "url": "https://t.co/yq7UE2o1uy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101335946058977420",
+    "in_reply_to_user_id": "394631855",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101335935170588672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101120331117134059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leeking420 这里也有实体卡的，内地发货，现货哦，宝子们如果不方便玩esim也可以看看实体卡的，带20HKD余额 https://t.co/yq7UE2o1uy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101335935170588672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlx5lGbMAARpIv.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2101117188874858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiq83pacAAVOqZ.jpg",
+        "width": 1187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101335935170588672"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101120331117134059",
+        "created_at": "2026-09-19T15:41:45.000Z",
+        "display_text_range": [
+          12,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101335946058977420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "394631855",
+              "start": 0,
+              "username": "leeking420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yq7UE2o1uy",
+              "end": 85,
+              "expanded_url": "https://x.com/yanmin1105/status/2101335946058977420/photo/1",
+              "media_key": "3_2101335935170588672",
+              "start": 62,
+              "url": "https://t.co/yq7UE2o1uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101335946058977420",
+        "in_reply_to_user_id": "394631855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101335935170588672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101120331117134059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leeking420 这里也有实体卡的，内地发货，现货哦，宝子们如果不方便玩esim也可以看看实体卡的，带20HKD余额 https://t.co/yq7UE2o1uy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101117188874858496"
+          ]
+        },
+        "author_id": "394631855",
+        "conversation_id": "2101120331117134059",
+        "created_at": "2026-09-19T01:24:58.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101120331117134059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGDazcgJ41",
+              "end": 123,
+              "expanded_url": "https://x.com/leeking420/status/2101120331117134059/photo/1",
+              "media_key": "3_2101117188874858496",
+              "start": 100,
+              "url": "https://t.co/kGDazcgJ41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101120331117134059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101117188874858496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "时间线上都在说香港手机卡Club的绕路购买攻略，既然不好买，为啥不买更好的。\n\n以前club火是因为买6元套餐就能保号一整年，现在改成买15元的套餐才行，唯一的低价优势都没了，这张卡已经不值得买了。\n\nCsl是Club的母公司，同属于一个集团。Csl的保号规则是充值20港币或者购买28港币套餐即可保号一年。第一年充值20，第二天用充值的余额买28的套餐，是不是算下来14/年，比club划算吧。\n\n再来说说优势，club除了能接验证码，啥也干不了；而csl能接打电话，能收发短信，年保号还低1元，为什么还要去买club？club买了套餐也能在内地收发，但是得另外加钱。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 9150,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "时间线上都在说香港手机卡Club的绕路购买攻略，既然不好买，为啥不买更好的。\n\n以前club火是因为买6元套餐就能保号一整年，现在改成买15元的套餐才行，唯一的低价优势都没了，这张卡已经不值得买了。 https://t.co/kGDazcgJ41"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2101335946058977420",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 524,
+          "like_count": 4352,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 1782
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-20T11:37:39.000Z",
+        "description": "能独立让AI思考|数字云居民|eSIM\n朝阳吃瓜群众\n港美股韭菜\n私信广告太多，一般不看",
+        "id": "394631855",
+        "is_identity_verified": false,
+        "location": "2.3km",
+        "most_recent_tweet_id": "2101334230999724289",
+        "name": "二旬老汉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394631855/1785799038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073196359361118208/WNuwWrlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3877,
+          "following_count": 2264,
+          "like_count": 4177,
+          "listed_count": 3,
+          "media_count": 607,
+          "tweet_count": 7717
+        },
+        "url": "",
+        "username": "leeking420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

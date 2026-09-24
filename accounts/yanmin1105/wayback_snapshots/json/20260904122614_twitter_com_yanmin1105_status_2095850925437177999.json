@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095850917354733569"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2095850925437177999",
+    "created_at": "2026-09-04T12:26:14.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095850925437177999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KeqzWdkhyS",
+          "end": 158,
+          "expanded_url": "https://x.com/yanmin1105/status/2095850925437177999/photo/1",
+          "media_key": "3_2095850917354733569",
+          "start": 135,
+          "url": "https://t.co/KeqzWdkhyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095850925437177999",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095850917354733569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "「一张香港卡，号码、短信、漫游都搞定」\n\n香港电话卡，正在成为许多人翻墙出来后的常用选择。以下几条可以告诉你，为什么翻墙出来的人需要一张香港电话卡\n如果你需要一个稳定的境外号码，或希望在港澳更方便的上网、收验证码，下面几点也值得看一看。\n\n1. 漫游流量，直连国际网络\n按照内地相关规定，使用VPN进行翻墙上外网属于“使用非法信道”的违法行为，这一条只规定了用VPN上外网是违法的。\n使用香港运营商的正规漫游流量时，无需再使用VPN，即可访问被墙的境外网站与应用。流量走的是合法的外卡漫游，不存在所谓“翻墙”\n\n2. 属于你自己的香港号码\n实体 SIM、正规香港运营商号码，可正常接打电话、收发短信、接收验证码。注册 Telegram、Google、WhatsApp、LINE 等都很方便。和网上临时接码号不同，号码长期归你使用，信息更不容易被别人拿去滥用。\n\n3. 储值卡，用量自己定\n无强制月费套餐，充多少用多少。平时只用来收验证码时，保号成本可以压得很低；用量变大，或要去港澳旅游时，再加购流量或电话套餐即可，丰俭由人。\n\n4. 激活、充值都方便\nCSL 以及老版本大湾区蓝卡，可在内地完成激活与实名。充值只需支付宝，在官方网站或App操作即可，不必准备境外银行卡。\n\n如需购买，请先看主页置顶推文，再私信下单"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「一张香港卡，号码、短信、漫游都搞定」\n\n香港电话卡，正在成为许多人翻墙出来后的常用选择。以下几条可以告诉你，为什么翻墙出来的人需要一张香港电话卡\n如果你需要一个稳定的境外号码，或希望在港澳更方便的上网、收验证码，下面几点也值得看一看。\n\n1. 漫游流量，直连国际网络 https://t.co/KeqzWdkhyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2095850917354733569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX1ThcbAAEVIKt.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095850917354733569"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2095850925437177999",
+        "created_at": "2026-09-04T12:26:14.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095850925437177999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeqzWdkhyS",
+              "end": 158,
+              "expanded_url": "https://x.com/yanmin1105/status/2095850925437177999/photo/1",
+              "media_key": "3_2095850917354733569",
+              "start": 135,
+              "url": "https://t.co/KeqzWdkhyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095850925437177999",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095850917354733569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "「一张香港卡，号码、短信、漫游都搞定」\n\n香港电话卡，正在成为许多人翻墙出来后的常用选择。以下几条可以告诉你，为什么翻墙出来的人需要一张香港电话卡\n如果你需要一个稳定的境外号码，或希望在港澳更方便的上网、收验证码，下面几点也值得看一看。\n\n1. 漫游流量，直连国际网络\n按照内地相关规定，使用VPN进行翻墙上外网属于“使用非法信道”的违法行为，这一条只规定了用VPN上外网是违法的。\n使用香港运营商的正规漫游流量时，无需再使用VPN，即可访问被墙的境外网站与应用。流量走的是合法的外卡漫游，不存在所谓“翻墙”\n\n2. 属于你自己的香港号码\n实体 SIM、正规香港运营商号码，可正常接打电话、收发短信、接收验证码。注册 Telegram、Google、WhatsApp、LINE 等都很方便。和网上临时接码号不同，号码长期归你使用，信息更不容易被别人拿去滥用。\n\n3. 储值卡，用量自己定\n无强制月费套餐，充多少用多少。平时只用来收验证码时，保号成本可以压得很低；用量变大，或要去港澳旅游时，再加购流量或电话套餐即可，丰俭由人。\n\n4. 激活、充值都方便\nCSL 以及老版本大湾区蓝卡，可在内地完成激活与实名。充值只需支付宝，在官方网站或App操作即可，不必准备境外银行卡。\n\n如需购买，请先看主页置顶推文，再私信下单"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「一张香港卡，号码、短信、漫游都搞定」\n\n香港电话卡，正在成为许多人翻墙出来后的常用选择。以下几条可以告诉你，为什么翻墙出来的人需要一张香港电话卡\n如果你需要一个稳定的境外号码，或希望在港澳更方便的上网、收验证码，下面几点也值得看一看。\n\n1. 漫游流量，直连国际网络 https://t.co/KeqzWdkhyS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2095850925437177999",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 500,
+          "like_count": 4223,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 1730
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

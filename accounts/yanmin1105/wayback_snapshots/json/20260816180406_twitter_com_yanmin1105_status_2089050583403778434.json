@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2088922450050629989",
+    "created_at": "2026-08-16T18:04:06.000Z",
+    "display_text_range": [
+      25,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T19:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089050583403778434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817217302762594304",
+          "start": 0,
+          "username": "chickenwinz33"
+        },
+        {
+          "end": 24,
+          "id": "1232576441524473856",
+          "start": 15,
+          "username": "Mave_503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089050583403778434",
+    "in_reply_to_user_id": "1817217302762594304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089050244030009352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenwinz33 @Mave_503 你还不睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2088922450050629989",
+        "created_at": "2026-08-16T18:04:06.000Z",
+        "display_text_range": [
+          25,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089050583403778434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817217302762594304",
+              "start": 0,
+              "username": "chickenwinz33"
+            },
+            {
+              "end": 24,
+              "id": "1232576441524473856",
+              "start": 15,
+              "username": "Mave_503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089050583403778434",
+        "in_reply_to_user_id": "1817217302762594304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089050244030009352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenwinz33 @Mave_503 你还不睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817217302762594304",
+        "conversation_id": "2088922450050629989",
+        "created_at": "2026-08-16T18:02:45.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089050244030009352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1232576441524473856",
+              "start": 0,
+              "username": "Mave_503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089050244030009352",
+        "in_reply_to_user_id": "1232576441524473856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088922450050629989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mave_503 🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2089050583403778434",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 476,
+          "like_count": 4150,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 1666
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T15:16:04.000Z",
+        "description": "MTF",
+        "id": "1817217302762594304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089050244030009352",
+        "name": "好鸡翅🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795123817033728/-0DoQ5D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 1264,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "chickenwinz33",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-26T08:01:54.000Z",
+        "description": "日日思君不见君，共饮长江水 | 主人@yumesame10086 | 精神病碎碎念文学 建议绕行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "yumesame10086"
+              }
+            ]
+          }
+        },
+        "id": "1232576441524473856",
+        "is_identity_verified": false,
+        "location": "Melbourne⇆Tianjin 当天往返 包盒饭 30¥",
+        "most_recent_tweet_id": "2089030882837594282",
+        "name": "MAVE",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232576441524473856/1729792411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079502044243824640/C-XaZAze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 1016,
+          "like_count": 4922,
+          "listed_count": 4,
+          "media_count": 1208,
+          "tweet_count": 3597
+        },
+        "url": "",
+        "username": "Mave_503",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

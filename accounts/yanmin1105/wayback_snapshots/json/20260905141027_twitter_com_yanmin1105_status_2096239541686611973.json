@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2096133966508306535",
+    "created_at": "2026-09-05T14:10:27.000Z",
+    "display_text_range": [
+      10,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096239541686611973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1798995156064235521",
+          "start": 0,
+          "username": "zhou2256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096239541686611973",
+    "in_reply_to_user_id": "1798995156064235521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096203418503385147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou2256 嗯嗯嗯嗯10.1开奖，如果是出去旅游用就不赶趟了，可以先找我买，如果中奖了，相关订单再给你退掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2096133966508306535",
+        "created_at": "2026-09-05T14:10:27.000Z",
+        "display_text_range": [
+          10,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096239541686611973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1798995156064235521",
+              "start": 0,
+              "username": "zhou2256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096239541686611973",
+        "in_reply_to_user_id": "1798995156064235521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096203418503385147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou2256 嗯嗯嗯嗯10.1开奖，如果是出去旅游用就不赶趟了，可以先找我买，如果中奖了，相关订单再给你退掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798995156064235521",
+        "conversation_id": "2096133966508306535",
+        "created_at": "2026-09-05T11:46:55.000Z",
+        "display_text_range": [
+          12,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096203418503385147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096203418503385147",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096133966508306535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 试试呢，马上准备国庆去香港旅游呢，估计能用上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2096239541686611973",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 508,
+          "like_count": 4233,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 1739
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-07T08:27:40.000Z",
+        "description": "",
+        "id": "1798995156064235521",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2096203418503385147",
+        "name": "jason",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798995156064235521/1717749270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798996825917292544/R3-brkSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 943,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "zhou2256",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101727832900825088"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2101624361044336845",
+    "created_at": "2026-09-20T17:38:59.000Z",
+    "display_text_range": [
+      9,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101727838928027655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "333823770",
+          "start": 0,
+          "username": "niaoshu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KT2P7QftRT",
+          "end": 72,
+          "expanded_url": "https://x.com/yanmin1105/status/2101727838928027655/photo/1",
+          "media_key": "3_2101727832900825088",
+          "start": 49,
+          "url": "https://t.co/KT2P7QftRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101727838928027655",
+    "in_reply_to_user_id": "333823770",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101727832900825088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101624361044336845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niaoshu 前两天去搞了，小企业现在有优惠，可以减免两年，给两个U盾，一张卡，一个电子提示 https://t.co/KT2P7QftRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101727832900825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrWVB6a8AAUIiv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1249,
+        "media_key": "3_2101624348721467392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSp4NdTa0AAL7yM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101727832900825088"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2101624361044336845",
+        "created_at": "2026-09-20T17:38:59.000Z",
+        "display_text_range": [
+          9,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101727838928027655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "333823770",
+              "start": 0,
+              "username": "niaoshu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KT2P7QftRT",
+              "end": 72,
+              "expanded_url": "https://x.com/yanmin1105/status/2101727838928027655/photo/1",
+              "media_key": "3_2101727832900825088",
+              "start": 49,
+              "url": "https://t.co/KT2P7QftRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101727838928027655",
+        "in_reply_to_user_id": "333823770",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101727832900825088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101624361044336845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niaoshu 前两天去搞了，小企业现在有优惠，可以减免两年，给两个U盾，一张卡，一个电子提示 https://t.co/KT2P7QftRT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101624348721467392"
+          ]
+        },
+        "author_id": "333823770",
+        "conversation_id": "2101624361044336845",
+        "created_at": "2026-09-20T10:47:48.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101624361044336845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7HUKVltjU",
+              "end": 73,
+              "expanded_url": "https://x.com/niaoshu/status/2101624361044336845/photo/1",
+              "media_key": "3_2101624348721467392",
+              "start": 50,
+              "url": "https://t.co/M7HUKVltjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101624361044336845",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101624348721467392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2567,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多人喜欢集卡，\n\n这张银行卡有吗？\n\n估计不多吧，\n\n成本是有点高啊😄\n\n每年还要六百块钱年费。 https://t.co/M7HUKVltjU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2101727838928027655",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 526,
+          "like_count": 4360,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-12T04:16:06.000Z",
+        "description": "跨境、科技金融 / AI工具实战 / 电商自媒体 / 视频创作 / 生产力\n一个爱折腾跨境 AI 和流量玩法的老鸟",
+        "id": "333823770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101693727500853332",
+        "name": "鸟叔本鸟",
+        "pinned_tweet_id": "2064688197540745290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333823770/1779664629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058688329818976256/8ekvzv4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12280,
+          "following_count": 391,
+          "like_count": 319,
+          "listed_count": 37,
+          "media_count": 608,
+          "tweet_count": 3428
+        },
+        "url": "",
+        "username": "niaoshu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

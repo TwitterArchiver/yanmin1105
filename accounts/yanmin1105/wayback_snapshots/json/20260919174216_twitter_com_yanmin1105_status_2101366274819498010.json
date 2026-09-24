@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101366264585465856"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101200494031225263",
+    "created_at": "2026-09-19T17:42:16.000Z",
+    "display_text_range": [
+      9,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101366274819498010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "333823770",
+          "start": 0,
+          "username": "niaoshu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rv1r1iH7Qj",
+          "end": 60,
+          "expanded_url": "https://x.com/yanmin1105/status/2101366274819498010/photo/1",
+          "media_key": "3_2101366264585465856",
+          "start": 37,
+          "url": "https://t.co/rv1r1iH7Qj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101366274819498010",
+    "in_reply_to_user_id": "333823770",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101366264585465856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101200494031225263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niaoshu 我开象象的时候是六月初，给我发了个天星的卡，剩余的卡板 https://t.co/rv1r1iH7Qj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101366264585465856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmNe--bMAANogy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1132,
+        "media_key": "3_2101198063922765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj0gara4AAJhhk.jpg",
+        "width": 828
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2101198092376952832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj0iErbUAAL_QA.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101366264585465856"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101200494031225263",
+        "created_at": "2026-09-19T17:42:16.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101366274819498010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "333823770",
+              "start": 0,
+              "username": "niaoshu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rv1r1iH7Qj",
+              "end": 60,
+              "expanded_url": "https://x.com/yanmin1105/status/2101366274819498010/photo/1",
+              "media_key": "3_2101366264585465856",
+              "start": 37,
+              "url": "https://t.co/rv1r1iH7Qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101366274819498010",
+        "in_reply_to_user_id": "333823770",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101366264585465856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101200494031225263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niaoshu 我开象象的时候是六月初，给我发了个天星的卡，剩余的卡板 https://t.co/rv1r1iH7Qj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101198063922765824",
+            "3_2101198092376952832"
+          ]
+        },
+        "author_id": "333823770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2101200494031225263",
+        "created_at": "2026-09-19T06:43:30.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101200494031225263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjjWU4D59D",
+              "end": 128,
+              "expanded_url": "https://x.com/niaoshu/status/2101200494031225263/photo/1",
+              "media_key": "3_2101198063922765824",
+              "start": 105,
+              "url": "https://t.co/VjjWU4D59D"
+            },
+            {
+              "display_url": "pic.x.com/VjjWU4D59D",
+              "end": 128,
+              "expanded_url": "https://x.com/niaoshu/status/2101200494031225263/photo/1",
+              "media_key": "3_2101198092376952832",
+              "start": 105,
+              "url": "https://t.co/VjjWU4D59D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101200494031225263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101198063922765824"
+          },
+          {
+            "media_key": "3_2101198092376952832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9917,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大象银行白金VISA实体卡到了，\n这卡，除了很可爱，很cute\n集卡，\n我感觉也没有大用，\n绑定了apple pay，\n能绑定微信，支付宝，\n实体卡需要APP里申请，从账户里扣50港币费用，顺丰从深圳寄出的。 https://t.co/VjjWU4D59D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2101366274819498010",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 524,
+          "like_count": 4352,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 1783
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-12T04:16:06.000Z",
+        "description": "跨境、科技金融 / AI工具实战 / 电商自媒体 / 视频创作 / 生产力\n一个爱折腾跨境 AI 和流量玩法的老鸟",
+        "id": "333823770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101311628839207121",
+        "name": "鸟叔本鸟",
+        "pinned_tweet_id": "2064688197540745290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333823770/1779664629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058688329818976256/8ekvzv4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12228,
+          "following_count": 390,
+          "like_count": 319,
+          "listed_count": 37,
+          "media_count": 603,
+          "tweet_count": 3376
+        },
+        "url": "",
+        "username": "niaoshu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

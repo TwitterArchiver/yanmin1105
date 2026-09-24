@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2096099814916427871",
+    "created_at": "2026-09-05T04:55:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096099814916427871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647167980068020226",
+          "start": 3,
+          "username": "YICIYUANYCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096099814916427871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095821676441166240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YICIYUANYCY: 所谓真空吮吸\n顾名思义，就是能把空气都抽干的超猛吸力🤤\n在进入这湿润紧致的肉道瞬间——\n\n被牢牢吸附！然后抽插旋转强行开榨🤯\n在蛋蛋里的精华被强制抽取不容回流的同时\n杯杯内壁的密集肉芽围绕龟头与根茎持续摩擦\n马眼、龟头冠下、系带\n每处敏感带随着…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44605,
+        "height": 2160,
+        "media_key": "13_2095791122333499393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095791122333499393/img/SckvGiHjjo8cWHKi.jpg",
+        "public_metrics": {
+          "view_count": 2202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095791122333499393/vid/avc1/640x360/39KUvPrFUeeDKIfa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095791122333499393/vid/avc1/1920x1080/jgAJ-BoQhd_mVCG5.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095791122333499393/vid/avc1/480x270/J8opyYUeT-k5Atc6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095791122333499393/pl/6m5OmU7ICaq-Iyzy.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095791122333499393/vid/avc1/1280x720/gCohvg50BjHB0uKG.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095791122333499393/vid/avc1/3840x2160/ThcfJHagqoMoN2Up.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2095791229716054016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW_BPqawAA0z5w.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2095791311240785920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW_F_XbcAAMhUf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2095791335009832960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW_HX6aUAAbdPH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2096099814916427871",
+        "created_at": "2026-09-05T04:55:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096099814916427871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647167980068020226",
+              "start": 3,
+              "username": "YICIYUANYCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096099814916427871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095821676441166240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YICIYUANYCY: 所谓真空吮吸\n顾名思义，就是能把空气都抽干的超猛吸力🤤\n在进入这湿润紧致的肉道瞬间——\n\n被牢牢吸附！然后抽插旋转强行开榨🤯\n在蛋蛋里的精华被强制抽取不容回流的同时\n杯杯内壁的密集肉芽围绕龟头与根茎持续摩擦\n马眼、龟头冠下、系带\n每处敏感带随着…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095791122333499393",
+            "3_2095791229716054016",
+            "3_2095791311240785920",
+            "3_2095791335009832960"
+          ]
+        },
+        "author_id": "1647167980068020226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095821676441166240",
+        "created_at": "2026-09-04T10:30:00.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095821676441166240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiHlVZSSRn",
+              "end": 159,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2095821676441166240/video/1",
+              "media_key": "13_2095791122333499393",
+              "start": 136,
+              "url": "https://t.co/WiHlVZSSRn"
+            },
+            {
+              "display_url": "pic.x.com/WiHlVZSSRn",
+              "end": 159,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2095821676441166240/video/1",
+              "media_key": "3_2095791229716054016",
+              "start": 136,
+              "url": "https://t.co/WiHlVZSSRn"
+            },
+            {
+              "display_url": "pic.x.com/WiHlVZSSRn",
+              "end": 159,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2095821676441166240/video/1",
+              "media_key": "3_2095791311240785920",
+              "start": 136,
+              "url": "https://t.co/WiHlVZSSRn"
+            },
+            {
+              "display_url": "pic.x.com/WiHlVZSSRn",
+              "end": 159,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2095821676441166240/video/1",
+              "media_key": "3_2095791335009832960",
+              "start": 136,
+              "url": "https://t.co/WiHlVZSSRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095821676441166240",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095791122333499393"
+          },
+          {
+            "media_key": "3_2095791229716054016"
+          },
+          {
+            "media_key": "3_2095791311240785920"
+          },
+          {
+            "media_key": "3_2095791335009832960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "所谓真空吮吸\n顾名思义，就是能把空气都抽干的超猛吸力🤤\n在进入这湿润紧致的肉道瞬间——\n\n被牢牢吸附！然后抽插旋转强行开榨🤯\n在蛋蛋里的精华被强制抽取不容回流的同时\n杯杯内壁的密集肉芽围绕龟头与根茎持续摩擦\n马眼、龟头冠下、系带\n每处敏感带随着高频速转的内胆被不断刺激🥵\n加之真空吮吸，感受精华从末端往头部的缓缓移动\n于跳蛋带来的震感中根本忍不住！\n爆榨出精，被榨到爆浆，被榨得一干二净！🥵\n\n没错，这就是吮吸+抽插+旋转+震动四合一的——\n役次元榨精机pro！\n\n无论是快速释放，还是长期寸止\n一杯在手，皆能满足\n\n近期还推出新款电榨杯，喜电喜榨，调教体验更上一层楼~\n点击视频了解杯杯\n\n转发+关注，9.10号，抽出榨精机pro一台！🥳"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 8193,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "所谓真空吮吸\n顾名思义，就是能把空气都抽干的超猛吸力🤤\n在进入这湿润紧致的肉道瞬间——\n\n被牢牢吸附！然后抽插旋转强行开榨🤯\n在蛋蛋里的精华被强制抽取不容回流的同时\n杯杯内壁的密集肉芽围绕龟头与根茎持续摩擦\n马眼、龟头冠下、系带\n每处敏感带随着高频速转的内胆被不断刺激🥵 https://t.co/WiHlVZSSRn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2096099814916427871",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 503,
+          "like_count": 4227,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:20:39.000Z",
+        "description": "BDSM成人品牌\n🎈创新玩具，超级刺激🎈\n⭐自信自爱，方得自由⭐\n✉合作推广、寄拍测评请私信（1W粉以上）\n❤欢迎宝子们返图和视频~会送小礼物哦❤\nAPP下载链接：https://t.co/6p8CwLrpI8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suo.jiushu1234.com/m/#/pages/down…",
+                "end": 105,
+                "expanded_url": "https://suo.jiushu1234.com/m/#/pages/download/download",
+                "start": 82,
+                "url": "https://t.co/6p8CwLrpI8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/38ssfkwp",
+                "end": 23,
+                "expanded_url": "http://tinyurl.com/38ssfkwp",
+                "start": 0,
+                "url": "https://t.co/0BmEtIPAVq"
+              }
+            ]
+          }
+        },
+        "id": "1647167980068020226",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095821676441166240",
+        "name": "役次元官方",
+        "pinned_tweet_id": "2095821676441166240",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055244529738145792/vXDL-VaF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10375,
+          "following_count": 266,
+          "like_count": 74,
+          "listed_count": 22,
+          "media_count": 74,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/0BmEtIPAVq",
+        "username": "YICIYUANYCY",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

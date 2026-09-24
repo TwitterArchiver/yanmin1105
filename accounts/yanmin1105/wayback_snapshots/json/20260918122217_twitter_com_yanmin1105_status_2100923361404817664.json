@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100923333403627520",
+        "3_2100923333399515136"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2100923361404817664",
+    "created_at": "2026-09-18T12:22:17.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100923361404817664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eK1f4PsZiw",
+          "end": 44,
+          "expanded_url": "https://x.com/yanmin1105/status/2100923361404817664/photo/1",
+          "media_key": "3_2100923333403627520",
+          "start": 21,
+          "url": "https://t.co/eK1f4PsZiw"
+        },
+        {
+          "display_url": "pic.x.com/eK1f4PsZiw",
+          "end": 44,
+          "expanded_url": "https://x.com/yanmin1105/status/2100923361404817664/photo/1",
+          "media_key": "3_2100923333399515136",
+          "start": 21,
+          "url": "https://t.co/eK1f4PsZiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100923361404817664",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100923333403627520"
+      },
+      {
+        "media_key": "3_2100923333399515136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再见了，天津唯一一个24小时的汇丰ATM https://t.co/eK1f4PsZiw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100923333403627520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf6o_vaUAAEJOs.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100923333399515136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf6o_ubkAAfKHh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100923333403627520",
+            "3_2100923333399515136"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2100923361404817664",
+        "created_at": "2026-09-18T12:22:17.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100923361404817664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eK1f4PsZiw",
+              "end": 44,
+              "expanded_url": "https://x.com/yanmin1105/status/2100923361404817664/photo/1",
+              "media_key": "3_2100923333403627520",
+              "start": 21,
+              "url": "https://t.co/eK1f4PsZiw"
+            },
+            {
+              "display_url": "pic.x.com/eK1f4PsZiw",
+              "end": 44,
+              "expanded_url": "https://x.com/yanmin1105/status/2100923361404817664/photo/1",
+              "media_key": "3_2100923333399515136",
+              "start": 21,
+              "url": "https://t.co/eK1f4PsZiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100923361404817664",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100923333403627520"
+          },
+          {
+            "media_key": "3_2100923333399515136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了，天津唯一一个24小时的汇丰ATM https://t.co/eK1f4PsZiw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2100923361404817664",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 522,
+          "like_count": 4339,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

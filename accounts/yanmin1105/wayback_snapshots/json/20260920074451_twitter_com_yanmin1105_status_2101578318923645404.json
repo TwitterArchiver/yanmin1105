@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101578310824452096"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2101541719129096591",
+    "created_at": "2026-09-20T07:44:51.000Z",
+    "display_text_range": [
+      13,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101578318923645404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bl8E4z1cFP",
+          "end": 65,
+          "expanded_url": "https://x.com/yanmin1105/status/2101578318923645404/photo/1",
+          "media_key": "3_2101578310824452096",
+          "start": 42,
+          "url": "https://t.co/Bl8E4z1cFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101578318923645404",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101578310824452096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101541719129096591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 我这里有老版本蓝卡的哦，可以在内地激活那种\n内地现货速发 https://t.co/Bl8E4z1cFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101578310824452096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSpOVsxbYAATPYL.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2101541040088068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoscQdasAAjrXT.jpg",
+        "width": 960
+      },
+      {
+        "height": 2194,
+        "media_key": "3_2101541081657888768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoserUb0AAFbKf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2101541104789360640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSosgBfaEAAFV31.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101578310824452096"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2101541719129096591",
+        "created_at": "2026-09-20T07:44:51.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101578318923645404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bl8E4z1cFP",
+              "end": 65,
+              "expanded_url": "https://x.com/yanmin1105/status/2101578318923645404/photo/1",
+              "media_key": "3_2101578310824452096",
+              "start": 42,
+              "url": "https://t.co/Bl8E4z1cFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101578318923645404",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101578310824452096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101541719129096591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 我这里有老版本蓝卡的哦，可以在内地激活那种\n内地现货速发 https://t.co/Bl8E4z1cFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101541040088068096",
+            "3_2101541081657888768",
+            "3_2101541104789360640"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2101541719129096591",
+        "created_at": "2026-09-20T05:19:25.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101541719129096591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nhyL6pWLD",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2101541719129096591/photo/1",
+              "media_key": "3_2101541040088068096",
+              "start": 143,
+              "url": "https://t.co/9nhyL6pWLD"
+            },
+            {
+              "display_url": "pic.x.com/9nhyL6pWLD",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2101541719129096591/photo/1",
+              "media_key": "3_2101541081657888768",
+              "start": 143,
+              "url": "https://t.co/9nhyL6pWLD"
+            },
+            {
+              "display_url": "pic.x.com/9nhyL6pWLD",
+              "end": 166,
+              "expanded_url": "https://x.com/realNyarime/status/2101541719129096591/photo/1",
+              "media_key": "3_2101541104789360640",
+              "start": 143,
+              "url": "https://t.co/9nhyL6pWLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101541719129096591",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101541040088068096"
+          },
+          {
+            "media_key": "3_2101541081657888768"
+          },
+          {
+            "media_key": "3_2101541104789360640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 8165,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中秋国庆如果到中国香港，可以囤一张中国电信香港的预付卡（蓝卡）用，半年充一次50就行\n余额永久有效，可以买一次性流量包，长期有效。流量是中国内地和香港共用的，不过号段比较新可能谷歌不好收\n但作为全能港卡跟CSL任纵横有得一拼，新卡只支持在中国香港境内激活，或是在深圳湾口岸连接港方信号 https://t.co/9nhyL6pWLD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2101578318923645404",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 526,
+          "like_count": 4354,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 1784
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2101577233014096168",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47514,
+          "following_count": 663,
+          "like_count": 22685,
+          "listed_count": 206,
+          "media_count": 2864,
+          "tweet_count": 18868
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2100517675869102324",
+    "created_at": "2026-09-18T04:58:41.000Z",
+    "display_text_range": [
+      22,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100811727747293401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059312070781472770",
+          "start": 0,
+          "username": "lishishen7i"
+        },
+        {
+          "end": 21,
+          "id": "333823770",
+          "start": 13,
+          "username": "niaoshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100811727747293401",
+    "in_reply_to_user_id": "2059312070781472770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100811269322486140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lishishen7i @niaoshu 内地可激活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2100517675869102324",
+        "created_at": "2026-09-18T04:58:41.000Z",
+        "display_text_range": [
+          22,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100811727747293401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059312070781472770",
+              "start": 0,
+              "username": "lishishen7i"
+            },
+            {
+              "end": 21,
+              "id": "333823770",
+              "start": 13,
+              "username": "niaoshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100811727747293401",
+        "in_reply_to_user_id": "2059312070781472770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100811269322486140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lishishen7i @niaoshu 内地可激活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059312070781472770",
+        "conversation_id": "2100517675869102324",
+        "created_at": "2026-09-18T04:56:52.000Z",
+        "display_text_range": [
+          21,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100811269322486140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 20,
+              "id": "333823770",
+              "start": 12,
+              "username": "niaoshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100811269322486140",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100594257698668698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @niaoshu 是不是需要到香港激活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2100811727747293401",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 522,
+          "like_count": 4337,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T16:34:26.000Z",
+        "description": "我们的心愿是：世界和平",
+        "id": "2059312070781472770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100811269322486140",
+        "name": "lyshen",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059312602300522497/lLQRTn2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 120,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "lishishen7i",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-12T04:16:06.000Z",
+        "description": "跨境、科技金融 / AI工具实战 / 电商自媒体 / 视频创作 / 生产力\n一个爱折腾跨境 AI 和流量玩法的老鸟",
+        "id": "333823770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100807249220493697",
+        "name": "鸟叔本鸟",
+        "pinned_tweet_id": "2064688197540745290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333823770/1779664629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058688329818976256/8ekvzv4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12130,
+          "following_count": 382,
+          "like_count": 313,
+          "listed_count": 37,
+          "media_count": 582,
+          "tweet_count": 3302
+        },
+        "url": "",
+        "username": "niaoshu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2092157489169244648",
+    "created_at": "2026-08-25T11:53:48.000Z",
+    "display_text_range": [
+      16,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092218886477529300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1578415116860551168",
+          "start": 0,
+          "username": "TTWong51878687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092218886477529300",
+    "in_reply_to_user_id": "1578415116860551168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092187457982984382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTWong51878687 外卖一般不喊手机尾号的，一般喊的是美团（淘宝）多少号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2092157489169244648",
+        "created_at": "2026-08-25T11:53:48.000Z",
+        "display_text_range": [
+          16,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092218886477529300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1578415116860551168",
+              "start": 0,
+              "username": "TTWong51878687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092218886477529300",
+        "in_reply_to_user_id": "1578415116860551168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092187457982984382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTWong51878687 外卖一般不喊手机尾号的，一般喊的是美团（淘宝）多少号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578415116860551168",
+        "conversation_id": "2092157489169244648",
+        "created_at": "2026-08-25T09:48:55.000Z",
+        "display_text_range": [
+          12,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092187457982984382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092187457982984382",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5287,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092157489169244648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 这种尾号属于是叫个外卖特码在路上外卖连着外卖小哥一起消失的类型"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2092218886477529300",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 487,
+          "like_count": 4185,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 1696
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-07T16:01:20.000Z",
+        "description": "赛博鼠鼠娘，没事找咱聊\n平时看到好玩的会转（不会搬史的，真的，真的）",
+        "id": "1578415116860551168",
+        "is_identity_verified": false,
+        "location": "南蛮",
+        "most_recent_tweet_id": "2092212396488348026",
+        "name": "赛博鼠鼠TT",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578415116860551168/1778761960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054903695117303808/bU0E4Xl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 28,
+          "like_count": 2223,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 3017
+        },
+        "url": "",
+        "username": "TTWong51878687",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

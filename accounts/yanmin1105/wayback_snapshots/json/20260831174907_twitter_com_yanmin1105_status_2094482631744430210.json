@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2094482631744430210",
+    "created_at": "2026-08-31T17:49:07.000Z",
+    "display_text_range": [
+      0,
+      179
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094482631744430210"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094482631744430210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友们，为了方便大家与我进行互寄一些奇怪的东西，特将我的收件地址发出来，如果有朋友想要与我通信可以直接邮寄\n\nYanmin\nBoîte postale n° deux cent quatre-vingt-dix-huit，\ndistrict de Nankai，\nTianjin，300193\nLa république populaire de chine"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2094482631744430210",
+        "created_at": "2026-08-31T17:49:07.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094482631744430210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094482631744430210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，为了方便大家与我进行互寄一些奇怪的东西，特将我的收件地址发出来，如果有朋友想要与我通信可以直接邮寄\n\nYanmin\nBoîte postale n° deux cent quatre-vingt-dix-huit，\ndistrict de Nankai，\nTianjin，300193\nLa république populaire de chine"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2094482631744430210",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 490,
+          "like_count": 4199,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

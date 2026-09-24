@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2101138483792462055",
+    "created_at": "2026-09-20T07:44:56.000Z",
+    "display_text_range": [
+      24,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101578342587916612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "542733730",
+          "start": 0,
+          "username": "vickyoung_"
+        },
+        {
+          "end": 23,
+          "id": "1837057158674010112",
+          "start": 12,
+          "username": "InfiCheesy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101578342587916612",
+    "in_reply_to_user_id": "542733730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101548304089731090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vickyoung_ @InfiCheesy 70，私聊我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2101138483792462055",
+        "created_at": "2026-09-20T07:44:56.000Z",
+        "display_text_range": [
+          24,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101578342587916612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "542733730",
+              "start": 0,
+              "username": "vickyoung_"
+            },
+            {
+              "end": 23,
+              "id": "1837057158674010112",
+              "start": 12,
+              "username": "InfiCheesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101578342587916612",
+        "in_reply_to_user_id": "542733730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101548304089731090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vickyoung_ @InfiCheesy 70，私聊我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "542733730",
+        "conversation_id": "2101138483792462055",
+        "created_at": "2026-09-20T05:45:35.000Z",
+        "display_text_range": [
+          24,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101548304089731090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 23,
+              "id": "1837057158674010112",
+              "start": 12,
+              "username": "InfiCheesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101548304089731090",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101171086490767370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @InfiCheesy 几多一张，怎么联系"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2101578342587916612",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 526,
+          "like_count": 4354,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 1785
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-01T18:01:09.000Z",
+        "description": "",
+        "id": "542733730",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101554429996495098",
+        "name": "Victoria Young",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/954743976606818306/kYwKbcRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 104,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "vickyoung_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T09:12:23.000Z",
+        "description": "这里是无限芝士，一个致力于提升您上网体验的信息分享频道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/inficheesy",
+                "end": 23,
+                "expanded_url": "https://t.me/inficheesy",
+                "start": 0,
+                "url": "https://t.co/CVXeusXIlM"
+              }
+            ]
+          }
+        },
+        "id": "1837057158674010112",
+        "is_identity_verified": false,
+        "location": "HongKong",
+        "most_recent_tweet_id": "2101564314750787876",
+        "name": "InfiCheesy無限芝士",
+        "pinned_tweet_id": "2056594033263407611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837057158674010112/1776587228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837057377402761216/g2oIddXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14428,
+          "following_count": 183,
+          "like_count": 410,
+          "listed_count": 48,
+          "media_count": 1073,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/CVXeusXIlM",
+        "username": "InfiCheesy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

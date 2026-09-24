@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2084124031825940761",
+    "created_at": "2026-08-03T18:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084352628444774801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1920911113648267264",
+          "start": 0,
+          "username": "kaifanke"
+        },
+        {
+          "end": 20,
+          "id": "1678655311006273536",
+          "start": 10,
+          "username": "EimeiLait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084352628444774801",
+    "in_reply_to_user_id": "1920911113648267264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084149695388291457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaifanke @EimeiLait 教育优惠只允许三期，但是信用卡可以24期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2084124031825940761",
+        "created_at": "2026-08-03T18:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084352628444774801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1920911113648267264",
+              "start": 0,
+              "username": "kaifanke"
+            },
+            {
+              "end": 20,
+              "id": "1678655311006273536",
+              "start": 10,
+              "username": "EimeiLait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084352628444774801",
+        "in_reply_to_user_id": "1920911113648267264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084149695388291457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaifanke @EimeiLait 教育优惠只允许三期，但是信用卡可以24期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920911113648267264",
+        "conversation_id": "2084124031825940761",
+        "created_at": "2026-08-03T05:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084149695388291457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084149695388291457",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084124031825940761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait 苹果教育优惠再分期一下awa～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "2064913843646812645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048062376847835137/xZ1l2Vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 467,
+          "like_count": 4123,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T18:38:04.000Z",
+        "description": "常驻坐标洛阳/肇庆。欢迎找饭饭玩awa～",
+        "id": "1920911113648267264",
+        "name": "开饭了各位awa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920913506779754497/i2CqPO-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 1444,
+          "like_count": 7217,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "kaifanke",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "莱／沙｜特別時期｜コイビト@DustSwallo15805 君何処へ　何時共に在らむ｜Ei. Si. Laitus｜萊・ライ｜BA4RRA｜LinguaZomina崇明说话｜ Arknights ARCAEA maimai ｜mtx｜LVNARIA †Iuli MMXXIV ｜违规的有害邮品@LaitusCorrupt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "DustSwallo15805"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "LaitusCorrupt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EimeiLait",
+                "end": 23,
+                "expanded_url": "http://github.com/EimeiLait",
+                "start": 0,
+                "url": "https://t.co/XrhaULs8l0"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "name": "墨落莱 Laitus-特別時期",
+        "pinned_tweet_id": "2081950059877617860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013739249770901504/mO56E89w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 704,
+          "like_count": 157539,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/XrhaULs8l0",
+        "username": "EimeiLait",
+        "verified": false
+      }
+    ]
+  }
+}
