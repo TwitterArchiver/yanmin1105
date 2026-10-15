@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103758585478201379",
+    "created_at": "2026-09-26T14:42:31.000Z",
+    "display_text_range": [
+      9,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103857754490519870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1371787869946146823",
+          "start": 0,
+          "username": "rwbycth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103857754490519870",
+    "in_reply_to_user_id": "1371787869946146823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103843049491267992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwbycth 广发世界卡要验资，天津这边不给我做，平安万事达倒是0开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103758585478201379",
+        "created_at": "2026-09-26T14:42:31.000Z",
+        "display_text_range": [
+          9,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103857754490519870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1371787869946146823",
+              "start": 0,
+              "username": "rwbycth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103857754490519870",
+        "in_reply_to_user_id": "1371787869946146823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103843049491267992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwbycth 广发世界卡要验资，天津这边不给我做，平安万事达倒是0开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371787869946146823",
+        "conversation_id": "2103758585478201379",
+        "created_at": "2026-09-26T13:44:05.000Z",
+        "display_text_range": [
+          12,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103843049491267992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103843049491267992",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103771631663579233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 其实广发世界卡也没有管理费（但是验资随缘），平安之前免验资但是人多了现在要验资（），中信金貔貅真好看（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103857754490519870",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 545,
+          "like_count": 4363,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-16T11:38:29.000Z",
+        "description": "冒险快要结束了，无悲喜，无惊叹",
+        "id": "1371787869946146823",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2103843049491267992",
+        "name": "咕噜咕噜咕噜不起来了",
+        "pinned_tweet_id": "1994063153202643307",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994200638151163904/r9Iqzkxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 2197,
+          "like_count": 38177,
+          "listed_count": 2,
+          "media_count": 891,
+          "tweet_count": 12127
+        },
+        "url": "",
+        "username": "rwbycth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

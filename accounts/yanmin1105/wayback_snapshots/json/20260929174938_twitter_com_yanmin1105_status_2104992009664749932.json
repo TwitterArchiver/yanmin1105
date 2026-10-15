@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2104983592208367815",
+    "created_at": "2026-09-29T17:49:38.000Z",
+    "display_text_range": [
+      15,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T18:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104992009664749932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "SaigyoujiHane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104992009664749932",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104983592208367815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaigyoujiHane 实名卡是合法财产，扣留他人实名登记过的电话卡可能反而涉嫌违法"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104983592208367815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104983592208367815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104983592208367815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2104983592208367815",
+        "created_at": "2026-09-29T17:49:38.000Z",
+        "display_text_range": [
+          15,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104992009664749932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "SaigyoujiHane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104992009664749932",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104983592208367815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaigyoujiHane 实名卡是合法财产，扣留他人实名登记过的电话卡可能反而涉嫌违法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2104992009664749932",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 553,
+          "like_count": 4391,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "Bio",
+        "id": "943439286287851520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104983592208367815",
+        "name": "🌸❀神楽坂　千羽✿💮🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1781669075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091050637442371584/I566Dm_M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 6486,
+          "like_count": 123919,
+          "listed_count": 8,
+          "media_count": 2530,
+          "tweet_count": 38078
+        },
+        "url": "",
+        "username": "SaigyoujiHane",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

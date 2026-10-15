@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2107542064615575833",
+    "created_at": "2026-10-07T05:25:19.000Z",
+    "display_text_range": [
+      20,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107703800626864469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "YongQuan"
+        },
+        {
+          "end": 19,
+          "id": "1443345798402506756",
+          "start": 10,
+          "username": "tttttyuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107703800626864469",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107699845620437459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YongQuan @tttttyuc （）\n还有我的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2107542064615575833",
+        "created_at": "2026-10-07T05:25:19.000Z",
+        "display_text_range": [
+          20,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107703800626864469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 19,
+              "id": "1443345798402506756",
+              "start": 10,
+              "username": "tttttyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107703800626864469",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107699845620437459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @tttttyuc （）\n还有我的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2107542064615575833",
+        "created_at": "2026-10-07T05:09:37.000Z",
+        "display_text_range": [
+          10,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107699845620437459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1443345798402506756",
+              "start": 0,
+              "username": "tttttyuc"
+            },
+            {
+              "end": 142,
+              "id": "1904539885769457665",
+              "start": 131,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107699845620437459",
+        "in_reply_to_user_id": "1443345798402506756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107542064615575833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttyuc 其实这个事情TES有责任\n之前Riot和移民局沟通可以去办P-1A 而且上海领事馆P-1A的通过率很高 但是加急一次好几万\nB1/B2几千块就能搞定\n可能是因为省钱\n但断送了Zuian这个新人的机会……\n\n不过确实 今年美签号确实不好抢 我带@yanmin1105 今年去美国大使馆 每次都排很长的队伍\n感觉郭皓吃回扣了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2107703800626864469",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 584,
+          "like_count": 4498,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Queer/MtX🏳️‍⚧️｜reHRT：2026.9.5｜大证：2026.7.31｜电竞从业者｜\n本账号由爱人❤️@XUEQIUxka代管\n日常@1H4teTheWorld｜#Worlds2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 88,
+                "tag": "Worlds2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2107702960746868840",
+        "name": "呆萌铨🍥",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12443,
+          "following_count": 4898,
+          "like_count": 54843,
+          "listed_count": 42,
+          "media_count": 7197,
+          "tweet_count": 18638
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-29T22:44:04.000Z",
+        "description": "CN/EN, 22JDG/23BLG/ZOFGK/23OMG, LEC LCS enjoyer, She/her/hers",
+        "id": "1443345798402506756",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107703796306747655",
+        "name": "Yuuu - lifeitsfkingmove",
+        "pinned_tweet_id": "2107064422766084480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443345798402506756/1780187682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987675060681973760/peun9lwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16882,
+          "following_count": 728,
+          "like_count": 99821,
+          "listed_count": 54,
+          "media_count": 8780,
+          "tweet_count": 53442
+        },
+        "url": "",
+        "username": "tttttyuc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

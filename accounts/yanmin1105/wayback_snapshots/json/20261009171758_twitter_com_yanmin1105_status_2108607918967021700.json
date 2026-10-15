@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2108578190847586592",
+    "created_at": "2026-10-09T17:17:58.000Z",
+    "display_text_range": [
+      20,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T18:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108607918967021700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2050049924008660992",
+          "start": 0,
+          "username": "S4UFML"
+        },
+        {
+          "end": 19,
+          "id": "1754774517594181632",
+          "start": 8,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108607918967021700",
+    "in_reply_to_user_id": "2050049924008660992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108583438643351886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S4UFML @ValenceLab 给老人家开点专注达，让老人家专注的跟村口大妈聊天（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2108578190847586592",
+        "created_at": "2026-10-09T17:17:58.000Z",
+        "display_text_range": [
+          20,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108607918967021700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2050049924008660992",
+              "start": 0,
+              "username": "S4UFML"
+            },
+            {
+              "end": 19,
+              "id": "1754774517594181632",
+              "start": 8,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108607918967021700",
+        "in_reply_to_user_id": "2050049924008660992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108583438643351886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S4UFML @ValenceLab 给老人家开点专注达，让老人家专注的跟村口大妈聊天（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050049924008660992",
+        "conversation_id": "2108578190847586592",
+        "created_at": "2026-10-09T15:40:42.000Z",
+        "display_text_range": [
+          12,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108583438643351886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108583438643351886",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108578190847586592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 老年人想开什么其实是最好开的，甚至开完还能把挂号费退了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2108607918967021700",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 594,
+          "like_count": 4518,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 1867
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T03:09:38.000Z",
+        "description": "千行皆心腑，三年空负春",
+        "id": "2050049924008660992",
+        "is_identity_verified": false,
+        "location": "自深深处",
+        "most_recent_tweet_id": "2108605945152721218",
+        "name": "不挽春",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050049924008660992/1790227189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108589917148418049/NO42djXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 154,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "S4UFML",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥官方论坛 https://t.co/I7gx0T63Cd∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "valence.top",
+                "end": 39,
+                "expanded_url": "http://valence.top",
+                "start": 16,
+                "url": "https://t.co/I7gx0T63Cd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Sph…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Sphere",
+                "start": 0,
+                "url": "https://t.co/e7TrTwWJEE"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "is_identity_verified": false,
+        "location": "本栖湖",
+        "most_recent_tweet_id": "2108578778993803559",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2104243877247078561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754774517594181632/1773760887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 263,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/e7TrTwWJEE",
+        "username": "ValenceLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

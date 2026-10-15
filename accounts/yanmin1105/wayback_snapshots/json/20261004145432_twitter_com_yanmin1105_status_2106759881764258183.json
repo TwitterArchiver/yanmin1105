@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106729900870672700",
+    "created_at": "2026-10-04T14:54:32.000Z",
+    "display_text_range": [
+      29,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106759881764258183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1007846892879802368",
+          "start": 0,
+          "username": "AGAGAGAG321"
+        },
+        {
+          "end": 28,
+          "id": "420175982",
+          "start": 13,
+          "username": "sino_go_global"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106759881764258183",
+    "in_reply_to_user_id": "1007846892879802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106758114154549690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGAGAGAG321 @sino_go_global 不只是推销，好多诈骗，都说是入境处（）\n\n香港号就那么点，各家都差不多，换来换去，都是诈骗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106729900870672700",
+        "created_at": "2026-10-04T14:54:32.000Z",
+        "display_text_range": [
+          29,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106759881764258183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1007846892879802368",
+              "start": 0,
+              "username": "AGAGAGAG321"
+            },
+            {
+              "end": 28,
+              "id": "420175982",
+              "start": 13,
+              "username": "sino_go_global"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106759881764258183",
+        "in_reply_to_user_id": "1007846892879802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106758114154549690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGAGAGAG321 @sino_go_global 不只是推销，好多诈骗，都说是入境处（）\n\n香港号就那么点，各家都差不多，换来换去，都是诈骗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1007846892879802368",
+        "conversation_id": "2106729900870672700",
+        "created_at": "2026-10-04T14:47:30.000Z",
+        "display_text_range": [
+          28,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106758114154549690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 27,
+              "id": "420175982",
+              "start": 12,
+              "username": "sino_go_global"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106758114154549690",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106741547706532178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @sino_go_global 蓝卡太抽奖了，回收号真多，放家里待机，回去一看，30+的未接，全是推销"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2106759881764258183",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 578,
+          "like_count": 4470,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1832
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-16T04:46:38.000Z",
+        "description": "30+ 175 80kg 努力下降中，AG女心，随缘更新，找同城同好，带我",
+        "id": "1007846892879802368",
+        "is_identity_verified": false,
+        "location": "山东济宁",
+        "most_recent_tweet_id": "2106758114154549690",
+        "name": "TYPER",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 5551,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "AGAGAGAG321",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-24T08:44:51.000Z",
+        "description": "🌏 13年卡友｜有HKID｜美区ITIN云居民\n🇭🇰 19家港卡｜🇺🇸 美卡｜💳 U卡｜📱 eSIM\n📈 嘉信理财 · IBKR 盈透， 美股券商实测·技巧\n\n🔥 干货｜教程｜避坑，关注不迷路👉",
+        "id": "420175982",
+        "is_identity_verified": true,
+        "location": "HONGKONG",
+        "most_recent_tweet_id": "2106745175246787003",
+        "name": "浪险 | 出海基建·港美卡·云居民",
+        "pinned_tweet_id": "2066135815902892099",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/718712613312401408/34aMMQ9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10780,
+          "following_count": 657,
+          "like_count": 7977,
+          "listed_count": 53,
+          "media_count": 455,
+          "tweet_count": 4676
+        },
+        "url": "",
+        "username": "sino_go_global",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

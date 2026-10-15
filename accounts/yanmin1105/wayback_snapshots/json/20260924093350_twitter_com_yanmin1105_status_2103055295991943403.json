@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103002113236480103",
+    "created_at": "2026-09-24T09:33:50.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103055295991943403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035898194366963712",
+          "start": 0,
+          "username": "ApplerinQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103055295991943403",
+    "in_reply_to_user_id": "2035898194366963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103002113236480103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApplerinQAQ 新闻学没有老师我是不认可的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2940,
+        "media_key": "3_2103002102037614592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9dRQXaEAAljN5.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103002113236480103",
+        "created_at": "2026-09-24T09:33:50.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103055295991943403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035898194366963712",
+              "start": 0,
+              "username": "ApplerinQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103055295991943403",
+        "in_reply_to_user_id": "2035898194366963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103002113236480103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApplerinQAQ 新闻学没有老师我是不认可的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103002102037614592"
+          ]
+        },
+        "author_id": "2035898194366963712",
+        "conversation_id": "2103002113236480103",
+        "created_at": "2026-09-24T06:02:30.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103002113236480103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORMovZ3QHt",
+              "end": 41,
+              "expanded_url": "https://x.com/ApplerinQAQ/status/2103002113236480103/photo/1",
+              "media_key": "3_2103002102037614592",
+              "start": 18,
+              "url": "https://t.co/ORMovZ3QHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103002113236480103",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103002102037614592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5402,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新闻速报：北大南梁塌房了，众人围观 https://t.co/ORMovZ3QHt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103055295991943403",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 541,
+          "like_count": 4407,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 1816
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "🎶 Maybe I just want to fly. Wanna live I don't want to die.\n💕ENTP-T / Maybe She or Her or u like ~ / Monitoring Al\n🕊️Peace & Love...No Politics Please!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/peerin00",
+                "end": 23,
+                "expanded_url": "https://t.me/peerin00",
+                "start": 0,
+                "url": "https://t.co/x4cTdVCd7E"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2103054306601763156",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2101230269445615842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101496538996580352/XhwCKsTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 181,
+          "like_count": 3073,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/x4cTdVCd7E",
+        "username": "ApplerinQAQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

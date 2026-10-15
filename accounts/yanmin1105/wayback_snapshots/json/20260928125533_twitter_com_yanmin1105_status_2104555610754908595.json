@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2104447376710918442",
+    "created_at": "2026-09-28T12:55:33.000Z",
+    "display_text_range": [
+      26,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104555610754908595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 25,
+          "id": "1991306862038544384",
+          "start": 14,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104555610754908595",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104475784773877908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 @Wanda12300 但我还是想脱毛，可不可以主动提（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2104447376710918442",
+        "created_at": "2026-09-28T12:55:33.000Z",
+        "display_text_range": [
+          26,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104555610754908595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 25,
+              "id": "1991306862038544384",
+              "start": 14,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104555610754908595",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104475784773877908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 @Wanda12300 但我还是想脱毛，可不可以主动提（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2104447376710918442",
+        "created_at": "2026-09-28T07:38:21.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104475784773877908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104475784773877908",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104473989393379341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 是口腔黏膜，对于脱毛无强制要求"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2104555610754908595",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 550,
+          "like_count": 4374,
+          "listed_count": 5,
+          "media_count": 191,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2104555581780771181",
+        "name": "星眠子",
+        "pinned_tweet_id": "2103698817036243164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 3325,
+          "like_count": 4460,
+          "listed_count": 6,
+          "media_count": 1050,
+          "tweet_count": 11351
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+超大只天残党/家长党MtF，已出柜，正在尝试RLE并攒钱SRS中；愿望是出门能被当成女孩子\n出厂日期：2006.10.26 HRT时间：2026.4.1\n不搞黄不键政，把推当朋友圈发，欢迎同类互fo，私信可能来不及回复，抱歉喵\nGitHub(正在建设)：https://t.co/kdNOs6dwBr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 154,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 131,
+                "url": "https://t.co/kdNOs6dwBr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+5DAPuJtdsQwwM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+5DAPuJtdsQwwMmI1",
+                "start": 0,
+                "url": "https://t.co/j1biSxEkNx"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104548366160109590",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2102647372023046288",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796457037864970/gkjAh4z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1543,
+          "like_count": 1585,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/j1biSxEkNx",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

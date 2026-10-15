@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103383292460609815",
+    "created_at": "2026-09-25T07:17:10.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103383292460609815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817217302762594304",
+          "start": 0,
+          "username": "chickenwinz33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/eliene1018/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/eliene1018/status/2102474614681251847",
+          "start": 21,
+          "url": "https://t.co/df9H5ageap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103383292460609815",
+    "in_reply_to_user_id": "1817217302762594304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102474614681251847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenwinz33 快来抱抱我 https://t.co/df9H5ageap"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103383292460609815",
+        "created_at": "2026-09-25T07:17:10.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103383292460609815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817217302762594304",
+              "start": 0,
+              "username": "chickenwinz33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/eliene1018/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/eliene1018/status/2102474614681251847",
+              "start": 21,
+              "url": "https://t.co/df9H5ageap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103383292460609815",
+        "in_reply_to_user_id": "1817217302762594304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102474614681251847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenwinz33 快来抱抱我 https://t.co/df9H5ageap"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743644094088548352",
+        "conversation_id": "2102474614681251847",
+        "created_at": "2026-09-22T19:06:24.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102474614681251847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102474614681251847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 276109,
+          "like_count": 3704,
+          "quote_count": 26,
+          "reply_count": 139,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "做不做爱不重要 两个人抱在一起蹭蹭很重要\n人活着就为了那点催产素"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103383292460609815",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 541,
+          "like_count": 4349,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 1731
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T15:16:04.000Z",
+        "description": "MTF",
+        "id": "1817217302762594304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103044209473429702",
+        "name": "好鸡翅🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795123817033728/-0DoQ5D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 1541,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "chickenwinz33",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-06T14:42:17.000Z",
+        "description": "清真异性恋\nHard to tame #little #brat",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "little"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "brat"
+              }
+            ]
+          }
+        },
+        "id": "1743644094088548352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103270212217061886",
+        "name": "pipopapapupu",
+        "pinned_tweet_id": "1936142750636032350",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743644094088548352/1776100353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026501632796798979/fUcCWInx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 238,
+          "like_count": 23137,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "Eliene1018",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

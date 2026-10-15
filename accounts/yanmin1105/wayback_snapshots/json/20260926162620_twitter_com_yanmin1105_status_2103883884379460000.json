@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103796574254215599",
+    "created_at": "2026-09-26T16:26:20.000Z",
+    "display_text_range": [
+      15,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103883884379460000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622987945895677954",
+          "start": 0,
+          "username": "xingkongmiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103883884379460000",
+    "in_reply_to_user_id": "1622987945895677954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103882786977595545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingkongmiao_ 理论上在户口本上，派出所就可以出专门的A是B父亲的证明\n没有在一个户口本上过，派出所就出不来这样的证明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103796574254215599",
+        "created_at": "2026-09-26T16:26:20.000Z",
+        "display_text_range": [
+          15,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103883884379460000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622987945895677954",
+              "start": 0,
+              "username": "xingkongmiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103883884379460000",
+        "in_reply_to_user_id": "1622987945895677954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103882786977595545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingkongmiao_ 理论上在户口本上，派出所就可以出专门的A是B父亲的证明\n没有在一个户口本上过，派出所就出不来这样的证明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622987945895677954",
+        "conversation_id": "2103796574254215599",
+        "created_at": "2026-09-26T16:21:59.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103882786977595545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103882786977595545",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103796574254215599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 户口本本来就不可以证明啊…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103883884379460000",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 545,
+          "like_count": 4363,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-07T15:57:43.000Z",
+        "description": "星空. 持证含糖mtx/重抑重焦 双相 可能精分(?)/病娇/地雷女/estp esfp(?/在上海 310",
+        "id": "1622987945895677954",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103882786977595545",
+        "name": "小星空.🍥",
+        "pinned_tweet_id": "1859192967782957483",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622993430799597569/QTafnAc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 338,
+          "like_count": 6641,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "xingkongmiao_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

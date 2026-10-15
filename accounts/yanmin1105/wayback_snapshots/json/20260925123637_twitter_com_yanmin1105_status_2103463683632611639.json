@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103061422259540403",
+    "created_at": "2026-09-25T12:36:37.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103463683632611639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "749516837067583488",
+          "start": 0,
+          "username": "jyllovelly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103463683632611639",
+    "in_reply_to_user_id": "749516837067583488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103462500867989762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jyllovelly 但可是一卡顶三个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103061422259540403",
+        "created_at": "2026-09-25T12:36:37.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103463683632611639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "749516837067583488",
+              "start": 0,
+              "username": "jyllovelly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103463683632611639",
+        "in_reply_to_user_id": "749516837067583488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103462500867989762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jyllovelly 但可是一卡顶三个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "749516837067583488",
+        "conversation_id": "2103061422259540403",
+        "created_at": "2026-09-25T12:31:55.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103462500867989762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103462500867989762",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103353907372228672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 我感觉英国CTExcel更划算一点呢，不过延迟太高了用着不那么跟手哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103463683632611639",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 542,
+          "like_count": 4351,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 1732
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-03T08:15:14.000Z",
+        "description": "Nothing",
+        "id": "749516837067583488",
+        "is_identity_verified": true,
+        "location": "West Region, Singapore",
+        "most_recent_tweet_id": "2103462500867989762",
+        "name": "BigBread",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/749516837067583488/1787022702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100745270057443328/iZREQfYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 19,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "jyllovelly",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

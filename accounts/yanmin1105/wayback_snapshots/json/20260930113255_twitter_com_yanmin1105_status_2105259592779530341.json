@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105259551339753472",
+        "3_2105259551306231808"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2105259592779530341",
+    "created_at": "2026-09-30T11:32:55.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105259592779530341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I2E2gNgRX4",
+          "end": 137,
+          "expanded_url": "https://x.com/yanmin1105/status/2105259592779530341/photo/1",
+          "media_key": "3_2105259551339753472",
+          "start": 114,
+          "url": "https://t.co/I2E2gNgRX4"
+        },
+        {
+          "display_url": "pic.x.com/I2E2gNgRX4",
+          "end": 137,
+          "expanded_url": "https://x.com/yanmin1105/status/2105259592779530341/photo/1",
+          "media_key": "3_2105259551306231808",
+          "start": 114,
+          "url": "https://t.co/I2E2gNgRX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105259592779530341",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105259551339753472"
+      },
+      {
+        "media_key": "3_2105259551306231808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "小嫣的SRS日记\n【面诊约手术前N天】\n真是疲惫的一天啊\n\n因我出生证办理时还没有起名字（名字是出院后起的）所以名字是用笔添改的，公证处昨天要求我在出生证上姓名处补盖一个章以证明姓名的有效性，所以我去了南开医院（我的出生医院）\n\n南开医院出生证办理室表示因之前有过为同样情况的他人补章，最后被公证处拒绝的例子，所以拒绝为其他人在出生证上补章。建议我直接申请出生证补办，补办后为机打证，补办时需要提供我妈生我的病案复印件，父母双方到场并进行人脸识别，且院方需要提前调档，大约需要数个工作日\n\n我在下午致电了公证处，公证处表示出生证比较重要，但经过与其他公证人员及有关领导讨论，因我已经提交了户口本，独生子女证等材料，决定直接为我出具公证书，不需要再提交补章的出生医学证明\n\n所以今天下午我成功取得了公证书\n\n虽然过程很复杂，但是至少结果是好的\n\n至此术前所有需要准备的材料均已准备好"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小嫣的SRS日记\n【面诊约手术前N天】\n真是疲惫的一天啊\n\n因我出生证办理时还没有起名字（名字是出院后起的）所以名字是用笔添改的，公证处昨天要求我在出生证上姓名处补盖一个章以证明姓名的有效性，所以我去了南开医院（我的出生医院） https://t.co/I2E2gNgRX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105259551339753472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdiaGWasAA_Ptg.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105259551306231808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdiaGObMAAL4m9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105259551339753472",
+            "3_2105259551306231808"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2105259592779530341",
+        "created_at": "2026-09-30T11:32:55.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105259592779530341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2E2gNgRX4",
+              "end": 137,
+              "expanded_url": "https://x.com/yanmin1105/status/2105259592779530341/photo/1",
+              "media_key": "3_2105259551339753472",
+              "start": 114,
+              "url": "https://t.co/I2E2gNgRX4"
+            },
+            {
+              "display_url": "pic.x.com/I2E2gNgRX4",
+              "end": 137,
+              "expanded_url": "https://x.com/yanmin1105/status/2105259592779530341/photo/1",
+              "media_key": "3_2105259551306231808",
+              "start": 114,
+              "url": "https://t.co/I2E2gNgRX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105259592779530341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105259551339753472"
+          },
+          {
+            "media_key": "3_2105259551306231808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "小嫣的SRS日记\n【面诊约手术前N天】\n真是疲惫的一天啊\n\n因我出生证办理时还没有起名字（名字是出院后起的）所以名字是用笔添改的，公证处昨天要求我在出生证上姓名处补盖一个章以证明姓名的有效性，所以我去了南开医院（我的出生医院）\n\n南开医院出生证办理室表示因之前有过为同样情况的他人补章，最后被公证处拒绝的例子，所以拒绝为其他人在出生证上补章。建议我直接申请出生证补办，补办后为机打证，补办时需要提供我妈生我的病案复印件，父母双方到场并进行人脸识别，且院方需要提前调档，大约需要数个工作日\n\n我在下午致电了公证处，公证处表示出生证比较重要，但经过与其他公证人员及有关领导讨论，因我已经提交了户口本，独生子女证等材料，决定直接为我出具公证书，不需要再提交补章的出生医学证明\n\n所以今天下午我成功取得了公证书\n\n虽然过程很复杂，但是至少结果是好的\n\n至此术前所有需要准备的材料均已准备好"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小嫣的SRS日记\n【面诊约手术前N天】\n真是疲惫的一天啊\n\n因我出生证办理时还没有起名字（名字是出院后起的）所以名字是用笔添改的，公证处昨天要求我在出生证上姓名处补盖一个章以证明姓名的有效性，所以我去了南开医院（我的出生医院） https://t.co/I2E2gNgRX4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2105259592779530341",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 560,
+          "like_count": 4405,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

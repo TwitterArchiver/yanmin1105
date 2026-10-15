@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105250955696717824",
+        "3_2105250955671531520"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2105251026001649941",
+    "created_at": "2026-09-30T10:58:52.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105251026001649941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0uCmmxs4gM",
+          "end": 65,
+          "expanded_url": "https://x.com/yanmin1105/status/2105251026001649941/photo/1",
+          "media_key": "3_2105250955696717824",
+          "start": 42,
+          "url": "https://t.co/0uCmmxs4gM"
+        },
+        {
+          "display_url": "pic.x.com/0uCmmxs4gM",
+          "end": 65,
+          "expanded_url": "https://x.com/yanmin1105/status/2105251026001649941/photo/1",
+          "media_key": "3_2105250955671531520",
+          "start": 42,
+          "url": "https://t.co/0uCmmxs4gM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105251026001649941",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105250955696717824"
+      },
+      {
+        "media_key": "3_2105250955671531520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "BOC新万事网联普卡，配发长城借记卡对账簿\n桂圆说这是她见过的第一张万事网联实体卡 https://t.co/0uCmmxs4gM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2105250955696717824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdalxFawAAe3NJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105250955671531520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdalw_acAAoUZN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105250955696717824",
+            "3_2105250955671531520"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2105251026001649941",
+        "created_at": "2026-09-30T10:58:52.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105251026001649941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uCmmxs4gM",
+              "end": 65,
+              "expanded_url": "https://x.com/yanmin1105/status/2105251026001649941/photo/1",
+              "media_key": "3_2105250955696717824",
+              "start": 42,
+              "url": "https://t.co/0uCmmxs4gM"
+            },
+            {
+              "display_url": "pic.x.com/0uCmmxs4gM",
+              "end": 65,
+              "expanded_url": "https://x.com/yanmin1105/status/2105251026001649941/photo/1",
+              "media_key": "3_2105250955671531520",
+              "start": 42,
+              "url": "https://t.co/0uCmmxs4gM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105251026001649941",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105250955696717824"
+          },
+          {
+            "media_key": "3_2105250955671531520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BOC新万事网联普卡，配发长城借记卡对账簿\n桂圆说这是她见过的第一张万事网联实体卡 https://t.co/0uCmmxs4gM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2105251026001649941",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 560,
+          "like_count": 4405,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103755018012930399",
+    "created_at": "2026-09-26T16:18:53.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103882007675810121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "433649025",
+          "start": 0,
+          "username": "qwerty__cs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103882007675810121",
+    "in_reply_to_user_id": "433649025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103861848542167230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwerty__cs 你是哪里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103755018012930399",
+        "created_at": "2026-09-26T16:18:53.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103882007675810121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "433649025",
+              "start": 0,
+              "username": "qwerty__cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103882007675810121",
+        "in_reply_to_user_id": "433649025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103861848542167230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwerty__cs 你是哪里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "433649025",
+        "conversation_id": "2103755018012930399",
+        "created_at": "2026-09-26T14:58:47.000Z",
+        "display_text_range": [
+          12,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103861848542167230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103861848542167230",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103755018012930399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 有地域的限制的，我这里的万事达卡没有金葵花，我本来就是金葵花客户，支行说这边还没万事达金葵花的口子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103882007675810121",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 545,
+          "like_count": 4363,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1754
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-10T20:52:33.000Z",
+        "description": "AI is all.",
+        "id": "433649025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103876500533785046",
+        "name": "拓跋鼠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/433649025/1778446392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053579063546269696/Nz6tgLiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 143,
+          "like_count": 3801,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "qwerty__cs",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

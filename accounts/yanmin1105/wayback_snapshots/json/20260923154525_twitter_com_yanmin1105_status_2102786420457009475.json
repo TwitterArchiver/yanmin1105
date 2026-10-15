@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2102710795780215173",
+    "created_at": "2026-09-23T15:45:25.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102786420457009475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002460581056688128",
+          "start": 0,
+          "username": "gZHE1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102786420457009475",
+    "in_reply_to_user_id": "2002460581056688128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102710795780215173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gZHE1123 还写啥啊（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2102710795780215173",
+        "created_at": "2026-09-23T15:45:25.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102786420457009475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002460581056688128",
+              "start": 0,
+              "username": "gZHE1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102786420457009475",
+        "in_reply_to_user_id": "2002460581056688128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102710795780215173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gZHE1123 还写啥啊（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002460581056688128",
+        "conversation_id": "2102710795780215173",
+        "created_at": "2026-09-23T10:44:54.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102710795780215173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102710795780215173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发烧请假两天没去学校问个作业被阴阳怪气我去你妈逼。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2102786420457009475",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 540,
+          "like_count": 4395,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 1801
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T19:27:13.000Z",
+        "description": "=蔗盐 可以叫我甘蔗\n♀｜OD 喜欢喝酒\n互fo查成分 墙内只扩QQ",
+        "id": "2002460581056688128",
+        "is_identity_verified": false,
+        "location": "天空",
+        "most_recent_tweet_id": "2102711527124169051",
+        "name": "戕生甘蔗",
+        "pinned_tweet_id": "2069077282116026741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002460581056688128/1790175148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079558594719297537/48igA3uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 233,
+          "like_count": 3266,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "gZHE1123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2108218043218493937",
+    "created_at": "2026-10-09T04:39:54.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108417142991520147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "256480604",
+          "start": 0,
+          "username": "xiaoxinnote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108417142991520147",
+    "in_reply_to_user_id": "256480604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108226640178483545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxinnote 10%返现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2108218043218493937",
+        "created_at": "2026-10-09T04:39:54.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108417142991520147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "256480604",
+              "start": 0,
+              "username": "xiaoxinnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108417142991520147",
+        "in_reply_to_user_id": "256480604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108226640178483545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxinnote 10%返现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "256480604",
+        "conversation_id": "2108218043218493937",
+        "created_at": "2026-10-08T16:02:54.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108226640178483545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108226640178483545",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108218043218493937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 这卡有什么好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2108417142991520147",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 591,
+          "like_count": 4516,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 1864
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-23T12:24:05.000Z",
+        "description": "👩‍🎓一位历史系学硕\n👩🏻‍💻数字基建｜学习日常｜成长记录\n🏃‍♀️‍➡️专注海外ESIM｜银行卡｜美股投资\n\n🫡永远相信真诚的力量。",
+        "id": "256480604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108389435008315655",
+        "name": "李小新",
+        "pinned_tweet_id": "2104517725804773600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256480604/1781962168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102730419246596096/JFxK0sZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1202,
+          "like_count": 3674,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "xiaoxinnote",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

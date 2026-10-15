@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2104981069187715299",
+    "created_at": "2026-09-29T17:06:10.000Z",
+    "display_text_range": [
+      0,
+      163
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T18:04:14.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104980585404055848",
+      "2104981069187715299"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104981069187715299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 405,
+            "start": 401,
+            "tag": "MTF"
+          },
+          {
+            "end": 410,
+            "start": 406,
+            "tag": "xyn"
+          },
+          {
+            "end": 415,
+            "start": 411,
+            "tag": "hrt"
+          },
+          {
+            "end": 420,
+            "start": 416,
+            "tag": "srs"
+          },
+          {
+            "end": 425,
+            "start": 421,
+            "tag": "家长党"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 190,
+            "id": "1817217302762594304",
+            "start": 176,
+            "username": "chickenwinz33"
+          }
+        ]
+      },
+      "text": "为了提示大家一下\n我做一个简单的介绍\n在下嫣敏，可以叫我小嫣，纯血天津人（三代纯种那种，但不会快板也不会相声）\n生日2007.11.05\nhrt2025.03.19\n小证2025.05.08\n🔪🥚2025.11.19\n北三hrt处方2025.12.16\n大证（预估时间）2026.10.21\nsrs（预估时间）2027年高考后\n本人是超级家长党，对象是@chickenwinz33 ，对象见过N次我家长，我家长还同意这件事\n家长的原话是“无论你是男孩还是女孩，你都是我们的孩子，我们只要你健康快乐的活着，我对你结婚生孩子什么都没有要求，你喜欢什么样的人我都能接受”\n我将按照时间更新我的srs准备与术后情况，并及时发推，且在一切结束之后整理起来以便大家参考\n特别提示，出柜有风险，这就跟不定向的基因突变一样，多害少利性明显，不要随意出柜\n\n欢迎朋友们来和我聊天或者是支持一下我的小生意，香港电话卡哦\n\n#MTF #xyn #hrt #srs #家长党"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了提示大家一下\n我做一个简单的介绍\n在下嫣敏，可以叫我小嫣，纯血天津人（三代纯种那种，但不会快板也不会相声）\n生日2007.11.05\nhrt2025.03.19\n小证2025.05.08\n🔪🥚2025.11.19\n北三hrt处方2025.12.16\n大证（预估时间）2026.10.21\nsrs（预估时间）2027年高考后"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1817217302762594304].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1817217302762594304",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1817217302762594304"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2104980585404055848",
+        "created_at": "2026-09-29T17:04:14.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:04:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104980585404055848",
+          "2104981069187715299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 152,
+              "id": "1817217302762594304",
+              "start": 138,
+              "username": "chickenwinz33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104980585404055848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 367,
+                "start": 363,
+                "tag": "MTF"
+              },
+              {
+                "end": 372,
+                "start": 368,
+                "tag": "xyn"
+              },
+              {
+                "end": 377,
+                "start": 373,
+                "tag": "hrt"
+              },
+              {
+                "end": 382,
+                "start": 378,
+                "tag": "srs"
+              },
+              {
+                "end": 387,
+                "start": 383,
+                "tag": "家长党"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "id": "1817217302762594304",
+                "start": 138,
+                "username": "chickenwinz33"
+              }
+            ]
+          },
+          "text": "为了提示大家一下\n我做一个简单的介绍\n在下嫣敏，可以叫我小嫣\nhrt2025.03.19\n小证2025.05.08\n🔪🥚2025.11.19\n北三hrt处方2025.12.16\n大证（预估时间）2026.10.21\nsrs（预估时间）2027年高考后\n本人是超级家长党，对象是@chickenwinz33 ，对象见过N次我家长，我家长还同意这件事\n家长的原话是“无论你是男孩还是女孩，你都是我们的孩子，我们只要你健康快乐的活着，我对你结婚生孩子什么都没有要求，你喜欢什么样的人我都能接受”\n我将按照时间更新我的srs准备与术后情况，并及时发推，且在一切结束之后整理起来以便大家参考\n特别提示，出柜有风险，这就跟不定向的基因突变一样，多害少利性明显，不要随意出柜\n\n欢迎朋友们来和我聊天或者是支持一下我的小生意，香港电话卡哦\n\n#MTF #xyn #hrt #srs #家长党"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了提示大家一下\n我做一个简单的介绍\n在下嫣敏，可以叫我小嫣\nhrt2025.03.19\n小证2025.05.08\n🔪🥚2025.11.19\n北三hrt处方2025.12.16\n大证（预估时间）2026.10.21\nsrs（预估时间）2027年高考后\n本人是超级家长党，对象是@chickenwinz33 ，对象见过N次我家长，我家长还同意这件事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2104981069187715299",
+        "created_at": "2026-09-29T17:06:10.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:04:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104980585404055848",
+          "2104981069187715299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104981069187715299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 405,
+                "start": 401,
+                "tag": "MTF"
+              },
+              {
+                "end": 410,
+                "start": 406,
+                "tag": "xyn"
+              },
+              {
+                "end": 415,
+                "start": 411,
+                "tag": "hrt"
+              },
+              {
+                "end": 420,
+                "start": 416,
+                "tag": "srs"
+              },
+              {
+                "end": 425,
+                "start": 421,
+                "tag": "家长党"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 190,
+                "id": "1817217302762594304",
+                "start": 176,
+                "username": "chickenwinz33"
+              }
+            ]
+          },
+          "text": "为了提示大家一下\n我做一个简单的介绍\n在下嫣敏，可以叫我小嫣，纯血天津人（三代纯种那种，但不会快板也不会相声）\n生日2007.11.05\nhrt2025.03.19\n小证2025.05.08\n🔪🥚2025.11.19\n北三hrt处方2025.12.16\n大证（预估时间）2026.10.21\nsrs（预估时间）2027年高考后\n本人是超级家长党，对象是@chickenwinz33 ，对象见过N次我家长，我家长还同意这件事\n家长的原话是“无论你是男孩还是女孩，你都是我们的孩子，我们只要你健康快乐的活着，我对你结婚生孩子什么都没有要求，你喜欢什么样的人我都能接受”\n我将按照时间更新我的srs准备与术后情况，并及时发推，且在一切结束之后整理起来以便大家参考\n特别提示，出柜有风险，这就跟不定向的基因突变一样，多害少利性明显，不要随意出柜\n\n欢迎朋友们来和我聊天或者是支持一下我的小生意，香港电话卡哦\n\n#MTF #xyn #hrt #srs #家长党"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了提示大家一下\n我做一个简单的介绍\n在下嫣敏，可以叫我小嫣，纯血天津人（三代纯种那种，但不会快板也不会相声）\n生日2007.11.05\nhrt2025.03.19\n小证2025.05.08\n🔪🥚2025.11.19\n北三hrt处方2025.12.16\n大证（预估时间）2026.10.21\nsrs（预估时间）2027年高考后"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2104981069187715299",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 553,
+          "like_count": 4387,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

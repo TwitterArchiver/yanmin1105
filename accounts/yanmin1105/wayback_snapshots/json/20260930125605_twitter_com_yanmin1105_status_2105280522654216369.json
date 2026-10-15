@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2105251026001649941",
+    "created_at": "2026-09-30T12:56:05.000Z",
+    "display_text_range": [
+      8,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T13:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105280522654216369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3229615274",
+          "start": 0,
+          "username": "yfy465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105280522654216369",
+    "in_reply_to_user_id": "3229615274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105276161467265109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yfy465 卡面是中行直接选取的名画,中行的万事达借记卡都是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2105251026001649941",
+        "created_at": "2026-09-30T12:56:05.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105280522654216369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3229615274",
+              "start": 0,
+              "username": "yfy465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105280522654216369",
+        "in_reply_to_user_id": "3229615274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105276161467265109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yfy465 卡面是中行直接选取的名画,中行的万事达借记卡都是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3229615274",
+        "conversation_id": "2105251026001649941",
+        "created_at": "2026-09-30T12:38:45.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105276161467265109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105276161467265109",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105251026001649941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 好漂亮的卡面"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2105280522654216369",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 560,
+          "like_count": 4410,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-29T09:55:59.000Z",
+        "description": "是可口的小浆果 | 一只含糖非二元 | 大龄退役OIer | 看起来很E的I人 | 飞友火车迷，反正喜欢这么高速运作的机器 | Minecraft玩家 | 水利打灰佬",
+        "id": "3229615274",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105276161467265109",
+        "name": "Berry~",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3229615274/1659490642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103130173071921152/SCbbBPrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 181,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "yfy465",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

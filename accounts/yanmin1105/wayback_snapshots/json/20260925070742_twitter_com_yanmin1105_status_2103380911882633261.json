@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103071563713216609",
+    "created_at": "2026-09-25T07:07:42.000Z",
+    "display_text_range": [
+      8,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103380911882633261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613198074246987778",
+          "start": 0,
+          "username": "Yonkxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103380911882633261",
+    "in_reply_to_user_id": "1613198074246987778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103071563713216609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yonkxx 汇丰香港卓越理财新卡也是有的，给盲人辅助用的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2103071432234192897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-cUzeXUAEu9Tv.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103071563713216609",
+        "created_at": "2026-09-25T07:07:42.000Z",
+        "display_text_range": [
+          8,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103380911882633261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613198074246987778",
+              "start": 0,
+              "username": "Yonkxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103380911882633261",
+        "in_reply_to_user_id": "1613198074246987778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103071563713216609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yonkxx 汇丰香港卓越理财新卡也是有的，给盲人辅助用的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103071432234192897"
+          ]
+        },
+        "author_id": "1613198074246987778",
+        "conversation_id": "2103071563713216609",
+        "created_at": "2026-09-24T10:38:28.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103071563713216609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDlM3mpuQd",
+              "end": 73,
+              "expanded_url": "https://x.com/Yonkxx/status/2103071563713216609/photo/1",
+              "media_key": "3_2103071432234192897",
+              "start": 50,
+              "url": "https://t.co/mDlM3mpuQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103071563713216609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103071432234192897"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3382,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "汇丰UK卡上面这个小凸起是什么🤔\n\n我看了一下汇丰HK的卡，没有这个的，会不会放进去ATM卡进去？ https://t.co/mDlM3mpuQd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103380911882633261",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 541,
+          "like_count": 4349,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 1730
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T15:36:20.000Z",
+        "description": "没啥人的小破站站长 \n记录 🤖 AI 📈 美股 🇬🇧 英卡 🇺🇸 美卡等折腾过程\nTG群：https://t.co/XYFV69KeRS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AnisChats",
+                "end": 68,
+                "expanded_url": "https://t.me/AnisChats",
+                "start": 45,
+                "url": "https://t.co/XYFV69KeRS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "windx.co.uk",
+                "end": 23,
+                "expanded_url": "https://windx.co.uk/",
+                "start": 0,
+                "url": "https://t.co/KOmOjrRF0v"
+              }
+            ]
+          }
+        },
+        "id": "1613198074246987778",
+        "is_identity_verified": true,
+        "location": "地址ZM资源库👉",
+        "most_recent_tweet_id": "2103379202644779082",
+        "name": "Anis 🪤",
+        "pinned_tweet_id": "2096141260021248310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613198074246987778/1784363983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778595776480116736/TvRfocb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 725,
+          "like_count": 3033,
+          "listed_count": 7,
+          "media_count": 479,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/KOmOjrRF0v",
+        "username": "Yonkxx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

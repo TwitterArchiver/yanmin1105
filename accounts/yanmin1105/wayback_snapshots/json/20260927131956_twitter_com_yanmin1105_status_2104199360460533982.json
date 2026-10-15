@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2104150829590790411",
+    "created_at": "2026-09-27T13:19:56.000Z",
+    "display_text_range": [
+      28,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104199360460533982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 27,
+          "id": "1786596099479977984",
+          "start": 14,
+          "username": "Kurikawayuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104199360460533982",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104154756885450934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 @Kurikawayuyu 不开玩笑\n我妈问我为什么要做口腔黏膜，不做零深，我跟我妈真说的是我也是人，我也得有性需求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2104150829590790411",
+        "created_at": "2026-09-27T13:19:56.000Z",
+        "display_text_range": [
+          28,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104199360460533982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 27,
+              "id": "1786596099479977984",
+              "start": 14,
+              "username": "Kurikawayuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104199360460533982",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104154756885450934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 @Kurikawayuyu 不开玩笑\n我妈问我为什么要做口腔黏膜，不做零深，我跟我妈真说的是我也是人，我也得有性需求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2104150829590790411",
+        "created_at": "2026-09-27T10:22:42.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104154756885450934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786596099479977984",
+              "start": 0,
+              "username": "Kurikawayuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104154756885450934",
+        "in_reply_to_user_id": "1786596099479977984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104150829590790411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kurikawayuyu 通过！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2104199360460533982",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 550,
+          "like_count": 4368,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1768
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2104198393950335378",
+        "name": "星眠子",
+        "pinned_tweet_id": "2103698817036243164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4595,
+          "following_count": 3310,
+          "like_count": 4369,
+          "listed_count": 7,
+          "media_count": 1050,
+          "tweet_count": 11287
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T03:18:09.000Z",
+        "description": "WasedaU B1 Appl.Chem. pre-CCHOer/JpCHOer\nOrg. Inorg. Compute. Mandarin/Shanghainese/English/Japanese.\nbf&my dom @Sulfonion_ 老婆 @OliviaWantsHugs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Sulfonion_"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "OliviaWantsHugs"
+              }
+            ]
+          }
+        },
+        "id": "1786596099479977984",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2104150881306644698",
+        "name": "狗栗栗🇯🇵",
+        "pinned_tweet_id": "1971151253674786841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786596099479977984/1714793184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070954959907225600/aN9JLO54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4878,
+          "following_count": 992,
+          "like_count": 17667,
+          "listed_count": 25,
+          "media_count": 118,
+          "tweet_count": 1725
+        },
+        "url": "",
+        "username": "Kurikawayuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

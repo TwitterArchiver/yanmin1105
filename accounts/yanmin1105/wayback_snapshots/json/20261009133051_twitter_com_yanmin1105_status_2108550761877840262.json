@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108550639668359168",
+        "3_2108550639446007808"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2108550761877840262",
+    "created_at": "2026-10-09T13:30:51.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T14:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108550761877840262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DhFG3jovZ",
+          "end": 177,
+          "expanded_url": "https://x.com/yanmin1105/status/2108550761877840262/photo/1",
+          "media_key": "3_2108550639668359168",
+          "start": 154,
+          "url": "https://t.co/9DhFG3jovZ"
+        },
+        {
+          "display_url": "pic.x.com/9DhFG3jovZ",
+          "end": 177,
+          "expanded_url": "https://x.com/yanmin1105/status/2108550761877840262/photo/1",
+          "media_key": "3_2108550639446007808",
+          "start": 154,
+          "url": "https://t.co/9DhFG3jovZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108550761877840262",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108550639668359168"
+      },
+      {
+        "media_key": "3_2108550639446007808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "小嫣提示喵\n香港电话卡火热销售中\n截至【2026.10.09 21:00】\n\nCSL已全部售完\nCTHK大湾区蓝卡（内地可激活版）\n无包装剩余  10  张  售价137CNY\n有包装剩余  12  张  售价155CNY\n\n售完为止，不会再进货了，我要退休了\n\n目前复购，同时购买多张 都有不同程度的优惠\n且首次进行晒图评价可获得返现【4】元奖励\n预购从速哦\n\n老版本大湾区蓝卡兼顾保号，漫游，接打电话\n特有的流量不过期和购买流量赠送通话时长是这卡最大的优势，内地可轻松激活，且卡内自带100HKD余额"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小嫣提示喵\n香港电话卡火热销售中\n截至【2026.10.09 21:00】\n\nCSL已全部售完\nCTHK大湾区蓝卡（内地可激活版）\n无包装剩余  10  张  售价137CNY\n有包装剩余  12  张  售价155CNY\n\n售完为止，不会再进货了，我要退休了\n\n目前复购，同时购买多张 都有不同程度的优惠 https://t.co/9DhFG3jovZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108550639668359168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMTopxa8AAjsQR.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2108550639446007808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMToo8aIAA-JdL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108550639668359168",
+            "3_2108550639446007808"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2108550761877840262",
+        "created_at": "2026-10-09T13:30:51.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T14:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108550761877840262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DhFG3jovZ",
+              "end": 177,
+              "expanded_url": "https://x.com/yanmin1105/status/2108550761877840262/photo/1",
+              "media_key": "3_2108550639668359168",
+              "start": 154,
+              "url": "https://t.co/9DhFG3jovZ"
+            },
+            {
+              "display_url": "pic.x.com/9DhFG3jovZ",
+              "end": 177,
+              "expanded_url": "https://x.com/yanmin1105/status/2108550761877840262/photo/1",
+              "media_key": "3_2108550639446007808",
+              "start": 154,
+              "url": "https://t.co/9DhFG3jovZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108550761877840262",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108550639668359168"
+          },
+          {
+            "media_key": "3_2108550639446007808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "小嫣提示喵\n香港电话卡火热销售中\n截至【2026.10.09 21:00】\n\nCSL已全部售完\nCTHK大湾区蓝卡（内地可激活版）\n无包装剩余  10  张  售价137CNY\n有包装剩余  12  张  售价155CNY\n\n售完为止，不会再进货了，我要退休了\n\n目前复购，同时购买多张 都有不同程度的优惠\n且首次进行晒图评价可获得返现【4】元奖励\n预购从速哦\n\n老版本大湾区蓝卡兼顾保号，漫游，接打电话\n特有的流量不过期和购买流量赠送通话时长是这卡最大的优势，内地可轻松激活，且卡内自带100HKD余额"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小嫣提示喵\n香港电话卡火热销售中\n截至【2026.10.09 21:00】\n\nCSL已全部售完\nCTHK大湾区蓝卡（内地可激活版）\n无包装剩余  10  张  售价137CNY\n有包装剩余  12  张  售价155CNY\n\n售完为止，不会再进货了，我要退休了\n\n目前复购，同时购买多张 都有不同程度的优惠 https://t.co/9DhFG3jovZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2108550761877840262",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 591,
+          "like_count": 4518,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 1866
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

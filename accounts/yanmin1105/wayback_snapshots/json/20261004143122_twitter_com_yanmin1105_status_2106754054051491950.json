@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106754044303966208"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106555921623306448",
+    "created_at": "2026-10-04T14:31:22.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106754054051491950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737483278846763009",
+          "start": 0,
+          "username": "8AQ2Sxx2f660526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZlspGVffGf",
+          "end": 49,
+          "expanded_url": "https://x.com/yanmin1105/status/2106754054051491950/photo/1",
+          "media_key": "3_2106754044303966208",
+          "start": 26,
+          "url": "https://t.co/ZlspGVffGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106754054051491950",
+    "in_reply_to_user_id": "1737483278846763009",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106754044303966208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106555921623306448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8AQ2Sxx2f660526 内地可激活版本哦 https://t.co/ZlspGVffGf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2106754044303966208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyxpCfbAAAvvbW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106555911825436672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTv9cNfasAAjw7k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106555911833890816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTv9cNhbsAAAL8t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106754044303966208"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106555921623306448",
+        "created_at": "2026-10-04T14:31:22.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106754054051491950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737483278846763009",
+              "start": 0,
+              "username": "8AQ2Sxx2f660526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZlspGVffGf",
+              "end": 49,
+              "expanded_url": "https://x.com/yanmin1105/status/2106754054051491950/photo/1",
+              "media_key": "3_2106754044303966208",
+              "start": 26,
+              "url": "https://t.co/ZlspGVffGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106754054051491950",
+        "in_reply_to_user_id": "1737483278846763009",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106754044303966208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106555921623306448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8AQ2Sxx2f660526 内地可激活版本哦 https://t.co/ZlspGVffGf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106555911825436672",
+            "3_2106555911833890816"
+          ]
+        },
+        "author_id": "1737483278846763009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106555921623306448",
+        "created_at": "2026-10-04T01:24:04.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106555921623306448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtLj4ttLjX",
+              "end": 85,
+              "expanded_url": "https://x.com/8AQ2Sxx2f660526/status/2106555921623306448/photo/1",
+              "media_key": "3_2106555911825436672",
+              "start": 62,
+              "url": "https://t.co/QtLj4ttLjX"
+            },
+            {
+              "display_url": "pic.x.com/QtLj4ttLjX",
+              "end": 85,
+              "expanded_url": "https://x.com/8AQ2Sxx2f660526/status/2106555921623306448/photo/1",
+              "media_key": "3_2106555911833890816",
+              "start": 62,
+              "url": "https://t.co/QtLj4ttLjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106555921623306448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106555911825436672"
+          },
+          {
+            "media_key": "3_2106555911833890816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 24736,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "跑了不下5个711便利店的地方去买香港电话卡😩😩\n\n终于在上海街514买到啦😃😃\n\n推荐大家去买 注意要在香港境内激活🫶🫶 https://t.co/QtLj4ttLjX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2106754054051491950",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 576,
+          "like_count": 4469,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1831
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T14:41:21.000Z",
+        "description": "来自中国 想看看世界是什么样子🫶\n\n喜欢 hiphop🎶 NBA🏀 手办雕像🗿分享日常☀️\n\n未来会成为一名合格的旅游博主🤠🤠",
+        "id": "1737483278846763009",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2106741706926567619",
+        "name": "梅如故",
+        "pinned_tweet_id": "2105077664184938568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737483278846763009/1789287386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098852355500654592/f5U0ZCA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 4877,
+          "like_count": 3294,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 5441
+        },
+        "url": "",
+        "username": "8AQ2Sxx2f660526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

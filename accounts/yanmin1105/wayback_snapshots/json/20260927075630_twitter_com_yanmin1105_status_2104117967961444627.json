@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103768020866957332",
+    "created_at": "2026-09-27T07:56:30.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T08:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104117967961444627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "24390845",
+          "start": 0,
+          "username": "Brit_Star8_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104117967961444627",
+    "in_reply_to_user_id": "24390845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104116657203654925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brit_Star8_8 我没说申信用卡啊（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103768020866957332",
+        "created_at": "2026-09-27T07:56:30.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104117967961444627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "24390845",
+              "start": 0,
+              "username": "Brit_Star8_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104117967961444627",
+        "in_reply_to_user_id": "24390845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104116657203654925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brit_Star8_8 我没说申信用卡啊（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24390845",
+        "conversation_id": "2103768020866957332",
+        "created_at": "2026-09-27T07:51:18.000Z",
+        "display_text_range": [
+          12,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104116657203654925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104116657203654925",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103768020866957332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 我看很多网友通过中国汇丰卓越申请了美国的信用卡。博主不懂不要乱讲啊，吓我一跳。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2104117967961444627",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 551,
+          "like_count": 4366,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1766
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-14T16:27:43.000Z",
+        "description": "和你一起做AI投资的长期主义者 \n美股AI公司深挖\nAgent效率系统 \n每天更新1个观点，欢迎对线与共创。",
+        "id": "24390845",
+        "is_identity_verified": false,
+        "location": "湖南",
+        "most_recent_tweet_id": "2104116657203654925",
+        "name": "Brit_Star ｜价值投资",
+        "pinned_tweet_id": "2033746255860666853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24390845/1505450391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610532502556520448/aIBei5AB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 745,
+          "like_count": 1970,
+          "listed_count": 8,
+          "media_count": 192,
+          "tweet_count": 3509
+        },
+        "url": "",
+        "username": "Brit_Star8_8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103768020866957332",
+    "created_at": "2026-09-26T16:34:25.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103885917878648921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2084376693607723008",
+          "start": 0,
+          "username": "itsrealyutian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103885917878648921",
+    "in_reply_to_user_id": "2084376693607723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103884097063928074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsrealyutian 真的吗，这么好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103768020866957332",
+        "created_at": "2026-09-26T16:34:25.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103885917878648921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2084376693607723008",
+              "start": 0,
+              "username": "itsrealyutian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103885917878648921",
+        "in_reply_to_user_id": "2084376693607723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103884097063928074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsrealyutian 真的吗，这么好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084376693607723008",
+        "conversation_id": "2103768020866957332",
+        "created_at": "2026-09-26T16:27:11.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103884097063928074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103884097063928074",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103768020866957332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 信用卡不需要ssn或者itin"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103885917878648921",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 546,
+          "like_count": 4363,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T20:32:51.000Z",
+        "description": "☁️居民，美卡英卡持续入门中\nFaceit lv9, climbing to lv10 https://t.co/qHFER4JY5D\nTopCashback ref: https://t.co/F7XU9bUOE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "faceit.com/zh/players/jib…",
+                "end": 67,
+                "expanded_url": "https://www.faceit.com/zh/players/jibayoung-",
+                "start": 44,
+                "url": "https://t.co/qHFER4JY5D"
+              },
+              {
+                "display_url": "topcashback.com/ref/itsrealtia…",
+                "end": 108,
+                "expanded_url": "https://www.topcashback.com/ref/itsrealtianyu",
+                "start": 85,
+                "url": "https://t.co/F7XU9bUOE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+uTMLtT8xFPQ0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+uTMLtT8xFPQ0ZTkx",
+                "start": 0,
+                "url": "https://t.co/Dp1P3uZc66"
+              }
+            ]
+          }
+        },
+        "id": "2084376693607723008",
+        "is_identity_verified": false,
+        "location": "Outside the CentralFiniteCurve",
+        "most_recent_tweet_id": "2103884097063928074",
+        "name": "卡萨布兰卡不下雨🌤️",
+        "pinned_tweet_id": "2090178081105616933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084376693607723008/1788347655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098441257953443840/Ia5aY_Zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2900,
+          "following_count": 87,
+          "like_count": 841,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/Dp1P3uZc66",
+        "username": "itsrealyutian",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

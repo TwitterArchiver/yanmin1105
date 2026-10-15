@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103669636118274511",
+    "created_at": "2026-09-26T09:42:03.000Z",
+    "display_text_range": [
+      13,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103782140106399978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "848443388856750080",
+          "start": 0,
+          "username": "ma_zhenyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103782140106399978",
+    "in_reply_to_user_id": "848443388856750080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103669636118274511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ma_zhenyuan 寄信留证据这个事就是个谣传，正经集邮佬都知道，信封是可以开口发往前途的（不一定必须要粘上），可以存在邮寄空信封后自己塞东西进去再二次封口的情况\n而且日戳倒戳这事太好办了，新一代系统的平信条码只保存一年还是三年来着，超期就查不到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2103514928443498496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEvrrmbIAAJ8cu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103669636118274511",
+        "created_at": "2026-09-26T09:42:03.000Z",
+        "display_text_range": [
+          13,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103782140106399978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "848443388856750080",
+              "start": 0,
+              "username": "ma_zhenyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103782140106399978",
+        "in_reply_to_user_id": "848443388856750080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103669636118274511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ma_zhenyuan 寄信留证据这个事就是个谣传，正经集邮佬都知道，信封是可以开口发往前途的（不一定必须要粘上），可以存在邮寄空信封后自己塞东西进去再二次封口的情况\n而且日戳倒戳这事太好办了，新一代系统的平信条码只保存一年还是三年来着，超期就查不到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103514928443498496"
+          ]
+        },
+        "author_id": "848443388856750080",
+        "conversation_id": "2103669636118274511",
+        "created_at": "2026-09-26T02:15:00.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103669636118274511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ryh9oua6L",
+              "end": 38,
+              "expanded_url": "https://x.com/ma_zhenyuan/status/2103669636118274511/photo/1",
+              "media_key": "3_2103514928443498496",
+              "start": 15,
+              "url": "https://t.co/8ryh9oua6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103669636118274511",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103514928443498496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 342658,
+          "like_count": 807,
+          "quote_count": 0,
+          "reply_count": 189,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "国企凉不了的，别看的太表面了 https://t.co/8ryh9oua6L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103782140106399978",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 541,
+          "like_count": 4357,
+          "listed_count": 6,
+          "media_count": 190,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-02T07:54:02.000Z",
+        "description": "大厂裸辞全职搞钱，分享搞钱信息差\n合伙创业赚到人生第一个7位数，现在ALL in AI\n闲聊、咨询都可以私信，看到必回\ngpt代充⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aivip.immilesma.com",
+                "end": 23,
+                "expanded_url": "https://aivip.immilesma.com/",
+                "start": 0,
+                "url": "https://t.co/qJLjmtLuhv"
+              }
+            ]
+          }
+        },
+        "id": "848443388856750080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103776087662907455",
+        "name": "小麦搞钱计划",
+        "pinned_tweet_id": "2097160073516867807",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/848443388856750080/1779694601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094264866630774784/53EI89fa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15723,
+          "following_count": 563,
+          "like_count": 8420,
+          "listed_count": 75,
+          "media_count": 2084,
+          "tweet_count": 9657
+        },
+        "url": "https://t.co/qJLjmtLuhv",
+        "username": "ma_zhenyuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

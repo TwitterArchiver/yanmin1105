@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2102052518889201793",
+    "created_at": "2026-09-22T17:04:56.000Z",
+    "display_text_range": [
+      13,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102444044542779691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561049612655308800",
+          "start": 0,
+          "username": "supersuger8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102444044542779691",
+    "in_reply_to_user_id": "1561049612655308800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102052518889201793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supersuger8 为什么是易性症，男啊，MTF应当是F64.000x002易性症，女（易性症，男转女）才对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2102051015277289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSv8QuFaIAAnctd.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2102051317871267840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSv8iVVb0AA9uem.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2102052518889201793",
+        "created_at": "2026-09-22T17:04:56.000Z",
+        "display_text_range": [
+          13,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102444044542779691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561049612655308800",
+              "start": 0,
+              "username": "supersuger8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102444044542779691",
+        "in_reply_to_user_id": "1561049612655308800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102052518889201793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supersuger8 为什么是易性症，男啊，MTF应当是F64.000x002易性症，女（易性症，男转女）才对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102051015277289472",
+            "3_2102051317871267840"
+          ]
+        },
+        "author_id": "1561049612655308800",
+        "conversation_id": "2102052518889201793",
+        "created_at": "2026-09-21T15:09:09.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102052518889201793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7g6bpixrV",
+              "end": 140,
+              "expanded_url": "https://x.com/supersuger8/status/2102052518889201793/photo/1",
+              "media_key": "3_2102051015277289472",
+              "start": 117,
+              "url": "https://t.co/M7g6bpixrV"
+            },
+            {
+              "display_url": "pic.x.com/M7g6bpixrV",
+              "end": 140,
+              "expanded_url": "https://x.com/supersuger8/status/2102052518889201793/photo/1",
+              "media_key": "3_2102051317871267840",
+              "start": 117,
+              "url": "https://t.co/M7g6bpixrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102052518889201793",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102051015277289472"
+          },
+          {
+            "media_key": "3_2102051317871267840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 27020,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我也有属于我的诊断证明了。\n我这个雷霆穿搭和妆容，一进诊室王飚就问我是不是来开诊断证明的，然后就问了一点儿简单的问题；陆峥连四宫格都没让我做，下午去找他就给直接开证明了。\n明天终于可以去411约手术了，现在就躺在酒店的床上傻笑... https://t.co/M7g6bpixrV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2102444044542779691",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 537,
+          "like_count": 4376,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T17:56:53.000Z",
+        "description": "02｜MtF｜大证含糖｜家长党",
+        "id": "1561049612655308800",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2102390241038659716",
+        "name": "supersuger🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561049612655308800/1661018925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083465415607652352/vgf4pAR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 254,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "supersuger8",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

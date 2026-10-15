@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2103758585478201379",
+    "created_at": "2026-09-26T16:18:38.000Z",
+    "display_text_range": [
+      17,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103881944480223240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "717582971562246145",
+          "start": 0,
+          "username": "intelcorei76950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103881944480223240",
+    "in_reply_to_user_id": "717582971562246145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103867551315055041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intelcorei76950 我觉得这个吧，这个免工本费，但是是预制卡，需要网点有卡，这个在万事达等级内算是世界卡，权益更高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2103758585478201379",
+        "created_at": "2026-09-26T16:18:38.000Z",
+        "display_text_range": [
+          17,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103881944480223240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "717582971562246145",
+              "start": 0,
+              "username": "intelcorei76950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103881944480223240",
+        "in_reply_to_user_id": "717582971562246145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103867551315055041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intelcorei76950 我觉得这个吧，这个免工本费，但是是预制卡，需要网点有卡，这个在万事达等级内算是世界卡，权益更高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "717582971562246145",
+        "conversation_id": "2103758585478201379",
+        "created_at": "2026-09-26T15:21:26.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103867551315055041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103867551315055041",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103771631663579233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 和貔貅有什么区别？开这个还是貔貅？已经申请了一张金貔貅还没去激活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103881944480223240",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 545,
+          "like_count": 4363,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-06T05:21:27.000Z",
+        "description": "",
+        "id": "717582971562246145",
+        "is_identity_verified": true,
+        "location": "Guangxi",
+        "most_recent_tweet_id": "2103867551315055041",
+        "name": "Akirameister",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717582971562246145/1587061165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351470892769951745/R0XprDxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 442,
+          "like_count": 121533,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "intelcorei76950",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

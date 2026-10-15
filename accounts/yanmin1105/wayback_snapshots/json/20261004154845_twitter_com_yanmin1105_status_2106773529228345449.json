@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106729900870672700",
+    "created_at": "2026-10-04T15:48:45.000Z",
+    "display_text_range": [
+      29,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106773529228345449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "420175982",
+          "start": 0,
+          "username": "sino_go_global"
+        },
+        {
+          "end": 28,
+          "id": "1007846892879802368",
+          "start": 16,
+          "username": "AGAGAGAG321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106773529228345449",
+    "in_reply_to_user_id": "420175982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106771252446978504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sino_go_global @AGAGAGAG321 我是上台卡，刚开出来的时候也都是骚扰消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106729900870672700",
+        "created_at": "2026-10-04T15:48:45.000Z",
+        "display_text_range": [
+          29,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106773529228345449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "420175982",
+              "start": 0,
+              "username": "sino_go_global"
+            },
+            {
+              "end": 28,
+              "id": "1007846892879802368",
+              "start": 16,
+              "username": "AGAGAGAG321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106773529228345449",
+        "in_reply_to_user_id": "420175982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106771252446978504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sino_go_global @AGAGAGAG321 我是上台卡，刚开出来的时候也都是骚扰消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "420175982",
+        "conversation_id": "2106729900870672700",
+        "created_at": "2026-10-04T15:39:43.000Z",
+        "display_text_range": [
+          25,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106771252446978504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 24,
+              "id": "1007846892879802368",
+              "start": 12,
+              "username": "AGAGAGAG321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106771252446978504",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106759881764258183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @AGAGAGAG321 我的蓝卡号码倒是还好，挺干净的。不过这些非上台号码，有点心理准备，分配到不好的话就会有垃圾信息。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2106773529228345449",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 578,
+          "like_count": 4473,
+          "listed_count": 6,
+          "media_count": 202,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-24T08:44:51.000Z",
+        "description": "🌏 13年卡友｜有HKID｜美区ITIN云居民\n🇭🇰 19家港卡｜🇺🇸 美卡｜💳 U卡｜📱 eSIM\n📈 嘉信理财 · IBKR 盈透， 美股券商实测·技巧\n\n🔥 干货｜教程｜避坑，关注不迷路👉",
+        "id": "420175982",
+        "is_identity_verified": true,
+        "location": "HONGKONG",
+        "most_recent_tweet_id": "2106772177127444498",
+        "name": "浪险 | 出海基建·港美卡·云居民",
+        "pinned_tweet_id": "2066135815902892099",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/718712613312401408/34aMMQ9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10789,
+          "following_count": 657,
+          "like_count": 7979,
+          "listed_count": 53,
+          "media_count": 455,
+          "tweet_count": 4678
+        },
+        "url": "",
+        "username": "sino_go_global",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-16T04:46:38.000Z",
+        "description": "30+ 175 80kg 努力下降中，AG女心，随缘更新，找同城同好，带我",
+        "id": "1007846892879802368",
+        "is_identity_verified": false,
+        "location": "山东济宁",
+        "most_recent_tweet_id": "2106767872211239280",
+        "name": "TYPER",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 5554,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "AGAGAGAG321",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

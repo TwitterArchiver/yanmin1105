@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106555921623306448",
+    "created_at": "2026-10-05T07:13:25.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107006227289104421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "HongSwor"
+        },
+        {
+          "end": 26,
+          "id": "1737483278846763009",
+          "start": 10,
+          "username": "8AQ2Sxx2f660526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107006227289104421",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107005380819828994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HongSwor @8AQ2Sxx2f660526 欢迎来买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106555921623306448",
+        "created_at": "2026-10-05T07:13:25.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107006227289104421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "HongSwor"
+            },
+            {
+              "end": 26,
+              "id": "1737483278846763009",
+              "start": 10,
+              "username": "8AQ2Sxx2f660526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107006227289104421",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107005380819828994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HongSwor @8AQ2Sxx2f660526 欢迎来买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2106555921623306448",
+        "created_at": "2026-10-05T07:10:03.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107005380819828994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 28,
+              "id": "1737483278846763009",
+              "start": 12,
+              "username": "8AQ2Sxx2f660526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107005380819828994",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107005011440058536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 @8AQ2Sxx2f660526 那我最好备一张吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2107006227289104421",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 577,
+          "like_count": 4482,
+          "listed_count": 6,
+          "media_count": 203,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/城市规划/美学/卡迷/果粉 | 颜色偏好：绿/紫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2107005380819828994",
+        "name": "葉栩然",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1789652485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099011438476181504/mKkQneHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 502,
+          "like_count": 45543,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 11270
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "HongSwor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T14:41:21.000Z",
+        "description": "来自中国 想看看世界是什么样子🫶\n\n喜欢 hiphop🎶 NBA🏀 手办雕像🗿分享日常☀️\n\n未来会成为一名合格的旅游博主🤠🤠",
+        "id": "1737483278846763009",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2107006143755153701",
+        "name": "梅如故",
+        "pinned_tweet_id": "2105077664184938568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737483278846763009/1789287386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098852355500654592/f5U0ZCA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4854,
+          "following_count": 4925,
+          "like_count": 3386,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 5647
+        },
+        "url": "",
+        "username": "8AQ2Sxx2f660526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

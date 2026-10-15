@@ -1,0 +1,688 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103764950036684800",
+        "3_2103768001875193856"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2103768020866957332",
+    "created_at": "2026-09-26T08:45:56.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:33:46.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103764958756610237",
+      "2103768020866957332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Access HSBC's International Wealth Management & Premier banking services for your global portfolio needs including HSBC Premier and Investments.",
+          "display_url": "us.hsbc.com",
+          "end": 139,
+          "expanded_url": "https://www.us.hsbc.com",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2103764967627603968/2kBYpb2C?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2103764967627603968/2kBYpb2C?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "HSBC USA International Wealth & Premier Banking",
+          "unwound_url": "https://www.us.hsbc.com",
+          "url": "https://t.co/2erO3IYvvX"
+        },
+        {
+          "display_url": "pic.x.com/Ccgf7HxO18",
+          "end": 163,
+          "expanded_url": "https://x.com/yanmin1105/status/2103768020866957332/photo/1",
+          "media_key": "3_2103764950036684800",
+          "start": 140,
+          "url": "https://t.co/Ccgf7HxO18"
+        },
+        {
+          "display_url": "pic.x.com/Ccgf7HxO18",
+          "end": 163,
+          "expanded_url": "https://x.com/yanmin1105/status/2103768020866957332/photo/1",
+          "media_key": "3_2103768001875193856",
+          "start": 140,
+          "url": "https://t.co/Ccgf7HxO18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103768020866957332",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103764950036684800"
+      },
+      {
+        "media_key": "3_2103768001875193856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "us.hsbc.com",
+            "end": 139,
+            "expanded_url": "http://www.us.hsbc.com",
+            "start": 116,
+            "url": "https://t.co/f1y1bIMRAB"
+          }
+        ]
+      },
+      "text": "HSBC US Premier World Debit Mastercard®\n汇丰美国卓越理财万事达借记卡\n申请人必须持有护照或有效身份证件，并已在全球任意一家汇丰为卓越理财或以上等级客户，无需填写ITIN或邮寄纸质指令\n登入官网https://t.co/f1y1bIMRAB\n选择开立银行账户，如实填写个人信息，地址证明可使用汇丰的账户结单，选择申请借记卡或在开户获批后联系客服进行申请\n开户申请期间可能会有客服以邮件形式对你的资料进行询问和确认\n批核后可通过汇丰中国卓越理财电话转接至汇丰美国或通过HSBC US 手机App的在线对话进行申请支票簿和借记卡\n借记卡将以DHL形式邮寄至预留通讯地址，支票簿将以平信形式邮寄\n均不收取工本费或邮寄费\n激活卡片可通过汇丰中国电话转接至汇丰美国，汇丰美国有中文服务，在电话中确认信息并设置卡片密码，如需绑定Apple Pay也需要在电话中进行验证\nHSBC US的Zelle®需要有美国地址方可使用\n信用卡需要SSN或ITIN"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "HSBC US Premier World Debit Mastercard®\n汇丰美国卓越理财万事达借记卡\n申请人必须持有护照或有效身份证件，并已在全球任意一家汇丰为卓越理财或以上等级客户，无需填写ITIN或邮寄纸质指令\n登入官网https://t.co/2erO3IYvvX https://t.co/Ccgf7HxO18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103764950036684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTITE2naoAAlVtQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2103768001875193856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIV2fmasAASVC4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103764950036684800"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2103764958756610237",
+        "created_at": "2026-09-26T08:33:46.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:33:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103764958756610237",
+          "2103768020866957332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Access HSBC's International Wealth Management & Premier banking services for your global portfolio needs including HSBC Premier and Investments.",
+              "display_url": "us.hsbc.com",
+              "end": 139,
+              "expanded_url": "https://www.us.hsbc.com",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2103764967627603968/2kBYpb2C?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103764967627603968/2kBYpb2C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "HSBC USA International Wealth & Premier Banking",
+              "unwound_url": "https://www.us.hsbc.com",
+              "url": "https://t.co/2erO3IYvvX"
+            },
+            {
+              "display_url": "pic.x.com/qeYHNQqooS",
+              "end": 163,
+              "expanded_url": "https://x.com/yanmin1105/status/2103764958756610237/photo/1",
+              "media_key": "3_2103764950036684800",
+              "start": 140,
+              "url": "https://t.co/qeYHNQqooS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103764958756610237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103764950036684800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "us.hsbc.com",
+                "end": 139,
+                "expanded_url": "http://www.us.hsbc.com",
+                "start": 116,
+                "url": "https://t.co/f1y1bIMRAB"
+              }
+            ]
+          },
+          "text": "HSBC US Premier World Debit Mastercard®\n汇丰美国卓越理财万事达借记卡\n申请人必须持有护照或有效身份证件，并已在全球任意一家汇丰为卓越理财或以上等级客户，无需填写ITIN或邮寄纸质指令\n登入官网https://t.co/f1y1bIMRAB\n选择开立银行账户，如实填写个人信息，地址证明可使用汇丰的账户结单，选择申请借记卡或在开户获批后联系客服进行申请\n开户申请期间可能会有客服以邮件形式对你的资料进行询问和确认\n批核后可通过汇丰中国卓越理财电话转接至汇丰美国或通过HSBC US 手机App的在线对话进行申请支票簿和借记卡\n借记卡将以DHL形式邮寄至预留通讯地址，支票簿将以平信形式邮寄\n均不收取工本费或邮寄费\n激活卡片可通过汇丰中国电话转接至汇丰美国，汇丰美国有中文服务，在电话中确认信息并设置卡片密码，如需绑定Apple Pay也需要在电话中进行验证\nHSBC US的Zelle®需要有美国地址方可使用\n信用卡需要SSN或ITIN"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HSBC US Premier World Debit Mastercard®\n汇丰美国卓越理财万事达借记卡\n申请人必须持有护照或有效身份证件，并已在全球任意一家汇丰为卓越理财或以上等级客户，无需填写ITIN或邮寄纸质指令\n登入官网https://t.co/2erO3IYvvX https://t.co/qeYHNQqooS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103764950036684800",
+            "3_2103768001875193856"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2103768020866957332",
+        "created_at": "2026-09-26T08:45:56.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:33:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103764958756610237",
+          "2103768020866957332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Access HSBC's International Wealth Management & Premier banking services for your global portfolio needs including HSBC Premier and Investments.",
+              "display_url": "us.hsbc.com",
+              "end": 139,
+              "expanded_url": "https://www.us.hsbc.com",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2103764967627603968/2kBYpb2C?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103764967627603968/2kBYpb2C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "HSBC USA International Wealth & Premier Banking",
+              "unwound_url": "https://www.us.hsbc.com",
+              "url": "https://t.co/2erO3IYvvX"
+            },
+            {
+              "display_url": "pic.x.com/Ccgf7HxO18",
+              "end": 163,
+              "expanded_url": "https://x.com/yanmin1105/status/2103768020866957332/photo/1",
+              "media_key": "3_2103764950036684800",
+              "start": 140,
+              "url": "https://t.co/Ccgf7HxO18"
+            },
+            {
+              "display_url": "pic.x.com/Ccgf7HxO18",
+              "end": 163,
+              "expanded_url": "https://x.com/yanmin1105/status/2103768020866957332/photo/1",
+              "media_key": "3_2103768001875193856",
+              "start": 140,
+              "url": "https://t.co/Ccgf7HxO18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103768020866957332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103764950036684800"
+          },
+          {
+            "media_key": "3_2103768001875193856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "us.hsbc.com",
+                "end": 139,
+                "expanded_url": "http://www.us.hsbc.com",
+                "start": 116,
+                "url": "https://t.co/f1y1bIMRAB"
+              }
+            ]
+          },
+          "text": "HSBC US Premier World Debit Mastercard®\n汇丰美国卓越理财万事达借记卡\n申请人必须持有护照或有效身份证件，并已在全球任意一家汇丰为卓越理财或以上等级客户，无需填写ITIN或邮寄纸质指令\n登入官网https://t.co/f1y1bIMRAB\n选择开立银行账户，如实填写个人信息，地址证明可使用汇丰的账户结单，选择申请借记卡或在开户获批后联系客服进行申请\n开户申请期间可能会有客服以邮件形式对你的资料进行询问和确认\n批核后可通过汇丰中国卓越理财电话转接至汇丰美国或通过HSBC US 手机App的在线对话进行申请支票簿和借记卡\n借记卡将以DHL形式邮寄至预留通讯地址，支票簿将以平信形式邮寄\n均不收取工本费或邮寄费\n激活卡片可通过汇丰中国电话转接至汇丰美国，汇丰美国有中文服务，在电话中确认信息并设置卡片密码，如需绑定Apple Pay也需要在电话中进行验证\nHSBC US的Zelle®需要有美国地址方可使用\n信用卡需要SSN或ITIN"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HSBC US Premier World Debit Mastercard®\n汇丰美国卓越理财万事达借记卡\n申请人必须持有护照或有效身份证件，并已在全球任意一家汇丰为卓越理财或以上等级客户，无需填写ITIN或邮寄纸质指令\n登入官网https://t.co/2erO3IYvvX https://t.co/Ccgf7HxO18"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103768020866957332",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 541,
+          "like_count": 4355,
+          "listed_count": 6,
+          "media_count": 189,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106737081204761052",
+    "created_at": "2026-10-04T15:05:29.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106762637044588594"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106762637044588594",
+    "in_reply_to_user_id": "1904539885769457665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106737081204761052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提示一下哦\n蓝卡里面有100港币余额，CSL里面有20港币余额"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2106737065287413760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyiMuua8AAdFVw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106737081204761052",
+        "created_at": "2026-10-04T15:05:29.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106762637044588594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106762637044588594",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106737081204761052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提示一下哦\n蓝卡里面有100港币余额，CSL里面有20港币余额"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106737065287413760"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106737081204761052",
+        "created_at": "2026-10-04T13:23:56.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106737081204761052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2F3lotkNTj",
+              "end": 191,
+              "expanded_url": "https://x.com/yanmin1105/status/2106737081204761052/photo/1",
+              "media_key": "3_2106737065287413760",
+              "start": 168,
+              "url": "https://t.co/2F3lotkNTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106737081204761052",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106737065287413760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "目前的卡片库存，售价和活动总结\n【截止至2026.10.04 21.00】\n\nCSL  70CNY/张 库存11张（可内地激活）\nCSL是香港本地运营商（香港移动）的储值卡产品，优势为每年保号只需要充值20元左右且可以使用微信支付宝，缺点在于购买漫游流量和通话较贵\n\nCTHK大湾区蓝卡（老版本，可内地激活）\n无包装 137CNY/张 库存14张\n有包装 155CNY/张 库存15张\nCTHK大湾区蓝卡是中国电信香港推出的兼顾保号，漫游，通话的储值卡产品，优势为可以以较低的漫游资费购买流量套餐且套餐不过期，购买套餐还可获赠一定数量的通话时长\n保号方式为每半年充值50HKD以上，较CSL稍贵\n这款是大湾区蓝卡的老版本，可以在内地直接激活，目前香港新销售的是新版本蓝卡，不可在内地激活\n\n收货后关注我，点赞并引用此推文晒出真实收货照片+评价，即可享受本单立减4元的优惠（每人仅限享受一次）\n复购和一次性购买多张都优惠，数量有限，售完即止\n最近太忙了，估计卖完就不会再进货了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 621,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前的卡片库存，售价和活动总结\n【截止至2026.10.04 21.00】\n\nCSL  70CNY/张 库存11张（可内地激活）\nCSL是香港本地运营商（香港移动）的储值卡产品，优势为每年保号只需要充值20元左右且可以使用微信支付宝，缺点在于购买漫游流量和通话较贵\n\nCTHK大湾区蓝卡（老版本，可内地激活）\n无包装 137CNY/张 https://t.co/2F3lotkNTj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2106762637044588594",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 578,
+          "like_count": 4470,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106775793481478408",
+    "created_at": "2026-10-05T06:15:56.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106991763080855956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004153182684102656",
+          "start": 0,
+          "username": "esimuse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106991763080855956",
+    "in_reply_to_user_id": "2004153182684102656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106958947672592445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@esimuse 问题是我不会用U啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106775793481478408",
+        "created_at": "2026-10-05T06:15:56.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106991763080855956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004153182684102656",
+              "start": 0,
+              "username": "esimuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106991763080855956",
+        "in_reply_to_user_id": "2004153182684102656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106958947672592445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esimuse 问题是我不会用U啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004153182684102656",
+        "conversation_id": "2106775793481478408",
+        "created_at": "2026-10-05T04:05:33.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106958947672592445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106958947672592445",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106775793481478408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 不行就走U呗，还能举报把你的钱包封了不成，而且用U也算是种门槛😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2106991763080855956",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 578,
+          "like_count": 4475,
+          "listed_count": 6,
+          "media_count": 203,
+          "tweet_count": 1839
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-25T11:33:08.000Z",
+        "description": "多国手机卡 | 住宅IP | 自建节点\n整理自己用过的体验，好用的再分享\n聊天室/论坛/私信/TG群：https://t.co/VDEKMUCeyy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "888.cab",
+                "end": 74,
+                "expanded_url": "https://888.cab",
+                "start": 51,
+                "url": "https://t.co/VDEKMUCeyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellaroam.com",
+                "end": 23,
+                "expanded_url": "https://stellaroam.com",
+                "start": 0,
+                "url": "https://t.co/Tbb3SCyMP8"
+              }
+            ]
+          }
+        },
+        "id": "2004153182684102656",
+        "is_identity_verified": true,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2106983553959670033",
+        "name": "eSIMuse",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004153182684102656/1786475875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062544179796856832/Mx6LRxAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5254,
+          "following_count": 155,
+          "like_count": 829,
+          "listed_count": 11,
+          "media_count": 288,
+          "tweet_count": 2976
+        },
+        "url": "https://t.co/Tbb3SCyMP8",
+        "username": "esimuse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904539885769457665",
+    "conversation_id": "2102996347079340177",
+    "created_at": "2026-09-24T07:49:47.000Z",
+    "display_text_range": [
+      42,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103029113942683962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        },
+        {
+          "end": 28,
+          "id": "2078217810594140160",
+          "start": 14,
+          "username": "AmanoHinauh8x"
+        },
+        {
+          "end": 41,
+          "id": "1151704605140504576",
+          "start": 29,
+          "username": "zhongshui_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103029113942683962",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103026921626021947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 @AmanoHinauh8x @zhongshui_L 峰主任将把你放入马桶（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904539885769457665",
+        "conversation_id": "2102996347079340177",
+        "created_at": "2026-09-24T07:49:47.000Z",
+        "display_text_range": [
+          42,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103029113942683962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 28,
+              "id": "2078217810594140160",
+              "start": 14,
+              "username": "AmanoHinauh8x"
+            },
+            {
+              "end": 41,
+              "id": "1151704605140504576",
+              "start": 29,
+              "username": "zhongshui_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103029113942683962",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103026921626021947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 @AmanoHinauh8x @zhongshui_L 峰主任将把你放入马桶（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2102996347079340177",
+        "created_at": "2026-09-24T07:41:05.000Z",
+        "display_text_range": [
+          40,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103026921626021947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078217810594140160",
+              "start": 0,
+              "username": "AmanoHinauh8x"
+            },
+            {
+              "end": 26,
+              "id": "1904539885769457665",
+              "start": 15,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 39,
+              "id": "1151704605140504576",
+              "start": 27,
+              "username": "zhongshui_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103026921626021947",
+        "in_reply_to_user_id": "2078217810594140160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103025752098943382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanoHinauh8x @yanmin1105 @zhongshui_L 如果我把那个唯一一个的模具喷进马桶。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨INFP-T丨天津人丨小八单推人丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2103029113942683962",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 541,
+          "like_count": 4406,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2103027040106815759",
+        "name": "星眠子",
+        "pinned_tweet_id": "2099264359231033804",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4363,
+          "following_count": 3299,
+          "like_count": 4163,
+          "listed_count": 7,
+          "media_count": 1041,
+          "tweet_count": 11050
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T20:39:30.000Z",
+        "description": "友跨顺女，平权主义，一个情绪承受能力特别强的人，无论你多伤心我都不会被影响的，希望帮助真正需要帮助的人\n心里难受可私信我 愿意安慰你们",
+        "id": "2078217810594140160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103028762657095872",
+        "name": "Amano Hina",
+        "pinned_tweet_id": "2102451209164701754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078217810594140160/1789817094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084984870363877376/jm5Q6rkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 83,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "AmanoHinauh8x",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-18T04:05:50.000Z",
+        "description": "trans lesbian (PROUDLY)/女权主义/INF(T)P/社会民主主义/不爱回fo，见谅",
+        "id": "1151704605140504576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102996347079340177",
+        "name": "中水🏳️‍⚧️",
+        "pinned_tweet_id": "2097333377280115139",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815262362523643904/IhZ3igMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 316,
+          "like_count": 6735,
+          "listed_count": 8,
+          "media_count": 71,
+          "tweet_count": 2091
+        },
+        "url": "",
+        "username": "zhongshui_L",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

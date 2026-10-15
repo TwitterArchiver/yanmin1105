@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106767683417149440"
+      ]
+    },
+    "author_id": "1904539885769457665",
+    "conversation_id": "2106651357998719191",
+    "created_at": "2026-10-04T15:25:33.000Z",
+    "display_text_range": [
+      28,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106767690627199366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        },
+        {
+          "end": 28,
+          "id": "1804764703891361792",
+          "start": 13,
+          "username": "tangsunny_1225"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qFT99Uspny",
+          "end": 52,
+          "expanded_url": "https://x.com/yanmin1105/status/2106767690627199366/photo/1",
+          "media_key": "3_2106767683417149440",
+          "start": 29,
+          "url": "https://t.co/qFT99Uspny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106767690627199366",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106767683417149440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106766253012705504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime @tangsunny_1225 https://t.co/qFT99Uspny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106767683417149440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTy-C8JaEAAD676.jpg",
+        "width": 945
+      },
+      {
+        "height": 2319,
+        "media_key": "3_2106766246389899266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTy8vSzaYAIiZhI.jpg",
+        "width": 2206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106767683417149440"
+          ]
+        },
+        "author_id": "1904539885769457665",
+        "conversation_id": "2106651357998719191",
+        "created_at": "2026-10-04T15:25:33.000Z",
+        "display_text_range": [
+          28,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106767690627199366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 28,
+              "id": "1804764703891361792",
+              "start": 13,
+              "username": "tangsunny_1225"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFT99Uspny",
+              "end": 52,
+              "expanded_url": "https://x.com/yanmin1105/status/2106767690627199366/photo/1",
+              "media_key": "3_2106767683417149440",
+              "start": 29,
+              "url": "https://t.co/qFT99Uspny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106767690627199366",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106767683417149440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106766253012705504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @tangsunny_1225 https://t.co/qFT99Uspny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106766246389899266"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2106651357998719191",
+        "created_at": "2026-10-04T15:19:51.000Z",
+        "display_text_range": [
+          16,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106766253012705504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804764703891361792",
+              "start": 0,
+              "username": "tangsunny_1225"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBrNztgJaI",
+              "end": 198,
+              "expanded_url": "https://x.com/realNyarime/status/2106766253012705504/photo/1",
+              "media_key": "3_2106766246389899266",
+              "start": 175,
+              "url": "https://t.co/ZBrNztgJaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106766253012705504",
+        "in_reply_to_user_id": "1804764703891361792",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106766246389899266"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "中國電信祝您香港旅途愉快！\n三地通月費客戶套餐內數據及基本語音可在香港使用（接聽或撥打內地、香港及澳門）。\n其他月費客戶按以下資費：\n語音通話（每分鐘）- 致電內地、澳門或其他國家/地區MOP$3.99 ，撥打當地 MOP$1.29，接聽 MOP$3.59；\n短訊收費（每條）- 發至澳門 MOP$2.19，發至內地 MOP$2.09，發至其他國家/地區MOP$2.94，接收免費；\n數據收費 - 5G月費客戶MOP$13/GB，4G月費客戶MOP$0.1/MB。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106651357998719191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangsunny_1225 中國電信祝您香港旅途愉快！\n三地通月費客戶套餐內數據及基本語音可在香港使用（接聽或撥打內地、香港及澳門）。\n其他月費客戶按以下資費：\n語音通話（每分鐘）- 致電內地、澳門或其他國家/地區MOP$3.99 ，撥打當地 MOP$1.29，接聽 MOP$3.59；\n短訊收費（每條）- 發至澳門 MOP$2.19，發至內地 https://t.co/ZBrNztgJaI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "07丨MTF丨ADHD丨家长党，srs准备中丨INFP-T丨天津人丨小八单推丨速速来fo我喵丨已🔪🥚丨不抽烟不喝酒丨家有手台，喜爱出勤丨卡粉丨香港电话卡贩子丨集邮丨天津298信箱丨",
+        "id": "1904539885769457665",
+        "is_identity_verified": false,
+        "location": "P.O.BOX No.298 Tianjin",
+        "most_recent_tweet_id": "2106767690627199366",
+        "name": "嫣敏🍥（主页抽奖进行中）",
+        "pinned_tweet_id": "2089298737822916975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904539885769457665/1743872017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090496548442632192/xqfOqwcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 578,
+          "like_count": 4471,
+          "listed_count": 6,
+          "media_count": 202,
+          "tweet_count": 1836
+        },
+        "url": "",
+        "username": "yanmin1105",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2106766732593644015",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50417,
+          "following_count": 668,
+          "like_count": 23582,
+          "listed_count": 218,
+          "media_count": 3038,
+          "tweet_count": 19657
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T06:33:43.000Z",
+        "description": "一個港澳推主中文圈的綜合食瓜族｜日本語上手&勉強中 広東語、中国語、英語OK｜佛系更新，分享日常生活&外國行",
+        "id": "1804764703891361792",
+        "is_identity_verified": false,
+        "location": "虛擬澳門區部門",
+        "most_recent_tweet_id": "2106765882685042759",
+        "name": "SunnyTang（废话摸鱼小推友）",
+        "pinned_tweet_id": "2090070220060938706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804764703891361792/1764645137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995692460371300352/yF48Zthp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 127,
+          "like_count": 3084,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "tangsunny_1225",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
